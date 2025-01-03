@@ -6305,3 +6305,1555 @@ Rune Staff III::211000073
 Zephyranthos::211009163
 Ex Miglance::211019004
 Wizard's Staff II::211000022
+
+Johns Edge::221004145
+Dusk Circuit Board::221004160
+Glittering Jewel::221004153
+Silent Green Fireball::221004150
+Strange Fire Coals::221011067
+Crystal Oil::221011073
+Dynamo::221004067
+Local Control Piece::221004022
+Red Shilling::221004010
+Hard Lens::221004069
+Movement Sensor::221004062
+Ancient Pit::221004050
+Water Proof Sensor::221004054
+Network Chip::221004061
+Data Core::221004064
+Cobalt Lens::221004056
+Empty Fireball::221004151
+Silent Fireball::221004149
+Glass Lump::221004163
+Blaze Core::221004156
+Empty Green Fireball::221004152
+Cradle Circuit Board::221004159
+Ultra-Precision Toy Screw::221004158
+Dull Glowing Gear::221004161
+Stagnant Core::221004157
+Hollow Bright Core::221004148
+Dull Shiny Gear::221004162
+Vibrant Core::221004155
+Time Core::221004167
+Stanis Core::221004144
+Fire Core::221004154
+Multicolor Talon::221016167
+Strong Feather Robe::221015029
+Rough Seas Armor::221017056
+Shadowed Claw::221016173
+Heavy Claw::221016154
+Worn Breastplate::221017008
+Dream Break Saddle::221017046
+Deep Sea Armor::221017057
+Angry Hound Tail::221014064
+Worn Spear::221017007
+Old Gauntlets::221017017
+Heavy Fang::221016153
+Walnut Branch::221017003
+Jagged Armor::221017055
+White Wood::221017048
+Ancient Claw::221016141
+Spirit Tree Wood Piece::221017060
+Wavering Ghost Wings::221015044
+Iron Breastplate::221017021
+Iron Armor::221017006
+Warped Giant Branch::221017050
+Thin Iron Plate::221017012
+Fallen Skull::221016160
+Golden Paper Lantern::221017051
+Ape Arm::221014072
+Colorful Shell::221016166
+Mysterious Driftwood::221017049
+Toxic Claw::221016165
+Aging Wood Piece::221017044
+Vibrant Wing::221015059
+Solar Panel::221017022
+Thunderstruck Hide::221014110
+Mirror of the Future::221017033
+Piscean Fang::221016157
+Scattered Thorns::221016164
+Demon Beast Jaw::221016125
+Full Metal Plate::221017042
+Black Board::221017014
+Thorny Armor::221017054
+Night Scene Fragment::221008138
+Mimicked Coral::221016169
+Weathering Frame::221016146
+Fine Scale::221014074
+Luxuriant Down::221015002
+Broken Club::221017035
+Worn Gauntlets::221017010
+Mirror of the Past::221017032
+Broken Claw::221016176
+Golden Feather::221015031
+Crystal Wing Membrane::221015034
+Fear Mask::221017031
+Full Metal Shaft::221017040
+Ash::221017001
+Illucicle::221014115
+Boar King Tusks::221016092
+Thick Giant Armor::221017059
+Triple Beast Fang::221016174
+Green Shell::221016151
+Chalk Holy Wings::221015035
+Circuit Board::221017011
+Passionate Fan Letter::221017053
+Broken Floorboard::221017063
+Color of Grief Wing::221015041
+Snow Umbrella::221017052
+Old Spear::221017018
+Demon Beast Incisor::221016123
+Distorted Hoof::221016120
+Iron Plate::221017005
+Monster's Signal Fan::221017038
+Rugged Armor::221017058
+Wooden Hammer::221017024
+Hatred Circuit Board::221017030
+Old Breastplate::221017019
+Sacred Branch::221017039
+Bloodstained Mane::221017045
+Fallen Fang::221016159
+Orange Feather::221015056
+Charged Failed Cube::221016130
+Worn Battleax::221017009
+Blackened Failed Cube::221016131
+Huge Iron Armor::221017028
+Bloodsoaked Nails::221016135
+Bloody Mad Mask::221016137
+Weathered Frame::221016144
+Old Battleax::221017016
+Sky Fang::221016111
+Metal Bone::221016079
+Scarlet Shell::221016101
+Solar Board::221017029
+Red Nail::221016073
+Full Metal Bone::221016080
+Shiny Fused Cube::221016126
+Monster's Whistle::221017037
+Demon Beast Tooth::221016122
+Piscean Darkfang::221016158
+Evil Raging Horn::221016133
+Azure Carapace::221016103
+Iridescent Shell::221016156
+Wind Tunnel Skull::221016116
+Ancient Bone::221016142
+Charged Fused Cube::221016127
+Bat Fang::221016078
+Bloody Nails::221016134
+Shrouded Horn::221016161
+Unbreakable Carapace::221016163
+Forest's Shell::221016147
+Hard Plate::221017041
+Shiny Failed Cube::221016129
+Island Dragon Signpost::221017036
+Unusual Metal Shell::221016138
+Bloody Mask::221016136
+Maddening Thorn::221016170
+Sparkling Beak::221016115
+Orange Claw::221016149
+Space Plate::221017027
+Evil Fierce Horn::221016132
+Ironbone Powder::221016139
+Windy Horn::221016150
+Unfaded Alloy Frame::221016145
+Bottom Wing::221015015
+White Board::221017015
+Water Wheel Plume::221017047
+Ancient Fang::221016140
+Grand Thorn::221016172
+Classic Plate::221017002
+Wooden Club::221017004
+Melted Rib::221016095
+Medicine Chest::221017062
+Blackwind Horn::221016155
+Oak::221017034
+Ancient Big Bone::221016143
+Demon Face Shell::221016119
+Twisted Spirit Horn::221016099
+Large Dinosaur Bone::221016059
+Burnt Talon::221016102
+Poison Pierce::221016061
+Giant Forearm::221016043
+Mad Dog Fang::221016090
+Bluish-white Fang::221016110
+Sharp Beak::221016114
+Tanuki Spine::221016097
+Maple::221017023
+Ley Bone::221016121
+Thunder Flash Nail::221016108
+Shrouded Great Horn::221016162
+Spirit Poison Fang::221016093
+Beast Bone Mask::221016087
+Large Twisted Horn::221016075
+Bright Beak::221016113
+Steel Outer Plating::221017026
+Electro Plate::221017020
+Dinosaur Talon::221016050
+Coral Crab Pincer::221016100
+T-Rex Fossil::221016084
+Shiny Dragon Fang::221016065
+Purple Stripped Horns::221016070
+Giant Thorn::221016168
+Firm Dinosaur Horn::221016064
+Ceramic Plate::221017043
+Coral Jaw::221016105
+Giant Bone::221016042
+Spiral Dorsal Fin::221015038
+Poison Prick::221016053
+Steel Plate::221017025
+Keen Bone::221016069
+Forest's Fine Shell::221016152
+Iron Bone::221016011
+Purgatory Bug Claw::221016082
+Crumbling Mandible::221016117
+Large Monster Fang::221016013
+Heaven Piercing Horn::221016106
+Demon Beast Fang::221016124
+Crystal Steel Bone::221016112
+Thick Triple Mane::221015062
+Coral Tusk::221016104
+Blackened Fused Cube::221016128
+Darkfallen Dragon Tail::221014102
+Smashed Mandible::221016118
+Small Dinosaur Horn::221016066
+Panther Lance::221016071
+Red Boar Tusk::221016091
+Rainbow Talon::221016171
+Glowing Nail::221016107
+Time Passage Board::221017013
+Sharp Wild Dino Claw::221016063
+Mystery Bone::221016089
+Blood Sucking Fang::221016077
+Pointy Wild Dino Claw::221016054
+Sharp Dinosaur Claw::221016062
+Abysswyrm Marrow::221016175
+Large Dinosaur Rib::221016051
+Beast Fang::221016081
+Sahuagin Pole::221016036
+Bone-Spirit Fang::221016098
+Sharp Horn::221016015
+Dull Fire Beast Fang::221016052
+Purple Shell::221016037
+Red Wing::221015012
+Old Thick Dragon Bone::221016083
+Scarlet Feather::221015023
+Dinosaur Femur::221016028
+Sky-blue Fang::221016109
+Hard Sharp Cube::221016038
+Carnivore Beast Fang::221016086
+Red Carapace::221016017
+Carapace Fragment::221016010
+Old Thick Dragon Claw::221016088
+Demon Bird Wing::221015047
+Giant Hand::221016047
+Coelus Tooth::221016008
+Wild Crystalbloom::221012129
+Pointy Dinosaur Horn::221016055
+Dinosaur Claw::221016058
+Thin Long Fang::221016039
+Bat Claw::221016076
+Dull Horn::221016094
+Shiny Dragon Wing::221015013
+Goblin's Green Horn::221016046
+Hardy Feather Robe::221015028
+Sharp Fire Beast Fang::221016060
+Purple Breastplate::221016009
+Giant Monster Fang::221016027
+Red Flotation Device::221015020
+Dawnsky Wing::221015060
+Shiny Dragon Horn::221016056
+Demon Bird Plumage::221015050
+Frizzled Feathers::221015030
+Shimmering Dorsal Fin::221015037
+Sharp Twin Horns::221016096
+Red Flying Device::221015019
+Beast Whistle Fingers::221016067
+Underworld Fur::221014114
+Raptor Bone::221016024
+Crimson Insect Wing::221015053
+Triple Mane::221015061
+Underworld Hide::221014113
+Small Dragon Fang::221016006
+Colorful Feather::221015007
+Tyrant Dragon Fang::221016034
+Dinosaur Humerus::221016002
+Cocoon of Bygone Days::221015051
+Golden Dragon Hair::221015032
+Color of Rage Wing::221015042
+Dinosaur Horn::221016005
+Ruffled Orange Wing::221015058
+Rumbling Hide::221014109
+Red Scissors::221016019
+Cracked Egg::221016016
+Scarlet Scale::221014100
+Mystery Claw::221016022
+White Wing Membrane::221015033
+Small Dragon Claw::221016026
+Mystery Illucicle::221014117
+Nothing Feather::221015027
+Cursed Horn::221016023
+Large Carapace::221016018
+Raptor Fang::221016003
+Hound Fang::221016085
+Mad Demon's Wing::221015048
+Seaside Delight::221014118
+Dinosaur Scapula::221016014
+Redscale Pinion::221015055
+Emerald Wing::221015005
+Waterbound Fin::221014112
+Bee Sting::221016001
+Absolute Husk::221009115
+Giant Bee Wing::221015040
+Blue Burning Wing::221015011
+Blue Wing of Misfortune::221015043
+Poison Needle::221016049
+Demon Bird Tail::221015049
+Redscale Feather::221015054
+Crimson Pupa::221015052
+Raptor Claw::221016021
+Burning Sword Point::221016040
+Dark Dragon's Wing::221014104
+Silver Beast Fang::221016007
+Swaying Ghost Wings::221015045
+Sharp Claw::221016012
+Deep Blue Feather::221015057
+Steel Bone::221016025
+Black Frame::221016031
+Red Frame::221016020
+Sharp Fire Scale::221014056
+Flexcut Scale::221014106
+Giant Dinosaur Horn::221016029
+Flexible Dorsal Fin::221015014
+Venomous Sucker::221014084
+Dinosaur Belly::221014049
+Liriam Fruit::221012119
+Giant Goat Heart::221014089
+Cloak of Empty Ghost::221014091
+Giant Shroom Brightspore::221012127
+Evil Steel Hide::221014094
+Forest's Tail::221014095
+Murky Meat::221014088
+Silhouette Spore::221012134
+Fallen Beast Hair::221014097
+Thick Palm::221014068
+Bulky Pelt::221014065
+Ancient Ivy::221012091
+Aqua Hide::221014058
+Ultrasonic Emitter::221014060
+Silver Pelt::221014071
+Crimson Venom Scale::221014101
+Steel Mouse Skin::221014066
+Three-head Dragon Fin::221014041
+Demon Goat Fillet::221014087
+Dripping Fin::221014111
+Battery Cable::221005019
+Darkfallen Dragon Scale::221014103
+Slimy Tentacle::221014079
+Sky Serpent Backfin::221014042
+Sinister Suction Cup::221014083
+Evil Iron Hide::221014093
+Khad Leather::221014092
+Fallen Beast Mane::221014098
+Lustrous Snake Skin::221014067
+Goblin's Toxic Skin::221014048
+Monster's Scroll::221014057
+Hell Beast's Skin::221014055
+Rare Blue Petal::221012114
+Demon Arm::221014078
+Feathery Skin::221014070
+Muscular Arm::221014077
+Past Vestige Grass::221012135
+Petals of Regret::221012104
+Impure Sucker::221014085
+Scarlet Skin::221014099
+Lightly Stained Cloak::221014090
+Azure Hellflower::221012109
+Puffer Dragon Core::221014054
+Goblin's Trick Hand::221014045
+Green Feather::221015006
+Stretched Patagium::221014080
+Ether Pelt::221014086
+Shiny Powder::221013003
+Dark Dragon's Great Wing::221014105
+Lacquered Charged Shell::221014082
+Dark Shiny Skin::221014081
+Yellow Smoke Scale::221014075
+Clown Ball::221014062
+Durable Tendon::221014076
+Beast Mane::221014061
+Coelus Egg::221014030
+Shiny Dragon Scale::221014029
+Large Thick Scale::221014015
+Brightshroom::221012120
+Huge Fin::221014038
+Thick Scale::221014005
+Monster's Steel Skin::221014044
+Beast Meat::221014026
+Hardened Skin Piece::221014025
+Spirit of Bravery::221009129
+Large Dinosaur Belly::221014053
+Cloud Residue::221013042
+Rare Metal Skin::221014032
+Keen Fillet::221014022
+Fire Scale::221014052
+Orgamek Heartwood::221012113
+Lustrous Beak::221014021
+Blue Wild Beast Skin::221014007
+Superior Fillet::221014013
+Wing Rib::221015004
+Red Crest::221014006
+Flashing Glory Bud::221012137
+Ogre Hide::221014063
+Monster Skin::221014002
+Puffer Dragon Belly::221014050
+Hardened Giant Skin::221014008
+Water-Repellent Scale::221014036
+Flooded Remnant::221013052
+Iron Spinal Cord::221014031
+Water-Proof Skin::221014037
+Nice Dragon Scale::221014014
+Goblin's Foul Skin::221014043
+L Purple Breastplate::221014017
+Hell Beast's Hide::221014051
+Sahuagin Fillet::221014010
+Shadow Powder::221013041
+Metal Crest::221014019
+Green Thorn::221014035
+Sahuagin Scale::221014009
+Blue-Green Scale::221014018
+Foaming Meat::221014024
+Gator Skin::221014011
+Beast Tail Skin::221014028
+Artificial Heart::221014020
+Bear Stomach::221014069
+Foaming Leather::221014023
+Soft Membrane::221014039
+Red Spot::221014033
+Monster's Iron Hide::221014047
+Black Snout::221014059
+Thorny Scale::221014040
+Leather::221014012
+Dragon Scale::221014004
+Metal Skin::221014027
+Goblin's Dirty Skin::221014046
+White Bone Dust::221013028
+Titanium Powder::221013030
+Red Core::221013020
+Shining Fire Flower::221013032
+Illusory Glowshroom::221012131
+Charged Failed Trash::221013048
+Creepy Glowing Bullet::221013053
+Rich Grass::221012117
+Demon Spawn Skin::221014001
+Southern Bloom Seed::221012132
+Clear Crystalleaf::221012128
+Crystus::221012130
+Shiny Fused Trash::221013044
+Spirit Mist::221013050
+Ghost Powder::221013039
+Sulfur Flower::221013034
+Venomous Dust::221013038
+Requiem Powder::221013008
+Singing Sand::221013026
+Alloy Steel Powder::221013027
+Blackened Failed Trash::221013049
+Jet Black Trace::221014034
+Night Scene Bone::221013043
+Green Core::221013021
+Giant Flower Petal::221012047
+Metal Powder::221013016
+Haunted Powder::221013040
+Giant Skin::221014003
+Green-Stained Hide::221012115
+Shiny Failed Trash::221013047
+Coelus Shell::221014016
+Unyielding Bar::221008137
+Dry Sand::221013011
+Prison Spore::221013036
+Colorful Nuts::221012139
+Brillishroom::221012121
+Broken Seashell::221013025
+Blackened Fused Trash::221013046
+Burned Mineral Dust::221013018
+Ice Needle::221012082
+Orgamek Vine::221012112
+Red Cell::221013009
+Sandstone::221013029
+Forgetful Powder::221013033
+Delusion Spore::221013037
+Kindling::221012084
+Brightspore::221012125
+Burning Remnant::221013051
+Copper Powder::221013024
+Blue Dust::221013035
+Dark Matter Residue::221013031
+Thousand-Year Bloom::221012116
+Vibrant Ivy::221012118
+Shining Particles::221013022
+Eternal Voidbloom::221012138
+Stardust::221013014
+Blessed Light Grass::221012099
+Scarlet Petals::221012094
+Light Purple Fruit::221012095
+Mammoth Mushroom::221012101
+Dried Radish::221012083
+Earth Soba::221012076
+Smoldering Powder::221013006
+Enlarged Root::221012103
+Aged Moss::221012100
+Grass of the Dark Ages::221012102
+Satellite Potato::221012097
+Lovely Mushroom::221012070
+Dryflower Petal::221012126
+Morphing Leaf::221012085
+Unblooming Dew::221012105
+Pristine Lotus Stem::221012092
+Red Ironsand::221013002
+Sapling Leaf::221012086
+Blue Petal::221012049
+White Ironsand::221013001
+Crimson Hellflower::221012108
+Laughing Plant::221012048
+Edible Mushroom::221012062
+Poison Spores::221013012
+Drone Fragment::221013007
+Giant Crystalshroom::221012124
+Ironsand::221013023
+Ever-Dead Tree Ring::221012087
+Wind Soba::221012077
+Blue Core::221013019
+Gold Grains::221012081
+Scarlet Ironsand::221013004
+Dryflower::221012122
+Parasitic Vine::221012079
+Fleeting Residue Flower::221012136
+Fire Soba::221012074
+Dawning Crystal Leaf::221012133
+Water Soba::221012075
+Scarlet Seed::221012089
+Requiem Mineral Dust::221013015
+Charged Fused Trash::221013045
+Time-Slumbering Fruit::221012110
+Golden Mushroom::221012064
+Large Bug Mushroom::221012073
+Blast Powder::221013017
+Gunpowder::221013005
+Gator Pear::221012055
+Hollow Husk::221012111
+Green Cell::221013010
+Shiny Particles::221013013
+Night Light Mushroom::221012053
+Parasitic Bud::221012080
+Mystery Mushroom::221012069
+Polluted Coral::221012093
+Artificial Flower Bud::221012106
+Heavenly Temptation::221012061
+Deadly Poison::221011026
+Giant Flower Spores::221012043
+Ghostly Sigh::221011017
+Small Dinosaur Eye::221009030
+Sleepy Mushroom::221012071
+Green Monster Leaf::221012078
+Light Shoot::221012051
+Yellow Treat::221012017
+Sparkly Gelatin::221011042
+Parasite Mushroom::221012059
+Beautiful Branch::221012057
+Cyminum::221012037
+Green Extract::221011090
+Forest Mushroom::221012067
+Spider Shimeji::221012054
+Sage::221012046
+Night Lamp Mushroom::221012063
+Kuksonia::221012035
+Paralysis Plant::221012045
+Mint Roots::221012044
+Cave Mushroom::221012050
+Brotherly Bond::221009029
+Illusory Azuredrop::221011095
+Dark Mushroom::221012052
+Snow Grass::221012096
+Snake Grass::221012058
+Black Liquid::221011022
+Lotus Seed::221012033
+Lotus::221012032
+Blood Red Petal::221012088
+Mint::221012040
+Rat Poison::221011012
+Basil Seed::221012002
+Curious Mushroom::221012068
+Caterpillar Fungus::221012065
+Ghostly Passion::221011015
+Jelly Fungus::221012056
+Green Gel::221011028
+Deadly Spore::221012066
+Shining Blue Liquid::221011021
+Peach Flower::221012029
+Spring Water::221011040
+White Lotus::221012034
+Prideful Bud::221012107
+Cyrofiton::221012030
+Multiplying Fungus::221012060
+Well-grown Moss::221012090
+Undying Blue Flame::221011020
+Shimmering Fruit::221012027
+Salvia::221012003
+Marjoram Roots::221012023
+Mucus of Despair::221011093
+Ruby Elixir::221011088
+Illusory Violetdrop::221011099
+Mysterious Dewdrop::221011105
+Illusory Garnetdrop::221011097
+Mystery Fruit::221012005
+Red Skin::221012019
+Lilac Nut::221012013
+Walnut::221012041
+Twilight Shell::221009111
+Gentia Leaf::221012012
+Dewberry Test Drug::221011087
+Strange Mushroom::221012018
+Poison Core::221011059
+Mysterious Leaf::221012007
+Beating Liquid::221011033
+Glistening Mucus::221011070
+Sapphire Elixir::221011089
+Basil::221012001
+Dancing Grass::221012004
+Oregano::221012009
+Resin::221011065
+High Purity Oil::221011076
+Damdi Test Drug::221011086
+Flashing Liquid::221011072
+Red Nut::221012020
+Illusory Azaleadrop::221011098
+Transparent Drop::221011001
+Deep Azurewater::221011092
+Hallow Tear::221011082
+Solitary Blossom::221012123
+Oregano Seed::221012010
+Haunted Vestige::221011104
+Pale Honey::221011081
+Illusory Verdantdrop::221011102
+Poison Shot::221011037
+Deep Red Cell::221011058
+Distorted Mixture::221011036
+Illusory Crimsondrop::221011096
+Mystery Black Liquid::221011078
+Giant Blood::221011024
+Illusory Pinedrop::221011101
+Human Face Fruit::221012098
+Cracked Moon Shard::221009096
+Unusual Seed::221012008
+Blue Gel::221011025
+Deep Darkwater::221011091
+TL Force Core α::221009133
+Nolan Test Drug::221011084
+Bear Honey::221011061
+Illusory Pigeondrop::221011100
+Repair Liquid+::221011032
+Defiant Blood::221011083
+Ulcaronshi::221011049
+Shocking Mucus::221011069
+Red Gel::221011027
+Dimension Shot::221011039
+Gentia Seed::221012014
+Suffering Tear::221011103
+Marjoram::221012021
+Odd Moving Liquid::221011035
+Gazamin::221011068
+Impure Oil::221011075
+Dried Oil Paint::221011064
+Purple Jelly::221011052
+Mirth Punch::221011046
+Oregano Fruit::221012011
+Living Liquid::221011034
+Lubricant::221011009
+Lunar Premium Oil::221011077
+Weltal Test Drug::221011085
+Poison::1104223449
+Emperor Coral Shell::221009122
+Fading Dream of Revelry::221009131
+Red Liquid::221011006
+Blackgloss Medulla::221009109
+Sundown Marrow::221009112
+Vacuum Paint Agate::221009118
+Crystal Horn::221009080
+Defiant Spear::221009114
+Snow Crystal Stone::221009091
+Heavy Oil::221011019
+TL Force Core β::221009134
+Cube Grease::221011031
+Brimming Blaze::221011044
+Dazzling Moon Shard::221009105
+Red Metal Crystal::221009081
+Decaying Adoration::221009058
+Dark Scarlet Jewel::221009074
+Blue Jelly::221011002
+White Insulator::221008139
+Blue Cell::221011011
+Bright Feeling Fragment::221009106
+Blazing Blue Flame::221011030
+Shiny Moon Shard::221009097
+Pretty White Crystal::221009092
+Bliss Jewel::221009124
+Red Purple Mucus::221011056
+Ghostly Tears::221011016
+Green Liquid::221011008
+Strange Mucus::221011062
+Aquamarine Jelly::221011010
+Breeze Jelly::221011014
+Shiny White Crystal::221009093
+Moon Crystal Core::221009095
+Rolly Polly Crystal::221009135
+Yearning Light of Dawn::221009130
+White Core::221009108
+Deadly Poison Shot::221011038
+Sacred Tree Sap::221011043
+Enigmagreen Crystal::221009125
+Blue Liquid::221011003
+Blazing Blood::221011050
+Ghostly Impulse::221011018
+Smoking Gold Crystal::221009120
+Heat Jelly::221011013
+Condensed Flame::221011029
+Tragic Lost Soul::221009128
+Distant Ache of Solitude::221009132
+Souleater::221009117
+Dark Stone::221009101
+King Coral Piece::221009121
+Defiant Shield::221009113
+Dark Green Curtain::221009127
+Mech Sword Edge::221008096
+Magma Jelly::221011041
+Bliss Flower::221009123
+Vermillion Gem::221009066
+Rusty Iron Spikes::221008112
+Radiant Crystal::221008247
+Grudge Crystal::221009071
+Clouded Jewel::221009099
+Starlight Fragment::221009083
+Soldier Iron::221008181
+Dark Red Crystal::221009073
+Jeweled Turtleshell::221009078
+Smoking Silver Crystal::221009119
+Sulfur Crystal::221009069
+Sorcery Jade::221009064
+Old Magic Orb::221009075
+Gold Lights::221009067
+Fire Wave Stone::221009051
+Absolute Blade::221009116
+Fire Sprite Flame::221009033
+Royal Green Stone::221009054
+Tornado Crystal Horn::221009072
+Earth Spirit Crystal::221009062
+Azure White Crystal::221009070
+Crystal Carapace::221009090
+Brotherly Love::221009031
+Night Scene Core::221009107
+Platinum Magic Orb::221009077
+Ultraviolet Ball::221009088
+Moon Crystal Shard::221009094
+Shadowy Dark Orb::221009049
+Starlight Jewel::221009085
+Mystical Stone::221008243
+Dark Authority Jewel::221009100
+Ultramarine Ore::221008110
+Elemental Seed::221009086
+Black Steel Core::221009076
+Red Jelly::221011005
+Fire Spirit Crystal::221009060
+Sea Glass::221009082
+Scream of Regret::221009087
+Wind Spirit Crystal::221009063
+Crystalline Scale::221009089
+Madmech Plate::221008180
+Vitrified Crystal::221008235
+Frost Flower Crystal::221009068
+Sturdy Magic Ore::221008244
+Glittering Orb::221009079
+Earth Wave Stone::221009052
+Glowing Vitrified Crystal::221008239
+Divine Cat's-eye::221009103
+Memorial Anchor::221009110
+Flustered Wisdom::221009047
+Sword Remnant::221008236
+Daybreak Crystal::221009102
+Fake Jewels::221009065
+Twilight Crystal::221009104
+Full Moon Core::221009098
+Starlight Stone::221009084
+Blood Ball::221009042
+Soldier's Jewel::221009011
+Decayed Crystal::221008245
+Misty Steel::221008253
+Prosthetic Eye::221009007
+Mad Claw::221008238
+Black Spider Stone::221009036
+Moonlight Drops::221009027
+Violated Soul::221009044
+Wind Crystal::221009004
+Legendary Sword Remnant::221008237
+Requiem Crystal::221009012
+Bad Container::221009043
+Red Coral::221009020
+Smoky Quartz::221009018
+Sky Eye::221009034
+Warped Heart::221009026
+Ruby Fragment::221009017
+Forest's Wisdom::221009045
+Royal Red Stone::221009057
+Mad Red Eye::221009035
+Synthetic Light Blade::221008107
+Green Jelly::221011007
+Green Ray of Light::221009040
+Water Crystal::221009003
+Royal Blue Stone::221009056
+Wind Wave Stone::221009053
+Nanotube::221005020
+Diamond::221009022
+Unusual Eye::221009010
+Fire Sprite Orb::221009032
+Water Thickscale::221008220
+Pearl::221009019
+Triangular Core::221009013
+Dimension Scissors::221008246
+Green Spider Stone::221009037
+Brown Spider Stone::221009038
+Sinister Luminous Body::221009025
+Dark Red Eye::221009039
+Synthetic Masumune::221008108
+Soldier's Secret::221009014
+Memory Fragment::221009059
+Spinel::221009021
+Evil Spirit Mask::221008251
+Sand Tear::221009028
+Water Spirit Crystal::221009061
+Crushed Cannon::221008252
+Dark Amethyst::221009024
+Dark Pyroxene::221009048
+Royal Yellow Stone::221009055
+Forest's Secret::221009015
+Warped Wisdom::221009046
+Tormaline::221009016
+Shining Red Eye::221009041
+Blue Ax Fragment::221008117
+Water Wave Stone::221009050
+Mad Armor::221008231
+Armored Circuit::221008184
+Luna Fultite::221008124
+Fire Thickscale::221008218
+Garnet::221009023
+Hidden Tektite::221008201
+Meowmite::221008207
+Deep Blue Alloy::221008210
+Shadowed Sliver::221008189
+Bone Iron::221008229
+Dented Armor Plate::221008125
+Beast Steel Gaunt.::221008027
+Deep Blue Ore::221008206
+Historical Sword Remnant::221008240
+Madmech Backblade::221008185
+Armored Lump::221008178
+Diffuse Crystal::221009009
+Deep Blue Spearhead::221008213
+Bloody Blade::221008155
+Magic Crystal Chunk::221008233
+Cursebone Iron::221008230
+Fine Crystal Mass::221008249
+Fine Meowmite::221008208
+Superefficient Ax::221008226
+Scrap Bundle::221008174
+Water Scale::221008219
+Deep Blue Wood::221008209
+Deep Blue Ironsand::221008211
+Wind Thickscale::221008222
+Superefficient Ax MkII::221008227
+Hard Synthetic Skeleton::221008106
+Deep Blue Heartwood::221008214
+Seadrake Scale::221008223
+Blue Ax Sturdy Blade::221008120
+Scorched Soul::221008250
+Wolf ID Ticket::221008198
+Drakeshell::221008225
+Soldier Cord::221008187
+Sakura Veilsteel::221008205
+Blacksky Iron::221008204
+Prosthetic Heart::221009008
+Fire Scale::221008217
+Clear Scale::221008224
+Madmech Backhook::221008186
+Prototype TL-AX::221008228
+Magic Crystal Shard::221008232
+Meteor Iron Chunk::221008200
+Soldier Power Source::221008188
+Shadowed Sword::221008190
+Wind Scale::221008221
+Deep Blue Gold::221008215
+Crimson Needle::221008194
+Sturdy Crystal Armor::221008241
+World-Eater Claw::221008242
+Steel Gear::221008195
+Ancient Hammer Shard::221008143
+Worldpiercer Alloy::221008169
+Crystal Mass::221008248
+Fire Crystal::221009002
+Magnetic Mineral::221008203
+Menacing Hammer Shard::221008144
+Black Luminous Body::221009006
+Rusty Key-Claw::221008098
+Welded Alloy Plate::221008171
+Scrap Metal::221008102
+Wailing Iron::221008156
+Rebel's Ingot::221008104
+Reddened Metal::221008148
+Alloy Medal::221008172
+Ruby Medal::221008146
+Layered Gold::221008157
+Unbending Rod::221008103
+Earth Crystal::221009005
+Manalight Silver::221008158
+Solemn Blade::221008191
+Armored Plate::221008177
+Imitation Light Sword::221008101
+Welded Iron Plate::221008165
+Beast Steel Spear::221008028
+Sharp Parts::221008162
+Bewitching Ring::221008085
+Armored Capacitor::221008183
+Heavy Armor::221008168
+Moonlit Ingot::221008161
+Moonlit Gold Ore::221008159
+Scarlet Eyeball::221009001
+All Shades Hammer::221008097
+Rust Needle::221008193
+Demon Helmet::221008086
+Fierce Iron Frame::221008163
+Smoking Gold Ingot::221008176
+Magnetic Iron::221008202
+Silent Iron Box::221008197
+Synthetic Red Horn::221008105
+Resentful Jade::221008145
+Imitation Red Horn::221008099
+Faded Armor::221008078
+Vitrified Crystal Shard::221008234
+Somber Blade::221008192
+Sturdy Medal::221008167
+Rainbow Coral::221008199
+Soldier Steel::221008182
+Deep Blue Ingot::221008216
+Hematite Blade::221008164
+Alloy Latch::221008166
+Madmech Shell::221008179
+Subspace Ore::221007109
+Propulsion Armor::221008173
+Hard Steel Gauntlets::221008064
+Smoking Silver Ingot::221008175
+Blueflame Wheel::221008196
+Rusty Halberd::221008094
+Judgement Scrap::221008150
+Beast Cop. Breastp.::221008014
+Huge Helmet::221008084
+Raging Hammer Shard::221008142
+Humming Lunar Stone::221007112
+Judgement Knife::221008152
+Coral Fragments::221008111
+Broken Anchor::221008095
+Aging Picture::221008068
+Imitation Skeleton::221008100
+Sanukite::221007068
+Lucky Hoof::221008073
+Judgement Blade::221008153
+Photoelectric Stone::221008113
+Artificial Heart II::221008032
+Crossroads Killer::221008154
+Blue Ax Killer Blade::221008119
+Moonlit Steel Lump::221008160
+Montmorillonite::221008116
+Large Blue Ax Fragment::221008121
+Lunapartite::221008127
+Cracked Tea Utensil::221008132
+Rediron Blade::221008170
+Giant's Greatclub::221007095
+Antique Relic::221007100
+Steel Gauntlets::221008060
+Blue Ore::221008050
+Guillotine Hatchet::221008090
+Hot Dragonstone::221007091
+Judgement Sliver::221008151
+Kaolinite::221008115
+Metal Alloy Armor::221008056
+Heart Fragment::221007057
+Blue Huge Blade::221008122
+Rusty Trident::221008093
+Raging Hammer Piece::221008141
+Lacerating Poison Nail::221008089
+Sheet Metal Armor Fitting::221008130
+Twisted Stone::221007049
+Worn Stone Lantern::221007058
+Hound Collar::221008074
+Sapphire Medal::221008147
+Ancient Craft::221008075
+Twisted Armor Piece::221008134
+Cracked Shard::221007053
+Ceramic Arm::221008054
+Sheet Metal Armor Clasp::221008129
+Daybreak Coral::221008131
+Inky Steel::221008140
+Unscratched Armor Plate::221008126
+Thunderbolt Ore::221008114
+Charged Stone::221007075
+Wave Lunar Stone::221007111
+Unbreakable Rod::221008091
+Hard Steel Breastplate::221008066
+Red Steel Blade::221008023
+Hard Steel Spear::221008065
+Monster's Weight::221008049
+Sturdy Star Ball::221008052
+Ogre Shoulder Pat::221008079
+Steel Bullet::221008030
+Requiem Fragment::221007019
+Geo Metal Bolt::221008031
+Powered Arm::221008058
+Steel Shoulder Pad::221008063
+Staff Cannon::221008088
+Old Castle Armor::221008076
+Old Ogre Jug::221007055
+Elimination Stick::221008037
+Snowflake Ore::221008109
+Clown Dagger::221008069
+Steel Spear::221008061
+Stardust Fragment::221008044
+Ogre Gauntlets::221008081
+Scale Armor::221007102
+Spacetime Telomere::221008039
+Old Castle Helm::221008070
+Beast's Sharp Edge::221008048
+Broken Wheel::221008083
+Stone Surface Fragment::221007084
+Robo Shell::221008045
+Good Metal Rod::221008087
+Giant's Club::221007094
+Pilgrim Ore::221007099
+Synthetic Stone::221008043
+Warped Frame::221008071
+Earthenware Fragment::221007067
+Beast's Keen Edge::221008047
+Shooting Star Piece::221008042
+Giant Iron Armor::221008021
+Meteoric Iron Armor::221008059
+Hard Steel Belt::221008067
+Burned Robe::221005021
+Strong Arm::221008055
+Old Castle Torch::221008077
+Beast Iron Gauntlets::221008016
+Bronze Bullet::221008005
+Steel Breastplate::221008062
+Chieftain's Ax::221008035
+Drill Arm::221008025
+Iron Bullet::221008019
+Rusty Joint::221008072
+Sturdy Long Sword::221008053
+Dark Gem Cluster::221007080
+Lava Snail::221008046
+Beast Steel Breastp.::221008029
+Gold Lump::221008082
+Ogre Cleaver::221008080
+Lunabomite::221008128
+Sturdy Spear::221008051
+Black Metal Clay::221007065
+Beast Iron Spear::221008017
+Steel Shaft::221008024
+Giant's Club Piece::221007093
+Magic Spiral Stone Slab::221007086
+Titanium Bolt::221008006
+Rushed Lunar Stone::221007115
+Steel Fists::221008040
+Crush Arm::221008057
+Giant's Giantclub::221007096
+White Bolt::221008003
+Iron Ingot::221008004
+Pitch Dark Gem Fragment::221007082
+Iron Shaft::221008002
+Pasty Tooth::221007119
+Shadow Stone::221007061
+Cracked Tile::221007069
+Future Ore::221007106
+Destruction Stick::221008038
+Pitch Black Gem Cluster::221007083
+Twilight Stone::221007090
+Blood-Soaked Ax::221008033
+Beast Copper Spear::221008013
+Steam Ore::221007097
+Crystal Shell::221008092
+Hypodermic Needle::221008009
+Stone-Like Skin::221007020
+Cube Block::221008020
+Searumble Ore::221007098
+Metal Needle::221008008
+Warrior's Ax::221008041
+Paw Stone::221007059
+Ice of the Dark Ages::221007087
+Captain's Ax::221008034
+Abyssal Gem Fragment::221007079
+Beast Iron Battleax::221008015
+Blue Ax Sharp Blade::221008118
+Oceanforged Ore::221007107
+Suppression Stick::221008036
+Old Clay::221007064
+Beast Steel Battleax::221008026
+Cold Dragonstone::221007092
+Red Shaft::221008022
+Cursed Armor Piece::221008135
+Ancient Coffin::221007052
+Boulder Armor::221007104
+Shadow Rubble::221007088
+Beast Copper Gaunt.::221008012
+Blued Metal::221008149
+Beast Iron Breastp.::221008018
+Iron Arm::221008001
+Beast Cop. Battleax::221008011
+Chappie's Collar::221008010
+Gloried Lunar Stone::221007117
+Magnetic Stone::221007073
+Bright Lunar Stone::221007116
+Lustre Armor Plate::221008123
+Illusory Relic::221007103
+Pressure Wire Bundle::221005070
+Bloody Kimono::221005103
+Ogre Stone Lance::221007054
+Time Bunch::221005088
+Rock Shell::221007066
+Pyroxene::221007039
+Primordial Ore::221007105
+Gloom Cloth::221005069
+Stone Tool Piece::221007063
+Iron Armor Fragment::221008007
+Illusory Ore::221007108
+Mossy Small Rock::221007046
+Strange Stone Slab::221007085
+Skin-like Rock::221007038
+Rock Wrap::221007045
+Warped Stone::221007050
+Heated Hair::221005094
+Hierarchy of Time::221007030
+Apparition Stone::221007062
+Tempered Crystal::221007071
+Round Stone::221007035
+Migmatite::221007032
+Ancient Armor Bit::221007101
+Deep Bluestone::221007118
+Floating Ore::221007033
+Lost Tea Utensil::221008133
+Black Lightstone::221007006
+Robust Spear::221007028
+Thunder Giant Piece::221007078
+Black Coal::221007034
+Sturdy Belt::221005052
+Rock Shoulder Pad::221007044
+Purgatory Stone::221007051
+Robust Breastplate::221007029
+Moon Fragment::221008136
+Moonlight Stone::221007070
+Thunderlight Stone::221007077
+Gloom Rock::221007072
+Siliceous Marl::221007048
+Ripple Rock::221007060
+Magic Lunar Stone::221007110
+Requiem Mass::221007022
+Broken Handle::221007056
+Ice Spindle::221007074
+Carnerion::221007036
+Rock Thorax::221007042
+Robust Gauntlets::221007027
+Smoking Gold Chain::221005091
+Dark Gem Fragment::221007081
+Sky Stone::221007089
+Heavy Battleax::221007015
+Beast Gauntlets::221007013
+Fine Meowcord::221005099
+Broken Stone Ax::221007011
+Sulfocast::221007031
+Meteorite::221007037
+Sahuagin Knife::221007007
+Robust Battleax::221007026
+Wide-Range Feeler::221005097
+Central Oil Tube::221005087
+Beast Sturdy Belt::221005031
+Black Stone::221007001
+Rough Stone Arm::221007040
+Fine Crystal Chain::221005101
+Nanocube::221007014
+Lizzy's Knife::221007008
+Cursed Cocoon::221005102
+Waning Lunar Stone::221007113
+Stone Blade Fragment::221007004
+Brick Fragment::221007002
+Oil Tube::221005083
+Black Obsidian::221007025
+Meowcord::221005098
+Keen Rock::221007047
+Waxing Lunar Stone::221007114
+Disappearing Stone::221007023
+Precise Feeler::221005095
+Beast Spear::221007009
+Heavy Gauntlets::221007016
+Cave Helmet::221007043
+Smoking Silver Chain::221005090
+Rock Gait::221007041
+Critical Mass Stone::221007076
+Heavy Spear::221007017
+Crystal Chain::221005100
+Destroyed Robe::221005022
+Dustsweep Antenna::221005086
+Prayer Bead Fragment::221007005
+Heavy Breastplate::221007018
+Lustrous Stone::221007021
+Beast Battleax::221007012
+White Bristle::221005064
+Blackwind Down::221005093
+Red Brick::221007003
+Factor Antenna::221005089
+Scrap of the Tested::221005076
+Animal Brush::221005059
+Cut Wire Bundle::221005071
+Purple Antenna::221005026
+Poison Sting::221016057
+Carbon Fiber::221005054
+????::221004128
+Dinosaur Egg::221016030
+Metal Harness::221005043
+Spider Thread::221005063
+Beast Breastplate::221007010
+Removed Tail::221005058
+Artificial Circuit::221004068
+Goblin's Jade Horn::221016041
+Giant Pajamas::221005049
+Maiden Tentacle::221005045
+Firedrake Garnet::221004204
+Cryptid Mane::221005046
+Empty Fabric::221005078
+Worn Antenna::221005023
+Monster's Headband::221005047
+Power Wire Bundle::221005072
+Cable Harness::221005041
+Long Infrared Sensor::221004074
+Cultivator Part::221004182
+Tailored Formal Wear::221005036
+Green Longhair::221005050
+Kite Thread::221005060
+Time-Shifted Parts::221005085
+Thick Tail::221005008
+Giant Pillow::221005048
+Thread of Time::221005013
+Tailored Tailcoat::221005037
+Heavy Belt::221005016
+Molecule Wire::221005044
+Dreamlit Cloth::221005067
+Dark Red Cloth::221005080
+Flexile Springstone::221005082
+Demon Dog Flame Tail::221005025
+Twin Tail Parts::221004038
+Dreadnought Core::221004177
+Gloom Thread::221005068
+Buoyant Screw::221004184
+Monster's Trumpet::221016048
+Repair Tool::221004025
+Dark Blue Cloth::221005081
+Fiber Cord::221005055
+Scarlet Mantle::221005057
+Grass Fiber::221005065
+Giant Cartilage::221016045
+Arterial Oil Tube::221005084
+Forgotten Mantle::221005053
+Illusion Sticker::221004215
+Hollow Relic::221004223
+Beast Robust Belt::221005017
+TL Nanites::221004214
+Crystaline Unit::221004220
+White Frame::221016032
+Crystal Pearl::221004225
+Monster's Horn::221016044
+Warped Crystal Core::221004219
+Shock-Resistant Gear::221004172
+Melted Cable::221005028
+Beast Cow Undergarment::221005051
+Floating Gear::221004171
+Frayed Robe::221005012
+Poison Nozzle::221004168
+Old Belt::221005014
+Energy Cable::221005032
+Wild Beast Tail::221005002
+Grinding Gloves::221005038
+Auto Circuit::221004133
+Beast Tail::221005018
+Old Cloth::221005001
+Hazy Scarlet Jewel::221004230
+Space Cord::221005027
+Blue Cord::221005040
+Deep-sea Relic::221004221
+Slaughter Circuit::221004191
+Elk Mane::221005062
+Black Skin::221005007
+Rushing Jewel::221004211
+Illusory Ticket::221004222
+Beast Hard Belt::221005015
+Firedrake Ruby::221004205
+Tyrant Dragon Claw::221016033
+Road Tube::221005033
+Wire Harness::221005042
+Coat of the Tested::221005077
+Worn Belt::221005009
+Wavering Time Thread::221005073
+Geo-Elastomer::221005029
+Calculation Fiber::221005034
+Abyssal Dragonheart::221004197
+????::221004228
+Wave Stability Fiber::221005035
+Straw Rope::221005061
+Anti-Gravity Stone::221007024
+Determination Gloves::221005039
+Robust Belt::221005030
+Sinister Crystal Core::221004224
+Dark Skin::221005024
+Elastomer::221005006
+Hollow Residue::221004218
+Float Motivator::221004199
+Beast Belt::221005010
+Beast Flame Tail::221005011
+Moonlit Gear::221004173
+Modified Wire Bundle::221005075
+Water Sealant::221004165
+Power Cable::221005056
+Blazing Jewel::221004210
+Bloody Iris::221004198
+Slaughter Core::221004192
+Timeshock-Resistant Gear::221004181
+Tyrant Dragon Skull::221016035
+Time-Floating Core::221004180
+Gustdrake Emerald::221004209
+Waterdrake Sapphire::837870343
+Unfaded Alloy Core::221004178
+Pure Orb::221004227
+Legacy Arm::221004005
+Salt Sealant::221004166
+Stalwart Cursed Core::221004229
+Waving Dimension Thread::221005074
+Driver Core::221004189
+Advanced Water Sealant::221004174
+Battle-Ready Fur::221005096
+Gaudy Neon::221004200
+Waterdrake Lapis::221004206
+Unusual Antenna::221005003
+Medical Nanites::221004213
+Fine Crystal Pearl::221004226
+Smokedrift Ornament::221004188
+Classic Cord::221005004
+Hi-Precision Gear::221004186
+Front Cover::221004019
+Fine Meowtal::221004203
+Legacy Arm Mark 0::221004029
+Twinkling Thread::221005066
+Deep Dark Green Eye::221004196
+Eye Infrared Sensor::221004090
+Deep Dark Eye::221004195
+Time Driver::221004175
+Dawn Circuit Board::221004187
+Illusion Sticker::221004216
+Hi-Precision Core::221004169
+Simple Outer Parts::221004201
+Darkshroud Core::221004193
+Gustdrake Peridot::221004208
+Toxic Nozzle::221004176
+Unclean Serpent Eye::221004194
+Howling Jewel::221004212
+Meowtal::221004202
+Petrified Gear::221004185
+Hollow Fragment::221004217
+Empty Coat::221005079
+Pointy Dinosaur Claw::221016068
+Light Cable::221005005
+Imitation Arm Part::221004108
+Weathered Core::221004164
+Transparent Shell::221004130
+Enigmatic Circuit::221004120
+Demon Bird Eye::221004146
+Gold Turf::221004093
+Piece of an Empty Soul::221004127
+Operational Nucleus::221004134
+Bearing::221004047
+Sundown Skeleton::221004142
+Memorial Drop::221004137
+Rebel's Coil::221004116
+Old Part::221004016
+Conduction Cable::221004106
+Ghost City Lamp::221004121
+Auto Core::221004190
+Toto Eye::221004103
+Lightning Lance::221004078
+Sparkling Gear::221004083
+Core Part::221004028
+Giant Wheel Axle::221004125
+Steel Dog Tooth::221004091
+Magnet Core::221004117
+Rush Booster::221004094
+Gazing Pupil::221004118
+Collision Safety Body::221004089
+Artificial Hammer Core::221004107
+Inky Resin::221004131
+Steel Bearing::221004048
+High Speed Gear::221004096
+Neon Wire::221004114
+Memorial Float::221004138
+????::221004129
+Advanced Tuner::221004119
+Pulsing Core::221004126
+Aquatic Driver Parts::221004170
+Blurry Lens::221004110
+????::221004136
+Bent Wheel Axle::221004124
+Flash Lens::221004097
+Rusty Gear::221004082
+Solar Light::221004101
+Aquatic Speed Parts::221004179
+Tuner::221004112
+Kusanda Sensor::221004109
+Sparking Circuit::221004123
+Fossil Gear::221004183
+Broken Gear::221004044
+Tail Part::221004024
+Extermination Chip::221004040
+Warped Core::221004058
+Flight Unit::221004098
+Broken Arm Part::221004011
+Dimension Gear::221004035
+Hollow Stone Core::221004147
+Detection Sensor::221004111
+Brain Chip::221004073
+Geared Motor::221004105
+Garden Gear::221004085
+Steel Conduit::221004100
+Yellow Lens::221004001
+Gravity Device::221004092
+Display Panel::221004115
+Speed Sensor::221004102
+Smashed Part::221004060
+Mechanic Whale Heart::221004055
+Warped Screw::221004084
+Elite Core::221004075
+Sundown Fragment::221004141
+Water Pump::221004095
+New Power Device::221004086
+????::221004135
+Master Chip::221004071
+Defiant Brand::221004143
+Crash Part::221004004
+Engine Part::221004079
+Thunder Lance::221004066
+Crimson Circuit::221004077
+Power Spring::221004087
+Steel Gear::221004046
+Red Lens::221004002
+Energy Pod::221004015
+Laser Cannon::221004042
+Epicyclic Gear::221004104
+Rusty Cog::221004081
+Brain Part::221004080
+Twilight Resin::221004140
+Artificial Grass::221004088
+Blackgloss Shell::221004132
+Power Source::221004008
+Broken Circuit::221004122
+High Speed Sensor::221004072
+Large Gear::221004045
+Telescopic Lens::221004033
+White Wheel::221004018
+Exoskeleton::221004053
+Scarlet Lens::221004007
+Mini-Booster::221004020
+Broken Leg Part::221004026
+Red Booster::221004036
+Gear Part::221004017
+Electrical Device::221004003
+Sound Wave Fork::221004113
+Legacy Leg Mark II::221004013
+Booster Pack::221004034
+Energy Tank::221004009
+White Cylinder::221004031
+Repair Tool+::221004037
+Broken Electromagnet::221004014
+Legacy Arm Mark II::221004012
+Scope Part::221004027
+Aluminum Bolt::221004021
+Silver Bolt::221004063
+Searchlight::221004032
+Legacy Leg::221004006
+Demonic Wheel::221004023
+Legacy Leg Mark 0::221004030
+Drive Gear::221004051
+Broken Spring::221004099
+Synth Eye Ball::221004049
+Golden Flame::221011047
+Hatred Core::221004043
+Silver Chip::221004057
+Laser Blaster::221004041
+Golden Chip::221004070
+Twilight Steel::221004139
+Connect Chip::221004076
+Laser Emitter::221004065
+Oval Arm::221004052
+Infrared Sensor::221004039
+Improved Sensor::221004059
+Deep Blue Iron::221008212
+Liquid of Despair::221011094
+Tyrant Dragon Blood::221011048
+Red Fruit::221012006
+Repair Liquid::221011023
+Resent Flame::221011060
+Shimmering Mucus::221011071
+Parasitic Mucus::221011063
+Deep Purple Poison::221011057
+Blackening Oil::221011066
+Creepy Black Liquid::221011079
+Well of Life::221011080
+Moonshade Oil::221011074
+Purple Medicine::221011055
+Tyrant Dragon Mania::221011045
+Purple Gel::221011054
+Top Wing::221015010
+Bat Wings::221015024
+Abysswyrm Wing::221014116
+Old Tanuki's Pouch::221014073
+Tiny Bug Wing::221015026
+Pliable Hide::221014107
+Forest's Plume::221014096
+Dragon Wing::221015003
+Large Raptor Wing::221015008
+Bee Wing::221015001
+Jet Black Wing::221015018
+Anti-Gravity Device::221015016
+Beast Wings::221015025
+Dinosaur Rib::221016004
+Red Feather::221015009
+Cut Dorsal Fin::221015036
+Demon Bird Feather::221015046
+Screw Bark::221017061
+Floating Fillet::221015021
+Puzzling Ancient Sign::221009126
+Seabird Feather::221015022
+Sky Blue Wing::221015017
+Large Bee Wing::221015039
+Bladearmor Scales::221014108
+Alpina::221012036
+Ochre Seed::221012031
+Yukari::221012042
+Tree Shoot::221012024
+Golden Fruit::221012025
+Cyminum Seed::221012038
+Marjoram Seed::221012022
+Dancing Tree::221012028
+Yellow Nut::221012016
+Megapoison Parasol::221012026
+Slippery Skin::221012015
+Blueberry::221012039
+
+
