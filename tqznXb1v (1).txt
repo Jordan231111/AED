@@ -7857,3 +7857,160 @@ Slippery Skin::221012015
 Blueberry::221012039
 
 
+Confusion Res. Fertilizer::247000026
+INT+30 Seed::247000152
+Reversion Ore::247000174
+LCK+30 Seed::247000156
+Magic Critical Rate Ore::247000188
+Status Res.+20 Seed::247000169
+Zami Water::247000011
+Zami Soil::247000003
+Ship Graveyard Water::247000015
+Funeral Cavern Soil::247000004
+Gadaro Water::247000012
+Water Res. Fertilizer::247000019
+Dragon God's Water::247000014
+Fire Res. Fertilizer::247000016
+Gadaro Soil::247000001
+Kuruchi Cove Water::247000013
+Earth Res. Fertilizer::247000017
+Hokishi Forest Soil::247000005
+Wind Res. Fertilizer::247000018
+Talgana Mountain Soil::247000002
+INT+20 Seed::247000102
+Rage Enhance Ore::247000180
+INT+40 Seed::247000158
+PWR+40 Seed::247000157
+Piercing Flash Ore::247000220
+Resonant Power (Sh) Ore::247000233
+AF After Victory Ore::247000208
+Light/Shadow SPD+ Ore::247000199
+Agony Ore::247000223
+Light/Shadow MP+ Ore::247000205
+Dazzling Slash Ore::247000218
+Light/Shadow INT+ Ore::247000198
+Crystalline Ore::247000216
+Unstoppable Growth Ore::247000234
+Dormant Ore::247000175
+Power of Fate: Wind Ore::247000226
+Bind Enhance Ore::247000179
+Power of Fate: Water Ore::247000227
+HP After Victory Ore::247000206
+Water Res.+20 Seed::247000166
+Roaring Bash Ore::247000219
+Light/Shadow SPR+ Ore::247000202
+Biting Shade Ore::247000217
+Poison Enhance Ore::247000177
+Bull's Eye Ore::247000192
+Torn Earth Ore::247000214
+Light/Shadow PWR+ Ore::247000197
+Last Stand Ore::247000182
+MP After Victory Ore::247000207
+Raging Fire Ore::247000211
+Improve Restore Skill Ore::247000191
+Toxic Breaker Ore::247000222
+Wind King Ore::247000213
+Light/Shadow END+ Ore::247000200
+Piercing Res.+15 Seed::247000121
+Power of Fate: Th. Ore::247000228
+Power of Fate: Crystal Ore::247000230
+Power of Fate: Fire Ore::247000224
+Power of Fate: Earth Ore::247000225
+Magic Fates Ore::247000221
+Occasional INT- Ore::247000195
+HP+ Ore::247000189
+Light/Shadow LCK+ Ore::247000201
+Enemy Encounters+ Ore::247000184
+Light/Shadow HP+ Ore::247000204
+Combo Rate Enhance Ore::247000203
+Enemy Encounters– Ore::247000185
+Individual EXP+ Ore::247000209
+Thundering Ore::247000215
+Earth Res.+20 Seed::247000164
+Type Res.+20 Seed::247000167
+Nine Lives Ore::247000186
+Cloud Cover Ore::247000193
+Sacred Water Ore::247000212
+Awaken Zone Enh. Ore::247000210
+Resonant Power (Li) Ore::247000232
+Occasional PWR- Ore::247000194
+MP+ Ore::247000190
+Darkness Res.+40 Seed::247000132
+Blunt Res.+15 Seed::247000122
+SPD+25 Seed::247000140
+END+40 Seed::247000159
+DMG+ When Max HP Ore::247000231
+Insult-to-Injury Ore::247000181
+Darkness Res.+20 Seed::247000119
+Confusion Res.+40 Seed::247000130
+Physical Res.+20 Seed::247000168
+Pain Res.+20 Seed::247000116
+Pain Res.+50 Seed::247000147
+Confusion Res.+50 Seed::247000148
+Rage Res.+50 Seed::247000145
+Mystery Seed::247000123
+LCK+25 Seed::247000141
+SPD+40 Seed::247000161
+Stone Res.+50 Seed::247000149
+Sleep Res.+20 Seed::247000115
+Rose-with-Thorns Ore::247000183
+Fire Res.+20 Seed::247000163
+Bind Res.+40 Seed::247000126
+Sleep Res.+40 Seed::247000128
+Rage Res.+20 Seed::247000114
+Pain Res.+40 Seed::247000129
+Rage Res. Fertilizer::247000023
+Stun Res.+50 Seed::247000143
+Poison Res.+50 Seed::247000142
+Pain Enhance Ore::247000178
+Blunt Res. Fertilizer::247000031
+Water Res.+10 Seed::247000110
+SPR+30 Seed::247000154
+Wind Res.+20 Seed::247000165
+Sleep Res.+50 Seed::247000146
+Stun Res.+20 Seed::247000112
+Darkness Res. Fertilizer::247000028
+Piercing Res.+30 Seed::247000134
+Earth Res.+10 Seed::247000108
+SPD+30 Seed::247000155
+Poison Res.+40 Seed::247000124
+INT+25 Seed::247000137
+Bind Res.+50 Seed::247000144
+Occasional SPD- Ore::247000196
+Stone Res.+20 Seed::247000118
+Critical Rate Ore::247000187
+END+30 Seed::247000153
+Slash Res.+30 Seed::247000133
+PWR+25 Seed::247000136
+Confusion Res.+20 Seed::247000117
+SPR+25 Seed::247000139
+Slash Res.+15 Seed::247000120
+Blunt Res.+30 Seed::247000135
+PWR+30 Seed::247000151
+Sleep Res. Fertilizer::247000024
+SPD+20 Seed::247000105
+Fire Res.+10 Seed::247000107
+LCK+40 Seed::247000162
+Wind Res.+10 Seed::247000109
+Stone Res.+40 Seed::247000131
+Piercing Res. Fertilizer::247000030
+Poison Res. Fertilizer::247000020
+END+20 Seed::247000103
+Bind Res.+20 Seed::247000113
+Pain Res. Fertilizer::247000025
+SPR+20 Seed::247000104
+Power of Fate: Shade Ore::247000229
+LCK+20 Seed::247000106
+Bind Res. Fertilizer::247000022
+PWR+20 Seed::247000101
+Stun Res. Fertilizer::247000021
+Poison Res.+20 Seed::247000111
+Stun Res.+40 Seed::247000125
+Slash Res. Fertilizer::247000029
+Stone Res. Fertilizer::247000027
+Darkness Res.+50 Seed::247000150
+END+25 Seed::247000138
+Rage Res.+40 Seed::247000127
+SPR+40 Seed::247000160
+
+
