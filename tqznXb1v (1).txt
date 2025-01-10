@@ -6303,6 +6303,10 @@ Zephyranthos::211009163
 Ex Miglance::211019004
 Wizard's Staff II::211000022
 
+
+
+
+
 Johns Edge::221004145
 Dusk Circuit Board::221004160
 Glittering Jewel::221004153
@@ -8011,3 +8015,17 @@ Rage Res.+40 Seed::247000127
 SPR+40 Seed::247000160
 
 
+
+
+Jadeite of Support::222000009
+Frag. of Support::222000007
+Frag. of Attack::222000001
+Jadeite of Life::222000006
+Special Jadeite::222000012
+Crystal of Attack::222000002
+Frag. of Life::222000004
+Crystal of Support::222000008
+Special Frag.::222000010
+Crystal of Life::222000005
+Special Crystal::222000011
+Jadeite of Attack::222000003
