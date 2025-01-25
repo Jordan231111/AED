@@ -17,6 +17,12 @@ Guiding Light (Staff)::245000001
 
 
 
+Mana Scroll::246000004
+High Class Scroll::246000003
+Low Class Scroll::246000001
+Mana Scroll High Grade::246000006
+Mana Scroll Middle Grade::246000005
+Medium Class Scroll::246000002
 
 
 
