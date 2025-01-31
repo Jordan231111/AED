@@ -475,6 +475,7 @@ Kamasu Points::205000009
 
 
 
+
 ???::211079081
 A.Murakumo Proof::288300255
 AS Elga's Dagger::211090240
@@ -604,6 +605,7 @@ Als Almadel::211079069
 Als Almadel::211079070
 Als Almadel::211079071
 Altridge's Resolution::288303002
+Amane Bracelet::217020961
 Amaterasu Sosoku::211029141
 Amaterasu Sosoku::211029142
 Amaterasu Sosoku::211029143
@@ -968,6 +970,7 @@ Block Jammer Γ::211990071
 Block Jammer Ω::211990081
 Block Jammer α::211990051
 Block Jammer β::211990061
+Blood Barrier Badge::281900115
 Blood Blade::211010491
 Blood Bow::211050151
 Blood Choker II::217030062
@@ -1029,6 +1032,8 @@ Buster Dagger: PWR+ (S)::211018011
 Buster Sword: PWR+ (L)::211018041
 Butchery Badge::281900059
 Butterfly Warrior Proof::288300022
+Byakuya Necklace::217030921
+Bête Théâtrale Proof::288300262
 Bûcheron Proof::288300158
 Calm Player's Flute::211050841
 Calm Player's Flute::211050842
@@ -1234,6 +1239,7 @@ Cernos Blanc::211009210
 Cernos Blanc::211009211
 Cerrine's Whip::211090150
 Chanit Keseph::211040501
+Chaotic Badge::281900116
 Chaotic Dark Blossom::211049081
 Chaotic Dark Blossom::211049082
 Chaotic Dark Blossom::211049083
@@ -1868,6 +1874,7 @@ E. Briar Rose Proof::288304248
 E. Brionac Proof::288304056
 E. Brunhild Proof::288304060
 E. Butterfly Warrior Proof::288304022
+E. Bête Théâtrale Proof::288304260
 E. Bûcheron Proof::288304159
 E. Camena Proof::288304261
 E. Carmilla Proof::288304192
@@ -2091,6 +2098,7 @@ E. White Knight Proof::288304030
 E. White Snow Proof::288304155
 E. Wolfskin Proof::288304247
 E. Xeno-Legion Proof::288304044
+E. Yaobikuni Proof::288304263
 E. Yasomagatsuhi Proof::288304064
 E. Yggdrasil Proof::288304081
 E. Ymir Proof::288304182
@@ -2391,6 +2399,7 @@ Eternal Rotation::211030401
 Eternal Tree Badge::281900101
 Eureka Proof::288300178
 Eurydice Proof::288300241
+Eva's Crystal::211090570
 Evil Eye II::275321523
 Evil Eye III::275331525
 Evil Eye::275311523
@@ -3031,6 +3040,7 @@ Innocence::211029050
 Innocence::211029051
 Inspector Proof::288300031
 Inventor King Badge::281900097
+Invite Badge::281900117
 Iron Ax::211030011
 Iron Bangle::217020011
 Iron Bow::211050011
@@ -3240,6 +3250,17 @@ Lovely's Fry Pan::211090200
 Low Res::298000131
 Lucifer Proof::288300151
 Lumberjack Proof::288300202
+Lumina Sphene::211009261
+Lumina Sphene::211009262
+Lumina Sphene::211009263
+Lumina Sphene::211009264
+Lumina Sphene::211009265
+Lumina Sphene::211009266
+Lumina Sphene::211009267
+Lumina Sphene::211009268
+Lumina Sphene::211009269
+Lumina Sphene::211009270
+Lumina Sphene::211009271
 Luna Acies::211020371
 Luna Acies::211020372
 Luna Baculus::211000341
@@ -3479,7 +3500,7 @@ Mechanical Staff::211000061
 Mechi-Band::217040231
 Mechi-Bangle::217020241
 Mechi-Ring::217040221
-Medea Proof::1634633793
+Medea Proof::288300203
 Medical Ax::211032211
 Medical Ax::211032221
 Medical Ax::211032231
@@ -3886,6 +3907,7 @@ Partisan II::211040072
 Partisan III::211040073
 Partisan::211040071
 Patron Shield Badge::281900065
+Pearl of Inner Peace::288105080
 Pendant: Poison (High)::217048051
 Pendant: SPD+ (L)::217048041
 Pendant: Stun (High)::217048061
@@ -4322,6 +4344,7 @@ Profic. Debuff Res. (Bow)::288200097
 Profic. Debuff Res. (Bow)::288200098
 Profic. Debuff Res. (Bow)::288200099
 Profic. Debuff Res. (Bow)::288200100
+Profic. Debuff Res. (Fairy)::288200111
 Profic. Debuff Res. (Fists)::288200101
 Profic. Debuff Res. (Fists)::288200102
 Profic. Debuff Res. (Fists)::288200103
@@ -4719,6 +4742,7 @@ Self-Healing (Lan.)::288105075
 Self-Healing (Staff)::288105071
 Self-Healing (Swo.)::288105072
 Senya's Katana::211090560
+Serpent Edge Badge::281900118
 Serpent Tail::211069021
 Serpent Tail::211069022
 Serpent Tail::211069023
@@ -4732,6 +4756,7 @@ Serpent Tail::211069030
 Serpent Tail::211069031
 Shade Blunt (Fists) Test::288020015
 Shade Blunt (Ha.) Test::288020016
+Shade Curse Badge::281900119
 Shade Curse Ring::217040981
 Shade Magic (Staff) Test::288020009
 Shade Piercing (Bow) Test::288020014
@@ -4909,6 +4934,7 @@ Solid Necklace::217031021
 Solid Ring::217041001
 Solid Ring::217041011
 Solid Ring::217041021
+Sorcery Order Badge::281900114
 Soul Bringer Proof::288300059
 Soul Keeper Proof::288300138
 Souleater Ax::211030531
@@ -5300,6 +5326,7 @@ T. Briar Rose Proof::288301250
 T. Brionac Proof::288301056
 T. Brunhild Proof::288301060
 T. Butterfly Warrior Proof::288301022
+T. Bête Théâtrale Proof::288301262
 T. Bûcheron Proof::288301161
 T. Camena Proof::288301263
 T. Carmilla Proof::288301194
@@ -5523,6 +5550,7 @@ T. White Knight Proof::288301030
 T. White Snow Proof::288301157
 T. Wolfskin Proof::288301249
 T. Xeno-Legion Proof::288301044
+T. Yaobikuni Proof::288301265
 T. Yasomagatsuhi Proof::288301064
 T. Yggdrasil Proof::288301083
 T. Ymir Proof::288301184
@@ -5636,6 +5664,7 @@ Toto's Trusthammer::211070212
 Tough Badge::281710199
 Toyotamahime Proof::288300129
 Trader Proof::288300216
+Transient Hammer::211070931
 Transient Knuckle::211060811
 Transient Soul Bow::211050831
 Transient Staff::211000841
@@ -5723,6 +5752,7 @@ Type Debuff Resistance::288200040
 Type Res+::288201105
 Type Res.+ (Phantom Thieves)::288201103
 Type Resistance+ (Bow)::288201102
+Type Resistance+ (Fairy)::288201106
 Type Resistance+ (Kata.)::288201104
 Type Resistance+ (Staff)::288201101
 ULTIMANIA Hammer::211070231
@@ -5961,6 +5991,7 @@ Wyrmsterner II::211070112
 Wyrmsterner III::211070113
 Wyrmsterner::211070111
 Xeno-Legion Proof::288300044
+Yaobikuni Proof::288300265
 Yasomagatsuhi Proof::288300064
 Yggdrasil Proof::288300083
 Ymir Proof::288300180
