@@ -6838,6 +6838,7 @@ Fallen Fang::221016159
 Fallen Skull::221016160
 Fear Mask::221017031
 Feathery Skin::221014070
+Feep-sea Relic::221004221
 Fiber Cord::221005055
 Fierce Iron Frame::221008163
 Fine Crystal Chain::221005101
@@ -7278,6 +7279,7 @@ Night Lamp Mushroom::221012063
 Night Light Mushroom::221012053
 Night Scene Bone::221013043
 Night Scene Core::221009107
+Night Scene Fragment::221008138
 Nolan Test Drug::221011084
 Nothing Feather::221015027
 Oak::221017034
@@ -7383,6 +7385,7 @@ Purple Medicine::221011055
 Purple Shell::221016037
 Purple Stripped Horns::221016070
 Puzzling Ancient Sign::221009126
+Pyroxene::221007039
 Radiant Crystal::221008247
 Raging Hammer Piece::221008141
 Raging Hammer Shard::221008142
