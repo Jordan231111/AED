@@ -45,6 +45,8 @@ Agent Tome::242030401
 Aima-Arravones Tome::242030410
 Alchemist Tome::242020011
 Allcosmos Starchart::242010000
+Amaranth Starchart::242010013
+Amaranth Tome::242030045
 Amazon Tome::242020301
 Ame-no-Murakumo Codex::242030226
 Ameretat Tome::242030305
@@ -158,6 +160,7 @@ Forerunner Tome::242020401
 Fortuna Treatise::242030019
 Fraulein Opus::242030124
 Galeforce Tome::242030602
+Geomancer Starchart::242010012
 Geomancer Tome::242030000
 Gjallarhorn Treatise::242030022
 Gladiator Tome::242030300
@@ -186,6 +189,7 @@ Högni Treatise::242030041
 Indra Tome::242030212
 Inspector Tome::242030302
 Isaiah Tome::242030508
+Izanagi Starchart::242012017
 Jinni Opus::242030037
 Jiutian Xuannu Starchart::242016002
 Jiutian Xuannu Treatise::242030618
@@ -226,7 +230,6 @@ Medium Tome::242020006
 Mellow Diva Treatise::242030507
 Melodist Psalm::242030502
 Mercenary Tome::242020702
-Mianagi Starchart::242012017
 Mighty Maiden Tome::242020007
 Migl Aspida Treatise::242030409
 Mikahayahi Treatise::242030209
@@ -286,6 +289,8 @@ Rebel Starchart::242014003
 Red Scorpio Opus::242030613
 Remittetur Treatise::242030018
 Resif Opus::242030514
+Reviver Starchart::242010011
+Reviver Treatise::242030044
 Ring-Guided Starchart::242019001
 Ring-Guided Tome::242031403
 Rose Unseen Treatise::242030714
