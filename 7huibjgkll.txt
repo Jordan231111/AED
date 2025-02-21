@@ -9197,3 +9197,250 @@ Spark Lamb::961014008
 Demon Salmon::961014010
 Rock Chicken::961014009
 Strong Beef::961014006
+
+
+
+
+
+Destiny Token::177900059
+Destiny Token (Moon)::177900005
+Knight's Prayer Piece::177000012
+Woodcutter's Fragment::177900002
+メリナと出逢う::177000083
+Whisper of Time::177900048
+Destiny Token::177900012
+Whisper of Time::177900022
+★5確定出逢いチケット::177000085
+Seven Stars Piece::177000017
+Sky Lesson's Token::177000008
+Encounter Suzette::177900089
+Star Dreams Piece::177900017
+Guiding Star Drop::177900132
+星跡のしずく・テアトラルベート::177000101
+Star Dreams Piece::177900006
+星の導きのしずく::177000090
+Weapon Resonance Series (x10)::177900061
+Rainbow Radiance Drop::177000022
+シュゼットと出逢う::177000063
+Star Dreams Piece::177000015
+Grand Masters Drop::177900057
+Resonant Strife Drop::177900068
+Star Dreams Piece::177900109
+Whisper of Time::177900020
+星の夢のかけら::177000033
+時の囁きのしずく::177000067
+Star Dreams Piece::177900056
+Destiny Token::177900016
+Gold Ticket::177000003
+Moon Prayer Drop::177000006
+Luring Shadow Drop::177000024
+Holy Prayer Spirit::177000016
+Star Dreams Piece::177000030
+第3部導きのしずく::177000062
+Whisper of Time Drop::177900077
+Whisper of Time::177900065
+Encounter Tiramisu::177900095
+Star Dreams Piece::177000009
+Time Wish Spirit::177000005
+Star Dreams Piece::177000025
+First Ticket::177000002
+時の囁きのひとひら::177000038
+Princess' Prayer Fragment::177000011
+Star Dreams Piece::177000004
+Whisper of Time::177000028
+Part 2 Campaign Ticket::177900080
+Whisper of Time::177900063
+Celestial Spark::177000018
+Whisper of Time::177000014
+第2部CPチケット::177000058
+Star Dreams Piece::177900039
+戦陣の響きのしずく::177000045
+Guide of the Land Spirit::177000021
+第2部CPチケット::177000057
+Star Dreams Piece::177000010
+Encounter Yuna::177900117
+Whisper of Time Drop::177000029
+時の囁きのしずく::177000047
+運命のしずく::177000026
+時の囁きのひとひら::177000043
+時の囁きのしずく::177000035
+Star Dreams Piece::177000023
+武具の煌きのしずく::177000037
+星の夢のかけら::177000042
+時の囁きのひとひら::177000046
+第2部CPチケット::177000059
+Whisper of Time::177000019
+Whisper of Time Drop::177000020
+Whisper of Time Drop::177900064
+時の囁きのしずく::177000039
+Luring Shadow Drop::177000027
+ティラミスと出逢う::177000073
+時の囁きのしずく::177000071
+星の夢のかけら::177000040
+天の導きのしずく::177000031
+第3部導きのしずく::177000060
+時の囁きのひとひら::177000054
+星の夢のかけら::177000036
+天のしずくのかけら::177000049
+時の囁きのしずく::177000044
+Star Dreams Piece::177000007
+シェイネと出逢う::177000091
+時の囁きのひとひら::177000055
+Whisper of Time::177000013
+第3部導きのしずく::177000079
+メリッサと出逢う::177000072
+星の夢のかけら::177000076
+星の導きのしずく::177000077
+Star Dreams Piece::177900035
+星跡のしずく・リバイバー::177000107
+時の囁きのひとひら::177000081
+時の囁きのしおり::177000070
+星の夢のかけら::177000087
+星の夢のかけら::177000061
+星の導きのしずく::177000110
+星の夢のかけら::177000053
+時の囁きのひとひら::177000092
+星跡のしずく・アメノウズメ::177000109
+星の夢のかけら::177000048
+時の囁きのしずく::177000052
+時の囁きのひとひら::177000041
+第2部CPチケット::177000056
+時の囁きのしずく::177000075
+ツキハと出逢う::177000064
+Star Dreams Piece::177000032
+時の囁きのひとひら::177000068
+エヴァと出逢う::177000103
+星の夢のかけら::177000098
+シオンと出逢う::177000086
+星の夢のかけら::177000069
+ユナと出逢う::177000096
+時の囁きのしずく::177000089
+時の囁きのひとひら::177000051
+星跡のしずく・イド::177000094
+第13章CPチケット::177000065
+Luring Shadow Fragment::177900071
+Lrincess' Prayer Fragment::177900001
+星の導きのしずく::177000104
+冥のしずくのかけら::177000050
+Whisper of Time Drop::177900037
+星跡のしずく・猫又権現::177000097
+ユーインと出逢う::177000082
+Whisper of Time::177900018
+時の囁きのひとひら::177000088
+Star Dreams Piece::177900004
+Star Dreams Piece::177900009
+Netherworld Princess Fragment::177900032
+ベルトランと出逢う::177000078
+時の囁きのしずく::177000100
+Whisper of Time::177900007
+Sky Lesson's Token::177900010
+冒険の導きのしおり::177000084
+Whisper of Time::177900072
+Whisper of Time::177900031
+Whisper of Time Drop::177900042
+Whisper of Time Drop::177900052
+Destiny Token::177900050
+星の夢のかけら::177000080
+Destiny Token::177900024
+時の囁きのしおり::177000099
+Destiny Token::177900003
+Whisper of Time Drop::177900021
+Whisper of Time::177900036
+時の囁きのひとひら::177000074
+星跡のしずく・カメーネ::177000095
+時の囁きのひとひら::177000034
+時の囁きのしずく::177000106
+時の囁きのひとひら::177000105
+Encounter Tsukiha::177900090
+Holy Knight Fragment::177900014
+Luring Shadow Drop::177900034
+3rd Anniversary Drop::177900053
+Whisper of Time::177900008
+5-Star Guaranteed Ticket::177900107
+Weapon Resonance Series (x1)::177900060
+Whisper of Time::177900051
+Whisper of Time::177900041
+Whisper of Time::177900019
+Luring Shadow Drop::177900038
+Guiding Light Drop::177900040
+Whisper of Time::177900011
+Whisper of Time Drop::177900066
+Star Dreams Piece::177900030
+Destiny Token::177900033
+Whisper of Time::177900047
+Star Dreams Piece::177900049
+Researcher Fragment::177900015
+Whisper of Time Drop::177900055
+トゥーヴァと出逢う::177000108
+Chapter 13 CP Ticket::177900086
+Whisper of Time::177900096
+Part 3 Guiding Drop::177900085
+Star Dreams Piece::177900058
+Whisper of Time Token::177900092
+Star Dreams Piece::177900084
+Rainbow Radiance Drop::177900029
+Encounter Melina::177900105
+Whisper of Time::177900087
+Seven Stars Piece::177900043
+Encounter Shion::177900108
+Part 3 Guiding Drop::177900101
+Celestial Spark::177900045
+Star Dreams Piece::177900046
+Whisper of Time Drop::177900093
+Part 2 Campaign Ticket::177900081
+Guiding Light Fragment::177900070
+Whisper of Time::177900110
+Guiding Star Drop::177900099
+Whisper of Time Drop::177900122
+Guiding Star Drop::177900112
+Whisper of Time Drop::177900088
+Whisper of Time Drop::177900097
+Star Dreams Piece::177900098
+Star Dreams Piece::177900023
+Nekomata Avatar Star Trail Drop::177900119
+Reviver Star Trail Drop::177900129
+Id Star Trail Drop::177900116
+Whisper of Time::177900127
+Encounter Shanie::177900113
+Kagurame Star Trail Drop::177900124
+Ame-no-Uzume Star Trail Drop::177900131
+Encounter Bertrand::177900100
+Whisper of Time Drop::177900111
+Whisper of Time Drop::177900128
+Whisper of Time::177900103
+Star Dreams Piece::177900067
+Encounter Mighty::177900115
+Whisper of Time::177900076
+Destiny Token::177900075
+Whisper of Time::177900114
+Camena Star Trail Drop::177900118
+Moon Prayer Drop::177900028
+Encounter Ewan::177900104
+Guiding Star Drop::177900126
+Guiding Adventure Token::177900106
+Whisper of Time Token::177900121
+Encounter Toova::177900130
+Star Dreams Piece::177900102
+Holy Prayer Spirit::177900027
+Star Dreams Piece::177900120
+Encounter Eva::177900125
+Bête Théâtrale Star Trail Drop::177900123
+Star Dreams Piece::177900062
+Catch-Up Campaign Special Ticket::177900083
+Star Dreams Piece::177900069
+Star Dreams Piece::177900091
+Encounter Melissa::177900094
+Silver Ticket::177000001
+Moon Prayer Drop::177900026
+Whisper of Time::177900054
+Part 2 Campaign Ticket::177900078
+星跡のしずく・カグラメ::177000102
+Part 3 Guiding Drop::177900082
+Moon Prayer Drop::177900025
+Guide of the Land Spirit::177900044
+Star Dreams Piece::177900074
+時の囁きのひとひら::177000066
+Part 2 Campaign Ticket::177900079
+Destiny Token::177900013
+Whisper of Time Drop::177900073
+マイティと出逢う::177000093
