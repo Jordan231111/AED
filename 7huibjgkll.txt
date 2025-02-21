@@ -49,6 +49,8 @@ Amaranth Starchart::242010013
 Amaranth Tome::242030045
 Amazon Tome::242020301
 Ame-no-Murakumo Codex::242030226
+Ame-no-Uzume Opus::242030525
+Ame-no-Uzume Starchart::242015014
 Ameretat Tome::242030305
 Angelic Record::242030032
 Apostle Tome::242020705
