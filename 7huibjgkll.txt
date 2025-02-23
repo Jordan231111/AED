@@ -1,3 +1,6 @@
+WARNING_ACCOUNT_CORRUPTION_Promised Fruit::243,000,012
+
+
 Guiding Light (Ax)::245000004
 Luring Shadow (Ft)::245000015
 Guiding Light (Fists)::245000007
