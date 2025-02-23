@@ -9447,3 +9447,463 @@ Part 2 Campaign Ticket::177900079
 Destiny Token::177900013
 Whisper of Time Drop::177900073
 マイティと出逢う::177000093
+
+
+
+
+
+
+
+Okashiume Bonsai::565000235
+Defeat the Jewel Vessel!::565000079
+Ferry Petals::565000447
+Dragon Action - Deep Dive::565000413
+SPD+ (M)::565000563
+Cat Ema::565000022
+Make it day Item::565000353
+Dragon Action - Swim::565000409
+Dragon Action - Claws::565000426
+Embedded Ladder::565000092
+Pro Toto Watch::565000119
+Water Type Attack+ (S)::565000668
+Lever (Left)::565000226
+Witch's Tears::565000446
+Craftsman's Hammer::565000269
+Space Stabilizer++::565000457
+Mission Book::565000177
+Slumberlotus Leaf::565000107
+2B Key::565000044
+Potential+ (Kyo)::565000557
+Dragon Action - Claws::565000389
+T. Dragontear Weapon - Ranged::565000370
+Shovel::565000278
+Water Release::565000039
+Strength+ When Critical::565000464
+Fire Release::565000038
+MAX MODE Extend (L)::565000465
+Dragon Action - Flames::565000402
+Water type::565000252
+Toto Watch::565000118
+Dragon Action - Swim::565000429
+Defeat the Large White Lie Bug!::565000073
+Critical Rate+ (M)::565000565
+Large Crystal::565000449
+Mission Book::565000181
+Funereal Melody::565000014
+Battery (B)::565000671
+Defeat the Captured One!::565000068
+Ironwall Circle::565000194
+Toto Crystal::565000120
+Ancient Forest's Fragment::565000031
+Defeat the Jewel Princess!::565000082
+Gathering Orb::565000098
+Handy Fan::565000110
+Mission Book::565000160
+Cat Book::565000239
+Smashy Hammer::565000015
+Discount Ticket::565000140
+Mission Book::565000163
+2A Key::565000043
+Defeat the Avidya Bug!::565000080
+Mimi Incense::565000114
+Crystal of Fall Leaves::565000024
+Silence's Scent::565000020
+Forest Wall-painting::565000034
+Teleportant Core::565000018
+Genesis Dogu::565000093
+Firehater Boots::565000019
+Moonlight Fragment::565000023
+Defeat the Captured One!::565000078
+Junk::565000021
+Slothfiend's Bile::565000016
+Binding Power::565000037
+3C Key::565000042
+Defeat The Rejected!::565000071
+2E Key::565000045
+Toto's Sabre::565000108
+Monster Femur::565000029
+Colors of the Moon::565000026
+Mission Book::565000166
+Superior Dogu::565000030
+Defeat The Rejected!::565000081
+Wind Release::565000040
+Colors of the Snow::565000028
+Mountain Wall-painting::565000035
+Wonderspark::565000013
+1C Key::565000046
+Turbo Handy Fan::565000111
+Snow-white Ice Stone::565000025
+7D Key::565000051
+Earth Release::565000041
+Colors of the Fall Leaves::565000027
+6D Key::565000049
+Ironwall Circle::565000193
+Raw Materials::565000086
+Swift Orb::565000096
+Standard Pass::565000116
+Attack Orb::565000094
+Defeat the Jewel Queen!::565000074
+8A Key::565000052
+Underworld Bill Hook::565000091
+Unlock everything on the map::565000100
+Aged Mushroom::565000089
+Sea-drift::565000084
+Oilcan::565000059
+Whirling Tides' Fragment::565000033
+Altered Ore::565000054
+Mission Book::565000151
+Mountaintop's Fragment::565000032
+Decoration Tray 2::565000243
+Defeat the Jewel Eye!::565000077
+Souvenir Pass::565000135
+Tranquil Orb::565000097
+Mimi Incense Deluxe::565000115
+Dragontear Weapon - Smashing::565000373
+T. Toto's Sabre::565000109
+Aharetake Bonsai::565000234
+Mission Book::565000153
+Fireworks Bomb::565000113
+Treasure Key::565000136
+Magic Key::565000099
+Defeat the White Lie Bug!::565000076
+Mission Book::565000154
+T. Dragontear Weapon - Edged::565000372
+8E Key::565000053
+Dragon Action - Wind::565000387
+Second Sight Orb::565000143
+Make it day Item::565000355
+Wind type::565000261
+Defeat the Jewel Eye!::565000067
+Prayer Mirror::565000090
+Mission Book::565000146
+Cleansing Holy Water::565000138
+Mission Book::565000169
+1E Key::565000047
+Mission Book::565000147
+Mission Book::565000156
+Rope::565000279
+Spare Battery::565000340
+Firework Explosive::565000112
+FnviteInfoConfirmItem::565000379
+Mission Book::565000170
+Dragontear Weapon - Piercing::565000334
+Mission Book::565000152
+Mission Book::565000159
+Defeat the Avidya Bug!::565000070
+Mission Book::565000158
+Mission Book::565000179
+Smoke Ball::565000139
+Mission Book::565000155
+Lever (Right)::565000227
+Vitality Orb::565000142
+Mission Book::565000173
+Plate::565000246
+Defense Orb::565000095
+InviteInfoConfirmItem::565000381
+Newlife Circle::565000197
+Thunder type::565000254
+Time Charm::565000137
+Mission Book::565000172
+Mission Book::565000191
+Defeat the Jewel Vessel!::565000069
+Mission Book::565000157
+Jamming Device::565000060
+Mission Book::565000164
+Valve Oil::565000268
+Godspeed Circle::565000195
+Cat Dogu::565000085
+Waning Orb::565000144
+Pictorial Key::565000017
+Mission Book::565000171
+Owl Bell::565000267
+Toto Medal::565000145
+Mission Book::565000192
+Ochoko::565000245
+Mission Book::565000168
+Mission Book::565000161
+Defeat the White Lie Bug!::565000066
+Mural Fragment::565000088
+Redtooth Circle::565000202
+Mission Book::565000182
+Grappling Hook::565000280
+Mission Book::565000178
+Defeat the Jewel Queen!::565000064
+Decoration Tray 3::565000244
+Dragontear Weapon - Piercing::565000367
+Lever (Forward)::565000228
+Mission Book::565000183
+Dragon Action - Dismount::565000405
+Mission Book::565000189
+Decoration Tray 1::565000242
+Newlife Circle::565000198
+Allwise Circle::565000200
+Roast Fish::565000241
+Primeval Blessing::565000214
+Mission Book::565000188
+Spirit Stone Fragment::565000055
+Wasting Circle::565000206
+Mission Book::565000185
+Redtooth Circle::565000201
+Suspicious Key::565000273
+Space Stabilizer::565000288
+Rabbit Book::565000237
+Tall Bottle::565000248
+Repair Module::565000270
+Dragontear Weapon - Ranged::565000377
+Dragon Action - Fire::565000408
+Small Seed::565000283
+Bird Book::565000238
+Lever (Down)::565000225
+Dragon Action - Claws::565000406
+T. Dragontear Weapon - Piercing::565000376
+Primeval Blessing::565000213
+Mission Book::565000184
+Fire type::565000251
+Hardshell Circle::565000208
+Miyabimatsu Bonsai::565000233
+Mission Book::565000190
+Gear::565000232
+Cyber Mononofu::565000393
+Lever (Back)::565000229
+Plagued Circle::565000212
+Make it night Item::565000360
+Allwise Circle::565000199
+Thunder type::565000262
+Wind type::565000253
+Bottle::565000296
+Auto Armor::565000314
+Wasting Circle::565000205
+Water type::565000260
+Space Stabilizer++::565000347
+Old Key::565000274
+Mission Book::565000176
+Nepeta::565000337
+Teapot::565000247
+Thunder type::565000258
+T. Dragontear Weapon - Piercing::565000368
+Golden Screw::565000264
+Time Stabilizer::565000291
+Revitalizer::565000294
+Mission Book::565000149
+Hardshell Circle::565000207
+Consumed Circle::565000209
+Katana::565000240
+Plagued Circle::565000211
+Godspeed Circle::565000196
+Toolbox::565000277
+Unlocking Memo::565000250
+Rusted Parts::565000263
+Light Seed::565000272
+Passcard (Yellow)::565000302
+Time Stabilizer++::565000293
+Short Hand::565000286
+Water type::565000256
+Wind type::565000257
+Space Stabilizer+::565000289
+Offering::565000057
+RoboGimmick2::565000322
+Mission Book::565000175
+Passcard (Red)::565000303
+Ancient Tome::565000297
+Time Stabilizer++::565000350
+Chandelier Trap Lever::565000317
+Drinko Classic::565000305
+Ticket::565000266
+Cyber Rikishi::565000396
+Dragontear Weapon - Smashing::565000333
+T. Dragontear Weapon - Smashing::565000374
+Unstable Fragments::565000265
+Spiritguard Circle::565000203
+Old Helmet::565000295
+Make it day Item::565000359
+Hunter License::565000271
+Mission Book::565000180
+Time Stabilizer+::565000292
+Meteor Chunk::565000338
+Dragon Action - Fire::565000388
+Lantern::565000281
+Heat Trap Lever::565000316
+Archaeologist's Notebook::565000298
+Ladder::565000231
+Needle of Punctuality::565000311
+Dove of Purgation::565000312
+Fragrant Fluid::565000329
+Dragontear Weapon - Piercing::565000375
+Fire type::565000255
+Ballista::565000330
+RoboGimmick3::565000323
+Mission Book::565000165
+Make it day Item::565000357
+Chain::565000230
+Defeat the Dragger!::565000075
+Long Hand::565000287
+Make it night Item::565000354
+Make it night Item::565000362
+Potential+ (Mai)::565000558
+Passcard (Purple)::565000304
+Drinko Premium::565000306
+Pendulum of Deferral::565000310
+Mission Book::565000186
+Mission Book::565000187
+Make it night Item::565000356
+Dragon Action - Fly::565000385
+Hang Glider::565000282
+Kyatnap::565000336
+T. Dragontear Weapon - Smashing::565000366
+Shiny Seed::565000284
+Dragontear Weapon - Ranged::565000369
+Dragon Action - Gale::565000401
+Fuel Tank::565000344
+Compass Hand::565000313
+Crack Chip::565000342
+Dragontear Weapon - Smashing::565000365
+RoboGimmick1::565000321
+Dragontear Weapon - Edged::565000363
+Heat Trap Lever::565000327
+InviteInfoConfirmItem::565000380
+Mr. Onsa::565000395
+Dragontear Weapon - Edged::565000332
+Fragrant Fluid::565000318
+Passcard (Green)::565000301
+Cocoon of Order::565000307
+Chandelier Trap Lever::565000328
+Spike Floor Trap Lever::565000315
+Dragon Action - Swim::565000399
+Time Stabilizer+::565000349
+Washbasin::565000320
+Dragontear Weapon - Ranged::565000335
+Dragon Action - Fire::565000398
+Dragon Action - Fire::565000428
+Make it day Item::565000361
+InviteInfoConfirmItem::565000384
+Washbasin::565000331
+Dragon Action - Gale::565000421
+Magic Attack Damage+::565000463
+Dragon Action - Flames::565000422
+Magic Critical Rate+::565000462
+Dragon Action - Deep Dive::565000403
+Dragontear Weapon - Edged::565000371
+Dragon Action - Wind::565000427
+Dragon Action - Wind::565000397
+Pulsing Seed::565000285
+Dragon Action - Dismount::565000425
+Dragon Action - Flames::565000432
+Bug Repellent::565000675
+Spike Floor Trap Lever::565000326
+Dragon Action - Claws::565000416
+Dragon Action - Dismount::565000391
+Cyber Dragon::565000394
+Handy Rope::565000681
+Treasure Room Key::565000299
+InviteInfoConfirmItem::565000383
+Dragon Action - Deep Dive::565000433
+InviteInfoConfirmItem::565000382
+Dragon Action - Gale::565000411
+Make it night Item::565000352
+Battery (P)::565000673
+Witchy Hat::565000450
+Dragon Action - Sharp Claws::565000420
+T. Dragontear Weapon - Ranged::565000378
+Dragon Action - Wind::565000407
+Sharp Scythe::565000678
+Lacquered Plank::565000676
+Dragon Action - Fire::565000418
+SPD+ (S)::565000663
+Dragon Action - Sharp Claws::565000400
+Dragon Action - Dismount::565000415
+Dragon Action - Ride::565000404
+Dragon Action - Flames::565000412
+Dragon Action - Ride::565000414
+Dragon Action - Ride::565000424
+Battery (R)::565000672
+Dragon Action - Wind::565000417
+Time Stabilizer++::565000460
+Dragon Action - Swim::565000386
+Space Stabilizer+::565000346
+Dragon Action - Sharp Claws::565000430
+Dragon Action - Claws::565000392
+Space Stabilizer::565000345
+Dragon Action - Deep Dive::565000423
+Battlecore G::565000437
+MAX MODE Extend (M)::565000564
+Broomseed::565000445
+Kagurame's Sight::565000682
+Handy Rope::565000677
+MAX MODE Extend (S)::565000664
+Wind Type Attack+ (M)::565000570
+Wind Type Attack+ (S)::565000670
+Critical Rate+ (L)::565000461
+Space Stabilizer+::565000456
+Fractal Seeds::565000683
+PWR+ (M)::565000562
+Water Type Attack+ (M)::565000568
+Sharp Scythe::565000674
+Dragon Flag::565000454
+Space Stabilizer++::565000290
+Dragon Action - Ride::565000390
+Critical Rate+ (S)::565000665
+Compact Calculator::565000434
+Lacquered Plank::565000680
+Cat Deity's Beads::565000056
+ID Card::565000063
+Lazuline Plate::565000452
+PWR+ (S)::565000662
+Fire type::565000259
+Curved Sword Replica::565000451
+High-Purity Glass::565000453
+Bug Repellent::565000679
+Earth Type Attack+ (S)::565000669
+All Stats+::565000561
+Dragon Action - Sharp Claws::565000410
+Potential+ (Terry)::565000559
+Ballista::565000319
+Fire Type Attack+ (M)::565000567
+T. Dragontear Weapon - Edged::565000364
+Fire Type Attack+ (S)::565000667
+Time Stabilizer::565000348
+All Stats+::565000661
+Type Attack+ (S)::565000666
+Motivashroom::565000300
+Small Bomb::565000062
+1G Key::565000048
+Premium Pass::565000117
+Attraction Map::565000134
+Defeat the Jewel Princess!::565000072
+Mission Book::565000162
+Battlecore B::565000439
+Bus Ticket::565000339
+Make it night Item::565000358
+Mission Book::565000174
+Spiritguard Circle::565000204
+Restock Ticket::565000141
+Sea Wall-painting::565000036
+Soul Jewel::565000087
+Lever (Up)::565000224
+Type Attack+ (M)::565000566
+Consumed Circle::565000210
+Make it day Item::565000351
+Live Concert Ticket::565000058
+Nullon::565000435
+Time Stabilizer+::565000459
+Collect Fractal Seeds.::565000684
+Dragon Action - Swim::565000419
+Time Stabilizer::565000458
+Mission Book::565000167
+Mission Book::565000148
+Potential+ (Kula)::565000560
+Dragon Action - Gale::565000431
+Defeat the Large White Lie Bug!::565000083
+Nullon::565000436
+Master Key::565000343
+Gate Pass::565000448
+7C Key::565000050
+Battlecore S::565000438
+Industrial Cutter::565000061
+Mercy Keep Map::565000249
+Auto Armor::565000325
+Candlestick::565000236
+Earth Type Attack+ (M)::565000569
+Space Stabilizer::565000455
+Defeat the Dragger!::565000065
+Mini Cleaner::565000341
+Mission Book::565000150
