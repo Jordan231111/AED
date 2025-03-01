@@ -9907,3 +9907,13 @@ Space Stabilizer::565000455
 Defeat the Dragger!::565000065
 Mini Cleaner::565000341
 Mission Book::565000150
+
+
+
+
+
+Stone OOPArt::791000001
+Bronze OOPArt::791000002
+Gold OOPArt::791000004
+Silver OOPArt::791000003
+Jeweled OOPArt::791000005
