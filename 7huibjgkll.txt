@@ -38,6 +38,7 @@ Cat Express Ticket::564003001
 
 
 
+
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -71,7 +72,6 @@ Armiger Tome::242030501
 Assassin's Fist Tome::242020600
 Asura Tome::242020200
 Athena Codex::242030417
-Atoried Fighter Starchart::242019002
 Avenger Tome::242020703
 Avesta Treatise::242030121
 Bard Tome::242020501
@@ -185,7 +185,6 @@ Hermes Starchart::242010001
 Hermes Tome::242030039
 Hierophant Tome::242030002
 High Priestess Treatise::242030012
-Hogna Rex Treatise::242030505
 Holy Sentinel Codex::242030423
 Holy Sentinel Starchart::242014006
 Holy Sword Record::242030222
@@ -226,6 +225,7 @@ Lumberjack Psalm::242030318
 Maestro Tome::242020604
 Magister Starchart::242014007
 Magister Tome::242030403
+Magna Rex Treatise::242030505
 Mailed Sheep Tome::242030126
 Mal'akh Starchart::242017005
 Mal'akh Tome::242030701
@@ -325,6 +325,7 @@ Soul Bringer Tome::242030013
 Soul Keeper Treatise::242030312
 Sovereign Psalm::242030105
 Starlight Treatise::242030203
+Storied Fighter Starchart::242019002
 Stormbreaker Tome::242030604
 Striker Tome::242020602
 String Puller Tome::242030214
@@ -377,7 +378,6 @@ Yaobikuni Tome::242030720
 Yasomagatsuhi Treatise::242030210
 Ymir Treatise::242030420
 Yuda Opus::242030219
-
 
 
 
