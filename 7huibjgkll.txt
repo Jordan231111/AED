@@ -43,6 +43,7 @@ A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
 Abyssal Devotee Tome::242030112
 Adept Fencer Tome::242020202
+Admiral Starchart::242012018
 Admiral Tome::242030202
 Agent Tome::242030401
 Aima-Arravones Tome::242030410
@@ -70,6 +71,7 @@ Armiger Tome::242030501
 Assassin's Fist Tome::242020600
 Asura Tome::242020200
 Athena Codex::242030417
+Atoried Fighter Starchart::242019002
 Avenger Tome::242020703
 Avesta Treatise::242030121
 Bard Tome::242020501
@@ -183,6 +185,7 @@ Hermes Starchart::242010001
 Hermes Tome::242030039
 Hierophant Tome::242030002
 High Priestess Treatise::242030012
+Hogna Rex Treatise::242030505
 Holy Sentinel Codex::242030423
 Holy Sentinel Starchart::242014006
 Holy Sword Record::242030222
@@ -223,7 +226,6 @@ Lumberjack Psalm::242030318
 Maestro Tome::242020604
 Magister Starchart::242014007
 Magister Tome::242030403
-Magna Rex Treatise::242030505
 Mailed Sheep Tome::242030126
 Mal'akh Starchart::242017005
 Mal'akh Tome::242030701
@@ -302,6 +304,8 @@ Rose Unseen Treatise::242030714
 Rune Knight Tome::242020103
 Sacrament Codex::242030127
 Sacrament Starchart::242011003
+Sakuya-bime Starchart::242014008
+Sakuya-bime Treatise::242030424
 Sanctus Tome::242030708
 Sarashinahime Treatise::242030213
 Sayorihime Treatise::242030024
@@ -321,7 +325,6 @@ Soul Bringer Tome::242030013
 Soul Keeper Treatise::242030312
 Sovereign Psalm::242030105
 Starlight Treatise::242030203
-Storied Fighter Starchart::242019002
 Stormbreaker Tome::242030604
 Striker Tome::242020602
 String Puller Tome::242030214
