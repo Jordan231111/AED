@@ -266,6 +266,8 @@ Oberon Starchart::242014002
 Oberon Treatise::242030422
 Octofighter Tome::242030301
 Okaminokami Treatise::242030516
+Okuninushi Starchart::242010014
+Okuninushi Treatise::242030046
 Ometeotl Treatise::242030218
 Omoikane Opus::242030029
 Oracle Starchart::242010008
