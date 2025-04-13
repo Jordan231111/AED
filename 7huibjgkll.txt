@@ -37,8 +37,6 @@ Green Key::564000001
 Cat Express Ticket::564003001
 
 
-
-
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -58,6 +56,8 @@ Ame-no-Uzume Opus::242030525
 Ame-no-Uzume Starchart::242015014
 Ameretat Tome::242030305
 Angelic Record::242030032
+Anomaly Debris Starchart::242016005
+Anomaly Debris Tome::242030621
 Apostle Tome::242020705
 Aqua Goddess Treatise::242030014
 Aqua Ruler Starchart::242010006
@@ -104,6 +104,7 @@ Channeler Tome::242020010
 Chant Script::242000003
 Chernobog Opus::242030313
 Chevalier Tome::242020403
+Chronoandreios Starchart::242011009
 Citrinitas Tome::242030515
 Covert Agent Treatise::242030307
 Crimson Knight Tome::242030108
@@ -166,6 +167,8 @@ Flare Witch Psalm::242030015
 Forerunner Tome::242020401
 Fortuna Treatise::242030019
 Fraulein Opus::242030124
+Futsunomitama Codex::242030230
+Futsunomitama Starchart::242012020
 Galeforce Tome::242030602
 Geomancer Starchart::242010012
 Geomancer Tome::242030000
