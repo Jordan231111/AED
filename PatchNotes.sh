@@ -17,7 +17,7 @@ else
     commit_short_hash=$(git log -n 1 --pretty=format:"%h" $commit_sha)
     commit_date=$(git log -n 1 --pretty=format:"%ad" --date=format:"%Y-%m-%d %H:%M" $commit_sha)
 
-    echo "\n--- Commit ${commit_short_hash}: ${commit_subject} (${commit_date}) ---"
+    echo "\n--- ${commit_date} ---"
 
     # Get added lines, remove '+', remove '::.*', and add line numbers for this commit
     # Only for the specific file
