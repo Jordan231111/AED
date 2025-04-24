@@ -65,6 +65,8 @@ Aqua Ruler Tome::242030001
 Arc Knight Starchart::242011006
 Arc Knight Tome::242030101
 Arcana Codex::242030614
+Archaeologist Starchart::242017007
+Archaeologist Treatise::242030721
 Areadbhar Treatise::242030411
 Areth's Diamond Tome::242031401
 Aristocrat Treatise::242030418
@@ -213,6 +215,7 @@ Kagutsuchi Tome::242030200
 Kelkale Codex::242030120
 Kingpin Tome::242030408
 Kommandeur Tome::242030702
+Lapin Starchart::242010015
 Lapin Tome::242030005
 Lazuli Medea Tome::242030412
 Legendary Swordsman Record::242030215

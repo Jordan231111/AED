@@ -4,8 +4,8 @@ FILE_TO_TRACK="7huibjgkll.txt"
 
 echo "### Patch Notes for Last 3 Commits of $FILE_TO_TRACK ###"
 
-# Get the last 3 commit hashes that modified the target file, oldest first for chronological order
-commit_hashes=$(git log -n 3 --pretty=format:%H --reverse -- "$FILE_TO_TRACK" 2>/dev/null)
+# Get the last 3 commit hashes that modified the target file, newest first
+commit_hashes=$(git log -n 3 --pretty=format:%H -- "$FILE_TO_TRACK" 2>/dev/null)
 
 # Check if there are any commits to process
 if [ -z "$commit_hashes" ]; then
