@@ -217,6 +217,8 @@ Kingpin Tome::242030408
 Kommandeur Tome::242030702
 Lapin Starchart::242010015
 Lapin Tome::242030005
+Last Haven Starchart::242016006
+Last Haven Treatise::242030622
 Lazuli Medea Tome::242030412
 Legendary Swordsman Record::242030215
 Libero Tome::242030028
@@ -386,7 +388,6 @@ Yaobikuni Tome::242030720
 Yasomagatsuhi Treatise::242030210
 Ymir Treatise::242030420
 Yuda Opus::242030219
-
 
 
 Drake Ore::205000089
@@ -774,6 +775,7 @@ Aqua Goddess Proof::288300061
 Aqua Ruler Proof::288300002
 Arc Knight Proof::288300019
 Arcana Proof::288300187
+Archaeologist Proof::288300275
 Areadbhar Proof::288300106
 Areth's Diamond Proof::288300078
 Aristocrat Proof::288300172
@@ -920,6 +922,9 @@ Bestial Fists::211069088
 Bestial Fists::211069089
 Bestial Fists::211069090
 Bestial Fists::211069091
+Beyonder Bracelet::217024021
+Beyonder Necklace::217030991
+Beyonder Ring::217041311
 Big Hammer II::211070072
 Big Hammer III::211070073
 Big Hammer::211070071
@@ -1920,6 +1925,7 @@ E. Aqua Goddess Proof::288304061
 E. Aqua Ruler Proof::288304002
 E. Arc Knight Proof::288304019
 E. Arcana Proof::288304189
+E. Archaeologist Proof::288304272
 E. Areadbhar Proof::288304104
 E. Areth's Diamond Proof::288304076
 E. Aristocrat Proof::288304174
@@ -2039,6 +2045,7 @@ E. Kingpin Proof::288304153
 E. Kommandeur Proof::288304045
 E. Lady of Grace Proof::288304221
 E. Lapin Proof::288304020
+E. Last Haven Proof::288304274
 E. Lazuli Medea Proof::288304107
 E. Legendary Swordsman Proof::288304111
 E. Legendary Wolf Proof::288304242
@@ -3291,6 +3298,7 @@ Lance's Prayer (Lan.)::288202005
 Lance::211040081
 Lapin Proof::288300020
 Large Falcon Katana::211020361
+Last Haven Proof::288300277
 Last Stand Badge::281900049
 Last Stand Bracelet::217020451
 Last Stand Necklace::217030411
@@ -3586,6 +3594,7 @@ Mana Fists::211060561
 Mana Hatchet::211030571
 Mana Lance::211040601
 Mana Loop::217040701
+Mana Recharge Badge::281900133
 Mana Rod::211000591
 Mana String::217030621
 Mana Wand::211000581
@@ -4006,6 +4015,7 @@ PWR/SPR Badge::281135617
 PWR/SPR Badge::281140620
 Pack Pick Bloom::211000291
 Pain Badge::281900051
+Pain Curse Badge::281900131
 Pain Enhance Badge::281900000
 Pain Resistance Badge::281747705
 Pain Resistance Badge::281747710
@@ -4095,6 +4105,7 @@ Pluma Diana Proof::288300145
 Pointy Parasol::211040251
 Pointy Parasol::211040252
 Poison Bow: Poison (Low)::211058021
+Poison Curse Badge::281900132
 Poison Curse II::275221502
 Poison Curse::275211502
 Poison Lily::211069041
@@ -4134,6 +4145,7 @@ Poison Touch III::275331519
 Poison Touch::275311517
 Polyhymniā Proof::288300206
 Poseidon's Katana::211020171
+Poseidon's Katana::211020172
 Pow. of Absorb (Ax)::288008004
 Pow. of Absorb (Bow)::288008006
 Pow. of Absorb (Eastern)::288008010
@@ -4303,6 +4315,7 @@ Power of Inferno (Lan.)::288001205
 Power of Inferno (Staff)::288001201
 Power of Inferno (Swo.)::288001202
 Power of Inferno::288001209
+Power of Learning::288207002
 Power of MP Regen::288104081
 Power of Mind (Arcadia)::288005014
 Power of Mind (Ax)::288005004
@@ -4425,6 +4438,7 @@ Power of Wind::288003005
 Power of Wind::288003006
 Power of Wind::288003007
 Power of Wind::288003008
+Power of the Anguisher::288012111
 Power of the Blaze::288001101
 Power of the Blaze::288001102
 Power of the Blaze::288001103
@@ -4434,6 +4448,12 @@ Power of the Blaze::288001106
 Power of the Blaze::288001107
 Power of the Blaze::288001108
 Power of the Blaze::288001109
+Power of the Convulser::288002212
+Power of the Crystalizer::288013012
+Power of the Deluger::288004246
+Power of the Engulfer::288001211
+Power of the Galvanizer::288011111
+Power of the Howler::288003211
 Powered Hammer II::211070042
 Powered Hammer III::211070043
 Powered Hammer::211070041
@@ -4621,12 +4641,19 @@ Reve Eternal::211009011
 Reve Eternal::211009012
 Reviver Proof::288300266
 Rill Ax::211030181
+Rill Ax::211030182
 Rill Bow::211050171
+Rill Bow::211050172
 Rill Hammer::211070161
+Rill Hammer::211070162
 Rill Knuckles::211060171
+Rill Knuckles::211060172
 Rill Spear::211040181
+Rill Spear::211040182
 Rill Staff::211000161
+Rill Staff::211000162
 Rill Sword::211010171
+Rill Sword::211010172
 Ring [Default]::217040000
 Ring of Brilliance::217040441
 Ring of Brilliance::217040442
@@ -5459,6 +5486,7 @@ T. Aqua Goddess Proof::288301061
 T. Aqua Ruler Proof::288301002
 T. Arc Knight Proof::288301019
 T. Arcana Proof::288301191
+T. Archaeologist Proof::288301274
 T. Areadbhar Proof::288301106
 T. Areth's Diamo. Proof::288301078
 T. Aristocrat Proof::288301176
@@ -5578,6 +5606,7 @@ T. Kingpin Proof::288301155
 T. Kommandeur Proof::288301045
 T. Lady of Grace Proof::288301223
 T. Lapin Proof::288301020
+T. Last Haven Proof::288301276
 T. Lazuli Medea Proof::288301109
 T. Legendary Swordsman Proof::288301113
 T. Legendary Wolf Proof::288301244
@@ -6112,6 +6141,14 @@ Wenefica Proof::288300218
 White Knight Proof::288300030
 White Silver Trident::211040421
 White Snow Proof::288300154
+Wind Calamity Blunt (Fist)::288010215
+Wind Calamity Blunt (Ha.)::288010216
+Wind Calamity Magic (Staff)::288010209
+Wind Calamity Pierce (Bow)::288010214
+Wind Calamity Pierce (Lan.)::288010213
+Wind Calamity Slash (Ax)::288010212
+Wind Calamity Slash (Kata.)::288010211
+Wind Calamity Slash (Swo.)::288010210
 Wind Hit (Fists)::288010207
 Wind Hit (Ha.)::288010208
 Wind King's Bastion Badge::281900046
