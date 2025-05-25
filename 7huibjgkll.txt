@@ -98,6 +98,7 @@ Brave Storm Psalm::242030207
 Brawler Psalm::242030603
 Briar Rose Opus::242030719
 Briar Rose Starchart::242017004
+Brionac Starchart::242014009
 Brionac Tome::242030404
 Brunhild Treatise::242030107
 Butterfly Warrior Treatise::242030402
@@ -374,6 +375,8 @@ Vanagandr Starchart::242012016
 Vanagandr Treatise::242030228
 Vanguard Tome::242020303
 Venus Treatise::242030038
+Voleur Opus::242030526
+Voleur Starchart::242015015
 Völva Treatise::242030031
 Walkure Tome::242030315
 Warlock Tome::242020002

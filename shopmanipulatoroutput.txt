@@ -1,0 +1,354 @@
+Blazing Hero Starchart::242016003
+Erato Treatise::242030518
+Polyhymniā Treatise::242030520
+Chevalier Tome::242020403
+Dragoon Tome::242030400
+Okaminokami Treatise::242030516
+Wenefica Tome::242030522
+Gjallarhorn Treatise::242030022
+Ymir Treatise::242030420
+Sanctus Tome::242030708
+Starlight Treatise::242030203
+Sakuya-bime Treatise::242030424
+Murasame Starchart::242012001
+Ninetails Fox Tome::242030504
+Ame-no-Uzume Opus::242030525
+Amazon Tome::242020301
+Vanagandr Treatise::242030228
+Lovely Chef Tome::242030606
+Abyss Liberator Treatise::242030117
+Citrinitas Tome::242030515
+Susanoo Treatise::242030216
+Inspector Tome::242030302
+Athena Codex::242030417
+Shadow Lord Tome::242030605
+Octofighter Tome::242030301
+Aqua Ruler Tome::242030001
+Gray Hound Tome::242030609
+Devotroid Treatise::242030519
+Bladesaint Starchart::242011004
+Proud Beast Treatise::242030607
+Marksman Tome::242020502
+Kingpin Tome::242030408
+Resif Opus::242030514
+Thorny Woman Record::242030517
+Sovereign Psalm::242030105
+Phalanx Tome::242020402
+Apostle Tome::242020705
+Avesta Treatise::242030121
+Blanc Meneur Treatise::242030503
+Aima-Arravones Tome::242030410
+Galeforce Tome::242030602
+Bête Théâtrale Starchart::242011007
+Fortuna Treatise::242030019
+???::242031501
+Oberon Treatise::242030422
+Storied Fighter Starchart::242019002
+Hastantiqua Treatise::242030407
+Indra Tome::242030212
+Ukanomitama Opus::242030421
+Magna Rex Treatise::242030505
+Armiger Tome::242030501
+Blazing Hero Treatise::242030619
+Dicé Opus::242030125
+Paladin Tome::242030100
+Sniper Tome::242020500
+Okuninushi Starchart::242010014
+Högni Starchart::242010004
+Blazing Sword Record::242030123
+Tentamare Treatise::242030304
+Druid Tome::242020001
+Fenrir Tome::242030223
+Pluma Diana Treatise::242030513
+Hermes Starchart::242010001
+Empress Tome::242030601
+Holy Sword Record::242030222
+Izanagi Starchart::242012017
+Harmonia Treatise::242030416
+Striker Tome::242020602
+Slayer Tome::242030217
+Migl Aspida Treatise::242030409
+Eurydice Starchart::242013002
+Chant Script::242000003
+Wenefica Starchart::242015011
+Princess Psalm::242030103
+Holy Sentinel Starchart::242014006
+Taiyi Zhenren Starchart::242010003
+Dragoon Starchart::242014001
+Rebel Starchart::242014003
+Lapin Starchart::242010015
+Nirvana Starchart::242010009
+Allcosmos Starchart::242010000
+Dragon Ruler Starchart::242014004
+Vanagandr Starchart::242012016
+Yaobikuni Starchart::242017006
+A.Murakumo Starchart::242012014
+Dragon Exile Starchart::242014005
+Aqua Ruler Starchart::242010006
+Enforcer Starchart::242016001
+Epoch Maker Starchart::242015012
+Muse Starchart::242017002
+Xeno-Legion Starchart::242010002
+Camena Starchart::242011008
+Sakuya-bime Starchart::242014008
+Futsunomitama Starchart::242012020
+Felis Lord Starchart::242016004
+Prayer Script::242000002
+Jiutian Xuannu Starchart::242016002
+Geomancer Starchart::242010012
+Narukami Starchart::242012011
+Ame-no-Uzume Starchart::242015014
+Nekomata Av. Starchart::242015013
+Brionac Starchart::242014009
+Ring-Guided Starchart::242019001
+Chronoandreios Starchart::242011009
+Kagutsuchi Starchart::242012015
+Amaranth Starchart::242010013
+Drago Mirage Starchart::242010010
+Prthivi Starchart::242017001
+Sacrament Starchart::242011003
+Eris Starchart::242011005
+Slayer Starchart::242012013
+Raven Tengu Starchart::242010007
+Wolfskin Starchart::242013004
+Sukunahikona Starchart::242013001
+Arc Knight Starchart::242011006
+Last Haven Starchart::242016006
+Takuhatachiji Starchart::242012012
+Dragon Bearer Starchart::242011001
+Mighty Maiden Tome::242020007
+Ullr Starchart::242015001
+Oracle Starchart::242010008
+Magister Starchart::242014007
+Oraculum Starchart::242011002
+Admiral Starchart::242012018
+Era Blaster Tome::242020008
+Summer Starchart::242019003
+Oberon Starchart::242014002
+Asura Tome::242020200
+Anomaly Debris Starchart::242016005
+Briar Rose Starchart::242017004
+Orator Tome::242020704
+The Renewed Starchart::242010005
+Mal'akh Starchart::242017005
+Alchemist Tome::242020011
+Voleur Starchart::242015015
+Warlock Tome::242020002
+Dragon Reaper Starchart::242013003
+Channeler Tome::242020010
+Völva Treatise::242030031
+Bishop Tome::242020701
+Diviner Tome::242020005
+Soul Bringer Tome::242030013
+Holy Warrior Tome::242020100
+Sword Master Tome::242020102
+Rune Knight Tome::242020103
+Griffin Lance Tome::242020400
+Battler Tome::242020304
+Cursed Bride Treatise::242030007
+Hierophant Tome::242030002
+Lapin Tome::242030005
+Berserker Tome::242020302
+Oracle Tome::242030004
+Maestro Tome::242020604
+Wu-Shu Tome::242020601
+Protector Tome::242030008
+Patriarch Tome::242020700
+Divinator Tome::242030009
+Archaeologist Starchart::242017007
+Murmur Script::242000001
+Adept Fencer Tome::242020202
+Rakshasa Tome::242020201
+Troubadour Tome::242020503
+Beauty Police Treatise::242030111
+Warrior Tome::242020300
+Forerunner Tome::242020401
+Dark Knight Tome::242020101
+Skadi Tome::242030026
+Elementalist Tome::242020009
+Judgment Tome::242030011
+Raven Tengu Tome::242030042
+Högni Treatise::242030041
+Dáinsleif Tome::242030034
+Wizard Tome::242020004
+Monk Tome::242020603
+Medea Treatise::242030035
+Flare Witch Psalm::242030015
+Mercenary Tome::242020702
+Geomancer Tome::242030000
+Libette Tome::242030021
+Libero Tome::242030028
+Negotiator Starchart::242017003
+Aqua Goddess Treatise::242030014
+Mystic Tome::242020003
+Avenger Tome::242020703
+Omoikane Opus::242030029
+Medium Tome::242020006
+Vanguard Tome::242020303
+Undertaker Tome::242020012
+Exalted Maiden Psalm::242030023
+Bard Tome::242020501
+Flame Lord Tome::242030003
+Angelic Record::242030032
+High Priestess Treatise::242030012
+Empress Crowe Record::242030116
+Abyssal Devotee Tome::242030112
+Cybele Treatise::242030016
+Divine Paladin Treatise::242030109
+Sky Sprite Treatise::242030106
+Mikahayahi Treatise::242030209
+Minerva Treatise::242030113
+Seele Gnade Treatise::242030020
+Sayorihime Treatise::242030024
+Amaranth Tome::242030045
+Remittetur Treatise::242030018
+Miracle Worker Treatise::242030030
+White Knight Tome::242030104
+Kelkale Codex::242030120
+Okuninushi Treatise::242030046
+Titania Treatise::242030017
+Cthulhu Codex::242030025
+Carmilla Tome::242030033
+Drago Mirage Tome::242030027
+Assassin's Fist Tome::242020600
+Nirvana Tome::242030043
+Reviver Treatise::242030044
+Xeno-Legion Psalm::242030010
+Justitia Codex::242030118
+Eris Treatise::242030130
+Taiyi Zhenren Tome::242030040
+Bête Théâtrale Opus::242030131
+Hermes Tome::242030039
+Mailed Sheep Tome::242030126
+Lord of Spirits Record::242030114
+Magister Tome::242030403
+Arc Knight Tome::242030101
+Jinni Opus::242030037
+Orpheus Opus::242030036
+Crimson Knight Tome::242030108
+Oraculum Tome::242030128
+Venus Treatise::242030038
+Nemesis Tome::242030122
+Eternal Swordsman Record::242030115
+Grimoire Tome::242030110
+Yasomagatsuhi Treatise::242030210
+Libitina Treatise::242030309
+Sunrise Treatise::242030206
+Sun Goddess Tome::242030201
+Djinn Tome::242030705
+Archaeologist Treatise::242030721
+Briar Rose Opus::242030719
+Bladesaint Tome::242030129
+Admiral Tome::242030202
+Murasame Tome::242030204
+Brave Storm Psalm::242030207
+Ameretat Tome::242030305
+Demon Reaper Tome::242030308
+Fraulein Opus::242030124
+Bûcheron Treatise::242030314
+Orco-Figlia Treatise::242030211
+Ometeotl Treatise::242030218
+Legendary Swordsman Record::242030215
+Camena Treatise::242030132
+Fireside Cat Treatise::242030316
+Thanatos Opus::242030317
+Juggernaut Tome::242030205
+Flare Knight Treatise::242030119
+Reviver Starchart::242010011
+Narukami Tome::242030224
+Hypnotist Treatise::242030006
+Areadbhar Treatise::242030411
+Brunhild Treatise::242030107
+Kagutsuchi Tome::242030200
+Titan Tome::242030600
+Chernobog Opus::242030313
+Ame-no-Murakumo Codex::242030226
+Soul Keeper Treatise::242030312
+Goddess of Destiny Tome::242031402
+Yuda Opus::242030219
+String Puller Tome::242030214
+Lumberjack Psalm::242030318
+Lila Blitz Tome::242030306
+Butterfly Warrior Treatise::242030402
+Sarashinahime Treatise::242030213
+Walkure Tome::242030315
+Golden Flower Cat Tome::242030310
+Shining Shadow Treatise::242030608
+Transporter Treatise::242030311
+Utsutahime Tome::242030509
+Dragon Ruler Tome::242030406
+Gladiator Tome::242030300
+Epoch Maker Treatise::242030523
+Sigrdrifa Treatise::242030320
+Brionac Tome::242030404
+Watatsumi Tome::242030208
+Wolfskin Treatise::242030324
+Erinys Codex::242030319
+Aristocrat Treatise::242030418
+Nekogami Treatise::242030220
+Yaobikuni Tome::242030720
+Dragon Bearer Psalms::242030102
+Grim Reaper Tome::242030303
+Holy Sentinel Codex::242030423
+Kommandeur Tome::242030702
+Draco Nodus Treatise::242030413
+Eurydice Tome::242030322
+Brawler Psalm::242030603
+Dual Persona Tome::242030506
+Crimson Ray Treatise::242030405
+Dragon Reaper Tome::242030323
+Agent Tome::242030401
+Ullr Tome::242030521
+Ereshkigal Codex::242030715
+Tea Maiden Treatise::242030709
+Curse Seeker Treatise::242030707
+Miyabinokami Opus::242030419
+Mellow Diva Treatise::242030507
+Anomaly Debris Tome::242030621
+Phantom Thief Treatise::242030615
+Red Scorpio Opus::242030613
+Gratinel Psalm::242030703
+Isaiah Tome::242030508
+Enforcer Opus::242030617
+Nekomata Avatar Codex::242030524
+Lucifer Codex::242030712
+Felis Circulus Treatise::242030611
+Dream Digger Tome::242030716
+Ring-Guided Tome::242031403
+Boyne Lord Tome::242030706
+Stormbreaker Tome::242030604
+Voleur Opus::242030526
+Maverick Treatise::242030612
+Arcana Codex::242030614
+Hecatoncheires Codex::242030610
+Blacksmith Psalm::242030710
+Sirenaria Tome::242030512
+Mal'akh Tome::242030701
+Enma Tome::242030711
+Silken Wisp Treatise::242030510
+Summer Tome::242031404
+Rose Unseen Treatise::242030714
+Punishment Treatise::242030704
+Last Haven Treatise::242030622
+Juno Treatise::242030713
+Master Fencer Tome::242020203
+Jorurihime Treatise::242030221
+Covert Agent Treatise::242030307
+Persephone Opus::242030415
+Areth's Diamond Tome::242031401
+Jiutian Xuannu Treatise::242030618
+Minstrel Tome::242030500
+Prthivi Treatise::242030717
+Elven Knight Tome::242020104
+Felis Lord Opus::242030620
+Shinatsuhime Codex::242030511
+Muse Opus::242030718
+Negotiator Tome::242030700
+Hrungnir Tome::242030414
+Lovebird Treatise::242030616
+Takuhatachiji Opus::242030225
+Sacrament Codex::242030127
+Futsunomitama Codex::242030230
+Sukunahikona Tome::242030321
+Melodist Psalm::242030502
+Lazuli Medea Tome::242030412
