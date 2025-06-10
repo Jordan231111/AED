@@ -49,6 +49,7 @@ Abyssal Devotee Tome::242030112
 Adept Fencer Tome::242020202
 Admiral Starchart::242012018
 Admiral Tome::242030202
+Agent Starchart::242014010
 Agent Tome::242030401
 Aima-Arravones Tome::242030410
 Alchemist Tome::242020011
@@ -123,6 +124,8 @@ Cursed Bride Treatise::242030007
 Cybele Treatise::242030016
 Dark Knight Tome::242020101
 Demon Reaper Tome::242030308
+Detective Starchart::242011010
+Detective Tome::242030133
 Devotroid Treatise::242030519
 Dicé Opus::242030125
 Divinator Tome::242030009
