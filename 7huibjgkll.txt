@@ -10132,3 +10132,31 @@ Bronze OOPArt::791000002
 Gold OOPArt::791000004
 Silver OOPArt::791000003
 Jeweled OOPArt::791000005
+
+
+
+
+
+Aquatic Jet Screw::209000106
+Aquatic Screw::209000105
+Atmo Pump::209000101
+Bronze Bolt::209000204
+Bronze Core::209000210
+Bronze Gear::209000201
+Dark Grey Whetstone::209000207
+Diamond Drill::209000104
+Energy Bullet::209000110
+Gold Core::209000212
+Gold Gear::209000203
+Golden Bolt::209000206
+Hi-Pressure Atmo Pump::209000102
+Iron Arm::209000107
+Materiascanner::209000109
+Pure Whetstone::209000209
+Silver Bolt::209000205
+Silver Core::209000211
+Silver Gear::209000202
+Silver Whetstone::209000208
+Solid Fuel::209000001
+Super Alloy Arm::209000108
+Super Alloy Drill::209000103
