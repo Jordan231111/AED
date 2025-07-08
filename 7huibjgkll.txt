@@ -1390,6 +1390,17 @@ Crafted Scratch::211060352
 Crag Bracelet::217020661
 Crescent Shadow::211020181
 Crescent Shadow::211020182
+Crimson Bolt::211045101
+Crimson Bolt::211045102
+Crimson Bolt::211045103
+Crimson Bolt::211045104
+Crimson Bolt::211045105
+Crimson Bolt::211045106
+Crimson Bolt::211045107
+Crimson Bolt::211045108
+Crimson Bolt::211045109
+Crimson Bolt::211045110
+Crimson Bolt::211045111
 Crimson Bolt::211049021
 Crimson Bolt::211049022
 Crimson Bolt::211049023
@@ -1483,6 +1494,7 @@ Crystal Staff::211000081
 Crystal Type Resistance Badge::281737710
 Crystal Type Resistance Badge::281737715
 Cthulhu Proof::288300132
+Cup of Certain Victory::288004247
 Cup of Invincibility (Ax)::288106004
 Cup of Invincibility (Bow)::288106006
 Cup of Invincibility (Fist)::288106007
@@ -1760,6 +1772,7 @@ Destroy Hammer III::211070093
 Destroy Hammer::211070091
 Destructive Bludgeon::288303007
 Destructive Power::288208001
+Detective Proof::288300278
 Determination Badge::281900086
 Devotroid Proof::288300200
 Dexterity's Demands::211010421
@@ -1983,6 +1996,7 @@ E. Curse Seeker Proof::288304098
 E. Cursed Bride Proof::288304034
 E. Cybele Proof::288304073
 E. Demon Reaper Proof::288304078
+E. Detective Proof::288304275
 E. Devotroid Proof::288304203
 E. Dicé Proof::288304196
 E. Divinator Proof::288304039
@@ -2166,6 +2180,7 @@ E. Sukunahikona Proof::288304227
 E. Sun Goddess Proof::288304010
 E. Sunrise Proof::288304037
 E. Susanoo Proof::288304113
+E. Sweet Lady Proof::288304277
 E. Taiyi Zhenren Proof::288304234
 E. Takuhatachiji Proof::288304226
 E. Tea Maiden Proof::288304126
@@ -2189,6 +2204,7 @@ E. Utsutahime Proof::288304090
 E. Vanagandr Proof::288304253
 E. Vanquisher Proof::288304194
 E. Venus Proof::288304215
+E. Voleur Proof::288304273
 E. Völva Proof::288304185
 E. Walkure Proof::288304163
 E. Watatsumi Proof::288304046
@@ -2447,6 +2463,8 @@ Energy Sword: HP+ (L)::211018051
 Energy Wand II::211000042
 Energy Wand III::211000043
 Energy Wand::211000041
+Enforcement Ax::211030871
+Enforcement Pike::211040891
 Enforcer Proof::288300245
 Enh. At Low HP (Ax)::288006014
 Enh. At Low HP (Bow)::288006016
@@ -3153,6 +3171,17 @@ Indomitable Sword::211010341
 Indra Proof::288300089
 Infernal Power of Pain::288009201
 Inferno::298000111
+Innocence::211025001
+Innocence::211025002
+Innocence::211025003
+Innocence::211025004
+Innocence::211025005
+Innocence::211025006
+Innocence::211025007
+Innocence::211025008
+Innocence::211025009
+Innocence::211025010
+Innocence::211025011
 Innocence::211029041
 Innocence::211029042
 Innocence::211029043
@@ -3199,6 +3228,9 @@ Judgment Bracelet::217020151
 Judgment Proof::288300051
 Juggernaut Proof::288300032
 Jungle Bracelet::217020311
+Junk Bangle::217024031
+Junk Charm::217031201
+Junk Ring::217041321
 Juno Proof::288300166
 Justitia Proof::288300140
 K Vanquisher Badge::281900106
@@ -3534,6 +3566,17 @@ Machine Bow::211050101
 Mad Star Power (West)::288203002
 Magic Badge::281710108
 Magic Power Test::288020025
+Magic Rabbit's Staff::211005001
+Magic Rabbit's Staff::211005002
+Magic Rabbit's Staff::211005003
+Magic Rabbit's Staff::211005004
+Magic Rabbit's Staff::211005005
+Magic Rabbit's Staff::211005006
+Magic Rabbit's Staff::211005007
+Magic Rabbit's Staff::211005008
+Magic Rabbit's Staff::211005009
+Magic Rabbit's Staff::211005010
+Magic Rabbit's Staff::211005011
 Magic Rabbit's Staff::211009061
 Magic Rabbit's Staff::211009062
 Magic Rabbit's Staff::211009063
@@ -3823,6 +3866,17 @@ Multi Slasher::211020151
 Murasame Proof::288300029
 Muse Proof::288300229
 Myosotis Proof::288300159
+Mystery::211045001
+Mystery::211045002
+Mystery::211045003
+Mystery::211045004
+Mystery::211045005
+Mystery::211045006
+Mystery::211045007
+Mystery::211045008
+Mystery::211045009
+Mystery::211045010
+Mystery::211045011
 Mystery::211049061
 Mystery::211049062
 Mystery::211049063
@@ -4060,42 +4114,42 @@ Persephone Proof::288300147
 Petro's Sword::211090510
 Phantom Thief Proof::288300191
 Photon Beam::298000108
-Physical Debuff Res. (Ax)::288200017
-Physical Debuff Res. (Ax)::288200018
-Physical Debuff Res. (Ax)::288200019
-Physical Debuff Res. (Ax)::288200020
-Physical Debuff Res. (Bow)::288200025
-Physical Debuff Res. (Bow)::288200026
-Physical Debuff Res. (Bow)::288200027
-Physical Debuff Res. (Bow)::288200028
-Physical Debuff Res. (Fists)::288200029
-Physical Debuff Res. (Fists)::288200030
-Physical Debuff Res. (Fists)::288200031
-Physical Debuff Res. (Fists)::288200032
-Physical Debuff Res. (Ha.)::288200033
-Physical Debuff Res. (Ha.)::288200034
-Physical Debuff Res. (Ha.)::288200035
-Physical Debuff Res. (Ha.)::288200036
-Physical Debuff Res. (Kata.)::288200013
-Physical Debuff Res. (Kata.)::288200014
-Physical Debuff Res. (Kata.)::288200015
-Physical Debuff Res. (Kata.)::288200016
-Physical Debuff Res. (Lan.)::288200021
-Physical Debuff Res. (Lan.)::288200022
-Physical Debuff Res. (Lan.)::288200023
-Physical Debuff Res. (Lan.)::288200024
-Physical Debuff Res. (Staff)::288200005
-Physical Debuff Res. (Staff)::288200006
-Physical Debuff Res. (Staff)::288200007
-Physical Debuff Res. (Staff)::288200008
-Physical Debuff Res. (Swo.)::288200009
-Physical Debuff Res. (Swo.)::288200010
-Physical Debuff Res. (Swo.)::288200011
-Physical Debuff Res. (Swo.)::288200012
-Physical Debuff Resistance::288200001
-Physical Debuff Resistance::288200002
-Physical Debuff Resistance::288200003
-Physical Debuff Resistance::288200004
+Phys/Mag Debuff Resistance (Ax)::288200017
+Phys/Mag Debuff Resistance (Ax)::288200018
+Phys/Mag Debuff Resistance (Ax)::288200019
+Phys/Mag Debuff Resistance (Ax)::288200020
+Phys/Mag Debuff Resistance (Bow)::288200025
+Phys/Mag Debuff Resistance (Bow)::288200026
+Phys/Mag Debuff Resistance (Bow)::288200027
+Phys/Mag Debuff Resistance (Bow)::288200028
+Phys/Mag Debuff Resistance (Fist)::288200029
+Phys/Mag Debuff Resistance (Fist)::288200030
+Phys/Mag Debuff Resistance (Fist)::288200031
+Phys/Mag Debuff Resistance (Fist)::288200032
+Phys/Mag Debuff Resistance (Ha.)::288200033
+Phys/Mag Debuff Resistance (Ha.)::288200034
+Phys/Mag Debuff Resistance (Ha.)::288200035
+Phys/Mag Debuff Resistance (Ha.)::288200036
+Phys/Mag Debuff Resistance (Kata.)::288200013
+Phys/Mag Debuff Resistance (Kata.)::288200014
+Phys/Mag Debuff Resistance (Kata.)::288200015
+Phys/Mag Debuff Resistance (Kata.)::288200016
+Phys/Mag Debuff Resistance (Lan.)::288200021
+Phys/Mag Debuff Resistance (Lan.)::288200022
+Phys/Mag Debuff Resistance (Lan.)::288200023
+Phys/Mag Debuff Resistance (Lan.)::288200024
+Phys/Mag Debuff Resistance (Staff)::288200005
+Phys/Mag Debuff Resistance (Staff)::288200006
+Phys/Mag Debuff Resistance (Staff)::288200007
+Phys/Mag Debuff Resistance (Staff)::288200008
+Phys/Mag Debuff Resistance (Sword)::288200009
+Phys/Mag Debuff Resistance (Sword)::288200010
+Phys/Mag Debuff Resistance (Sword)::288200011
+Phys/Mag Debuff Resistance (Sword)::288200012
+Phys/Mag Debuff Resistance::288200001
+Phys/Mag Debuff Resistance::288200002
+Phys/Mag Debuff Resistance::288200003
+Phys/Mag Debuff Resistance::288200004
 Physical Down Badge::281900112
 Physical Resistance+ (Bow)::288201002
 Physical Resistance+ (Kata.)::288201001
@@ -4500,44 +4554,6 @@ Prismatic Hammer::211070481
 Prismatic Pick::211040481
 Prismatic Rod::211000451
 Prismatic Sword::211010581
-Profic. Debuff Res. (Ax)::288200089
-Profic. Debuff Res. (Ax)::288200090
-Profic. Debuff Res. (Ax)::288200091
-Profic. Debuff Res. (Ax)::288200092
-Profic. Debuff Res. (Bow)::288200097
-Profic. Debuff Res. (Bow)::288200098
-Profic. Debuff Res. (Bow)::288200099
-Profic. Debuff Res. (Bow)::288200100
-Profic. Debuff Res. (Fairy)::288200111
-Profic. Debuff Res. (Fists)::288200101
-Profic. Debuff Res. (Fists)::288200102
-Profic. Debuff Res. (Fists)::288200103
-Profic. Debuff Res. (Fists)::288200104
-Profic. Debuff Res. (Ha.)::288200105
-Profic. Debuff Res. (Ha.)::288200106
-Profic. Debuff Res. (Ha.)::288200107
-Profic. Debuff Res. (Ha.)::288200108
-Profic. Debuff Res. (Kata.)::288200085
-Profic. Debuff Res. (Kata.)::288200086
-Profic. Debuff Res. (Kata.)::288200087
-Profic. Debuff Res. (Kata.)::288200088
-Profic. Debuff Res. (Lan.)::288200093
-Profic. Debuff Res. (Lan.)::288200094
-Profic. Debuff Res. (Lan.)::288200095
-Profic. Debuff Res. (Lan.)::288200096
-Profic. Debuff Res. (Phantom Thieves)::288200109
-Profic. Debuff Res. (Staff)::288200077
-Profic. Debuff Res. (Staff)::288200078
-Profic. Debuff Res. (Staff)::288200079
-Profic. Debuff Res. (Staff)::288200080
-Profic. Debuff Res. (Swo.)::288200081
-Profic. Debuff Res. (Swo.)::288200082
-Profic. Debuff Res. (Swo.)::288200083
-Profic. Debuff Res. (Swo.)::288200084
-Proficiency Debuff Res.::288200073
-Proficiency Debuff Res.::288200074
-Proficiency Debuff Res.::288200075
-Proficiency Debuff Res.::288200076
 Prometerium::211070171
 Prometerium::211070172
 Proof of Vanquisher::288300192
@@ -5034,6 +5050,17 @@ Silver Wolf's Howl::211059049
 Silver Wolf's Howl::211059050
 Silver Wolf's Howl::211059051
 Simple Ring::217040681
+Sin Divider::211035001
+Sin Divider::211035002
+Sin Divider::211035003
+Sin Divider::211035004
+Sin Divider::211035005
+Sin Divider::211035006
+Sin Divider::211035007
+Sin Divider::211035008
+Sin Divider::211035009
+Sin Divider::211035010
+Sin Divider::211035011
 Sin Divider::211039021
 Sin Divider::211039022
 Sin Divider::211039023
@@ -5346,6 +5373,44 @@ Starmade Staff::211000561
 Starmade Sword::211010711
 Starmaiden Badge::281900102
 Starmaiden's Ring::217040961
+Stat Debuff Res. (Phantom Thieves)::288200109
+Stat Debuff Resistance (Ax)::288200089
+Stat Debuff Resistance (Ax)::288200090
+Stat Debuff Resistance (Ax)::288200091
+Stat Debuff Resistance (Ax)::288200092
+Stat Debuff Resistance (Bow)::288200097
+Stat Debuff Resistance (Bow)::288200098
+Stat Debuff Resistance (Bow)::288200099
+Stat Debuff Resistance (Bow)::288200100
+Stat Debuff Resistance (Fairy)::288200111
+Stat Debuff Resistance (Fist)::288200101
+Stat Debuff Resistance (Fist)::288200102
+Stat Debuff Resistance (Fist)::288200103
+Stat Debuff Resistance (Fist)::288200104
+Stat Debuff Resistance (Ha.)::288200105
+Stat Debuff Resistance (Ha.)::288200106
+Stat Debuff Resistance (Ha.)::288200107
+Stat Debuff Resistance (Ha.)::288200108
+Stat Debuff Resistance (Kata.)::288200085
+Stat Debuff Resistance (Kata.)::288200086
+Stat Debuff Resistance (Kata.)::288200087
+Stat Debuff Resistance (Kata.)::288200088
+Stat Debuff Resistance (Lan.)::288200093
+Stat Debuff Resistance (Lan.)::288200094
+Stat Debuff Resistance (Lan.)::288200095
+Stat Debuff Resistance (Lan.)::288200096
+Stat Debuff Resistance (Staff)::288200077
+Stat Debuff Resistance (Staff)::288200078
+Stat Debuff Resistance (Staff)::288200079
+Stat Debuff Resistance (Staff)::288200080
+Stat Debuff Resistance (Sword)::288200081
+Stat Debuff Resistance (Sword)::288200082
+Stat Debuff Resistance (Sword)::288200083
+Stat Debuff Resistance (Sword)::288200084
+Stat Debuff Resistance::288200073
+Stat Debuff Resistance::288200074
+Stat Debuff Resistance::288200075
+Stat Debuff Resistance::288200076
 Stats+ Badge::281711001
 Stats+ Badge::281711002
 Stats+ Badge::281711005
@@ -5429,6 +5494,7 @@ Swallow's Ambition::211069108
 Swallow's Ambition::211069109
 Swallow's Ambition::211069110
 Swallow's Ambition::211069111
+Sweet Lady Proof::288300280
 Sweetheart::211019041
 Sweetheart::211019042
 Sweetheart::211019043
@@ -5544,6 +5610,7 @@ T. Curse Seeker Proof::288301100
 T. Cursed Bride Proof::288301034
 T. Cybele Proof::288301075
 T. Demon Reaper Proof::288301080
+T. Detective Proof::288301277
 T. Devotroid Proof::288301205
 T. Dicé Proof::288301198
 T. Divinator Proof::288301039
@@ -5727,6 +5794,7 @@ T. Sukunahikona Proof::288301229
 T. Sun Goddess Proof::288301010
 T. Sunrise Proof::288301037
 T. Susanoo Proof::288301115
+T. Sweet Lady Proof::288301279
 T. Taiyi Zhenren Proof::288301236
 T. Takuhatachiji Proof::288301228
 T. Tea Maiden Proof::288301128
@@ -5750,6 +5818,7 @@ T. Utsutahime Proof::288301092
 T. Vanagandr Proof::288301255
 T. Vanquisher Proof::288301196
 T. Venus Proof::288301217
+T. Voleur Proof::288301275
 T. Völva Proof::288301187
 T. Walkure Proof::288301165
 T. Watatsumi Proof::288301046
@@ -6113,6 +6182,8 @@ Void Staff::211000411
 Void Staff::211000412
 Void Sword::211010521
 Void Sword::211010522
+Voleur Proof::288300276
+Vow of Certain Victory::288004248
 Vow of Invincibility II::275321539
 Vow of Invincibility III::275331541
 Vow of Invincibility::275311539
