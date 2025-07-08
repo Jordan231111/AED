@@ -208,6 +208,7 @@ Hypnotist Treatise::242030006
 Högni Starchart::242010004
 Högni Treatise::242030041
 Indra Tome::242030212
+Inspector Starchart::242013005
 Inspector Tome::242030302
 Isaiah Tome::242030508
 Izanagi Starchart::242012017
@@ -355,6 +356,8 @@ Summer Tome::242031404
 Sun Goddess Tome::242030201
 Sunrise Treatise::242030206
 Susanoo Treatise::242030216
+Sweet Lady Starchart::242013006
+Sweet Lady Treatise::242030325
 Sword Master Tome::242020102
 Taiyi Zhenren Starchart::242010003
 Taiyi Zhenren Tome::242030040
@@ -467,6 +470,8 @@ KOF Medal::205000103
 KOF Medal::205000104
 Kamasu Points: Harpoon Fishing::205000034
 Kamasu Points::205000009
+Lazuline Stone Cumulative Counter::205000112
+Lazuline Stone::205000111
 Levin Fragment::205000048
 Light/Shadow Points::205000027
 Majestic Furball::205000100
@@ -478,6 +483,7 @@ PTL Record::205000098
 Pale Scarlet Stone Amount::205000036
 Pale Scarlet Stone::205000032
 Platina Fragment::205000049
+Promissory Note B::205000113
 Purgatory Tab::205000041
 Quaked Stone::205000072
 ROC::205000024

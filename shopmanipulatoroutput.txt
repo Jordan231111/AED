@@ -1,23 +1,113 @@
-Bronze Gear::209000201
-Hi-Pressure Atmo Pump::209000102
-Atmo Pump::209000101
-Materiascanner::209000109
-Silver Core::209000211
-Energy Bullet::209000110
-Super Alloy Drill::209000103
-Iron Arm::209000107
-Aquatic Screw::209000105
-Super Alloy Arm::209000108
-Pure Whetstone::209000209
-Gold Gear::209000203
-Diamond Drill::209000104
-Solid Fuel::209000001
-Golden Bolt::209000206
-Bronze Bolt::209000204
-Gold Core::209000212
-Silver Whetstone::209000208
-Bronze Core::209000210
-Silver Bolt::209000205
-Silver Gear::209000202
-Dark Grey Whetstone::209000207
-Aquatic Jet Screw::209000106
+Sea White Scale::205000085
+Time Spindle::205000057
+Chronos Stone::205000006
+Moonstruck Obsidian::205000106
+Cat Medal::205000003
+Light/Shadow Points::205000027
+Drake Water::205000088
+Growth Star::205000042
+Cocoon's Dream::205000016
+Sea Ice Scale::205000084
+Time Layers Force::205000020
+Seven-Color Fragments::205000051
+Time Coin::205000045
+Tsubura's Gems::205000014
+Coins::205000077
+Flamedrake Scale::205000062
+Ill-Omen Fur::205000097
+Dream Petals::205000055
+Fish Stones: Harpoon::205000035
+Sea Hardfin::205000087
+Gust Darkgem::205000067
+Attendance::205000018
+Darkcore (L)::205000092
+Drake Crystal::205000090
+IDAbits::205000022
+Scratch::205000060
+Blended Wisdom::205000105
+Regina::205000101
+Sapient Illusion::205000046
+Rare Book Certificate::205000030
+Darkened Iron::205000093
+Black Pearls::205000013
+Allcosmos Fragment::205000079
+Honor Point::205000005
+Crimson Stone Amount::205000040
+Scurvy Grass::205000074
+Scratch::205000061
+Bearing::205000052
+Recycling Point::205000012
+Darkcore (S)::205000091
+Kamasu Points::205000009
+Aqua Darkbone::205000066
+T. Black Pearls::205000038
+Fish Medal::205000002
+Decayed Thought Leaves::205000028
+Rock Salt::205000075
+Dark Residue::205000019
+Pale Scarlet Stone::205000032
+Gabble::205000108
+Deep Scarlet Stone::205000039
+Git::205000001
+Arcana Flare::205000044
+Immaculate Fragments::205000054
+Dawn Fragments::205000056
+ROC::205000024
+Bearing::205000053
+PTL Record::205000098
+Blue Scale::205000080
+Earth Darkstone::205000068
+Blazing Scale::205000069
+Ill-Omen Bone::205000096
+Darkened Fur::205000094
+Cat Points (TBD)::205000021
+KOF Medal::205000103
+Active Magic Elements::205000031
+Sunstruck Alabaster::205000109
+Flooded Bone::205000070
+KOF Medal::205000104
+Dragontear (L)::205000064
+Equipment Medal::205000004
+Bravery Manifest::205000110
+Sapient Illusion::205000047
+Dreamcolor Ink::205000029
+Celestial Soul::205000037
+Traveler's Log::205000073
+Sea Carapace::205000086
+Whirl Drake Gem::205000071
+Lazuline Stone Cumulative Counter::205000112
+Platina Fragment::205000049
+Darkened Fang::205000095
+SigmaPay::205000078
+Neverbright::205000076
+Dark Scale::205000081
+Kamasu Points: Harpoon Fishing::205000034
+Rust Color Stone::205000033
+Audience Point::205000017
+Lazuline Stone::205000111
+Ethereal Dewdrop::205000023
+Atlantis Pearls::205000011
+Dig Medal::205000043
+Purgatory Tab::205000041
+True Scarlet Stone Cumulative Counter::205000059
+Fish Stones::205000010
+Flare Darkscale::205000065
+Turbocharger::205000099
+Dragondrop (S)::205000082
+Dragondrop (L)::205000083
+Dragontear (S)::205000063
+Thank You Stone::205000015
+Levin Fragment::205000048
+Pale Scarlet Stone Amount::205000036
+Majestic Furball::205000100
+Miglancian Magic::205000007
+Drake Ore::205000089
+Meow Coin::205000026
+Fated Star Fragment::205000107
+True Scarlet Stone::205000058
+Jade Fragments::205000050
+Promissory Note B::205000113
+Fighting Spirit::205000102
+Scores::205000008
+Quaked Stone::205000072
+Seeker Point::205000025

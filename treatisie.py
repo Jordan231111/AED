@@ -48,17 +48,17 @@ def process_file(input_filepath, output_filepath):
 def open_file(filepath):
     try:
         if sys.platform.startswith('darwin'):  # macOS
-            subprocess.run(['open', '-a', 'Visual Studio Code - Insiders', filepath], check=True)
+            subprocess.run(['open', '-a', 'Cursor', filepath], check=True)
         elif sys.platform.startswith('win'):   # Windows
-            subprocess.run(['code-insiders', filepath], check=True)
+            subprocess.run(['cursor', filepath], check=True)
         elif sys.platform.startswith('linux'): # Linux
-            subprocess.run(['code-insiders', filepath], check=True)
+            subprocess.run(['cursor', filepath], check=True)
         else:
-            print("Unsupported OS for opening with VSCode Insiders.")
+            print("Unsupported OS for opening with Cursor.")
     except subprocess.CalledProcessError as e:
-        print(f"Failed to open {filepath} with VSCode Insiders: {e}")
+        print(f"Failed to open {filepath} with Cursor: {e}")
     except FileNotFoundError:
-        print("VSCode Insiders command not found. Please ensure it is installed and in your PATH.")
+        print("Cursor command not found. Please ensure it is installed and in your PATH.")
 
 if __name__ == '__main__':
     input_filepath = "/Users/jordan/Documents/AED/shopmanipulator.txt"
@@ -67,5 +67,5 @@ if __name__ == '__main__':
     process_file(input_filepath, output_filepath)
     print(f"Words and values extracted and saved to {output_filepath}")
     
-    # Automatically open the output file with VSCode
+    # Automatically open the output file with Cursor
     open_file(output_filepath)
