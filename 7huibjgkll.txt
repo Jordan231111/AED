@@ -8316,6 +8316,9 @@ Jadeite of Attack::222000003
 "Road" Data Chip::241900103
 "Road" Data Chip::241900104
 Abacus::241000215
+Ability Crystal: A::241900725
+Ability Crystal: E::241900726
+Ability Crystal: H::241900724
 Abnormal Soy Beans::241000172
 About Brigan's Digs::241900184
 Acid Disc: Aid::241100044
@@ -8348,7 +8351,9 @@ Ancient Cat Jar::241900252
 Ancient Cat Levistone::241900257
 Ancient Cat Lithograph::241900255
 Ancient Cat Statue::241900246
+Ancient Queen's Sculpture::241900756
 Another Nectar Synthesis::241900715
+Anti-Edaxian Ore::241900739
 Aqua Bird's Soul::241000145
 Arboreal Tear::241900243
 Argentum Badge (Appr)::241900120
@@ -8359,6 +8364,7 @@ Attack Item Synthesis::241900735
 Aurentium::241000227
 Aurum Badge (Appr)::241900121
 Autumn Lance Bass::241000232
+Ax Hieroglyph::241900789
 Azure Crystal Trinket::241000204
 Azure Pearl::241900482
 Bald Honey::241000261
@@ -8394,7 +8400,9 @@ Bomb Component 2::241900177
 Bomb Component 3::241900178
 Bomb Shopping List::241900202
 Bouncer Fee Estimate::241900187
+Bow Hieroglyph::241900791
 Brigan Bracelet::241900547
+Broken Device::241900800
 Broken OOPArt::241900460
 Bug Net Synthesis::241900711
 Bug Report::241000109
@@ -8412,6 +8420,7 @@ Castle Wall Key::241000295
 Cat Daruma::241000073
 Cat Deity Emblem Key::241000259
 Cat Manju::241000093
+Cat Photo::241900766
 Cat Shrine Key [Horse]::241000252
 Cat Shrine Key [Rabbit]::241000250
 Cat Shrine Key [Rat]::241000249
@@ -8623,12 +8632,16 @@ Coffin's Soul::241000156
 Colored Glass::241000221
 Combu Rice::241000175
 Compass::241000220
+Concert Gift Ticket::241900745
 Conductive Magnet Part::241000007
+Control Circuit::241900801
 Coralkonbu Ore::241900565
 Coralkonbu Stem::241900205
 Core Unit::241000003
 Counting Guide::241000186
+Courageous Cat Dogu::241900754
 Crafted Armor::241000025
+Craftsman's Dogu::241900750
 Crest of the Abyss Ax::241900033
 Crest of the Abyss Bow::241900034
 Crest of the Abyss Fist::241900035
@@ -8694,13 +8707,15 @@ Destrogre Beast Core::241900269
 Detonator::241000299
 Deus Cetus Beast Core::241900274
 Dew Roasted Tea Leaves::241000233
+Diablomin X::241900747
 Diluvian Beast Core::241900306
-Dire Pine Oil::241900167
+Dinosaur Killer::241900776
 Dirty Puzzle Piece::241000260
 Disposer's Orders::241900188
 Docson's Location::241900191
 Dogu Sea-drift::241000240
 Donburi Acorn::241000174
+Door Charm::241900774
 Dragon Fossil B::241900345
 Dragon Fossil P::241900347
 Dragon Fossil R::241900346
@@ -8742,6 +8757,7 @@ Dragontear Sword II::241900313
 Dragontear Sword::241900312
 Dragryphon Beast Core::241900276
 Dreamy Burger::241900486
+Dried Sardine Dango::241900761
 Dungeon Key::241000225
 Dungeon Key::241000292
 Durable Paper::241900234
@@ -8753,13 +8769,19 @@ Earth Type Resistance-::241900043
 Eastern Anchovy::241000230
 Eastern Loincloth::241000077
 Eastern Scroll::241000203
+Edax Ogre Key::241900783
+Edaxian Crystal::241900723
+Electronic Device Key::241900741
 Elixir Synthesis::241900719
 Elusive Rex Beast Core::241900275
 Emperor Muscat::241000197
 Emperor's Key::241900550
 Energon Blade::241900281
+Enough Lumber::241900770
+Enough Stone::241900771
 Entrana Thief's Log::241900290
 Evil Eye's Soul::241000153
+Evol-core::241900731
 Excitation Device::241000015
 Exorcism Key::241000235
 Exorcist's Amulet::241900300
@@ -8774,6 +8796,7 @@ Famous Castle Statue::241000068
 Featherex Beast Core::241900261
 Ferrum Badge::241900118
 Ferry Blossom Fossil::241900553
+Ferry Blossom Petal::241900755
 Fine Iron::241900130
 Fine Lumber::241900116
 Fine Magicluster::241900138
@@ -8793,14 +8816,17 @@ Fire Lizard's Soul::241000144
 Fire Type Resistance-::241900041
 Fish Man's Soul::241000147
 Fishing Rod Synthesis::241900712
+Fist Hieroglyph::241900792
 Flame Eater Ash::241000021
 Flame Orb::241000178
 Flaming Rage Synthesis::241900718
 Flashing Wings Crest::241900199
 Fleeting Knowledge Crest::241900198
 Flexible Rope::241900349
+Flowery Witchy Hat::241900748
 Fluffy Cover Stand::241000076
 Fluffy Covers::241000090
+Flying Object Part::241900769
 Forest Block: Bond::241100006
 Forest Block: Bond::241100026
 Forest Block: Call::241100009
@@ -8814,7 +8840,9 @@ Fragment of Dragon Magic::241000166
 Fraxinus Labs Badge::241900217
 Free Massage Flier::241900193
 Freight Carrier Pass::241000270
+Fruitful Magicrystal::241900758
 Fugoba Gunpowder::241900204
+Fun Guide::241900777
 Fungal Bed [Lv 1]::241900219
 Fungal Bed [Lv 2]::241900220
 Fungal Bed [Lv 3]::241900221
@@ -8850,8 +8878,11 @@ Gnome's Gem::241001009
 Goblin Loincloth::241000017
 Goblin's Soul::241000133
 Gold Aetherstone::241900471
+Gold Cloth::241900762
+Gold Loincloth::241900764
 Gold Point::241000067
 Gold Synergy::241900358
+Gold Thread::241900763
 Golden Ancient Cat Coffin::241900258
 Golden Crown::241900165
 Golem Crystal::241000010
@@ -8870,6 +8901,7 @@ Guidelines for a Bride::241000097
 Guines's Location::241900190
 Guitar Sea-drift::241000244
 Half Moon Wood Piece::241000165
+Hammer Hieroglyph::241900793
 Handcrafted Fruit::241000079
 Handheld Dynamo::241900244
 Handmade Figures::241900738
@@ -8880,6 +8912,7 @@ Hardened Steel::241900129
 Heart-mark Scrap::241000020
 Heatproof Barrier::241900020
 Heavy Stone::241900115
+Heirloom Blade::241900753
 Hell Tortoise Beast Core::241900270
 Hero's Will Synthesis::241900716
 Hidden Treasure Map::241900208
@@ -8894,6 +8927,7 @@ Huge Glass Ball::241001014
 Human Figure Statue::241000070
 Hurricanes Info::241900189
 INT+::241900039
+Illusion Wand::241900779
 Illusory Medal Misprint::241900552
 Illusory Orca-Sandfish::241001012
 Inferno Crossbow::241900108
@@ -8914,18 +8948,23 @@ Jyomondo Key::241000110
 Kakudan Milk::241001022
 Kamasu Soup::241900566
 Karakuri Blossom Basket::241900557
+Katana Hieroglyph::241900788
 Key Piece::241000238
 Kidnapper's Location::241900186
 King Rex's Soul::241000138
+Kingly Remnant::241900794
 Kite Sea-drift::241000242
 Kiyosuke's Wallet::241000091
 Kurosagi Cat::241000074
 Labiriveria Beast Core::241900265
+Lance Hieroglyph::241900790
 Lantern Plant's Soul::241000140
 Lantern::241000219
 Large Ancient Cat Plate::241900253
 Large Claw Crab::241000185
+Large Mysterious Device::241900803
 Lashvalan Fairy Tale::241900179
+Lashvalan Rippler::241900757
 Legendary Hero Badge::241999999
 Legendary Treasure Map::241900209
 Letter from Marlowe::241500002
@@ -8933,6 +8972,7 @@ Letter from Marlowe::241500003
 Letter of Authorization::241000095
 Letter of Introduction::241000092
 Liam's Pocket Watch::241900213
+Limited-edition Gift::241900746
 Lipstick::241000222
 Lizzy's Decorative Scales::241000009
 Log Section::241900370
@@ -8953,6 +8993,7 @@ Magiburger::241900484
 Magic Engine::241900574
 Magic Shell Bracelet Synthesis::241900736
 Magic Shell Necklace Synthesis::241900737
+Magic Spiral Bottle::241900752
 Magifactory Key::241900560
 Magisteel::241900131
 Magistone Ore::241900117
@@ -8985,6 +9026,8 @@ Metallic Maiden's Bone::241000041
 Metallic Tie::241001013
 Miglancian Magic::241500001
 Millennial Glass::241000119
+Mimi Doll::241900765
+Mind Crystal::241900796
 Miracle Fruit::241000111
 Misteel Tank::241900554
 Miu-Mail Letter::241900304
@@ -8995,10 +9038,12 @@ Monster Feed (Small Meat)::241900372
 Moonlight Block::241100010
 Moonlight Block::241100030
 Moonlight Mushroom::241000267
+Mother's Letter::241900767
 Mountain Key::241900172
 Murder Bug Beast Core::241900264
 Music Box::241000217
 Mymyne Liquid::241000011
+Mysterious Amplifier::241900781
 Mysterious Device::241900093
 Mysterious Map::241000038
 Mystery Key Card::241900364
@@ -9010,6 +9055,8 @@ Nanaba Herb::241000014
 Neutralizer::241000298
 Nice-shaped Rock::241000234
 Odd Moss::241000169
+Ogre Cuisine Spread::241900795
+Ogre's Prayer::241900772
 Old Garulean Coin::241900722
 Old Grimoire::241900010
 Old Hot Spring Guide::241000096
@@ -9020,6 +9067,7 @@ One Hit Kamasu::241000194
 Orange Glowing Orb::241900170
 Organic Feed::241900472
 PWR+::241900038
+Palace Dungeon Key::241900742
 Paw Print Magic Key::241900551
 Paw Print Magic Vase::241900558
 Paw Print Vase::241900549
@@ -9038,6 +9086,7 @@ Pieces of Red Coral::241000022
 Pocket Heater::241900023
 Pocket Watch::241000214
 Poison Smoke II Synthesis::241900734
+Power Circuit::241900802
 Power Veiled in Fire::241900727
 Power Veiled in Thunder::241900730
 Power Veiled in Water::241900728
@@ -9057,6 +9106,7 @@ Prismatic Rod Blueprint::241000288
 Prismatic Sword Blueprint::241000281
 Prismblade Gem::241900357
 Prisoner's Memo::241000176
+Promissory Note B::241900799
 Propulsion Stone::241900563
 Protisburn Beast Core::241900271
 Pure Crystal Gear::241900573
@@ -9065,7 +9115,9 @@ Pure White Pearl::241000115
 Purgatory Den Mushrooms::241000264
 Purgatory Tab::241000265
 Purification Gear::241900284
+Purifying Key::241900775
 Quattro Leaf::241001016
+Quick-2-O::241900749
 Radiant Lamp::241900021
 Rainbow Brac. Blueprint::241000289
 Rainbow Neck. Blueprint::241000290
@@ -9095,6 +9147,7 @@ Rest Stop::241900107
 Revitalizer::241900216
 Rich Magisteel::241900137
 Rich-flavored Seed::241000114
+Rider's Pass::241900744
 Ridge Block: Elated::241100015
 Ridge Block: Elated::241100035
 Ridge Block: Herd::241100013
@@ -9130,6 +9183,7 @@ Ruined Disc: Pair::241100057
 Ruined Disc: Shell::241100049
 Ruined Disc: Shell::241100059
 Rusty OOPArt::241900461
+Sailor's Heart::241900782
 Salamander's Lantern::241001006
 Saltore Mine Depths Key::241900365
 Sapphire Tear::241900466
@@ -9158,6 +9212,7 @@ Scorching Stone Synthesis::241900717
 Sea Dino's Soul::241000142
 Seafire::241000023
 Seahorse's Soul::241000146
+Seed Sword::241900760
 Shady Deal Info::241900183
 Shark Saw::241900025
 Sharp Scythe::241900709
@@ -9179,6 +9234,7 @@ Shovel::241900351
 Shrimp Anemone::241000170
 Silver Point::241000066
 Skull Dragon's Soul::241000158
+Sky Core::241900773
 Sky Disc: Endurance::241100042
 Sky Disc: Endurance::241100052
 Sky Disc: Reform::241100041
@@ -9190,6 +9246,7 @@ Small Dinosaur Egg::241000006
 Small Travelers Memo::241000024
 Smile Lily's Soul::241000131
 Snow Flurry Salt::241000228
+Snowdrift Seed::241900784
 Snowman Sea-drift::241000243
 Sorcerer's Ring A::241000239
 Sorcerock Gear::241900559
@@ -9209,6 +9266,7 @@ Spiritore::241900446
 Spiritsilver Gear::241900464
 Spiritwood::241900145
 Square Wood Piece::241000162
+Staff Hieroglyph::241900786
 Star Wood Piece::241000161
 Star-mark Scrap::241000037
 Stardust Shell::241001015
@@ -9241,8 +9299,12 @@ Super Canopy Clippers::241900168
 Super Dark Ink::241900024
 Super Revitalizer::241900218
 Suspension Bridge::241900212
+Sweeping Crystal::241900797
 Switch Lever::241000296
+Sword Hieroglyph::241900787
 Sylph's Feather::241001007
+Symbol of Courage::241900778
+Syrupy Dialapple::241900167
 T. Time Crystal::241900459
 T. Time Ore::241900458
 T. Time Stone::241900457
@@ -9288,6 +9350,7 @@ Tiger Blade Shrimp::241000231
 Time Crystal::241900456
 Time Ore::241900455
 Time Stone::241900454
+Time-keeping OOPArts::241900751
 Tin Wind-Up Key::241900201
 Tome of Allsight::241900541
 Tome of Clearsight::241900539
@@ -9299,6 +9362,8 @@ Tome of Telekinesis::241900536
 Tome of Uncover::241900542
 Tome of Unlock::241900543
 Tome of Unseal::241900544
+Toto 3D Puzzle::241900743
+Toto::241900780
 Toxic Spores::241900226
 Traveling Starfish::241000173
 Truedark Busters II::241900437
@@ -9327,6 +9392,7 @@ Ultra Can Opener::241900166
 Ultra Cat-Napper::241000168
 Undine's Tear::241001008
 Uninspiring Ax::241000030
+Unknown Belonging::241900768
 Unread Block: Bee::241100011
 Unread Block: Bee::241100031
 Unread Block: Dance::241100012
@@ -9337,6 +9403,7 @@ Uquaji Scale::241900140
 Uroboros Meeting Minutes::241900194
 Uroboros Surface Base::241900195
 Vacant House Key::241900354
+Vermillion Crystal::241900785
 Vermillion Fan::241000094
 Vice Chiefs' Meeting Place::241900185
 Vine Worm's Soul::241000148
@@ -9346,6 +9413,8 @@ Vitality Stone::241900561
 Vitrified Shell Glass::241900182
 Vortex Turtle's Egg::241000167
 Wandering Miu's Map::241900308
+Warm Seed::241900759
+Warped Crystal::241900798
 Warped Mana Mote::241900242
 Wastes Antibody::241000297
 Water Orb::241000179
@@ -9378,6 +9447,7 @@ Young Gold Laika Trio::241900570
 Young Red Laika Trio::241900568
 Yummy Small Fish::241000106
 Zomas Driver::241900556
+[Out of Stock]::241900740
 
 
 

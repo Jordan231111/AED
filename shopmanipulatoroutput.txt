@@ -1,113 +1,1137 @@
-Sea White Scale::205000085
-Time Spindle::205000057
-Chronos Stone::205000006
-Moonstruck Obsidian::205000106
-Cat Medal::205000003
-Light/Shadow Points::205000027
-Drake Water::205000088
-Growth Star::205000042
-Cocoon's Dream::205000016
-Sea Ice Scale::205000084
-Time Layers Force::205000020
-Seven-Color Fragments::205000051
-Time Coin::205000045
-Tsubura's Gems::205000014
-Coins::205000077
-Flamedrake Scale::205000062
-Ill-Omen Fur::205000097
-Dream Petals::205000055
-Fish Stones: Harpoon::205000035
-Sea Hardfin::205000087
-Gust Darkgem::205000067
-Attendance::205000018
-Darkcore (L)::205000092
-Drake Crystal::205000090
-IDAbits::205000022
-Scratch::205000060
-Blended Wisdom::205000105
-Regina::205000101
-Sapient Illusion::205000046
-Rare Book Certificate::205000030
-Darkened Iron::205000093
-Black Pearls::205000013
-Allcosmos Fragment::205000079
-Honor Point::205000005
-Crimson Stone Amount::205000040
-Scurvy Grass::205000074
-Scratch::205000061
-Bearing::205000052
-Recycling Point::205000012
-Darkcore (S)::205000091
-Kamasu Points::205000009
-Aqua Darkbone::205000066
-T. Black Pearls::205000038
-Fish Medal::205000002
-Decayed Thought Leaves::205000028
-Rock Salt::205000075
-Dark Residue::205000019
-Pale Scarlet Stone::205000032
-Gabble::205000108
-Deep Scarlet Stone::205000039
-Git::205000001
-Arcana Flare::205000044
-Immaculate Fragments::205000054
-Dawn Fragments::205000056
-ROC::205000024
-Bearing::205000053
-PTL Record::205000098
-Blue Scale::205000080
-Earth Darkstone::205000068
-Blazing Scale::205000069
-Ill-Omen Bone::205000096
-Darkened Fur::205000094
-Cat Points (TBD)::205000021
-KOF Medal::205000103
-Active Magic Elements::205000031
-Sunstruck Alabaster::205000109
-Flooded Bone::205000070
-KOF Medal::205000104
-Dragontear (L)::205000064
-Equipment Medal::205000004
-Bravery Manifest::205000110
-Sapient Illusion::205000047
-Dreamcolor Ink::205000029
-Celestial Soul::205000037
-Traveler's Log::205000073
-Sea Carapace::205000086
-Whirl Drake Gem::205000071
-Lazuline Stone Cumulative Counter::205000112
-Platina Fragment::205000049
-Darkened Fang::205000095
-SigmaPay::205000078
-Neverbright::205000076
-Dark Scale::205000081
-Kamasu Points: Harpoon Fishing::205000034
-Rust Color Stone::205000033
-Audience Point::205000017
-Lazuline Stone::205000111
-Ethereal Dewdrop::205000023
-Atlantis Pearls::205000011
-Dig Medal::205000043
-Purgatory Tab::205000041
-True Scarlet Stone Cumulative Counter::205000059
-Fish Stones::205000010
-Flare Darkscale::205000065
-Turbocharger::205000099
-Dragondrop (S)::205000082
-Dragondrop (L)::205000083
-Dragontear (S)::205000063
-Thank You Stone::205000015
-Levin Fragment::205000048
-Pale Scarlet Stone Amount::205000036
-Majestic Furball::205000100
-Miglancian Magic::205000007
-Drake Ore::205000089
-Meow Coin::205000026
-Fated Star Fragment::205000107
-True Scarlet Stone::205000058
-Jade Fragments::205000050
-Promissory Note B::205000113
-Fighting Spirit::205000102
-Scores::205000008
-Quaked Stone::205000072
-Seeker Point::205000025
+Catqueen's Ax Lv 9::241900633
+"Road" Data Chip::241900103
+Vice Chiefs' Meeting Place::241900185
+Catqueen's Chain Lv13::241900516
+"Fruit Tree" Data Chip::241900105
+Crimson Pearl::241900481
+Bladeral Beast Core::241900268
+Donburi Acorn::241000174
+Reject Stock [Lv 2]::241900232
+Young Red Laika Trio::241900568
+Cathead Jewel::241900289
+Truedark Crusher::241900430
+Bald Honey::241000261
+Chapter 1 Map Sheet::241000031
+Dungeon Key::241000225
+Scarletdrop Crushers::241900396
+Enough Lumber::241900770
+Acid Disc: Demolish::241100043
+Jubilith Beast Core::241900279
+Scarletdrop Warax::241900393
+Dwelling Crab::241000103
+Sorcerock Gear::241900559
+Excitation Device::241000015
+Lashvalan Fairy Tale::241900179
+Fine Lumber::241900116
+Famous Boat Statue::241000069
+Steamed Feed::241900473
+Radiant Lamp::241900021
+Crest of the Abyss Staff::241900030
+Catqueen's Brace Lv3::241900490
+The Moon Boy: Origin::241000098
+Alchemical Genius::241900132
+Fungal Bed [Lv 3]::241900221
+Strange Delivery Note::241000019
+Mascot::241900238
+Catqueen's Sword Lv 11::241900603
+Burning Block: Breath::241100017
+Wavy Paper::241900235
+Catqueen's Lance Lv 1::241900641
+Rainbow Ring Blueprint::241000291
+Yellow-eyed Daisy::241000269
+Ultra Can Opener::241900166
+Catapult [Lv 2]::241900110
+Catqueen's Sword Lv 5::241900597
+Pickax::241900352
+Fishing Rod Synthesis::241900712
+Darkheart Fists II::241900421
+Metallic Maiden's Bone::241000041
+Blacktear GSword II::241900315
+Prism Dust::241000229
+Fine Organic Feed::241900475
+Smile Lily's Soul::241000131
+Dragon Fossil S::241900344
+Gold Synergy::241900358
+Miglancian Magic::241500001
+Crest of the Abyss Katana::241900031
+Elusive Rex Beast Core::241900275
+Thread Scrap::241900240
+Sweeping Crystal::241900797
+Catqueen's Hammer Lv 16::241900704
+Catqueen's Lance Lv 16::241900656
+Speedy Lizard::241000183
+Famous Castle Statue::241000068
+Catqueen's Hammer Lv 7::241900695
+Truedark Cane::241900423
+Mammy's Soul::241000155
+Dragontear Sword II::241900313
+Fugoba Gunpowder::241900204
+Star Wood Piece::241000161
+Blacktear Warax II::241900323
+Deploy Wind King Stance::241900050
+Mark of God::241000255
+Strange Water::241000112
+Lord Sharkington's Orb::241001017
+Scarlet Membership Card::241000040
+Catqueen's Brace Lv8::241900495
+Captain's Master Key::241900196
+Catqueen's Ax Lv 10::241900634
+Izzak Liquid::241000016
+Catqueen's Sword Lv 8::241900600
+Catqueen's Chain Lv1::241900504
+Dew Roasted Tea Leaves::241000233
+Crafted Armor::241000025
+Nanaba Herb::241000014
+Core Unit::241000003
+Seafire::241000023
+Golem Crystal::241000010
+Conductive Magnet Part::241000007
+Cat Toy::241000001
+Paw-shaped Part (Yellow)::241000187
+Chapter 4 Map Sheet::241000034
+Paw Stamp Album::241000053
+Route 3 - Expansion Chip::241000044
+Wedgebird Thigh Meat::241000005
+Melty Pot's Soul::241000159
+Xen Tail Feather::241000008
+Mysterious Map::241000038
+Pieces of Red Coral::241000022
+Genshin Analects: Vol 2::241000056
+Genshin Analects: Vol 4::241000058
+Cockatrice's Soul::241000136
+Strange Flower::241000028
+Chapter 2 Map Sheet::241000032
+Prismatic Bow Blueprint::241000285
+Infinity Snow Rabbit::241000072
+Curse Breaking Incense::241000084
+Heart-mark Scrap::241000020
+Goblin Loincloth::241000017
+Decorated Lantern::241000071
+Fire Ghost's Soul::241000143
+Ridge Block: Hunger::241100014
+Genshin Analects: Vol 3::241000057
+Jump Rope::241000039
+Star-mark Scrap::241000037
+Gentia Venom Gland::241000012
+Route 1 - Expansion Chip::241000042
+Fine Magicluster::241900138
+Route 4 - Expansion Chip::241000045
+Inspection Memo::241000050
+Resonance Box::241000051
+Route 5 - Expansion Chip::241000046
+Research Log #1::241900101
+Rainbow Rose::241000113
+Genshin Analects: Vol 5::241000059
+Glowing Core::241900122
+The Moon Boy: Snowland::241000100
+Manhole Key::241000256
+Hide 'n' Seek Toto Card::241000049
+Red Topaz::241000116
+Hide 'n' Seek King Badge::241000002
+Omniscient Book::241000121
+Genshin Analects: Vol 10::241000064
+Genshin Analects: Vol 6::241000060
+Curse Breaking Bone::241000087
+Strange Parts::241000120
+Miracle Fruit::241000111
+Handcrafted Fruit::241000079
+Cat Manju::241000093
+Route 2 - Expansion Chip::241000043
+Ship Boarding Permit::241000089
+Letter of Introduction::241000092
+Theater Screenplay::241000052
+Old Hot Spring Guide::241000096
+Mymyne Liquid::241000011
+Curse Breaking Pick::241000083
+Curse Breaking Arrowtip::241000082
+Shin-Raku Ware::241000075
+One Hit Kamasu::241000194
+Bug Report::241000109
+Izana Hand Fan::241000078
+Curse Breaking Mirror::241000088
+Golem's Soul::241000149
+Jyomondo Key::241000110
+Cured Madoro Lamb::241000199
+Promissory Note B::241900799
+Alchemic Furnace [Lv 1]::241900123
+Genshin Analects: Vol 1::241000055
+Pure White Pearl::241000115
+Daruma Portrait::241000080
+Odd Moss::241000169
+Round Wood Piece::241000160
+Guidelines for a Bride::241000097
+Yummy Small Fish::241000106
+Water Quartz::241000118
+Lantern Plant's Soul::241000140
+Fluffy Cover Stand::241000076
+Violet Ogre's Soul::241000150
+Curse Breaking Sickle::241000081
+Chapter 6 Map Sheet::241000036
+Genshin Analects: Vol 9::241000063
+Kurosagi Cat::241000074
+Streamline Wood Piece::241000163
+The Moon Boy: Rainy Seas::241000099
+Decent Small Fish::241000105
+Cute Butterfly::241000101
+Curse Breaking Flint::241000086
+Unusual Artifact::241000206
+Ridge Block: Elated::241100015
+Fish Man's Soul::241000147
+Chaos Crystal::241000207
+Goblin's Soul::241000133
+Giant Ogre's Soul::241000132
+Vermillion Fan::241000094
+Genshin Analects: Vol 8::241000062
+Emperor Muscat::241000197
+Sea Dino's Soul::241000142
+Rinde Sardine::241000191
+Winged Fish::241000102
+Kiyosuke's Wallet::241000091
+Rich-flavored Seed::241000114
+Traveling Starfish::241000173
+Garden Expansion Data::241000048
+Monster Bone::241000117
+Combu Rice::241000175
+Prisoner's Memo::241000176
+Water Orb::241000179
+Gale Orb::241000180
+Gou Shoot::241000171
+Jailer's Memo::241000177
+Curse Breaking Hat::241000085
+Regular Small Fish::241000104
+Paw-shaped Part (Blue)::241000189
+Thousand Needles' Soul::241000141
+Aqua Bird's Soul::241000145
+Eastern Loincloth::241000077
+Mandragora's Soul::241000139
+Sorcerer's Ring A::241000239
+Genshin Analects: Vol 7::241000061
+Dragon Palace Diamond::241900037
+Millennial Glass::241000119
+Catqueen's Brace Lv15::241900502
+Vortex Turtle's Egg::241000167
+Sauteed Tomato::241000196
+Slime's Soul::241000151
+Chemistry Intellect::241000224
+Acute Wood Piece::241000164
+Gold Point::241000067
+Fur Coat::241000213
+Shion's Dried Sardines::241000108
+Flame Orb::241000178
+Evil Eye's Soul::241000153
+Nice-shaped Rock::241000234
+Cat Shrine Key [Horse]::241000252
+Letter of Authorization::241000095
+Paw-shaped Part (Purple)::241000190
+Chaos Drops::241000107
+Prismatic Pick Blueprint::241000284
+Chemical Base::241000223
+Royal Bald Honey::241000263
+Kakudan Milk::241001022
+Medical Seaweed::241000237
+Square Wood Piece::241000162
+Purgatory Den Mushrooms::241000264
+Earth Orb::241000181
+Red Time Reg Drop::241000248
+Pocket Watch::241000214
+Straw Dummy Sea-drift::241000241
+Moonlight Mushroom::241000267
+Ultra Cat-Napper::241000168
+Forest Block: Color::241100027
+Mark of Man::241000253
+Blacktear Odachi II::241900319
+Dogu Sea-drift::241000240
+Coffin's Soul::241000156
+Burning Block: Rage::241100016
+Mechanized Army [Lv 3]::241900154
+Curve-horn Scale::241000226
+Snowman Sea-drift::241000243
+Crimson Rose::241000272
+Compass::241000220
+Chapter 5 Map Sheet::241000035
+Cat Shrine Key [Rat]::241000249
+Active Magic Elements::241000257
+Phase Amplifier::241900441
+Moonlight Block::241100010
+Wind Block: Effort::241100005
+Rippling Mushroom::241000210
+Mark of Beast::241000254
+Extra Large Panel Sea-drift::241000245
+Chase Disc::241100050
+Purgatory Tab::241000265
+Fragment of Dragon Magic::241000166
+Fuzzy Monster's Soul::241000134
+Shiny Conductor::241000277
+Crooked-Tailed Cat Key::241000258
+Prismatic Ham. Blueprint::241000287
+Jasmine Flower::241000268
+Switch Lever::241000296
+Rainbow Neck. Blueprint::241000290
+Sturdy Lumber::241900114
+Shield of Miglance::241000294
+Chapter 3 Map Sheet::241000033
+Ukalelongevity::241001019
+Foxtail Grass::241000266
+Heatproof Barrier::241900020
+Scarlet Meteorite::241000280
+Shiny Blue Stone::241000274
+Shiny Alloy::241000279
+Aurentium::241000227
+Dirty Puzzle Piece::241000260
+Cat Shrine Key [Rabbit]::241000250
+Geo Metal Lock Box::241001001
+Prismatic Sword Blueprint::241000281
+Rainbow Brac. Blueprint::241000289
+Prismatic Rod Blueprint::241000288
+Prismatic Dagger Blueprint::241000282
+Pocket Heater::241900023
+Cuprum Badge::241900119
+The Moon Boy: Peninsula::241900018
+Forest Block: Bond::241100006
+Shiny Element::241000276
+Durable Paper::241900234
+Stone Memory Music Box::241001005
+Gnome's Gem::241001009
+Sylph's Feather::241001007
+Shiny Flint::241000275
+Geo Metal::241001003
+Hollow Wisp's Soul::241000157
+Ashterium::241001004
+Grass Block: Power::241100001
+Freight Carrier Pass::241000270
+Large Claw Crab::241000185
+Catqueen's Sword Lv 9::241900601
+Stardust Shell::241001015
+Shocking Fish::241000013
+Salamander's Lantern::241001006
+Demon's Den Mushrooms::241000262
+Neutralizer::241000298
+Illusory Orca-Sandfish::241001012
+Forest Block: Color::241100007
+Ruined Disc: Melt::241100048
+Castle Wall Key::241000295
+Chase Disc::241100060
+Propulsion Stone::241900563
+Burning Block: Flames::241100018
+Type Attack+::241900040
+Quattro Leaf::241001016
+Forest Block: Sleep::241100028
+Research Log #3::241900096
+Sky Disc: Endurance::241100042
+Shiny Gear::241000278
+Wastes Antibody::241000297
+Aged Uku-Grape Juice::241001025
+Colored Glass::241000221
+Decent Magiron::241900134
+Music Box::241000217
+Pure White Lily::241000271
+Matured Ukalelongevity::241001020
+Fine Iron::241900130
+Shiny Mica::241000273
+Forest Block: Sleep::241100008
+Nana Crorn::241000195
+Catqueen's Ax Lv 6::241900630
+Undine's Tear::241001008
+Shark Saw::241900025
+Uku-Grape Juice::241001023
+Autumn Lance Bass::241000232
+Burning Block: Breath::241100037
+Fire Block::241100040
+Half Moon Wood Piece::241000165
+Catqueen's Staff Lv 1::241900577
+Ridge Block: Elated::241100035
+Snow Flurry Salt::241000228
+Moonlight Block::241100030
+Wind Block: Poison::241100024
+Unread Block: Bee::241100031
+Interrogation Room Key::241900014
+Ridge Block: Hunger::241100034
+Memo Written in Silver::241900001
+Well-Used Pencil::241001011
+Deploy Flash Strike Stance::241900053
+Adventures of Altridge::241900007
+Wind Block: Aid::241100023
+Catqueen's Ax Lv 7::241900631
+Acid Disc: Demolish::241100053
+Deploy Torn Earth Stance::241900051
+The Flower Girl Vol. 13::241900003
+Unread Block: Bee::241100011
+Forest Block: Bond::241100026
+Geo Metal Documents::241001002
+Ruined Disc: Madness::241100046
+Ruined Disc: Pair::241100057
+Acid Disc: Explosion::241100055
+Sky Disc: Reform::241100041
+Fire Block::241100020
+The Flower Girl Vol. 4::241900002
+Ridge Block: Herd::241100013
+Lipstick::241000222
+Catqueen's Sword Lv 10::241900602
+Resonant Jewel::241900027
+Grass Block: Growth::241100002
+Sky Disc: Reform::241100051
+Huge Glass Ball::241001014
+Water Type Resistance-::241900042
+Twin Star Fragment::241900054
+Catqueen's Sword Lv 14::241900606
+Magistone Ore::241900117
+Acid Disc: Aid::241100054
+Acid Disc: Aid::241100044
+Deploy Raging Fire Stance::241900049
+Blast Pick::241900019
+The Moon Boy: Wind Isle::241900012
+Ruined Disc: Pair::241100047
+Wind Block: Aid::241100003
+Eastern Anchovy::241000230
+Acid Disc: Explosion::241100045
+The Flower Girl Vol. 19::241900004
+The Shadow Country 2/2::241900009
+Letter from Marlowe::241500002
+Burning Block: Dragon::241100039
+The Moon Boy: Rainbow::241900013
+Hard Spiritwood::241900147
+Lantern::241000219
+Whiskas Wafers::241900287
+Unread Block: Dance::241100032
+Alchemic Furnace [Lv 2]::241900124
+Letter from Marlowe::241500003
+Wind Block: Effort::241100025
+PWR+::241900038
+Inflict Poison on enemies at start::241900048
+The Moon Boy: Wild Lake::241900017
+The Moon Boy: Hot Cove::241900016
+Rest Stop::241900107
+Research Log #0::241900106
+Catqueen's Sword Lv 12::241900604
+Abnormal Soy Beans::241000172
+Blueflame Fragment::241900055
+Heavy Stone::241900115
+Inflict Pain on enemies at start::241900047
+"House" Data Chip::241900102
+Argentum Badge (Appr)::241900120
+Fire Type Resistance-::241900041
+Crest of the Abyss Sword::241900029
+Ruined Disc: Madness::241100056
+Fire Lizard's Soul::241000144
+Ruined Disc: Shell::241100049
+Fine Magicrystal::241900139
+Old Grimoire::241900010
+Orange Glowing Orb::241900170
+Good Soulumber::241900150
+Loire's Log #5::241900159
+Map to the Luffanna::241900206
+Stun Needle::241900022
+Bomb Component 3::241900178
+Ferrum Badge::241900118
+Chain Grub Husk::241900180
+Crest of the Abyss Fist::241900035
+Bomb Component 2::241900177
+Earth Type Resistance-::241900043
+The Moon Boy: Green Sea::241900015
+Forest Block: Call::241100009
+Summit Road Issue #81::241900192
+Deploy Sacred Water Stance::241900052
+Azure Crystal Trinket::241000204
+Uroboros Meeting Minutes::241900194
+Critical Damage+::241900046
+Uquaji Clan Challenge::241900141
+Royal Pride [Lv 2]::241900143
+Mechanized Army [Lv 1]::241900152
+Rough Stone::241900113
+Cursewood::241900146
+Catapult [Lv 3]::241900111
+Spiritwood::241900145
+Yellow Time Reg Drop::241000247
+Primeval Blessing::241900133
+Research Log #4::241900094
+Premium Mascot::241900239
+Loire's Log #3::241900157
+Loire's Log #8::241900162
+Good Magisteel::241900135
+Syrupy Dialapple::241900167
+Royal Pride [Lv 3]::241900144
+Scarletdrop Breaker::241900397
+Uroboros Surface Base::241900195
+Kite Sea-drift::241000242
+Factory Tower Password::241900175
+Tome of Clearsight::241900539
+Forest Block: Call::241100029
+Catqueen's Fists Lv 3::241900675
+King Rex's Soul::241000138
+Sturdy Magiron::241900136
+Royal Pride [Lv 1]::241900142
+Catqueen's Sword Lv 16::241900608
+Super Canopy Clippers::241900168
+Hard Cursewood::241900148
+Mechanized Army [Lv 2]::241900153
+INT+::241900039
+Ancient Cat Compass::241900248
+Dragontear Lance::241900324
+Thermic Heat Coat::241900283
+Golden Crown::241900165
+The Holy Sword Shield::241900293
+Research Log #2::241900095
+Fine Spores::241900227
+Abacus::241000215
+Clouded Crystal::241900230
+Rich Magisteel::241900137
+Aurum Badge (Appr)::241900121
+Loire's Log #4::241900158
+Warped Mana Mote::241900242
+Almighty Power (Clergy)::241900229
+Wind Type Resistance-::241900044
+Inferno Crossbow::241900108
+Toxic Spores::241900226
+Blue Glowing Orb::241900171
+Prismblade Gem::241900357
+The Moon Boy: Stormy Sea::241900011
+Paw Print Vase::241900549
+Genoscorpio Beast Core::241900272
+Alchemic Furnace [Lv 3]::241900125
+Free Massage Flier::241900193
+Loire's Log #7::241900161
+Bomb Component 1::241900176
+Hidden Treasure Map::241900208
+Disposer's Orders::241900188
+Loire's Log #1::241900155
+Super Revitalizer::241900218
+Hurricanes Info::241900189
+Explosive Walnut::241001018
+Loire's Log #6::241900160
+Master Key β::241900174
+Docson's Location::241900191
+Bomb Shopping List::241900202
+Master Key α::241900173
+Shipwreck Central Map::241900210
+Fungal Bed [Lv 2]::241900220
+Revitalizer::241900216
+Tin Wind-Up Key::241900201
+Crest of the Abyss Ha.::241900036
+Loire's Log #9::241900163
+Suspension Bridge::241900212
+Fraxinus Labs Badge::241900217
+Gauss Egg::241900228
+Lizzy's Decorative Scales::241000009
+Twilit Brawn Crest::241900211
+Rough Timber::241900222
+Vitrified Shell Glass::241900182
+Young Blue Laika Trio::241900569
+Magisteel::241900131
+Stone Pendant::241900214
+Geometry's Soul::241000152
+Entrana Thief's Log::241900290
+Sturdy Iron::241900128
+Guines's Location::241900190
+Spirit Pick::241900451
+Saltore Mine Depths Key::241900365
+Coralkonbu Stem::241900205
+Tesla Core::241900151
+Sturdy Ladder::241900350
+Strange Skill Crest::241900197
+Strong Steel::241900127
+The Two-Horned Crown::241900301
+Large Ancient Cat Plate::241900253
+Ancient Cat Statue::241900246
+Liam's Pocket Watch::241900213
+Reject Stock [Lv 3]::241900233
+Dragontear Staff II::241900341
+Shady Deal Info::241900183
+Reject Stock [Lv 1]::241900231
+Monster Feed (Small Meat)::241900372
+Ancient Cat Levistone::241900257
+Uquaji Scale::241900140
+Fungal Bed [Lv 1]::241900219
+Old-Spec Silicon Plate::241900241
+Sturdy Logs::241900223
+Crest of the Abyss Ax::241900033
+Hard Logs::241900225
+Steel Ancient Cat Mask::241900259
+Challenger's Merit::241900245
+The Obliteration Amulet::241900294
+Cathead Jewel::241900286
+Map to the Transport Ship::241900207
+Rare Energon Seed::241900282
+Blacktear Rod II::241900343
+Dragontear Ax::241900320
+Arboreal Tear::241900243
+Coralkonbu Ore::241900565
+Energon Blade::241900281
+Ancient Cat Abacus::241900256
+Log Section::241900370
+Golden Ancient Cat Coffin::241900258
+Shrimp Anemone::241000170
+Beef Bacon::241000200
+Ancient Cat Jar::241900252
+Detonator::241000299
+Flashing Wings Crest::241900199
+Strong Rope::241000236
+Spardaphant Beast Core::241900263
+Magna Golem Beast Core::241900273
+Type-7 Fuse::241900203
+About Brigan's Digs::241900184
+Gajiram Beast Core::241900277
+Old Key::241900215
+Water Purifier Materials::241900288
+Key Piece::241000238
+Stiff Paper::241900236
+Map to the Purrate Ship::241900307
+Protisburn Beast Core::241900271
+The Spirit Grail::241900292
+Hardened Steel::241900129
+Catqueen's Brace Lv16::241900503
+Loire's Log #2::241900156
+Murder Bug Beast Core::241900264
+Ancient Cat Fan::241900254
+Labiriveria Beast Core::241900265
+The Shiny People Vol. 13::241900006
+Tiger Blade Shrimp::241000231
+Scale Gigas Beast Core::241900266
+The Two-Horned Crown::241900295
+Ancient Cat Crystal::241900260
+The Exorcism Scripture::241900291
+Ancient Cat Lithograph::241900255
+Purification Gear::241900284
+Dragryphon Beast Core::241900276
+Bouncer Fee Estimate::241900187
+Manui Oil::241000122
+Dragontear Lance II::241900325
+Legendary Treasure Map::241900209
+Aeolian Beast Core::241900278
+Destrogre Beast Core::241900269
+Hide 'n' Seek Certificate::241000018
+Ancient Cat Coin::241900249
+Catqueen's Staff Lv 9::241900585
+Dragontear Katana::241900316
+Invitation Card::241900368
+Exorcist's Amulet::241900300
+Crest of the Abyss Bow::241900034
+Fine Soulumber::241900149
+Ancient Cat Glass::241900247
+Dragon Fossil B::241900345
+Dense Paper::241900237
+Holy Grail::241900298
+Ivylord Beast Core::241900262
+Blacktear Odachi::241900318
+Miu-Mail Letter::241900304
+Gigagin Beast Core::241900267
+Shovel::241900351
+Darkshade Gem::241900356
+Diluvian Beast Core::241900306
+Dragontear Bow II::241900329
+Sunken Pocket Watch::241900285
+Featherex Beast Core::241900261
+Mystic Ancient Cat Gem::241900251
+Deus Cetus Beast Core::241900274
+Dragontear Staff::241900340
+Premium Key Card::241900367
+Dragontear Katana II::241900317
+The Machina Wyrm Heart::241900296
+Catqueen's Chain Lv15::241900518
+Spirit Pick III::241900453
+Dragontear Bow::241900328
+Pure Crystal Gear::241900573
+Blacktear Longbow II::241900331
+Darkheart Staff::241900407
+The Exorcism Scripture::241900297
+Catqueen's Katana Lv 10::241900618
+Catqueen's Katana Lv 11::241900619
+Rock Bull's Soul::241000137
+Blacktear Gáe::241900326
+Telescope::241000216
+Blacktear Rod::241900342
+Small Bottle::241900363
+Dragontear Fists::241900332
+Wandering Miu's Map::241900308
+Technobubble::241900359
+Scarletdrop Piercer II::241900402
+Thundercrack Gem::241900355
+Scarletdrop GSword II::241900399
+Dragondrop Bow::241900379
+Catqueen's Katana Lv 15::241900623
+Fleeting Knowledge Crest::241900198
+Long Rope::241900360
+Prismatic Club Blueprint::241000286
+"Road" Data Chip::241900104
+Growth Core::241900280
+Scarletdrop Piercer::241900394
+Darkheart Sword II::241900416
+Darkheart Ax II::241900418
+Scarletdrop Crushers II::241900404
+Scarletdrop Edge::241900392
+Fine Spirit Chip::241900448
+Aged OOPArt::241900462
+Scarletdrop Cane::241900390
+Dragontear Hammer II::241900337
+Blacktear Cesti::241900334
+Truedark GSword II::241900432
+Monster Feed (Meat)::241900371
+Darkheart Katana::241900409
+Truedark Busters II::241900437
+Dragontear Fists II::241900333
+Mystery Key Card::241900364
+Skydragon Stone::241900406
+Blacktear Cesti II::241900335
+Seahorse's Soul::241000146
+Dragondrop GSword::241900375
+Darkheart Sword::241900408
+Spiritgold Gear::241900465
+Darkheart Lance::241900411
+Spiritsilver Gear::241900464
+Truedark GSword::241900424
+Dragondrop Staff II::241900382
+Human Figure Statue::241000070
+Truedark Slicer II::241900433
+Scarletdrop GSword::241900391
+Pretty Flowers::241900353
+Truedark Cane II::241900431
+Scarletdrop Ballista II::241900403
+Scarletdrop Edge II::241900400
+Scarletdrop Warax II::241900401
+Darkheart Hammer II::241900422
+Scarletdrop Ballista::241900395
+Vacant House Key::241900354
+Dragondrop Katana::241900376
+Darkheart Bow::241900412
+Time Stone::241900454
+Catqueen's Brace Lv11::241900498
+Darkheart Fists::241900413
+Ruined Disc: Shell::241100059
+Atratt's Chamber Key::241900366
+Catqueen's Brace Lv13::241900500
+Darkheart Bow II::241900420
+Catqueen's Chain Lv14::241900517
+Dragondrop Fists II::241900388
+Darkheart Hammer::241900414
+Blue Gem::241900361
+Fine Spirit Chunk::241900450
+Spiritore Chunk::241900447
+Glamorous Whetstone::241001010
+Fine Spiritore::241900449
+Darkheart Katana II::241900417
+Spiritbronze Gear::241900463
+Truedark Impaler II::241900435
+Truedark Rager::241900426
+Truedark Shot::241900428
+Darkheart Lance II::241900419
+Dragondrop Staff::241900374
+Darkheart Staff II::241900415
+Truedark Crusher II::241900438
+Scarletdrop Breaker II::241900405
+Dragontear Hammer::241900336
+Time Ore::241900455
+Dragontear Ax II::241900321
+Truedark Slicer::241900425
+Darkheart Ax::241900410
+Phase Amplifier DS::241900443
+Dragondrop Katana II::241900384
+Ancient Adventurer's Map::241900309
+Spiritore::241900446
+T. Time Crystal::241900459
+Fine Steamed Feed::241900476
+Blue Aetherstone::241900470
+Monster Feed (Fish)::241900373
+Wyrm King's Scale::241900439
+T. Time Ore::241900458
+Catqueen's Brace Lv7::241900494
+Truedark Rager II::241900434
+Catqueen's Sword Lv 2::241900594
+Blacktear Warax::241900322
+Phase Amplifier OD::241900442
+Magiburger::241900484
+Chimera's Soul::241000154
+Sapphire Tear::241900466
+Dragondrop Greatax II::241900385
+Truedark Shot II::241900436
+Master Key::241900369
+Blue Plainie Key::241900479
+Catqueen's Brace Lv1::241900488
+Spirit Pick II::241900452
+Gold Aetherstone::241900471
+Catqueen's Brace Lv2::241900489
+Wide-Spectrum Scope::241900303
+Ruby Tear::241900467
+Yellow Plainie Key::241900480
+Mystery Meat::241000202
+Catqueen's Sword Lv 6::241900598
+Catqueen's Chain Lv12::241900515
+Catqueen's Brace Lv10::241900497
+Dusk Pearl::241900483
+Catqueen's Chain Lv4::241900507
+Red Plainie Key::241900478
+Magiburger DX::241900485
+Catqueen's Chain Lv8::241900511
+Catqueen's Katana Lv 13::241900621
+Catqueen's Chain Lv2::241900505
+Truedark Impaler::241900427
+Catqueen's Bow Lv 14::241900670
+Azure Pearl::241900482
+Organic Feed::241900472
+Dreamy Burger::241900486
+Unread Block: Dance::241100012
+Dragondrop Lance::241900378
+Blacktear Longbow::241900330
+Raptor's Soul::241000135
+Time Crystal::241900456
+Catqueen's Chain Lv5::241900508
+Tome of Illusia::241900545
+Catqueen's Ring Lv15::241900534
+Tome of Omnikinesis::241900538
+Catqueen's Chain Lv11::241900514
+Catqueen's Ring Lv1::241900520
+Gearless Pocket Watch::241900546
+Tome of Farsight::241900540
+Dragondrop Fists::241900380
+Tome of Allsight::241900541
+Illusory Medal Misprint::241900552
+Blacktear GSword::241900314
+Catqueen's Brace Lv12::241900499
+Catqueen's Ring Lv7::241900526
+Catqueen's Ring Lv8::241900527
+Catqueen's Chain Lv7::241900510
+Sparkling Feed::241900474
+Tome of Uncover::241900542
+Catqueen's Staff Lv 5::241900581
+Catqueen's Chain Lv16::241900519
+Catqueen's Ring Lv10::241900529
+Catqueen's Brace Lv4::241900491
+Catqueen's Chain Lv3::241900506
+Catqueen's Ring Lv14::241900533
+Catqueen's Bow Lv 16::241900672
+Catqueen's Ring Lv5::241900524
+Catqueen's Katana Lv 8::241900616
+Dragon's Grimoire::241900576
+Phase Amplifier::241900440
+Catqueen's Ring Lv6::241900525
+Catqueen's Brace Lv9::241900496
+Catqueen's Ring Lv12::241900531
+Ferry Blossom Fossil::241900553
+Thirty Laikas::241900571
+Karakuri Blossom Basket::241900557
+Catqueen's Sword Lv 7::241900599
+Dragondrop Bow II::241900387
+Catqueen's Sword Lv 15::241900607
+Magifactory Key::241900560
+The Shadow Country 1/2::241900008
+Tome of Telekinesis::241900536
+Emperor's Key::241900550
+Catqueen's Staff Lv 15::241900591
+Catqueen's Ring Lv11::241900530
+Catqueen's Chain Lv10::241900513
+Catqueen's Staff Lv 13::241900589
+Catqueen's Brace Lv6::241900493
+Crest of the Abyss Lance::241900032
+Misteel Tank::241900554
+Catqueen's Ring Lv13::241900532
+Catqueen's Ring Lv9::241900528
+Young Gold Laika Trio::241900570
+Dragondrop Hammer::241900381
+Paw Print Magic Key::241900551
+Catqueen's Brace Lv14::241900501
+Blacktear Breaker II::241900339
+Metallic Tie::241001013
+Catqueen's Lance Lv 3::241900643
+Catqueen's Sword Lv 1::241900593
+Gentle Lightstone::241900555
+Cat Daruma::241000073
+Catqueen's Katana Lv 3::241900611
+Catqueen's Ring Lv4::241900523
+Catqueen's Katana Lv 1::241900609
+Catqueen's Staff Lv 2::241900578
+Tome of Unlock::241900543
+Grand Laika::241900575
+Crystal Gear::241900572
+Catqueen's Staff Lv 4::241900580
+Catqueen's Sword Lv 4::241900596
+Repair Parts::241900564
+Catqueen's Lance Lv 8::241900648
+Catqueen's Bow Lv 2::241900658
+Catqueen's Staff Lv 12::241900588
+Catqueen's Katana Lv 4::241900612
+Catqueen's Bow Lv 9::241900665
+Vitality Stone::241900561
+Dragondrop Greatax::241900377
+Crystal Tear::241900468
+Catqueen's Ax Lv 11::241900635
+Paw Print Magic Vase::241900558
+Catqueen's Ax Lv 3::241900627
+Brigan Bracelet::241900547
+Catqueen's Bow Lv 7::241900663
+Catqueen's Ax Lv 12::241900636
+Catqueen's Lance Lv 4::241900644
+Catqueen's Ax Lv 8::241900632
+Catqueen's Lance Lv 14::241900654
+Zomas Driver::241900556
+Catqueen's Sword Lv 3::241900595
+Kamasu Soup::241900566
+Catqueen's Hammer Lv 1::241900689
+Catqueen's Bow Lv 4::241900660
+Tome of Unseal::241900544
+Catqueen's Hammer Lv 15::241900703
+Catqueen's Ax Lv 4::241900628
+Catqueen's Fists Lv 12::241900684
+Dragondrop Lance II::241900386
+Dragondrop GSword II::241900383
+Wisdom Stone::241900562
+Catqueen's Hammer Lv 5::241900693
+Small Dinosaur Egg::241000006
+Catqueen's Bow Lv 8::241900664
+Catqueen's Katana Lv 7::241900615
+Catqueen's Katana Lv 6::241900614
+Catqueen's Lance Lv 5::241900645
+Catqueen's Lance Lv 10::241900650
+Catqueen's Staff Lv 8::241900584
+Catqueen's Staff Lv 11::241900587
+Catqueen's Bow Lv 6::241900662
+Bolt Core::241900311
+Catqueen's Staff Lv 14::241900590
+Catqueen's Fists Lv 16::241900688
+Catqueen's Brace Lv5::241900492
+Choral Shell::241900026
+Catqueen's Bow Lv 10::241900666
+Catqueen's Fists Lv 7::241900679
+Catqueen's Lance Lv 9::241900649
+Catqueen's Fists Lv 2::241900674
+Catqueen's Fists Lv 15::241900687
+Catqueen's Bow Lv 11::241900667
+Catqueen's Fists Lv 4::241900676
+Snowdrift Seed::241900784
+Catqueen's Fists Lv 1::241900673
+Catqueen's Bow Lv 12::241900668
+Edax Ogre Key::241900783
+Catqueen's Bow Lv 15::241900671
+Catqueen's Fists Lv 14::241900686
+Catqueen's Bow Lv 5::241900661
+Catqueen's Fists Lv 9::241900681
+Catqueen's Ax Lv 2::241900626
+Catqueen's Staff Lv 16::241900592
+Catqueen's Lance Lv 11::241900651
+Tome of Magikinesis::241900537
+Lashvalan Rippler::241900757
+Gold Cloth::241900762
+Catqueen's Ax Lv 5::241900629
+Catqueen's Hammer Lv 11::241900699
+Catqueen's Fists Lv 10::241900682
+Dungeon Key::241000292
+Flaming Rage Synthesis::241900718
+Catqueen's Fists Lv 13::241900685
+Yagara Bamboo::241900705
+Dragon Fossil R::241900346
+Old Garulean Coin::241900722
+Sharp Scythe::241900709
+Catqueen's Hammer Lv 14::241900702
+Catqueen's Fists Lv 5::241900677
+Catqueen's Fists Lv 6::241900678
+Hero's Will Synthesis::241900716
+Catqueen's Ax Lv 16::241900640
+Catqueen's Fists Lv 11::241900683
+Catqueen's Staff Lv 10::241900586
+Catqueen's Hammer Lv 2::241900690
+Catqueen's Katana Lv 12::241900620
+Explosive Uni Synthesis::241900710
+Catqueen's Fists Lv 8::241900680
+Power Veiled in Wind::241900729
+Fallen Temptation Synthesis::241900733
+Catqueen's Hammer Lv 6::241900694
+Scorching Stone Synthesis::241900717
+[Out of Stock]::241900740
+Another Nectar Synthesis::241900715
+Royal Decree Whelk::241900028
+Ability Crystal: A::241900725
+Limited-edition Gift::241900746
+Catqueen's Staff Lv 3::241900579
+Power Veiled in Water::241900728
+Poison Smoke II Synthesis::241900734
+Evol-core::241900731
+Diablomin X::241900747
+Spirit Sigh Synthesis::241900732
+Catqueen's Katana Lv 2::241900610
+Toto 3D Puzzle::241900743
+Katana Hieroglyph::241900788
+Catqueen's Hammer Lv 3::241900691
+Edaxian Crystal::241900723
+Elixir Synthesis::241900719
+Catqueen's Staff Lv 7::241900583
+Magic Shell Bracelet Synthesis::241900736
+Catqueen's Hammer Lv 12::241900700
+Anti-Edaxian Ore::241900739
+Astronomical Clock Synthesis::241900721
+Symbol of Courage::241900778
+Heirloom Blade::241900753
+Catqueen's Lance Lv 2::241900642
+Catqueen's Lance Lv 12::241900652
+Taboo Pellet Synthesis::241900714
+Magic Engine::241900574
+Ability Crystal: H::241900724
+Flexible Rope::241900349
+Ferry Blossom Petal::241900755
+Enough Stone::241900771
+Gold Thread::241900763
+Ancient Queen's Sculpture::241900756
+Control Circuit::241900801
+Catqueen's Hammer Lv 9::241900697
+Mother's Letter::241900767
+Warm Seed::241900759
+Electronic Device Key::241900741
+Catqueen's Ax Lv 13::241900637
+Vine Worm's Soul::241000148
+Magic Shell Necklace Synthesis::241900737
+Toto::241900780
+Grass Block: Growth::241100022
+Rider's Pass::241900744
+Flying Object Part::241900769
+Palace Dungeon Key::241900742
+Thorny Embrace II Synthesis::241900720
+Gold Loincloth::241900764
+Sky Core::241900773
+Catqueen's Ax Lv 15::241900639
+Vermillion Crystal::241900785
+Fun Guide::241900777
+Craftsman's Dogu::241900750
+Catqueen's Hammer Lv 13::241900701
+Courageous Cat Dogu::241900754
+Dried Sardine Dango::241900761
+Ax Hieroglyph::241900789
+Sailor's Heart::241900782
+Flowery Witchy Hat::241900748
+Ability Crystal: E::241900726
+Large Mysterious Device::241900803
+Dinosaur Killer::241900776
+Door Charm::241900774
+Mind Crystal::241900796
+Concert Gift Ticket::241900745
+Catqueen's Hammer Lv 8::241900696
+Ogre's Prayer::241900772
+Hammer Hieroglyph::241900793
+Staff Hieroglyph::241900786
+Magic Spiral Bottle::241900752
+Unknown Belonging::241900768
+Mysterious Amplifier::241900781
+Fist Hieroglyph::241900792
+Power Veiled in Thunder::241900730
+Bow Hieroglyph::241900791
+Kingly Remnant::241900794
+Fruitful Magicrystal::241900758
+Ogre Cuisine Spread::241900795
+Lance Hieroglyph::241900790
+Exploration Shoes Synthesis::241900713
+Catqueen's Lance Lv 7::241900647
+Broken Device::241900800
+Time-keeping OOPArts::241900751
+Purifying Key::241900775
+Mimi Doll::241900765
+Uninspiring Ax::241000030
+Illusion Wand::241900779
+Shelter Crab::241000182
+Catqueen's Hammer Lv 4::241900692
+Warped Crystal::241900798
+Bush Berry::241900707
+Grilled Eggplant::241900708
+Legendary Hero Badge::241999999
+Red and Black Insect::241000184
+Power Circuit::241900802
+Catqueen's Lance Lv 6::241900646
+Eastern Scroll::241000203
+Seed Sword::241900760
+Ridge Block: Herd::241100033
+Cat Deity Emblem Key::241000259
+Cured Baruoki Kamasu::241000192
+Catqueen's Hammer Lv 10::241900698
+Magnifying Glass::241000218
+Bug Net Synthesis::241900711
+Mysterious Device::241900093
+Marble Sculpture::241000205
+T. Time Stone::241900457
+Quick-2-O::241900749
+Critical Rate::241900045
+Catqueen's Chain Lv6::241900509
+Dragondrop Hammer II::241900389
+Rusty OOPArt::241900461
+Catqueen's Katana Lv 14::241900622
+Catqueen's Ax Lv 1::241900625
+Spiritore Chip::241900445
+Catqueen's Katana Lv 5::241900613
+Burning Block: Dragon::241100019
+Vitaldrain Beast Core::241900305
+Skull Dragon's Soul::241000158
+Decent Lumber::241900112
+Paw-shaped Part (Green)::241000188
+Truedark Busters::241900429
+Cat-quat::241000198
+Specter Palace Key::241000065
+Hell Tortoise Beast Core::241900270
+Catqueen's Chain Lv9::241900512
+Catqueen's Bow Lv 3::241900659
+Burning Block: Flames::241100038
+Scarletdrop Cane II::241900398
+Fine Sparkling Feed::241900477
+Thousandwood::241900706
+Clean Cloth::241900362
+Catqueen's Ring Lv2::241900521
+Catqueen's Ring Lv3::241900522
+Catqueen's Ring Lv16::241900535
+Broken OOPArt::241900460
+Matured Explosive Walnut::241001021
+Prismatic Ax Blueprint::241000283
+Silver Point::241000066
+Sturdy Timber::241900224
+Counting Guide::241000186
+Strange Feather::241000026
+Kidnapper's Location::241900186
+Mystery Key::241900302
+Route 6 - Expansion Chip::241000047
+Sky Disc: Endurance::241100052
+Catqueen's Katana Lv 9::241900617
+Sword Hieroglyph::241900787
+Cat Photo::241900766
+Catqueen's Bow Lv 13::241900669
+Super Dark Ink::241900024
+High Performance Sensor::241000004
+Catqueen's Katana Lv 16::241900624
+Mountain Key::241900172
+Catqueen's Bow Lv 1::241900657
+Ancient Cat Cross::241900250
+Blue Time Reg Drop::241000246
+Catqueen's Sword Lv 13::241900605
+Handmade Figures::241900738
+Lost Delivery Map::241900310
+Strange Stone::241000027
+Celebream::241000193
+Guitar Sea-drift::241000244
+Grass Block: Power::241100021
+Cat Shrine Key [Rooster]::241000251
+Exorcism Key::241000235
+Catqueen's Lance Lv 15::241900655
+Dragontear Sword::241900312
+Way of the Shuffle::241000029
+Small Travelers Memo::241000024
+Ruined Disc: Melt::241100058
+Decent Iron::241900126
+Burning Block: Rage::241100036
+Blossom Basket::241900548
+Respite Kit::241900164
+Satisfying Banquet::241900567
+Catapult [Lv 1]::241900109
+Red Aetherstone::241900469
+The Shiny People Vol. 4::241900005
+Dragon Fossil P::241900347
+Wind Block: Poison::241100004
+Tempered Core::241000209
+Dark Light Crest::241900200
+Aged Kakudan Cheese::241001024
+Blacktear Gáe II::241900327
+Attack Item Synthesis::241900735
+Rope::241900348
+Holy Sword Shield::241900299
+Dusty Straw Hat::241900169
+Handheld Dynamo::241900244
+Rucyanan Ingots::241000054
+Power Veiled in Fire::241900727
+Catqueen's Staff Lv 6::241900582
+Catqueen's Lance Lv 13::241900653
+Fluffy Covers::241000090
+Catqueen's Ax Lv 14::241900638
+Dragon Steak::241000201
+Flame Eater Ash::241000021
+Crystalline Tree Branch::241900181
+Phase Crystal::241900444
+Blacktear Breaker::241900338
