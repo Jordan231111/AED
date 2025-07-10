@@ -58,6 +58,7 @@ Amaranth Starchart::242010013
 Amaranth Tome::242030045
 Amazon Tome::242020301
 Ame-no-Murakumo Codex::242030226
+Ame-no-Totsuka Starchart::242012021
 Ame-no-Uzume Opus::242030525
 Ame-no-Uzume Starchart::242015014
 Ameretat Tome::242030305
@@ -122,6 +123,8 @@ Cthulhu Codex::242030025
 Curse Seeker Treatise::242030707
 Cursed Bride Treatise::242030007
 Cybele Treatise::242030016
+Daikokuten Opus::242030134
+Daikokuten Starchart::242011011
 Dark Knight Tome::242020101
 Demon Reaper Tome::242030308
 Detective Starchart::242011010
@@ -199,9 +202,11 @@ Hermes Starchart::242010001
 Hermes Tome::242030039
 Hierophant Tome::242030002
 High Priestess Treatise::242030012
+Hihayahi Starchart::242012022
+Hihayahi Tome::242030231
 Holy Sentinel Codex::242030423
 Holy Sentinel Starchart::242014006
-Holy Sword Record::242030222
+Holy Sword Record::242030422
 Holy Warrior Tome::242020100
 Hrungnir Tome::242030414
 Hypnotist Treatise::242030006
