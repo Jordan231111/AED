@@ -1,0 +1,1709 @@
+Word: Electrical Device            ||             Index 1 at address 7ADA16CB50 Value: 0
+Word: Broken Electromagnet            ||             Index 2 at address 7ADA16CC10 Value: 0
+Word: Legacy Leg Mark II            ||             Index 3 at address 7ADA16CF10 Value: 0
+Word: Scarlet Lens            ||             Index 4 at address 7ADA16D090 Value: 0
+Word: Gear Part            ||             Index 5 at address 7ADA16D450 Value: 0
+Word: Energy Pod            ||             Index 6 at address 7ADA16D510 Value: 0
+Word: Power Source            ||             Index 7 at address 7ADA16D810 Value: 0
+Word: Legacy Leg            ||             Index 8 at address 7ADA16D990 Value: 0
+Word: Legacy Arm Mark II            ||             Index 9 at address 7ADA16DD50 Value: 0
+Word: Red Lens            ||             Index 10 at address 7ADA16DE10 Value: 0
+Word: Legacy Arm            ||             Index 11 at address 7ADA16DED0 Value: 0
+Word: Energy Tank            ||             Index 12 at address 7ADA16E050 Value: 0
+Word: Yellow Lens            ||             Index 13 at address 7ADA16E350 Value: 0
+Word: Old Part            ||             Index 14 at address 7ADA16E590 Value: 0
+Word: Broken Arm Part            ||             Index 15 at address 7ADA16E650 Value: 0
+Word: Red Shilling            ||             Index 16 at address 7ADA16E710 Value: 0
+Word: Crash Part            ||             Index 17 at address 7ADA16F0D0 Value: 0
+Word: Scope Part            ||             Index 18 at address 7ADA16F190 Value: 0
+Word: Twin Tail Parts            ||             Index 19 at address 7ADA16F250 Value: 0
+Word: Smashed Part            ||             Index 20 at address 7ADA16F310 Value: 0
+Word: Local Control Piece            ||             Index 21 at address 7ADA16F3D0 Value: 0
+Word: Steel Gear            ||             Index 22 at address 7ADA16F490 Value: 0
+Word: White Cylinder            ||             Index 23 at address 7ADA16F550 Value: 0
+Word: Aluminum Bolt            ||             Index 24 at address 7ADA16F610 Value: 0
+Word: Legacy Leg Mark 0            ||             Index 25 at address 7ADA16F6D0 Value: 0
+Word: Broken Leg Part            ||             Index 26 at address 7ADA16F790 Value: 0
+Word: Data Core            ||             Index 27 at address 7ADA16F850 Value: 0
+Word: Cobalt Lens            ||             Index 28 at address 7ADA16F910 Value: 0
+Word: Warped Core            ||             Index 29 at address 7ADA16F9D0 Value: 0
+Word: Tail Part            ||             Index 30 at address 7ADA16FA90 Value: 0
+Word: Searchlight            ||             Index 31 at address 7ADA16FB50 Value: 0
+Word: Hard Lens            ||             Index 32 at address 7ADA16FC10 Value: 0
+Word: Hatred Core            ||             Index 33 at address 7ADA16FCD0 Value: 0
+Word: Oval Arm            ||             Index 34 at address 7ADA16FD90 Value: 0
+Word: Front Cover            ||             Index 35 at address 7ADA16FE50 Value: 0
+Word: Laser Emitter            ||             Index 36 at address 7ADA16FF10 Value: 0
+Word: Infrared Sensor            ||             Index 37 at address 7ADA16FFD0 Value: 0
+Word: White Wheel            ||             Index 38 at address 7ADA170090 Value: 0
+Word: Silver Bolt            ||             Index 39 at address 7ADA170150 Value: 0
+Word: Improved Sensor            ||             Index 40 at address 7ADA170210 Value: 0
+Word: Extermination Chip            ||             Index 41 at address 7ADA1702D0 Value: 0
+Word: Legacy Arm Mark 0            ||             Index 42 at address 7ADA170390 Value: 0
+Word: Broken Gear            ||             Index 43 at address 7ADA170450 Value: 0
+Word: Exoskeleton            ||             Index 44 at address 7ADA170510 Value: 0
+Word: Water Proof Sensor            ||             Index 45 at address 7ADA1705D0 Value: 0
+Word: Laser Blaster            ||             Index 46 at address 7ADA170690 Value: 0
+Word: Thunder Lance            ||             Index 47 at address 7ADA170750 Value: 0
+Word: Network Chip            ||             Index 48 at address 7ADA170810 Value: 0
+Word: Repair Tool+            ||             Index 49 at address 7ADA1708D0 Value: 0
+Word: Mini-Booster            ||             Index 50 at address 7ADA170990 Value: 0
+Word: Repair Tool            ||             Index 51 at address 7ADA170A50 Value: 0
+Word: Core Part            ||             Index 52 at address 7ADA170B10 Value: 0
+Word: Booster Pack            ||             Index 53 at address 7ADA170BD0 Value: 0
+Word: Laser Cannon            ||             Index 54 at address 7ADA170C90 Value: 0
+Word: Silver Chip            ||             Index 55 at address 7ADA170D50 Value: 0
+Word: Movement Sensor            ||             Index 56 at address 7ADA170E10 Value: 0
+Word: Red Booster            ||             Index 57 at address 7ADA170ED0 Value: 0
+Word: Artificial Circuit            ||             Index 58 at address 7ADA170F90 Value: 0
+Word: Demonic Wheel            ||             Index 59 at address 7ADA171050 Value: 0
+Word: Large Gear            ||             Index 60 at address 7ADA171110 Value: 0
+Word: Synth Eye Ball            ||             Index 61 at address 7ADA1711D0 Value: 0
+Word: Dynamo            ||             Index 62 at address 7ADA171290 Value: 0
+Word: Mechanic Whale Heart            ||             Index 63 at address 7ADA171350 Value: 0
+Word: Bearing            ||             Index 64 at address 7ADA171410 Value: 0
+Word: Ancient Pit            ||             Index 65 at address 7ADA1714D0 Value: 0
+Word: Drive Gear            ||             Index 66 at address 7ADA171590 Value: 0
+Word: Dimension Gear            ||             Index 67 at address 7ADA171650 Value: 0
+Word: Steel Bearing            ||             Index 68 at address 7ADA171710 Value: 0
+Word: Telescopic Lens            ||             Index 69 at address 7ADA1717D0 Value: 0
+Word: Geared Motor            ||             Index 70 at address 7ADA171890 Value: 0
+Word: Gazing Pupil            ||             Index 71 at address 7ADA171950 Value: 0
+Word: Detection Sensor            ||             Index 72 at address 7ADA171A10 Value: 0
+Word: Advanced Tuner            ||             Index 73 at address 7ADA171AD0 Value: 0
+Word: Connect Chip            ||             Index 74 at address 7ADA171B90 Value: 0
+Word: Blurry Lens            ||             Index 75 at address 7ADA171C50 Value: 0
+Word: Flight Unit            ||             Index 76 at address 7ADA171D10 Value: 0
+Word: Sparkling Gear            ||             Index 77 at address 7ADA171DD0 Value: 0
+Word: Kusanda Sensor            ||             Index 78 at address 7ADA171E90 Value: 0
+Word: Display Panel            ||             Index 79 at address 7ADA171F50 Value: 0
+Word: Gold Turf            ||             Index 80 at address 7ADA172010 Value: 0
+Word: Rush Booster            ||             Index 81 at address 7ADA1720D0 Value: 0
+Word: Crimson Circuit            ||             Index 82 at address 7ADA172190 Value: 0
+Word: Toto Eye            ||             Index 83 at address 7ADA172250 Value: 0
+Word: Flash Lens            ||             Index 84 at address 7ADA172310 Value: 0
+Word: Solar Light            ||             Index 85 at address 7ADA1723D0 Value: 0
+Word: New Power Device            ||             Index 86 at address 7ADA172490 Value: 0
+Word: Rusty Gear            ||             Index 87 at address 7ADA172550 Value: 0
+Word: Sound Wave Fork            ||             Index 88 at address 7ADA172610 Value: 0
+Word: Gravity Device            ||             Index 89 at address 7ADA1726D0 Value: 0
+Word: Engine Part            ||             Index 90 at address 7ADA172790 Value: 0
+Word: High Speed Sensor            ||             Index 91 at address 7ADA172850 Value: 0
+Word: Power Spring            ||             Index 92 at address 7ADA172910 Value: 0
+Word: Steel Dog Tooth            ||             Index 93 at address 7ADA1729D0 Value: 0
+Word: Brain Chip            ||             Index 94 at address 7ADA172A90 Value: 0
+Word: Broken Spring            ||             Index 95 at address 7ADA172B50 Value: 0
+Word: Steel Conduit            ||             Index 96 at address 7ADA172C10 Value: 0
+Word: Eye Infrared Sensor            ||             Index 97 at address 7ADA172CD0 Value: 0
+Word: Collision Safety Body            ||             Index 98 at address 7ADA172D90 Value: 0
+Word: Enigmatic Circuit            ||             Index 99 at address 7ADA172E50 Value: 0
+Word: Garden Gear            ||             Index 100 at address 7ADA172F10 Value: 0
+Word: Warped Screw            ||             Index 101 at address 7ADA172FD0 Value: 0
+Word: Magnet Core            ||             Index 102 at address 7ADA173090 Value: 0
+Word: Speed Sensor            ||             Index 103 at address 7ADA173150 Value: 0
+Word: High Speed Gear            ||             Index 104 at address 7ADA173210 Value: 0
+Word: Rebel's Coil            ||             Index 105 at address 7ADA1732D0 Value: 0
+Word: Tuner            ||             Index 106 at address 7ADA173390 Value: 0
+Word: Ghost City Lamp            ||             Index 107 at address 7ADA173450 Value: 0
+Word: Rusty Cog            ||             Index 108 at address 7ADA173510 Value: 0
+Word: Master Chip            ||             Index 109 at address 7ADA1735D0 Value: 0
+Word: Epicyclic Gear            ||             Index 110 at address 7ADA173690 Value: 0
+Word: Artificial Grass            ||             Index 111 at address 7ADA173750 Value: 0
+Word: Elite Core            ||             Index 112 at address 7ADA173810 Value: 0
+Word: Imitation Arm Part            ||             Index 113 at address 7ADA1738D0 Value: 0
+Word: Artificial Hammer Core            ||             Index 114 at address 7ADA173990 Value: 0
+Word: Water Pump            ||             Index 115 at address 7ADA173A50 Value: 0
+Word: Golden Chip            ||             Index 116 at address 7ADA173B10 Value: 0
+Word: Neon Wire            ||             Index 117 at address 7ADA173BD0 Value: 0
+Word: Brain Part            ||             Index 118 at address 7ADA173C90 Value: 0
+Word: Lightning Lance            ||             Index 119 at address 7ADA173D50 Value: 0
+Word: Conduction Cable            ||             Index 120 at address 7ADA173E10 Value: 0
+Word: Long Infrared Sensor            ||             Index 121 at address 7ADA173ED0 Value: 0
+Word: Vibrant Core            ||             Index 122 at address 7ADA173F90 Value: 0
+Word: Giant Wheel Axle            ||             Index 123 at address 7ADA174050 Value: 0
+Word: Demon Bird Eye            ||             Index 124 at address 7ADA174110 Value: 0
+Word: Johns Edge            ||             Index 125 at address 7ADA1741D0 Value: 0
+Word: Floating Gear            ||             Index 126 at address 7ADA174290 Value: 0
+Word: Ultra-Precision Toy Screw            ||             Index 127 at address 7ADA174350 Value: 0
+Word: Silent Green Fireball            ||             Index 128 at address 7ADA174410 Value: 0
+Word: Blaze Core            ||             Index 129 at address 7ADA1744D0 Value: 0
+Word: ????            ||             Index 130 at address 7ADA174590 Value: 0
+Word: Poison Nozzle            ||             Index 131 at address 7ADA174650 Value: 0
+Word: Empty Fireball            ||             Index 132 at address 7ADA174710 Value: 0
+Word: Hi-Precision Core            ||             Index 133 at address 7ADA1747D0 Value: 0
+Word: Dull Glowing Gear            ||             Index 134 at address 7ADA174890 Value: 0
+Word: Weathered Core            ||             Index 135 at address 7ADA174950 Value: 0
+Word: Bent Wheel Axle            ||             Index 136 at address 7ADA174A10 Value: 0
+Word: Empty Green Fireball            ||             Index 137 at address 7ADA174AD0 Value: 0
+Word: Sparking Circuit            ||             Index 138 at address 7ADA174B90 Value: 0
+Word: Time Core            ||             Index 139 at address 7ADA174C50 Value: 0
+Word: Operational Nucleus            ||             Index 140 at address 7ADA174D10 Value: 0
+Word: Hollow Bright Core            ||             Index 141 at address 7ADA174DD0 Value: 0
+Word: Piece of an Empty Soul            ||             Index 142 at address 7ADA174E90 Value: 0
+Word: Auto Circuit            ||             Index 143 at address 7ADA174F50 Value: 0
+Word: Broken Circuit            ||             Index 144 at address 7ADA175010 Value: 0
+Word: Fire Core            ||             Index 145 at address 7ADA1750D0 Value: 0
+Word: Sundown Skeleton            ||             Index 146 at address 7ADA175190 Value: 0
+Word: Dull Shiny Gear            ||             Index 147 at address 7ADA175250 Value: 0
+Word: Stanis Core            ||             Index 148 at address 7ADA175310 Value: 0
+Word: Transparent Shell            ||             Index 149 at address 7ADA1753D0 Value: 0
+Word: Defiant Brand            ||             Index 150 at address 7ADA175490 Value: 0
+Word: Silent Fireball            ||             Index 151 at address 7ADA175550 Value: 0
+Word: Dusk Circuit Board            ||             Index 152 at address 7ADA175610 Value: 0
+Word: Salt Sealant            ||             Index 153 at address 7ADA1756D0 Value: 0
+Word: Memorial Float            ||             Index 154 at address 7ADA175790 Value: 0
+Word: Aquatic Driver Parts            ||             Index 155 at address 7ADA175850 Value: 0
+Word: Cradle Circuit Board            ||             Index 156 at address 7ADA175910 Value: 0
+Word: Blackgloss Shell            ||             Index 157 at address 7ADA1759D0 Value: 0
+Word: Glass Lump            ||             Index 158 at address 7ADA175A90 Value: 0
+Word: Sundown Fragment            ||             Index 159 at address 7ADA175B50 Value: 0
+Word: Shock-Resistant Gear            ||             Index 160 at address 7ADA175C10 Value: 0
+Word: Moonlit Gear            ||             Index 161 at address 7ADA175CD0 Value: 0
+Word: Hollow Stone Core            ||             Index 162 at address 7ADA175D90 Value: 0
+Word: ????            ||             Index 163 at address 7ADA175E50 Value: 0
+Word: Memorial Drop            ||             Index 164 at address 7ADA175F10 Value: 0
+Word: Pulsing Core            ||             Index 165 at address 7ADA175FD0 Value: 0
+Word: Stagnant Core            ||             Index 166 at address 7ADA176090 Value: 0
+Word: Inky Resin            ||             Index 167 at address 7ADA176150 Value: 0
+Word: ????            ||             Index 168 at address 7ADA176210 Value: 0
+Word: ????            ||             Index 169 at address 7ADA1762D0 Value: 0
+Word: Glittering Jewel            ||             Index 170 at address 7ADA176390 Value: 0
+Word: Twilight Steel            ||             Index 171 at address 7ADA176450 Value: 0
+Word: Twilight Resin            ||             Index 172 at address 7ADA176510 Value: 0
+Word: Water Sealant            ||             Index 173 at address 7ADA1765D0 Value: 0
+Word: Crystal Pearl            ||             Index 174 at address 7ADA176690 Value: 0
+Word: Meowtal            ||             Index 175 at address 7ADA176750 Value: 0
+Word: Cultivator Part            ||             Index 176 at address 7ADA176810 Value: 0
+Word: Advanced Water Sealant            ||             Index 177 at address 7ADA1768D0 Value: 0
+Word: Fossil Gear            ||             Index 178 at address 7ADA176990 Value: 0
+Word: Warped Crystal Core            ||             Index 179 at address 7ADA176A50 Value: 0
+Word: Blazing Jewel            ||             Index 180 at address 7ADA176B10 Value: 0
+Word: Smokedrift Ornament            ||             Index 181 at address 7ADA176BD0 Value: 0
+Word: Driver Core            ||             Index 182 at address 7ADA176C90 Value: 0
+Word: Toxic Nozzle            ||             Index 183 at address 7ADA176D50 Value: 0
+Word: Deep Dark Eye            ||             Index 184 at address 7ADA176E10 Value: 0
+Word: Firedrake Ruby            ||             Index 185 at address 7ADA176ED0 Value: 0
+Word: Float Motivator            ||             Index 186 at address 7ADA176F90 Value: 0
+Word: Slaughter Core            ||             Index 187 at address 7ADA177050 Value: 0
+Word: Hollow Residue            ||             Index 188 at address 7ADA177110 Value: 0
+Word: Rushing Jewel            ||             Index 189 at address 7ADA1771D0 Value: 0
+Word: Fine Meowtal            ||             Index 190 at address 7ADA177290 Value: 0
+Word: Sinister Crystal Core            ||             Index 191 at address 7ADA177350 Value: 0
+Word: Unfaded Alloy Core            ||             Index 192 at address 7ADA177410 Value: 0
+Word: TL Nanites            ||             Index 193 at address 7ADA1774D0 Value: 0
+Word: Gustdrake Peridot            ||             Index 194 at address 7ADA177590 Value: 0
+Word: Hollow Fragment            ||             Index 195 at address 7ADA177650 Value: 0
+Word: Hi-Precision Gear            ||             Index 196 at address 7ADA177710 Value: 0
+Word: Illusory Ticket            ||             Index 197 at address 7ADA1777D0 Value: 0
+Word: Dawn Circuit Board            ||             Index 198 at address 7ADA177890 Value: 0
+Word: Auto Core            ||             Index 199 at address 7ADA177950 Value: 0
+Word: Waterdrake Lapis            ||             Index 200 at address 7ADA177A10 Value: 0
+Word: Gustdrake Emerald            ||             Index 201 at address 7ADA177AD0 Value: 0
+Word: Unclean Serpent Eye            ||             Index 202 at address 7ADA177B90 Value: 0
+Word: Deep Dark Green Eye            ||             Index 203 at address 7ADA177C50 Value: 0
+Word: Howling Jewel            ||             Index 204 at address 7ADA177D10 Value: 0
+Word: Waterdrake Sapphire            ||             Index 205 at address 7ADA177DD0 Value: 0
+Word: Darkshroud Core            ||             Index 206 at address 7ADA177E90 Value: 0
+Word: Dreadnought Core            ||             Index 207 at address 7ADA177F50 Value: 0
+Word: Illusion Sticker            ||             Index 208 at address 7ADA178010 Value: 0
+Word: Petrified Gear            ||             Index 209 at address 7ADA1780D0 Value: 0
+Word: Simple Outer Parts            ||             Index 210 at address 7ADA178190 Value: 0
+Word: Hollow Relic            ||             Index 211 at address 7ADA178250 Value: 0
+Word: Timeshock-Resistant Gear            ||             Index 212 at address 7ADA178310 Value: 0
+Word: Gaudy Neon            ||             Index 213 at address 7ADA1783D0 Value: 0
+Word: Time-Floating Core            ||             Index 214 at address 7ADA178490 Value: 0
+Word: Bloody Iris            ||             Index 215 at address 7ADA178550 Value: 0
+Word: Crystaline Unit            ||             Index 216 at address 7ADA178610 Value: 0
+Word: Aquatic Speed Parts            ||             Index 217 at address 7ADA1786D0 Value: 0
+Word: Firedrake Garnet            ||             Index 218 at address 7ADA178790 Value: 0
+Word: Abyssal Dragonheart            ||             Index 219 at address 7ADA178850 Value: 0
+Word: Deep-sea Relic            ||             Index 220 at address 7ADA178910 Value: 0
+Word: Illusion Sticker            ||             Index 221 at address 7ADA1789D0 Value: 0
+Word: Time Driver            ||             Index 222 at address 7ADA178A90 Value: 0
+Word: Medical Nanites            ||             Index 223 at address 7ADA178B50 Value: 0
+Word: Slaughter Circuit            ||             Index 224 at address 7ADA178C10 Value: 0
+Word: Buoyant Screw            ||             Index 225 at address 7ADA178CD0 Value: 0
+Word: Polluted Slaughter Core            ||             Index 226 at address 7ADA178D90 Value: 0
+Word: Frayed Robe            ||             Index 227 at address 7ADA178E50 Value: 0
+Word: Old Belt            ||             Index 228 at address 7ADA178F10 Value: 0
+Word: Heavy Belt            ||             Index 229 at address 7ADA178FD0 Value: 0
+Word: Light Cable            ||             Index 230 at address 7ADA179090 Value: 0
+Word: Beast Flame Tail            ||             Index 231 at address 7ADA179150 Value: 0
+Word: Edaxian Circuit            ||             Index 232 at address 7ADA179210 Value: 0
+Word: Worn Belt            ||             Index 233 at address 7ADA1792D0 Value: 0
+Word: Black Skin            ||             Index 234 at address 7ADA179390 Value: 0
+Word: Thick Tail            ||             Index 235 at address 7ADA179450 Value: 0
+Word: Destroyed Robe            ||             Index 236 at address 7ADA179510 Value: 0
+Word: Hollow Error Core            ||             Index 237 at address 7ADA1795D0 Value: 0
+Word: Nanotube            ||             Index 238 at address 7ADA179690 Value: 0
+Word: Fine Crystal Pearl            ||             Index 239 at address 7ADA179750 Value: 0
+Word: Beast Belt            ||             Index 240 at address 7ADA179810 Value: 0
+Word: ????            ||             Index 241 at address 7ADA1798D0 Value: 0
+Word: Swallowed Magic Stone            ||             Index 242 at address 7ADA179990 Value: 0
+Word: Classic Cord            ||             Index 243 at address 7ADA179A50 Value: 0
+Word: Simple Neon            ||             Index 244 at address 7ADA179B10 Value: 0
+Word: Beast Robust Belt            ||             Index 245 at address 7ADA179BD0 Value: 0
+Word: Corrupted Hollow Metal            ||             Index 246 at address 7ADA179C90 Value: 0
+Word: Broken Steam Gear            ||             Index 247 at address 7ADA179D50 Value: 0
+Word: Flare Part            ||             Index 248 at address 7ADA179E10 Value: 0
+Word: Worn Antenna            ||             Index 249 at address 7ADA179ED0 Value: 0
+Word: Elastomer            ||             Index 250 at address 7ADA179F90 Value: 0
+Word: Shift Levistone            ||             Index 251 at address 7ADA17A050 Value: 0
+Word: Fragile Neon Wire            ||             Index 252 at address 7ADA17A110 Value: 0
+Word: Spectral Ball            ||             Index 253 at address 7ADA17A1D0 Value: 0
+Word: Error Code Part            ||             Index 254 at address 7ADA17A290 Value: 0
+Word: Beast Hard Belt            ||             Index 255 at address 7ADA17A350 Value: 0
+Word: Edaxian Calculator            ||             Index 256 at address 7ADA17A410 Value: 0
+Word: Stalwart Cursed Core            ||             Index 257 at address 7ADA17A4D0 Value: 0
+Word: Unusual Antenna            ||             Index 258 at address 7ADA17A590 Value: 0
+Word: Haunted Hellish Figurine            ||             Index 259 at address 7ADA17A650 Value: 0
+Word: Beast Tail            ||             Index 260 at address 7ADA17A710 Value: 0
+Word: Corrupted Metal Part            ||             Index 261 at address 7ADA17A7D0 Value: 0
+Word: Thread of Time            ||             Index 262 at address 7ADA17A890 Value: 0
+Word: Burned Robe            ||             Index 263 at address 7ADA17A950 Value: 0
+Word: Pure Orb            ||             Index 264 at address 7ADA17AA10 Value: 0
+Word: Kingly Remnant            ||             Index 265 at address 7ADA17AAD0 Value: 0
+Word: Battery Cable            ||             Index 266 at address 7ADA17AB90 Value: 0
+Word: Wild Beast Tail            ||             Index 267 at address 7ADA17AC50 Value: 0
+Word: Shining Red Relic            ||             Index 268 at address 7ADA17AD10 Value: 0
+Word: Fallen Soul's Lament            ||             Index 269 at address 7ADA17ADD0 Value: 0
+Word: Hollow Burnt Part            ||             Index 270 at address 7ADA17AE90 Value: 0
+Word: Red Tektite Clump            ||             Index 271 at address 7ADA17AF50 Value: 0
+Word: Hazy Scarlet Jewel            ||             Index 272 at address 7ADA17B010 Value: 0
+Word: Corrupted Void Stone            ||             Index 273 at address 7ADA17B0D0 Value: 0
+Word: Destroyer Heart            ||             Index 274 at address 7ADA17B190 Value: 0
+Word: Old Cloth            ||             Index 275 at address 7ADA17B250 Value: 0
+Word: Red Tektite Shard            ||             Index 276 at address 7ADA17B310 Value: 0
+Word: Fallen Soul            ||             Index 277 at address 7ADA17B3D0 Value: 0
+Word: Cut Wire Bundle            ||             Index 278 at address 7ADA17B490 Value: 0
+Word: Kite Thread            ||             Index 279 at address 7ADA17B550 Value: 0
+Word: Spider Thread            ||             Index 280 at address 7ADA17B610 Value: 0
+Word: Gloom Cloth            ||             Index 281 at address 7ADA17B6D0 Value: 0
+Word: Straw Rope            ||             Index 282 at address 7ADA17B790 Value: 0
+Word: Molecule Wire            ||             Index 283 at address 7ADA17B850 Value: 0
+Word: Beast Sturdy Belt            ||             Index 284 at address 7ADA17B910 Value: 0
+Word: Dark Skin            ||             Index 285 at address 7ADA17B9D0 Value: 0
+Word: Sturdy Belt            ||             Index 286 at address 7ADA17BA90 Value: 0
+Word: Energy Cable            ||             Index 287 at address 7ADA17BB50 Value: 0
+Word: Blue Cord            ||             Index 288 at address 7ADA17BC10 Value: 0
+Word: Cable Harness            ||             Index 289 at address 7ADA17BCD0 Value: 0
+Word: Animal Brush            ||             Index 290 at address 7ADA17BD90 Value: 0
+Word: Wire Harness            ||             Index 291 at address 7ADA17BE50 Value: 0
+Word: Maiden Tentacle            ||             Index 292 at address 7ADA17BF10 Value: 0
+Word: Geo-Elastomer            ||             Index 293 at address 7ADA17BFD0 Value: 0
+Word: Wave Stability Fiber            ||             Index 294 at address 7ADA17C090 Value: 0
+Word: Calculation Fiber            ||             Index 295 at address 7ADA17C150 Value: 0
+Word: Dreamlit Cloth            ||             Index 296 at address 7ADA17C210 Value: 0
+Word: Monster's Headband            ||             Index 297 at address 7ADA17C2D0 Value: 0
+Word: Purple Antenna            ||             Index 298 at address 7ADA17C390 Value: 0
+Word: Giant Pillow            ||             Index 299 at address 7ADA17C450 Value: 0
+Word: Robust Belt            ||             Index 300 at address 7ADA17C510 Value: 0
+Word: Gloom Thread            ||             Index 301 at address 7ADA17C5D0 Value: 0
+Word: Fiber Cord            ||             Index 302 at address 7ADA17C690 Value: 0
+Word: Forgotten Mantle            ||             Index 303 at address 7ADA17C750 Value: 0
+Word: Cryptid Mane            ||             Index 304 at address 7ADA17C810 Value: 0
+Word: Twinkling Thread            ||             Index 305 at address 7ADA17C8D0 Value: 0
+Word: Waving Dimension Thread            ||             Index 306 at address 7ADA17C990 Value: 0
+Word: Grinding Gloves            ||             Index 307 at address 7ADA17CA50 Value: 0
+Word: Giant Pajamas            ||             Index 308 at address 7ADA17CB10 Value: 0
+Word: Tailored Tailcoat            ||             Index 309 at address 7ADA17CBD0 Value: 0
+Word: Power Cable            ||             Index 310 at address 7ADA17CC90 Value: 0
+Word: Road Tube            ||             Index 311 at address 7ADA17CD50 Value: 0
+Word: Beast Cow Undergarment            ||             Index 312 at address 7ADA17CE10 Value: 0
+Word: Scarlet Mantle            ||             Index 313 at address 7ADA17CED0 Value: 0
+Word: Determination Gloves            ||             Index 314 at address 7ADA17CF90 Value: 0
+Word: Power Wire Bundle            ||             Index 315 at address 7ADA17D050 Value: 0
+Word: Elk Mane            ||             Index 316 at address 7ADA17D110 Value: 0
+Word: Wavering Time Thread            ||             Index 317 at address 7ADA17D1D0 Value: 0
+Word: Carbon Fiber            ||             Index 318 at address 7ADA17D290 Value: 0
+Word: Metal Harness            ||             Index 319 at address 7ADA17D350 Value: 0
+Word: Space Cord            ||             Index 320 at address 7ADA17D410 Value: 0
+Word: Melted Cable            ||             Index 321 at address 7ADA17D4D0 Value: 0
+Word: Tailored Formal Wear            ||             Index 322 at address 7ADA17D590 Value: 0
+Word: Modified Wire Bundle            ||             Index 323 at address 7ADA17D650 Value: 0
+Word: White Bristle            ||             Index 324 at address 7ADA17D710 Value: 0
+Word: Green Longhair            ||             Index 325 at address 7ADA17D7D0 Value: 0
+Word: Removed Tail            ||             Index 326 at address 7ADA17D890 Value: 0
+Word: Demon Dog Flame Tail            ||             Index 327 at address 7ADA17D950 Value: 0
+Word: Pressure Wire Bundle            ||             Index 328 at address 7ADA17DA10 Value: 0
+Word: Grass Fiber            ||             Index 329 at address 7ADA17DAD0 Value: 0
+Word: Stone Blade Fragment            ||             Index 330 at address 7ADA17DB90 Value: 0
+Word: Blackwind Down            ||             Index 331 at address 7ADA17DC50 Value: 0
+Word: Precise Feeler            ||             Index 332 at address 7ADA17DD10 Value: 0
+Word: Prayer Bead Fragment            ||             Index 333 at address 7ADA17DDD0 Value: 0
+Word: Brick Fragment            ||             Index 334 at address 7ADA17DE90 Value: 0
+Word: Central Oil Tube            ||             Index 335 at address 7ADA17DF50 Value: 0
+Word: Coat of the Tested            ||             Index 336 at address 7ADA17E010 Value: 0
+Word: Broken Stone Ax            ||             Index 337 at address 7ADA17E0D0 Value: 0
+Word: Gray Coil            ||             Index 338 at address 7ADA17E190 Value: 0
+Word: Time Bunch            ||             Index 339 at address 7ADA17E250 Value: 0
+Word: Dark Blue Cloth            ||             Index 340 at address 7ADA17E310 Value: 0
+Word: Fine Meowcord            ||             Index 341 at address 7ADA17E3D0 Value: 0
+Word: Empty Fabric            ||             Index 342 at address 7ADA17E490 Value: 0
+Word: Meowcord            ||             Index 343 at address 7ADA17E550 Value: 0
+Word: Shabby Beast Fur            ||             Index 344 at address 7ADA17E610 Value: 0
+Word: Cursed Cocoon            ||             Index 345 at address 7ADA17E6D0 Value: 0
+Word: Black Stone            ||             Index 346 at address 7ADA17E790 Value: 0
+Word: Hollow Beast Fur            ||             Index 347 at address 7ADA17E850 Value: 0
+Word: Lizzy's Knife            ||             Index 348 at address 7ADA17E910 Value: 0
+Word: Black Lightstone            ||             Index 349 at address 7ADA17E9D0 Value: 0
+Word: Fragile Glass Fiber            ||             Index 350 at address 7ADA17EA90 Value: 0
+Word: Arterial Oil Tube            ||             Index 351 at address 7ADA17EB50 Value: 0
+Word: Dark Red Cloth            ||             Index 352 at address 7ADA17EC10 Value: 0
+Word: Beast Spear            ||             Index 353 at address 7ADA17ECD0 Value: 0
+Word: Fine Crystal Chain            ||             Index 354 at address 7ADA17ED90 Value: 0
+Word: Sahuagin Knife            ||             Index 355 at address 7ADA17EE50 Value: 0
+Word: Heavy Gauntlets            ||             Index 356 at address 7ADA17EF10 Value: 0
+Word: Beast Gauntlets            ||             Index 357 at address 7ADA17EFD0 Value: 0
+Word: Factor Antenna            ||             Index 358 at address 7ADA17F090 Value: 0
+Word: Beast Breastplate            ||             Index 359 at address 7ADA17F150 Value: 0
+Word: Heavy Battleax            ||             Index 360 at address 7ADA17F210 Value: 0
+Word: Bloody Kimono            ||             Index 361 at address 7ADA17F2D0 Value: 0
+Word: Smoking Gold Chain            ||             Index 362 at address 7ADA17F390 Value: 0
+Word: Empty Coat            ||             Index 363 at address 7ADA17F450 Value: 0
+Word: Nanocube            ||             Index 364 at address 7ADA17F510 Value: 0
+Word: Dustsweep Antenna            ||             Index 365 at address 7ADA17F5D0 Value: 0
+Word: Red Brick            ||             Index 366 at address 7ADA17F690 Value: 0
+Word: Flexile Springstone            ||             Index 367 at address 7ADA17F750 Value: 0
+Word: Smoking Silver Chain            ||             Index 368 at address 7ADA17F810 Value: 0
+Word: Heavy Spear            ||             Index 369 at address 7ADA17F8D0 Value: 0
+Word: Beast Battleax            ||             Index 370 at address 7ADA17F990 Value: 0
+Word: Stone-Like Skin            ||             Index 371 at address 7ADA17FA50 Value: 0
+Word: Scrap of the Tested            ||             Index 372 at address 7ADA17FB10 Value: 0
+Word: Battle-Ready Fur            ||             Index 373 at address 7ADA17FBD0 Value: 0
+Word: Requiem Fragment            ||             Index 374 at address 7ADA17FC90 Value: 0
+Word: Crystal Chain            ||             Index 375 at address 7ADA17FD50 Value: 0
+Word: Time-Shifted Parts            ||             Index 376 at address 7ADA17FE10 Value: 0
+Word: Wide-Range Feeler            ||             Index 377 at address 7ADA17FED0 Value: 0
+Word: Edaxian Hollow Rope            ||             Index 378 at address 7ADA17FF90 Value: 0
+Word: Oil Tube            ||             Index 379 at address 7ADA180050 Value: 0
+Word: Heavy Breastplate            ||             Index 380 at address 7ADA180110 Value: 0
+Word: Heated Hair            ||             Index 381 at address 7ADA1801D0 Value: 0
+Word: Mossy Small Rock            ||             Index 382 at address 7ADA180290 Value: 0
+Word: Cave Helmet            ||             Index 383 at address 7ADA180350 Value: 0
+Word: Sulfocast            ||             Index 384 at address 7ADA180410 Value: 0
+Word: Sanukite            ||             Index 385 at address 7ADA1804D0 Value: 0
+Word: Rock Thorax            ||             Index 386 at address 7ADA180590 Value: 0
+Word: Old Clay            ||             Index 387 at address 7ADA180650 Value: 0
+Word: Black Metal Clay            ||             Index 388 at address 7ADA180710 Value: 0
+Word: Black Obsidian            ||             Index 389 at address 7ADA1807D0 Value: 0
+Word: Cracked Tile            ||             Index 390 at address 7ADA180890 Value: 0
+Word: Stone Tool Piece            ||             Index 391 at address 7ADA180950 Value: 0
+Word: Ogre Stone Lance            ||             Index 392 at address 7ADA180A10 Value: 0
+Word: Tempered Crystal            ||             Index 393 at address 7ADA180AD0 Value: 0
+Word: Cracked Shard            ||             Index 394 at address 7ADA180B90 Value: 0
+Word: Black Coal            ||             Index 395 at address 7ADA180C50 Value: 0
+Word: Requiem Mass            ||             Index 396 at address 7ADA180D10 Value: 0
+Word: Worn Stone Lantern            ||             Index 397 at address 7ADA180DD0 Value: 0
+Word: Robust Breastplate            ||             Index 398 at address 7ADA180E90 Value: 0
+Word: Anti-Gravity Stone            ||             Index 399 at address 7ADA180F50 Value: 0
+Word: Lustrous Stone            ||             Index 400 at address 7ADA181010 Value: 0
+Word: Broken Handle            ||             Index 401 at address 7ADA1810D0 Value: 0
+Word: Floating Ore            ||             Index 402 at address 7ADA181190 Value: 0
+Word: Meteorite            ||             Index 403 at address 7ADA181250 Value: 0
+Word: Apparition Stone            ||             Index 404 at address 7ADA181310 Value: 0
+Word: Paw Stone            ||             Index 405 at address 7ADA1813D0 Value: 0
+Word: Ancient Coffin            ||             Index 406 at address 7ADA181490 Value: 0
+Word: Rock Wrap            ||             Index 407 at address 7ADA181550 Value: 0
+Word: Purgatory Stone            ||             Index 408 at address 7ADA181610 Value: 0
+Word: Skin-like Rock            ||             Index 409 at address 7ADA1816D0 Value: 0
+Word: Earthenware Fragment            ||             Index 410 at address 7ADA181790 Value: 0
+Word: Rough Stone Arm            ||             Index 411 at address 7ADA181850 Value: 0
+Word: Keen Rock            ||             Index 412 at address 7ADA181910 Value: 0
+Word: Shadow Stone            ||             Index 413 at address 7ADA1819D0 Value: 0
+Word: Hierarchy of Time            ||             Index 414 at address 7ADA181A90 Value: 0
+Word: Disappearing Stone            ||             Index 415 at address 7ADA181B50 Value: 0
+Word: Moonlight Stone            ||             Index 416 at address 7ADA181C10 Value: 0
+Word: Gloom Rock            ||             Index 417 at address 7ADA181CD0 Value: 0
+Word: Round Stone            ||             Index 418 at address 7ADA181D90 Value: 0
+Word: Ripple Rock            ||             Index 419 at address 7ADA181E50 Value: 0
+Word: Carnerion            ||             Index 420 at address 7ADA181F10 Value: 0
+Word: Rock Gait            ||             Index 421 at address 7ADA181FD0 Value: 0
+Word: Pyroxene            ||             Index 422 at address 7ADA182090 Value: 0
+Word: Twisted Stone            ||             Index 423 at address 7ADA182150 Value: 0
+Word: Rock Shoulder Pad            ||             Index 424 at address 7ADA182210 Value: 0
+Word: Rock Shell            ||             Index 425 at address 7ADA1822D0 Value: 0
+Word: Heart Fragment            ||             Index 426 at address 7ADA182390 Value: 0
+Word: Robust Spear            ||             Index 427 at address 7ADA182450 Value: 0
+Word: Migmatite            ||             Index 428 at address 7ADA182510 Value: 0
+Word: Robust Gauntlets            ||             Index 429 at address 7ADA1825D0 Value: 0
+Word: Old Ogre Jug            ||             Index 430 at address 7ADA182690 Value: 0
+Word: Robust Battleax            ||             Index 431 at address 7ADA182750 Value: 0
+Word: Warped Stone            ||             Index 432 at address 7ADA182810 Value: 0
+Word: Siliceous Marl            ||             Index 433 at address 7ADA1828D0 Value: 0
+Word: Critical Mass Stone            ||             Index 434 at address 7ADA182990 Value: 0
+Word: Pilgrim Ore            ||             Index 435 at address 7ADA182A50 Value: 0
+Word: Searumble Ore            ||             Index 436 at address 7ADA182B10 Value: 0
+Word: Giant's Club            ||             Index 437 at address 7ADA182BD0 Value: 0
+Word: Thunder Giant Piece            ||             Index 438 at address 7ADA182C90 Value: 0
+Word: Pasty Tooth            ||             Index 439 at address 7ADA182D50 Value: 0
+Word: Waning Lunar Stone            ||             Index 440 at address 7ADA182E10 Value: 0
+Word: Primordial Ore            ||             Index 441 at address 7ADA182ED0 Value: 0
+Word: Illusory Relic            ||             Index 442 at address 7ADA182F90 Value: 0
+Word: Pitch Dark Gem Fragment            ||             Index 443 at address 7ADA183050 Value: 0
+Word: Chilling Stone            ||             Index 444 at address 7ADA183110 Value: 0
+Word: Thunderlight Stone            ||             Index 445 at address 7ADA1831D0 Value: 0
+Word: Sky Stone            ||             Index 446 at address 7ADA183290 Value: 0
+Word: Cold Dragonstone            ||             Index 447 at address 7ADA183350 Value: 0
+Word: Scale Armor            ||             Index 448 at address 7ADA183410 Value: 0
+Word: Bright Lunar Stone            ||             Index 449 at address 7ADA1834D0 Value: 0
+Word: Magic Spiral Stone Slab            ||             Index 450 at address 7ADA183590 Value: 0
+Word: Subspace Ore            ||             Index 451 at address 7ADA183650 Value: 0
+Word: Gloried Lunar Stone            ||             Index 452 at address 7ADA183710 Value: 0
+Word: Oceanforged Ore            ||             Index 453 at address 7ADA1837D0 Value: 0
+Word: Deep Bluestone            ||             Index 454 at address 7ADA183890 Value: 0
+Word: Steam Ore            ||             Index 455 at address 7ADA183950 Value: 0
+Word: Illusory Ore            ||             Index 456 at address 7ADA183A10 Value: 0
+Word: Iron Soul Craft: Ax            ||             Index 457 at address 7ADA183AD0 Value: 0
+Word: Humming Lunar Stone            ||             Index 458 at address 7ADA183B90 Value: 0
+Word: Charged Stone            ||             Index 459 at address 7ADA183C50 Value: 0
+Word: Strange Stone Slab            ||             Index 460 at address 7ADA183D10 Value: 0
+Word: Magnetic Stone            ||             Index 461 at address 7ADA183DD0 Value: 0
+Word: Iron Soul Craft: Sword            ||             Index 462 at address 7ADA183E90 Value: 0
+Word: Dark Gem Fragment            ||             Index 463 at address 7ADA183F50 Value: 0
+Word: Giant's Club Piece            ||             Index 464 at address 7ADA184010 Value: 0
+Word: Future Ore            ||             Index 465 at address 7ADA1840D0 Value: 0
+Word: Boulder Armor            ||             Index 466 at address 7ADA184190 Value: 0
+Word: Shadow Rubble            ||             Index 467 at address 7ADA184250 Value: 0
+Word: Pitch Black Gem Cluster            ||             Index 468 at address 7ADA184310 Value: 0
+Word: Twilight Stone            ||             Index 469 at address 7ADA1843D0 Value: 0
+Word: Ancient Armor Bit            ||             Index 470 at address 7ADA184490 Value: 0
+Word: Giant's Greatclub            ||             Index 471 at address 7ADA184550 Value: 0
+Word: Magic Lunar Stone            ||             Index 472 at address 7ADA184610 Value: 0
+Word: Iron Soul Craft: Staff            ||             Index 473 at address 7ADA1846D0 Value: 0
+Word: Hot Dragonstone            ||             Index 474 at address 7ADA184790 Value: 0
+Word: Stone Surface Fragment            ||             Index 475 at address 7ADA184850 Value: 0
+Word: Waxing Lunar Stone            ||             Index 476 at address 7ADA184910 Value: 0
+Word: Giant's Giantclub            ||             Index 477 at address 7ADA1849D0 Value: 0
+Word: Abyssal Gem Fragment            ||             Index 478 at address 7ADA184A90 Value: 0
+Word: Ice of the Dark Ages            ||             Index 479 at address 7ADA184B50 Value: 0
+Word: Ice Spindle            ||             Index 480 at address 7ADA184C10 Value: 0
+Word: Wave Lunar Stone            ||             Index 481 at address 7ADA184CD0 Value: 0
+Word: Antique Relic            ||             Index 482 at address 7ADA184D90 Value: 0
+Word: Rushed Lunar Stone            ||             Index 483 at address 7ADA184E50 Value: 0
+Word: Dark Gem Cluster            ||             Index 484 at address 7ADA184F10 Value: 0
+Word: Iron Soul Craft: Katana            ||             Index 485 at address 7ADA184FD0 Value: 0
+Word: Geo Metal Bolt            ||             Index 486 at address 7ADA185090 Value: 0
+Word: Broken Pebble            ||             Index 487 at address 7ADA185150 Value: 0
+Word: Steel Fists            ||             Index 488 at address 7ADA185210 Value: 0
+Word: Iron Bullet            ||             Index 489 at address 7ADA1852D0 Value: 0
+Word: Blood-Soaked Ax            ||             Index 490 at address 7ADA185390 Value: 0
+Word: Chieftain's Ax            ||             Index 491 at address 7ADA185450 Value: 0
+Word: Beast Cop. Battleax            ||             Index 492 at address 7ADA185510 Value: 0
+Word: Beast Iron Gauntlets            ||             Index 493 at address 7ADA1855D0 Value: 0
+Word: Beast Steel Spear            ||             Index 494 at address 7ADA185690 Value: 0
+Word: Destruction Stick            ||             Index 495 at address 7ADA185750 Value: 0
+Word: Iron Ingot            ||             Index 496 at address 7ADA185810 Value: 0
+Word: Titanium Bolt            ||             Index 497 at address 7ADA1858D0 Value: 0
+Word: Giant Iron Armor            ||             Index 498 at address 7ADA185990 Value: 0
+Word: Beast Iron Battleax            ||             Index 499 at address 7ADA185A50 Value: 0
+Word: Spacetime Telomere            ||             Index 500 at address 7ADA185B10 Value: 0
+Word: Artificial Heart II            ||             Index 501 at address 7ADA185BD0 Value: 0
+Word: Artisan Ore            ||             Index 502 at address 7ADA185C90 Value: 0
+Word: Shift Ripple Rock            ||             Index 503 at address 7ADA185D50 Value: 0
+Word: Steel Shaft            ||             Index 504 at address 7ADA185E10 Value: 0
+Word: Draconian Ore            ||             Index 505 at address 7ADA185ED0 Value: 0
+Word: Steel Bullet            ||             Index 506 at address 7ADA185F90 Value: 0
+Word: White Bolt            ||             Index 507 at address 7ADA186050 Value: 0
+Word: Incomplete Earthenware            ||             Index 508 at address 7ADA186110 Value: 0
+Word: Beast Iron Spear            ||             Index 509 at address 7ADA1861D0 Value: 0
+Word: Chappie's Collar            ||             Index 510 at address 7ADA186290 Value: 0
+Word: Beast Iron Breastp.            ||             Index 511 at address 7ADA186350 Value: 0
+Word: Iron Arm            ||             Index 512 at address 7ADA186410 Value: 0
+Word: Red Steel Blade            ||             Index 513 at address 7ADA1864D0 Value: 0
+Word: Iron Armor Fragment            ||             Index 514 at address 7ADA186590 Value: 0
+Word: Beast Steel Gaunt.            ||             Index 515 at address 7ADA186650 Value: 0
+Word: Iron Soul Craft: Hammer            ||             Index 516 at address 7ADA186710 Value: 0
+Word: Beast Copper Spear            ||             Index 517 at address 7ADA1867D0 Value: 0
+Word: Drill Arm            ||             Index 518 at address 7ADA186890 Value: 0
+Word: Elimination Stick            ||             Index 519 at address 7ADA186950 Value: 0
+Word: Beast Copper Gaunt.            ||             Index 520 at address 7ADA186A10 Value: 0
+Word: Suppression Stick            ||             Index 521 at address 7ADA186AD0 Value: 0
+Word: Iron Shaft            ||             Index 522 at address 7ADA186B90 Value: 0
+Word: Metal Needle            ||             Index 523 at address 7ADA186C50 Value: 0
+Word: Hypodermic Needle            ||             Index 524 at address 7ADA186D10 Value: 0
+Word: Beast Steel Breastp.            ||             Index 525 at address 7ADA186DD0 Value: 0
+Word: Red Shaft            ||             Index 526 at address 7ADA186E90 Value: 0
+Word: Cube Block            ||             Index 527 at address 7ADA186F50 Value: 0
+Word: Beast Steel Battleax            ||             Index 528 at address 7ADA187010 Value: 0
+Word: Captain's Ax            ||             Index 529 at address 7ADA1870D0 Value: 0
+Word: Iron Soul Craft: Fists            ||             Index 530 at address 7ADA187190 Value: 0
+Word: Void-Soaked Pebble            ||             Index 531 at address 7ADA187250 Value: 0
+Word: Worn Floating Ore            ||             Index 532 at address 7ADA187310 Value: 0
+Word: Exorcism Ore            ||             Index 533 at address 7ADA1873D0 Value: 0
+Word: Bronze Bullet            ||             Index 534 at address 7ADA187490 Value: 0
+Word: Beast Cop. Breastp.            ||             Index 535 at address 7ADA187550 Value: 0
+Word: Iron Soul Craft: Lance            ||             Index 536 at address 7ADA187610 Value: 0
+Word: Iron Soul Craft: Bow            ||             Index 537 at address 7ADA1876D0 Value: 0
+Word: Gold Lump            ||             Index 538 at address 7ADA187790 Value: 0
+Word: Steel Spear            ||             Index 539 at address 7ADA187850 Value: 0
+Word: Steel Gauntlets            ||             Index 540 at address 7ADA187910 Value: 0
+Word: Old Castle Helm            ||             Index 541 at address 7ADA1879D0 Value: 0
+Word: Robo Shell            ||             Index 542 at address 7ADA187A90 Value: 0
+Word: Bewitching Ring            ||             Index 543 at address 7ADA187B50 Value: 0
+Word: Ogre Gauntlets            ||             Index 544 at address 7ADA187C10 Value: 0
+Word: Clown Dagger            ||             Index 545 at address 7ADA187CD0 Value: 0
+Word: Demon Helmet            ||             Index 546 at address 7ADA187D90 Value: 0
+Word: Steel Breastplate            ||             Index 547 at address 7ADA187E50 Value: 0
+Word: Hard Steel Spear            ||             Index 548 at address 7ADA187F10 Value: 0
+Word: Shooting Star Piece            ||             Index 549 at address 7ADA187FD0 Value: 0
+Word: Unbreakable Rod            ||             Index 550 at address 7ADA188090 Value: 0
+Word: Guillotine Hatchet            ||             Index 551 at address 7ADA188150 Value: 0
+Word: Steel Shoulder Pad            ||             Index 552 at address 7ADA188210 Value: 0
+Word: Sturdy Long Sword            ||             Index 553 at address 7ADA1882D0 Value: 0
+Word: Ogre Shoulder Pat            ||             Index 554 at address 7ADA188390 Value: 0
+Word: Warped Frame            ||             Index 555 at address 7ADA188450 Value: 0
+Word: Beast's Sharp Edge            ||             Index 556 at address 7ADA188510 Value: 0
+Word: Sturdy Spear            ||             Index 557 at address 7ADA1885D0 Value: 0
+Word: Metal Alloy Armor            ||             Index 558 at address 7ADA188690 Value: 0
+Word: Faded Armor            ||             Index 559 at address 7ADA188750 Value: 0
+Word: Lacerating Poison Nail            ||             Index 560 at address 7ADA188810 Value: 0
+Word: Rusty Joint            ||             Index 561 at address 7ADA1888D0 Value: 0
+Word: Old Castle Armor            ||             Index 562 at address 7ADA188990 Value: 0
+Word: Ancient Craft            ||             Index 563 at address 7ADA188A50 Value: 0
+Word: Strong Arm            ||             Index 564 at address 7ADA188B10 Value: 0
+Word: Crush Arm            ||             Index 565 at address 7ADA188BD0 Value: 0
+Word: Broken Wheel            ||             Index 566 at address 7ADA188C90 Value: 0
+Word: Meteoric Iron Armor            ||             Index 567 at address 7ADA188D50 Value: 0
+Word: Blue Ore            ||             Index 568 at address 7ADA188E10 Value: 0
+Word: Warrior's Ax            ||             Index 569 at address 7ADA188ED0 Value: 0
+Word: Old Castle Torch            ||             Index 570 at address 7ADA188F90 Value: 0
+Word: Huge Helmet            ||             Index 571 at address 7ADA189050 Value: 0
+Word: Powered Arm            ||             Index 572 at address 7ADA189110 Value: 0
+Word: Beast's Keen Edge            ||             Index 573 at address 7ADA1891D0 Value: 0
+Word: Staff Cannon            ||             Index 574 at address 7ADA189290 Value: 0
+Word: Ceramic Arm            ||             Index 575 at address 7ADA189350 Value: 0
+Word: Stardust Fragment            ||             Index 576 at address 7ADA189410 Value: 0
+Word: Hard Steel Breastplate            ||             Index 577 at address 7ADA1894D0 Value: 0
+Word: Lucky Hoof            ||             Index 578 at address 7ADA189590 Value: 0
+Word: Hound Collar            ||             Index 579 at address 7ADA189650 Value: 0
+Word: Lava Snail            ||             Index 580 at address 7ADA189710 Value: 0
+Word: Hard Steel Gauntlets            ||             Index 581 at address 7ADA1897D0 Value: 0
+Word: Sturdy Star Ball            ||             Index 582 at address 7ADA189890 Value: 0
+Word: Ogre Cleaver            ||             Index 583 at address 7ADA189950 Value: 0
+Word: Good Metal Rod            ||             Index 584 at address 7ADA189A10 Value: 0
+Word: Monster's Weight            ||             Index 585 at address 7ADA189AD0 Value: 0
+Word: Synthetic Stone            ||             Index 586 at address 7ADA189B90 Value: 0
+Word: Aging Picture            ||             Index 587 at address 7ADA189C50 Value: 0
+Word: Crystal Shell            ||             Index 588 at address 7ADA189D10 Value: 0
+Word: Hard Steel Belt            ||             Index 589 at address 7ADA189DD0 Value: 0
+Word: Sheet Metal Armor Clasp            ||             Index 590 at address 7ADA189E90 Value: 0
+Word: Night Scene Fragment            ||             Index 591 at address 7ADA189F50 Value: 0
+Word: Coral Fragments            ||             Index 592 at address 7ADA18A010 Value: 0
+Word: Inky Steel            ||             Index 593 at address 7ADA18A0D0 Value: 0
+Word: Cracked Tea Utensil            ||             Index 594 at address 7ADA18A190 Value: 0
+Word: Unbending Rod            ||             Index 595 at address 7ADA18A250 Value: 0
+Word: Unyielding Bar            ||             Index 596 at address 7ADA18A310 Value: 0
+Word: Luna Fultite            ||             Index 597 at address 7ADA18A3D0 Value: 0
+Word: Kaolinite            ||             Index 598 at address 7ADA18A490 Value: 0
+Word: Ancient Hammer Shard            ||             Index 599 at address 7ADA18A550 Value: 0
+Word: Rusty Iron Spikes            ||             Index 600 at address 7ADA18A610 Value: 0
+Word: Mech Sword Edge            ||             Index 601 at address 7ADA18A6D0 Value: 0
+Word: Raging Hammer Piece            ||             Index 602 at address 7ADA18A790 Value: 0
+Word: Synthetic Red Horn            ||             Index 603 at address 7ADA18A850 Value: 0
+Word: Moon Fragment            ||             Index 604 at address 7ADA18A910 Value: 0
+Word: Synthetic Light Blade            ||             Index 605 at address 7ADA18A9D0 Value: 0
+Word: Daybreak Coral            ||             Index 606 at address 7ADA18AA90 Value: 0
+Word: Lunapartite            ||             Index 607 at address 7ADA18AB50 Value: 0
+Word: Blue Ax Sturdy Blade            ||             Index 608 at address 7ADA18AC10 Value: 0
+Word: Synthetic Masumune            ||             Index 609 at address 7ADA18ACD0 Value: 0
+Word: Rebel's Ingot            ||             Index 610 at address 7ADA18AD90 Value: 0
+Word: Scrap Metal            ||             Index 611 at address 7ADA18AE50 Value: 0
+Word: Hard Synthetic Skeleton            ||             Index 612 at address 7ADA18AF10 Value: 0
+Word: Twisted Armor Piece            ||             Index 613 at address 7ADA18AFD0 Value: 0
+Word: Ultramarine Ore            ||             Index 614 at address 7ADA18B090 Value: 0
+Word: Blue Ax Fragment            ||             Index 615 at address 7ADA18B150 Value: 0
+Word: Snowflake Ore            ||             Index 616 at address 7ADA18B210 Value: 0
+Word: Sheet Metal Armor Fitting            ||             Index 617 at address 7ADA18B2D0 Value: 0
+Word: Rusty Trident            ||             Index 618 at address 7ADA18B390 Value: 0
+Word: White Insulator            ||             Index 619 at address 7ADA18B450 Value: 0
+Word: Menacing Hammer Shard            ||             Index 620 at address 7ADA18B510 Value: 0
+Word: Imitation Red Horn            ||             Index 621 at address 7ADA18B5D0 Value: 0
+Word: Lunabomite            ||             Index 622 at address 7ADA18B690 Value: 0
+Word: Montmorillonite            ||             Index 623 at address 7ADA18B750 Value: 0
+Word: Raging Hammer Shard            ||             Index 624 at address 7ADA18B810 Value: 0
+Word: Cursed Armor Piece            ||             Index 625 at address 7ADA18B8D0 Value: 0
+Word: Rusty Halberd            ||             Index 626 at address 7ADA18B990 Value: 0
+Word: Imitation Light Sword            ||             Index 627 at address 7ADA18BA50 Value: 0
+Word: Broken Anchor            ||             Index 628 at address 7ADA18BB10 Value: 0
+Word: Lost Tea Utensil            ||             Index 629 at address 7ADA18BBD0 Value: 0
+Word: Rusty Key-Claw            ||             Index 630 at address 7ADA18BC90 Value: 0
+Word: All Shades Hammer            ||             Index 631 at address 7ADA18BD50 Value: 0
+Word: Lustre Armor Plate            ||             Index 632 at address 7ADA18BE10 Value: 0
+Word: Imitation Skeleton            ||             Index 633 at address 7ADA18BED0 Value: 0
+Word: Blue Ax Sharp Blade            ||             Index 634 at address 7ADA18BF90 Value: 0
+Word: Dented Armor Plate            ||             Index 635 at address 7ADA18C050 Value: 0
+Word: Unscratched Armor Plate            ||             Index 636 at address 7ADA18C110 Value: 0
+Word: Blue Ax Killer Blade            ||             Index 637 at address 7ADA18C1D0 Value: 0
+Word: Blue Huge Blade            ||             Index 638 at address 7ADA18C290 Value: 0
+Word: Large Blue Ax Fragment            ||             Index 639 at address 7ADA18C350 Value: 0
+Word: Thunderbolt Ore            ||             Index 640 at address 7ADA18C410 Value: 0
+Word: Photoelectric Stone            ||             Index 641 at address 7ADA18C4D0 Value: 0
+Word: Reddened Metal            ||             Index 642 at address 7ADA18C590 Value: 0
+Word: Resentful Jade            ||             Index 643 at address 7ADA18C650 Value: 0
+Word: Judgement Sliver            ||             Index 644 at address 7ADA18C710 Value: 0
+Word: Layered Gold            ||             Index 645 at address 7ADA18C7D0 Value: 0
+Word: Wailing Iron            ||             Index 646 at address 7ADA18C890 Value: 0
+Word: Judgement Scrap            ||             Index 647 at address 7ADA18C950 Value: 0
+Word: Judgement Blade            ||             Index 648 at address 7ADA18CA10 Value: 0
+Word: Sapphire Medal            ||             Index 649 at address 7ADA18CAD0 Value: 0
+Word: Bloody Blade            ||             Index 650 at address 7ADA18CB90 Value: 0
+Word: Manalight Silver            ||             Index 651 at address 7ADA18CC50 Value: 0
+Word: Blued Metal            ||             Index 652 at address 7ADA18CD10 Value: 0
+Word: Crossroads Killer            ||             Index 653 at address 7ADA18CDD0 Value: 0
+Word: Ruby Medal            ||             Index 654 at address 7ADA18CE90 Value: 0
+Word: Judgement Knife            ||             Index 655 at address 7ADA18CF50 Value: 0
+Word: Blacksky Iron            ||             Index 656 at address 7ADA18D010 Value: 0
+Word: Soldier Steel            ||             Index 657 at address 7ADA18D0D0 Value: 0
+Word: Deep Blue Wood            ||             Index 658 at address 7ADA18D190 Value: 0
+Word: Madmech Backblade            ||             Index 659 at address 7ADA18D250 Value: 0
+Word: Armored Capacitor            ||             Index 660 at address 7ADA18D310 Value: 0
+Word: Crimson Needle            ||             Index 661 at address 7ADA18D3D0 Value: 0
+Word: Somber Blade            ||             Index 662 at address 7ADA18D490 Value: 0
+Word: Magnetic Mineral            ||             Index 663 at address 7ADA18D550 Value: 0
+Word: Shadowed Sliver            ||             Index 664 at address 7ADA18D610 Value: 0
+Word: Alloy Medal            ||             Index 665 at address 7ADA18D6D0 Value: 0
+Word: Rediron Blade            ||             Index 666 at address 7ADA18D790 Value: 0
+Word: Soldier Power Source            ||             Index 667 at address 7ADA18D850 Value: 0
+Word: Madmech Plate            ||             Index 668 at address 7ADA18D910 Value: 0
+Word: Sturdy Medal            ||             Index 669 at address 7ADA18D9D0 Value: 0
+Word: Worldpiercer Alloy            ||             Index 670 at address 7ADA18DA90 Value: 0
+Word: Armored Plate            ||             Index 671 at address 7ADA18DB50 Value: 0
+Word: Alloy Latch            ||             Index 672 at address 7ADA18DC10 Value: 0
+Word: Moonlit Steel Lump            ||             Index 673 at address 7ADA18DCD0 Value: 0
+Word: Fierce Iron Frame            ||             Index 674 at address 7ADA18DD90 Value: 0
+Word: Blueflame Wheel            ||             Index 675 at address 7ADA18DE50 Value: 0
+Word: Wolf ID Ticket            ||             Index 676 at address 7ADA18DF10 Value: 0
+Word: Deep Blue Alloy            ||             Index 677 at address 7ADA18DFD0 Value: 0
+Word: Moonlit Gold Ore            ||             Index 678 at address 7ADA18E090 Value: 0
+Word: Welded Iron Plate            ||             Index 679 at address 7ADA18E150 Value: 0
+Word: Solemn Blade            ||             Index 680 at address 7ADA18E210 Value: 0
+Word: Madmech Shell            ||             Index 681 at address 7ADA18E2D0 Value: 0
+Word: Smoking Silver Ingot            ||             Index 682 at address 7ADA18E390 Value: 0
+Word: Madmech Backhook            ||             Index 683 at address 7ADA18E450 Value: 0
+Word: Sharp Parts            ||             Index 684 at address 7ADA18E510 Value: 0
+Word: Rust Needle            ||             Index 685 at address 7ADA18E5D0 Value: 0
+Word: Welded Alloy Plate            ||             Index 686 at address 7ADA18E690 Value: 0
+Word: Meowmite            ||             Index 687 at address 7ADA18E750 Value: 0
+Word: Propulsion Armor            ||             Index 688 at address 7ADA18E810 Value: 0
+Word: Silent Iron Box            ||             Index 689 at address 7ADA18E8D0 Value: 0
+Word: Hematite Blade            ||             Index 690 at address 7ADA18E990 Value: 0
+Word: Heavy Armor            ||             Index 691 at address 7ADA18EA50 Value: 0
+Word: Meteor Iron Chunk            ||             Index 692 at address 7ADA18EB10 Value: 0
+Word: Smoking Gold Ingot            ||             Index 693 at address 7ADA18EBD0 Value: 0
+Word: Moonlit Ingot            ||             Index 694 at address 7ADA18EC90 Value: 0
+Word: Steel Gear            ||             Index 695 at address 7ADA18ED50 Value: 0
+Word: Scrap Bundle            ||             Index 696 at address 7ADA18EE10 Value: 0
+Word: Magnetic Iron            ||             Index 697 at address 7ADA18EED0 Value: 0
+Word: Hidden Tektite            ||             Index 698 at address 7ADA18EF90 Value: 0
+Word: Shadowed Sword            ||             Index 699 at address 7ADA18F050 Value: 0
+Word: Armored Lump            ||             Index 700 at address 7ADA18F110 Value: 0
+Word: Deep Blue Ore            ||             Index 701 at address 7ADA18F1D0 Value: 0
+Word: Sakura Veilsteel            ||             Index 702 at address 7ADA18F290 Value: 0
+Word: Rainbow Coral            ||             Index 703 at address 7ADA18F350 Value: 0
+Word: Soldier Iron            ||             Index 704 at address 7ADA18F410 Value: 0
+Word: Armored Circuit            ||             Index 705 at address 7ADA18F4D0 Value: 0
+Word: Fine Meowmite            ||             Index 706 at address 7ADA18F590 Value: 0
+Word: Soldier Cord            ||             Index 707 at address 7ADA18F650 Value: 0
+Word: Wailing Blade Shard            ||             Index 708 at address 7ADA18F710 Value: 0
+Word: Sturdy Crystal Armor            ||             Index 709 at address 7ADA18F7D0 Value: 0
+Word: Deep Blue Spearhead            ||             Index 710 at address 7ADA18F890 Value: 0
+Word: Wind Thickscale            ||             Index 711 at address 7ADA18F950 Value: 0
+Word: Sturdy Magic Ore            ||             Index 712 at address 7ADA18FA10 Value: 0
+Word: Evil Spirit Mask            ||             Index 713 at address 7ADA18FAD0 Value: 0
+Word: Mad Armor            ||             Index 714 at address 7ADA18FB90 Value: 0
+Word: Glowing Vitrified Crystal            ||             Index 715 at address 7ADA18FC50 Value: 0
+Word: Mystical Stone            ||             Index 716 at address 7ADA18FD10 Value: 0
+Word: Water Thickscale            ||             Index 717 at address 7ADA18FDD0 Value: 0
+Word: Fine Crystal Mass            ||             Index 718 at address 7ADA18FE90 Value: 0
+Word: Vitrified Crystal            ||             Index 719 at address 7ADA18FF50 Value: 0
+Word: Dimension Scissors            ||             Index 720 at address 7ADA190010 Value: 0
+Word: Mad Claw            ||             Index 721 at address 7ADA1900D0 Value: 0
+Word: Misty Steel            ||             Index 722 at address 7ADA190190 Value: 0
+Word: Corrupted Hollow Core            ||             Index 723 at address 7ADA190250 Value: 0
+Word: Superefficient Ax            ||             Index 724 at address 7ADA190310 Value: 0
+Word: Sword Remnant            ||             Index 725 at address 7ADA1903D0 Value: 0
+Word: Sturdy Crystal Form            ||             Index 726 at address 7ADA190490 Value: 0
+Word: Bone Iron            ||             Index 727 at address 7ADA190550 Value: 0
+Word: Crushed Cannon            ||             Index 728 at address 7ADA190610 Value: 0
+Word: Clear Scale            ||             Index 729 at address 7ADA1906D0 Value: 0
+Word: Crystal Mass            ||             Index 730 at address 7ADA190790 Value: 0
+Word: Seadrake Scale            ||             Index 731 at address 7ADA190850 Value: 0
+Word: Decayed Crystal            ||             Index 732 at address 7ADA190910 Value: 0
+Word: Shift Decayed Crystal            ||             Index 733 at address 7ADA1909D0 Value: 0
+Word: Corrupted Void Claw            ||             Index 734 at address 7ADA190A90 Value: 0
+Word: Radiant Crystal            ||             Index 735 at address 7ADA190B50 Value: 0
+Word: Dull Strange Metal            ||             Index 736 at address 7ADA190C10 Value: 0
+Word: Deep Blue Gold            ||             Index 737 at address 7ADA190CD0 Value: 0
+Word: Drakeshell            ||             Index 738 at address 7ADA190D90 Value: 0
+Word: Deep Blue Ingot            ||             Index 739 at address 7ADA190E50 Value: 0
+Word: Fire Thickscale            ||             Index 740 at address 7ADA190F10 Value: 0
+Word: Scorched Soul            ||             Index 741 at address 7ADA190FD0 Value: 0
+Word: Magic Crystal Chunk            ||             Index 742 at address 7ADA191090 Value: 0
+Word: Deep Blue Heartwood            ||             Index 743 at address 7ADA191150 Value: 0
+Word: Deep Blue Ironsand            ||             Index 744 at address 7ADA191210 Value: 0
+Word: Legendary Sword Remnant            ||             Index 745 at address 7ADA1912D0 Value: 0
+Word: Wind Scale            ||             Index 746 at address 7ADA191390 Value: 0
+Word: Cursebone Iron            ||             Index 747 at address 7ADA191450 Value: 0
+Word: World-Eater Claw            ||             Index 748 at address 7ADA191510 Value: 0
+Word: Swallowed Core            ||             Index 749 at address 7ADA1915D0 Value: 0
+Word: Vitrified Crystal Shard            ||             Index 750 at address 7ADA191690 Value: 0
+Word: Historical Sword Remnant            ||             Index 751 at address 7ADA191750 Value: 0
+Word: Smokey Wrought Iron            ||             Index 752 at address 7ADA191810 Value: 0
+Word: Swallowed Claw            ||             Index 753 at address 7ADA1918D0 Value: 0
+Word: Superefficient Ax MkII            ||             Index 754 at address 7ADA191990 Value: 0
+Word: Magic Crystal Shard            ||             Index 755 at address 7ADA191A50 Value: 0
+Word: Water Scale            ||             Index 756 at address 7ADA191B10 Value: 0
+Word: Deep Blue Iron            ||             Index 757 at address 7ADA191BD0 Value: 0
+Word: Prototype TL-AX            ||             Index 758 at address 7ADA191C90 Value: 0
+Word: Fire Scale            ||             Index 759 at address 7ADA191D50 Value: 0
+Word: Transforming Sheet Metal            ||             Index 760 at address 7ADA191E10 Value: 0
+Word: Triangular Core            ||             Index 761 at address 7ADA191ED0 Value: 0
+Word: Sinister Luminous Body            ||             Index 762 at address 7ADA191F90 Value: 0
+Word: Hollow Needle            ||             Index 763 at address 7ADA192050 Value: 0
+Word: Sky Eye            ||             Index 764 at address 7ADA192110 Value: 0
+Word: Small Dinosaur Eye            ||             Index 765 at address 7ADA1921D0 Value: 0
+Word: Bulky Spike            ||             Index 766 at address 7ADA192290 Value: 0
+Word: Time-swallowing Crystal            ||             Index 767 at address 7ADA192350 Value: 0
+Word: Ruby Fragment            ||             Index 768 at address 7ADA192410 Value: 0
+Word: Prosthetic Eye            ||             Index 769 at address 7ADA1924D0 Value: 0
+Word: Moonlight Drops            ||             Index 770 at address 7ADA192590 Value: 0
+Word: Earth Crystal            ||             Index 771 at address 7ADA192650 Value: 0
+Word: Mad Red Eye            ||             Index 772 at address 7ADA192710 Value: 0
+Word: Warped Heart            ||             Index 773 at address 7ADA1927D0 Value: 0
+Word: Garnet            ||             Index 774 at address 7ADA192890 Value: 0
+Word: Wind Crystal            ||             Index 775 at address 7ADA192950 Value: 0
+Word: Pearl            ||             Index 776 at address 7ADA192A10 Value: 0
+Word: Rusty Antiquity Ore            ||             Index 777 at address 7ADA192AD0 Value: 0
+Word: Unusual Eye            ||             Index 778 at address 7ADA192B90 Value: 0
+Word: Scorched Hell Blade            ||             Index 779 at address 7ADA192C50 Value: 0
+Word: Spinel            ||             Index 780 at address 7ADA192D10 Value: 0
+Word: Red Coral            ||             Index 781 at address 7ADA192DD0 Value: 0
+Word: Diffuse Crystal            ||             Index 782 at address 7ADA192E90 Value: 0
+Word: Fire Sprite Orb            ||             Index 783 at address 7ADA192F50 Value: 0
+Word: Fire Sprite Flame            ||             Index 784 at address 7ADA193010 Value: 0
+Word: Black Spider Stone            ||             Index 785 at address 7ADA1930D0 Value: 0
+Word: Requiem Crystal            ||             Index 786 at address 7ADA193190 Value: 0
+Word: Fire Crystal            ||             Index 787 at address 7ADA193250 Value: 0
+Word: Transforming Gear            ||             Index 788 at address 7ADA193310 Value: 0
+Word: High-Quality Frame Piece            ||             Index 789 at address 7ADA1933D0 Value: 0
+Word: Subterranean Ore            ||             Index 790 at address 7ADA193490 Value: 0
+Word: Brotherly Love            ||             Index 791 at address 7ADA193550 Value: 0
+Word: Smoky Quartz            ||             Index 792 at address 7ADA193610 Value: 0
+Word: Soldier's Jewel            ||             Index 793 at address 7ADA1936D0 Value: 0
+Word: Shift Moving Part            ||             Index 794 at address 7ADA193790 Value: 0
+Word: Judge's Death Needle            ||             Index 795 at address 7ADA193850 Value: 0
+Word: Shift Metal            ||             Index 796 at address 7ADA193910 Value: 0
+Word: Brotherly Bond            ||             Index 797 at address 7ADA1939D0 Value: 0
+Word: Diamond            ||             Index 798 at address 7ADA193A90 Value: 0
+Word: Hollow Ore            ||             Index 799 at address 7ADA193B50 Value: 0
+Word: Water Crystal            ||             Index 800 at address 7ADA193C10 Value: 0
+Word: Tormaline            ||             Index 801 at address 7ADA193CD0 Value: 0
+Word: Soldier's Secret            ||             Index 802 at address 7ADA193D90 Value: 0
+Word: Dark Amethyst            ||             Index 803 at address 7ADA193E50 Value: 0
+Word: Edax-Breaker Sledge            ||             Index 804 at address 7ADA193F10 Value: 0
+Word: Black Luminous Body            ||             Index 805 at address 7ADA193FD0 Value: 0
+Word: Forest's Secret            ||             Index 806 at address 7ADA194090 Value: 0
+Word: Prosthetic Heart            ||             Index 807 at address 7ADA194150 Value: 0
+Word: Writhing Metal            ||             Index 808 at address 7ADA194210 Value: 0
+Word: Scarlet Eyeball            ||             Index 809 at address 7ADA1942D0 Value: 0
+Word: Strange Melted Metal            ||             Index 810 at address 7ADA194390 Value: 0
+Word: Sand Tear            ||             Index 811 at address 7ADA194450 Value: 0
+Word: Dark Pyroxene            ||             Index 812 at address 7ADA194510 Value: 0
+Word: Jeweled Turtleshell            ||             Index 813 at address 7ADA1945D0 Value: 0
+Word: Fake Jewels            ||             Index 814 at address 7ADA194690 Value: 0
+Word: Glittering Orb            ||             Index 815 at address 7ADA194750 Value: 0
+Word: Green Spider Stone            ||             Index 816 at address 7ADA194810 Value: 0
+Word: Ultraviolet Ball            ||             Index 817 at address 7ADA1948D0 Value: 0
+Word: Sulfur Crystal            ||             Index 818 at address 7ADA194990 Value: 0
+Word: Blood Ball            ||             Index 819 at address 7ADA194A50 Value: 0
+Word: Shining Red Eye            ||             Index 820 at address 7ADA194B10 Value: 0
+Word: Red Metal Crystal            ||             Index 821 at address 7ADA194BD0 Value: 0
+Word: Azure White Crystal            ||             Index 822 at address 7ADA194C90 Value: 0
+Word: Elemental Seed            ||             Index 823 at address 7ADA194D50 Value: 0
+Word: Forest's Wisdom            ||             Index 824 at address 7ADA194E10 Value: 0
+Word: Gold Lights            ||             Index 825 at address 7ADA194ED0 Value: 0
+Word: Starlight Jewel            ||             Index 826 at address 7ADA194F90 Value: 0
+Word: Earth Wave Stone            ||             Index 827 at address 7ADA195050 Value: 0
+Word: Grudge Crystal            ||             Index 828 at address 7ADA195110 Value: 0
+Word: Platinum Magic Orb            ||             Index 829 at address 7ADA1951D0 Value: 0
+Word: Earth Spirit Crystal            ||             Index 830 at address 7ADA195290 Value: 0
+Word: Vermillion Gem            ||             Index 831 at address 7ADA195350 Value: 0
+Word: Scream of Regret            ||             Index 832 at address 7ADA195410 Value: 0
+Word: Dark Red Eye            ||             Index 833 at address 7ADA1954D0 Value: 0
+Word: Water Spirit Crystal            ||             Index 834 at address 7ADA195590 Value: 0
+Word: Fire Spirit Crystal            ||             Index 835 at address 7ADA195650 Value: 0
+Word: Royal Blue Stone            ||             Index 836 at address 7ADA195710 Value: 0
+Word: Tornado Crystal Horn            ||             Index 837 at address 7ADA1957D0 Value: 0
+Word: Black Steel Core            ||             Index 838 at address 7ADA195890 Value: 0
+Word: Frost Flower Crystal            ||             Index 839 at address 7ADA195950 Value: 0
+Word: Dark Red Crystal            ||             Index 840 at address 7ADA195A10 Value: 0
+Word: Sea Glass            ||             Index 841 at address 7ADA195AD0 Value: 0
+Word: Violated Soul            ||             Index 842 at address 7ADA195B90 Value: 0
+Word: Memory Fragment            ||             Index 843 at address 7ADA195C50 Value: 0
+Word: Royal Green Stone            ||             Index 844 at address 7ADA195D10 Value: 0
+Word: Royal Red Stone            ||             Index 845 at address 7ADA195DD0 Value: 0
+Word: Green Ray of Light            ||             Index 846 at address 7ADA195E90 Value: 0
+Word: Warped Wisdom            ||             Index 847 at address 7ADA195F50 Value: 0
+Word: Wind Wave Stone            ||             Index 848 at address 7ADA196010 Value: 0
+Word: Water Wave Stone            ||             Index 849 at address 7ADA1960D0 Value: 0
+Word: Fire Wave Stone            ||             Index 850 at address 7ADA196190 Value: 0
+Word: Flustered Wisdom            ||             Index 851 at address 7ADA196250 Value: 0
+Word: Royal Yellow Stone            ||             Index 852 at address 7ADA196310 Value: 0
+Word: Starlight Stone            ||             Index 853 at address 7ADA1963D0 Value: 0
+Word: Starlight Fragment            ||             Index 854 at address 7ADA196490 Value: 0
+Word: Dark Scarlet Jewel            ||             Index 855 at address 7ADA196550 Value: 0
+Word: Brown Spider Stone            ||             Index 856 at address 7ADA196610 Value: 0
+Word: Old Magic Orb            ||             Index 857 at address 7ADA1966D0 Value: 0
+Word: Sorcery Jade            ||             Index 858 at address 7ADA196790 Value: 0
+Word: Crystal Horn            ||             Index 859 at address 7ADA196850 Value: 0
+Word: Shadowy Dark Orb            ||             Index 860 at address 7ADA196910 Value: 0
+Word: Wind Spirit Crystal            ||             Index 861 at address 7ADA1969D0 Value: 0
+Word: Bad Container            ||             Index 862 at address 7ADA196A90 Value: 0
+Word: Decaying Adoration            ||             Index 863 at address 7ADA196B50 Value: 0
+Word: Dazzling Moon Shard            ||             Index 864 at address 7ADA196C10 Value: 0
+Word: Full Moon Core            ||             Index 865 at address 7ADA196CD0 Value: 0
+Word: Cracked Moon Shard            ||             Index 866 at address 7ADA196D90 Value: 0
+Word: Defiant Shield            ||             Index 867 at address 7ADA196E50 Value: 0
+Word: Pretty White Crystal            ||             Index 868 at address 7ADA196F10 Value: 0
+Word: Crystalline Scale            ||             Index 869 at address 7ADA196FD0 Value: 0
+Word: Bliss Jewel            ||             Index 870 at address 7ADA197090 Value: 0
+Word: Snow Crystal Stone            ||             Index 871 at address 7ADA197150 Value: 0
+Word: Moon Crystal Core            ||             Index 872 at address 7ADA197210 Value: 0
+Word: Magic Stone Fall Katana            ||             Index 873 at address 7ADA1972D0 Value: 0
+Word: Dark Stone            ||             Index 874 at address 7ADA197390 Value: 0
+Word: Bright Feeling Fragment            ||             Index 875 at address 7ADA197450 Value: 0
+Word: Twilight Crystal            ||             Index 876 at address 7ADA197510 Value: 0
+Word: Enigmagreen Crystal            ||             Index 877 at address 7ADA1975D0 Value: 0
+Word: Crystal Carapace            ||             Index 878 at address 7ADA197690 Value: 0
+Word: Moon Crystal Shard            ||             Index 879 at address 7ADA197750 Value: 0
+Word: Absolute Husk            ||             Index 880 at address 7ADA197810 Value: 0
+Word: Spirit of Bravery            ||             Index 881 at address 7ADA1978D0 Value: 0
+Word: Smoking Gold Crystal            ||             Index 882 at address 7ADA197990 Value: 0
+Word: TL Force Core β            ||             Index 883 at address 7ADA197A50 Value: 0
+Word: Tragic Lost Soul            ||             Index 884 at address 7ADA197B10 Value: 0
+Word: TL Force Core α            ||             Index 885 at address 7ADA197BD0 Value: 0
+Word: Rolly Polly Crystal            ||             Index 886 at address 7ADA197C90 Value: 0
+Word: Shiny Moon Shard            ||             Index 887 at address 7ADA197D50 Value: 0
+Word: Distant Ache of Solitude            ||             Index 888 at address 7ADA197E10 Value: 0
+Word: Bliss Flower            ||             Index 889 at address 7ADA197ED0 Value: 0
+Word: Shiny White Crystal            ||             Index 890 at address 7ADA197F90 Value: 0
+Word: Puzzling Ancient Sign            ||             Index 891 at address 7ADA198050 Value: 0
+Word: White Core            ||             Index 892 at address 7ADA198110 Value: 0
+Word: Blackgloss Medulla            ||             Index 893 at address 7ADA1981D0 Value: 0
+Word: Clouded Jewel            ||             Index 894 at address 7ADA198290 Value: 0
+Word: Vacuum Paint Agate            ||             Index 895 at address 7ADA198350 Value: 0
+Word: King Coral Piece            ||             Index 896 at address 7ADA198410 Value: 0
+Word: Magic Stone Fall Sword            ||             Index 897 at address 7ADA1984D0 Value: 0
+Word: Magic Stone Fall Staff            ||             Index 898 at address 7ADA198590 Value: 0
+Word: Magic Stone Fall Lance            ||             Index 899 at address 7ADA198650 Value: 0
+Word: Daybreak Crystal            ||             Index 900 at address 7ADA198710 Value: 0
+Word: Sundown Marrow            ||             Index 901 at address 7ADA1987D0 Value: 0
+Word: Yearning Light of Dawn            ||             Index 902 at address 7ADA198890 Value: 0
+Word: Magic Stone Fall Ax            ||             Index 903 at address 7ADA198950 Value: 0
+Word: Smoking Silver Crystal            ||             Index 904 at address 7ADA198A10 Value: 0
+Word: Absolute Blade            ||             Index 905 at address 7ADA198AD0 Value: 0
+Word: Memorial Anchor            ||             Index 906 at address 7ADA198B90 Value: 0
+Word: Dark Authority Jewel            ||             Index 907 at address 7ADA198C50 Value: 0
+Word: Souleater            ||             Index 908 at address 7ADA198D10 Value: 0
+Word: Dark Green Curtain            ||             Index 909 at address 7ADA198DD0 Value: 0
+Word: Night Scene Core            ||             Index 910 at address 7ADA198E90 Value: 0
+Word: Fading Dream of Revelry            ||             Index 911 at address 7ADA198F50 Value: 0
+Word: Divine Cat's-eye            ||             Index 912 at address 7ADA199010 Value: 0
+Word: Defiant Spear            ||             Index 913 at address 7ADA1990D0 Value: 0
+Word: Emperor Coral Shell            ||             Index 914 at address 7ADA199190 Value: 0
+Word: Twilight Shell            ||             Index 915 at address 7ADA199250 Value: 0
+Word: Repair Liquid            ||             Index 916 at address 7ADA199310 Value: 0
+Word: Home and Yet Pyroxene            ||             Index 917 at address 7ADA1993D0 Value: 0
+Word: Ash Crystal: Ember            ||             Index 918 at address 7ADA199490 Value: 0
+Word: Black Liquid            ||             Index 919 at address 7ADA199550 Value: 0
+Word: Ghostly Impulse            ||             Index 920 at address 7ADA199610 Value: 0
+Word: Giant Blood            ||             Index 921 at address 7ADA1996D0 Value: 0
+Word: Forgotten Time Present            ||             Index 922 at address 7ADA199790 Value: 0
+Word: Magic Stone Fall Hammer            ||             Index 923 at address 7ADA199850 Value: 0
+Word: Home and Yore Pyroxene            ||             Index 924 at address 7ADA199910 Value: 0
+Word: Ghostly Passion            ||             Index 925 at address 7ADA1999D0 Value: 0
+Word: Blue Cell            ||             Index 926 at address 7ADA199A90 Value: 0
+Word: Fierce Fish Peace Pearl            ||             Index 927 at address 7ADA199B50 Value: 0
+Word: Intersecting Hour Shard            ||             Index 928 at address 7ADA199C10 Value: 0
+Word: Skilled Fish Peace Pearl            ||             Index 929 at address 7ADA199CD0 Value: 0
+Word: Lubricant            ||             Index 930 at address 7ADA199D90 Value: 0
+Word: Forgotten Time Past            ||             Index 931 at address 7ADA199E50 Value: 0
+Word: Green Jelly            ||             Index 932 at address 7ADA199F10 Value: 0
+Word: Breeze Jelly            ||             Index 933 at address 7ADA199FD0 Value: 0
+Word: Intersecting Hour Ark            ||             Index 934 at address 7ADA19A090 Value: 0
+Word: Firm Fish Peace Pearl            ||             Index 935 at address 7ADA19A150 Value: 0
+Word: Forgotten Time Future            ||             Index 936 at address 7ADA19A210 Value: 0
+Word: Red Jelly            ||             Index 937 at address 7ADA19A2D0 Value: 0
+Word: Horizon Cloud Beyond            ||             Index 938 at address 7ADA19A390 Value: 0
+Word: Deft Fish Peace Pearl            ||             Index 939 at address 7ADA19A450 Value: 0
+Word: Heavy Oil            ||             Index 940 at address 7ADA19A510 Value: 0
+Word: Blue Liquid            ||             Index 941 at address 7ADA19A5D0 Value: 0
+Word: Haunting Crystal            ||             Index 942 at address 7ADA19A690 Value: 0
+Word: Horizon Cloud Twilight            ||             Index 943 at address 7ADA19A750 Value: 0
+Word: Dire Fish Peace Pearl            ||             Index 944 at address 7ADA19A810 Value: 0
+Word: Blue Jelly            ||             Index 945 at address 7ADA19A8D0 Value: 0
+Word: Steel Fish Peace Pearl            ||             Index 946 at address 7ADA19A990 Value: 0
+Word: Magic Stone Fall Bow            ||             Index 947 at address 7ADA19AA50 Value: 0
+Word: Red Liquid            ||             Index 948 at address 7ADA19AB10 Value: 0
+Word: Poison            ||             Index 949 at address 7ADA19ABD0 Value: 0
+Word: Green Liquid            ||             Index 950 at address 7ADA19AC90 Value: 0
+Word: Shining Blue Liquid            ||             Index 951 at address 7ADA19AD50 Value: 0
+Word: Sharp Fish Peace Pearl            ||             Index 952 at address 7ADA19AE10 Value: 0
+Word: Blue Gel            ||             Index 953 at address 7ADA19AED0 Value: 0
+Word: Ghostly Sigh            ||             Index 954 at address 7ADA19AF90 Value: 0
+Word: Distant Future Peace            ||             Index 955 at address 7ADA19B050 Value: 0
+Word: Home and Now Pyroxene            ||             Index 956 at address 7ADA19B110 Value: 0
+Word: Aquamarine Jelly            ||             Index 957 at address 7ADA19B1D0 Value: 0
+Word: Martial Fish Peace Pearl            ||             Index 958 at address 7ADA19B290 Value: 0
+Word: Intersecting Hour Torrent            ||             Index 959 at address 7ADA19B350 Value: 0
+Word: Magic Stone Fall Fists            ||             Index 960 at address 7ADA19B410 Value: 0
+Word: Undying Blue Flame            ||             Index 961 at address 7ADA19B4D0 Value: 0
+Word: Rat Poison            ||             Index 962 at address 7ADA19B590 Value: 0
+Word: Horizon Cloud Origin            ||             Index 963 at address 7ADA19B650 Value: 0
+Word: Transparent Drop            ||             Index 964 at address 7ADA19B710 Value: 0
+Word: Ghostly Tears            ||             Index 965 at address 7ADA19B7D0 Value: 0
+Word: Dainty Divine Cat's-eye            ||             Index 966 at address 7ADA19B890 Value: 0
+Word: Heat Jelly            ||             Index 967 at address 7ADA19B950 Value: 0
+Word: Blazing Blue Flame            ||             Index 968 at address 7ADA19BA10 Value: 0
+Word: Bear Honey            ||             Index 969 at address 7ADA19BAD0 Value: 0
+Word: Mystery Black Liquid            ||             Index 970 at address 7ADA19BB90 Value: 0
+Word: Blackening Oil            ||             Index 971 at address 7ADA19BC50 Value: 0
+Word: Magma Jelly            ||             Index 972 at address 7ADA19BD10 Value: 0
+Word: Odd Moving Liquid            ||             Index 973 at address 7ADA19BDD0 Value: 0
+Word: Mirth Punch            ||             Index 974 at address 7ADA19BE90 Value: 0
+Word: Purple Medicine            ||             Index 975 at address 7ADA19BF50 Value: 0
+Word: Poison Shot            ||             Index 976 at address 7ADA19C010 Value: 0
+Word: Strange Fire Coals            ||             Index 977 at address 7ADA19C0D0 Value: 0
+Word: Deep Red Cell            ||             Index 978 at address 7ADA19C190 Value: 0
+Word: Cube Grease            ||             Index 979 at address 7ADA19C250 Value: 0
+Word: Shimmering Mucus            ||             Index 980 at address 7ADA19C310 Value: 0
+Word: Living Liquid            ||             Index 981 at address 7ADA19C3D0 Value: 0
+Word: Green Gel            ||             Index 982 at address 7ADA19C490 Value: 0
+Word: Poison Core            ||             Index 983 at address 7ADA19C550 Value: 0
+Word: Repair Liquid+            ||             Index 984 at address 7ADA19C610 Value: 0
+Word: Dried Oil Paint            ||             Index 985 at address 7ADA19C6D0 Value: 0
+Word: Deadly Poison            ||             Index 986 at address 7ADA19C790 Value: 0
+Word: Purple Jelly            ||             Index 987 at address 7ADA19C850 Value: 0
+Word: Condensed Flame            ||             Index 988 at address 7ADA19C910 Value: 0
+Word: Tyrant Dragon Blood            ||             Index 989 at address 7ADA19C9D0 Value: 0
+Word: Blazing Blood            ||             Index 990 at address 7ADA19CA90 Value: 0
+Word: Resin            ||             Index 991 at address 7ADA19CB50 Value: 0
+Word: Glistening Mucus            ||             Index 992 at address 7ADA19CC10 Value: 0
+Word: Crystal Oil            ||             Index 993 at address 7ADA19CCD0 Value: 0
+Word: Flashing Liquid            ||             Index 994 at address 7ADA19CD90 Value: 0
+Word: Impure Oil            ||             Index 995 at address 7ADA19CE50 Value: 0
+Word: Resent Flame            ||             Index 996 at address 7ADA19CF10 Value: 0
+Word: Creepy Black Liquid            ||             Index 997 at address 7ADA19CFD0 Value: 0
+Word: Red Purple Mucus            ||             Index 998 at address 7ADA19D090 Value: 0
+Word: Golden Flame            ||             Index 999 at address 7ADA19D150 Value: 0
+Word: Sparkly Gelatin            ||             Index 1000 at address 7ADA19D210 Value: 0
+Word: Gazamin            ||             Index 1001 at address 7ADA19D2D0 Value: 0
+Word: Moonshade Oil            ||             Index 1002 at address 7ADA19D390 Value: 0
+Word: Deep Purple Poison            ||             Index 1003 at address 7ADA19D450 Value: 0
+Word: Shocking Mucus            ||             Index 1004 at address 7ADA19D510 Value: 0
+Word: Dimension Shot            ||             Index 1005 at address 7ADA19D5D0 Value: 0
+Word: Beating Liquid            ||             Index 1006 at address 7ADA19D690 Value: 0
+Word: Parasitic Mucus            ||             Index 1007 at address 7ADA19D750 Value: 0
+Word: Tyrant Dragon Mania            ||             Index 1008 at address 7ADA19D810 Value: 0
+Word: High Purity Oil            ||             Index 1009 at address 7ADA19D8D0 Value: 0
+Word: Brimming Blaze            ||             Index 1010 at address 7ADA19D990 Value: 0
+Word: Deadly Poison Shot            ||             Index 1011 at address 7ADA19DA50 Value: 0
+Word: Distorted Mixture            ||             Index 1012 at address 7ADA19DB10 Value: 0
+Word: Sacred Tree Sap            ||             Index 1013 at address 7ADA19DBD0 Value: 0
+Word: Strange Mucus            ||             Index 1014 at address 7ADA19DC90 Value: 0
+Word: Spring Water            ||             Index 1015 at address 7ADA19DD50 Value: 0
+Word: Purple Gel            ||             Index 1016 at address 7ADA19DE10 Value: 0
+Word: Ulcaronshi            ||             Index 1017 at address 7ADA19DED0 Value: 0
+Word: Lunar Premium Oil            ||             Index 1018 at address 7ADA19DF90 Value: 0
+Word: Red Gel            ||             Index 1019 at address 7ADA19E050 Value: 0
+Word: Oregano Fruit            ||             Index 1020 at address 7ADA19E110 Value: 0
+Word: Lilac Nut            ||             Index 1021 at address 7ADA19E1D0 Value: 0
+Word: Deep Darkwater            ||             Index 1022 at address 7ADA19E290 Value: 0
+Word: Marjoram            ||             Index 1023 at address 7ADA19E350 Value: 0
+Word: Unusual Seed            ||             Index 1024 at address 7ADA19E410 Value: 0
+Word: Illusory Azaleadrop            ||             Index 1025 at address 7ADA19E4D0 Value: 0
+Word: Ruby Elixir            ||             Index 1026 at address 7ADA19E590 Value: 0
+Word: Mysterious Leaf            ||             Index 1027 at address 7ADA19E650 Value: 0
+Word: Mysterious Dewdrop            ||             Index 1028 at address 7ADA19E710 Value: 0
+Word: Red Nut            ||             Index 1029 at address 7ADA19E7D0 Value: 0
+Word: Defiant Blood            ||             Index 1030 at address 7ADA19E890 Value: 0
+Word: Mystery Fruit            ||             Index 1031 at address 7ADA19E950 Value: 0
+Word: Illusory Garnetdrop            ||             Index 1032 at address 7ADA19EA10 Value: 0
+Word: Pale Honey            ||             Index 1033 at address 7ADA19EAD0 Value: 0
+Word: Slippery Skin            ||             Index 1034 at address 7ADA19EB90 Value: 0
+Word: Dancing Grass            ||             Index 1035 at address 7ADA19EC50 Value: 0
+Word: Dewberry Test Drug            ||             Index 1036 at address 7ADA19ED10 Value: 0
+Word: Suffering Tear            ||             Index 1037 at address 7ADA19EDD0 Value: 0
+Word: Gentia Seed            ||             Index 1038 at address 7ADA19EE90 Value: 0
+Word: Corrupted Void Water            ||             Index 1039 at address 7ADA19EF50 Value: 0
+Word: Gentia Leaf            ||             Index 1040 at address 7ADA19F010 Value: 0
+Word: Yellow Nut            ||             Index 1041 at address 7ADA19F0D0 Value: 0
+Word: Red Fruit            ||             Index 1042 at address 7ADA19F190 Value: 0
+Word: Oregano Seed            ||             Index 1043 at address 7ADA19F250 Value: 0
+Word: Marjoram Seed            ||             Index 1044 at address 7ADA19F310 Value: 0
+Word: Illusory Violetdrop            ||             Index 1045 at address 7ADA19F3D0 Value: 0
+Word: Illusory Pinedrop            ||             Index 1046 at address 7ADA19F490 Value: 0
+Word: Illusory Pigeondrop            ||             Index 1047 at address 7ADA19F550 Value: 0
+Word: Basil Seed            ||             Index 1048 at address 7ADA19F610 Value: 0
+Word: Green Extract            ||             Index 1049 at address 7ADA19F6D0 Value: 0
+Word: Deep Azurewater            ||             Index 1050 at address 7ADA19F790 Value: 0
+Word: Hallow Tear            ||             Index 1051 at address 7ADA19F850 Value: 0
+Word: Strange Mushroom            ||             Index 1052 at address 7ADA19F910 Value: 0
+Word: Illusory Verdantdrop            ||             Index 1053 at address 7ADA19F9D0 Value: 0
+Word: Damdi Test Drug            ||             Index 1054 at address 7ADA19FA90 Value: 0
+Word: Haunted Vestige            ||             Index 1055 at address 7ADA19FB50 Value: 0
+Word: Salvia            ||             Index 1056 at address 7ADA19FC10 Value: 0
+Word: Weltal Test Drug            ||             Index 1057 at address 7ADA19FCD0 Value: 0
+Word: Yellow Treat            ||             Index 1058 at address 7ADA19FD90 Value: 0
+Word: Liquid of Despair            ||             Index 1059 at address 7ADA19FE50 Value: 0
+Word: Sapphire Elixir            ||             Index 1060 at address 7ADA19FF10 Value: 0
+Word: Marjoram Roots            ||             Index 1061 at address 7ADA19FFD0 Value: 0
+Word: Tree Shoot            ||             Index 1062 at address 7ADA1A0090 Value: 0
+Word: Red Skin            ||             Index 1063 at address 7ADA1A0150 Value: 0
+Word: Mucus of Despair            ||             Index 1064 at address 7ADA1A0210 Value: 0
+Word: Illusory Azuredrop            ||             Index 1065 at address 7ADA1A02D0 Value: 0
+Word: Illusory Crimsondrop            ||             Index 1066 at address 7ADA1A0390 Value: 0
+Word: Swallowed Water            ||             Index 1067 at address 7ADA1A0450 Value: 0
+Word: Oregano            ||             Index 1068 at address 7ADA1A0510 Value: 0
+Word: Nolan Test Drug            ||             Index 1069 at address 7ADA1A05D0 Value: 0
+Word: Basil            ||             Index 1070 at address 7ADA1A0690 Value: 0
+Word: Well of Life            ||             Index 1071 at address 7ADA1A0750 Value: 0
+Word: Golden Mushroom            ||             Index 1072 at address 7ADA1A0810 Value: 0
+Word: Forest Mushroom            ||             Index 1073 at address 7ADA1A08D0 Value: 0
+Word: White Lotus            ||             Index 1074 at address 7ADA1A0990 Value: 0
+Word: Parasite Mushroom            ||             Index 1075 at address 7ADA1A0A50 Value: 0
+Word: Lotus            ||             Index 1076 at address 7ADA1A0B10 Value: 0
+Word: Sage            ||             Index 1077 at address 7ADA1A0BD0 Value: 0
+Word: Snake Grass            ||             Index 1078 at address 7ADA1A0C90 Value: 0
+Word: Cyminum Seed            ||             Index 1079 at address 7ADA1A0D50 Value: 0
+Word: Cave Mushroom            ||             Index 1080 at address 7ADA1A0E10 Value: 0
+Word: Beautiful Branch            ||             Index 1081 at address 7ADA1A0ED0 Value: 0
+Word: Caterpillar Fungus            ||             Index 1082 at address 7ADA1A0F90 Value: 0
+Word: Alpina            ||             Index 1083 at address 7ADA1A1050 Value: 0
+Word: Water Soba            ||             Index 1084 at address 7ADA1A1110 Value: 0
+Word: Curious Mushroom            ||             Index 1085 at address 7ADA1A11D0 Value: 0
+Word: Peach Flower            ||             Index 1086 at address 7ADA1A1290 Value: 0
+Word: Cyrofiton            ||             Index 1087 at address 7ADA1A1350 Value: 0
+Word: Blue Petal            ||             Index 1088 at address 7ADA1A1410 Value: 0
+Word: Light Shoot            ||             Index 1089 at address 7ADA1A14D0 Value: 0
+Word: Mystery Mushroom            ||             Index 1090 at address 7ADA1A1590 Value: 0
+Word: Paralysis Plant            ||             Index 1091 at address 7ADA1A1650 Value: 0
+Word: Wind Soba            ||             Index 1092 at address 7ADA1A1710 Value: 0
+Word: Lovely Mushroom            ||             Index 1093 at address 7ADA1A17D0 Value: 0
+Word: Night Lamp Mushroom            ||             Index 1094 at address 7ADA1A1890 Value: 0
+Word: Spider Shimeji            ||             Index 1095 at address 7ADA1A1950 Value: 0
+Word: Cyminum            ||             Index 1096 at address 7ADA1A1A10 Value: 0
+Word: Heavenly Temptation            ||             Index 1097 at address 7ADA1A1AD0 Value: 0
+Word: Giant Flower Spores            ||             Index 1098 at address 7ADA1A1B90 Value: 0
+Word: Multiplying Fungus            ||             Index 1099 at address 7ADA1A1C50 Value: 0
+Word: Yukari            ||             Index 1100 at address 7ADA1A1D10 Value: 0
+Word: Laughing Plant            ||             Index 1101 at address 7ADA1A1DD0 Value: 0
+Word: Mint Roots            ||             Index 1102 at address 7ADA1A1E90 Value: 0
+Word: Gator Pear            ||             Index 1103 at address 7ADA1A1F50 Value: 0
+Word: Golden Fruit            ||             Index 1104 at address 7ADA1A2010 Value: 0
+Word: Kuksonia            ||             Index 1105 at address 7ADA1A20D0 Value: 0
+Word: Dark Mushroom            ||             Index 1106 at address 7ADA1A2190 Value: 0
+Word: Fire Soba            ||             Index 1107 at address 7ADA1A2250 Value: 0
+Word: Dancing Tree            ||             Index 1108 at address 7ADA1A2310 Value: 0
+Word: Giant Flower Petal            ||             Index 1109 at address 7ADA1A23D0 Value: 0
+Word: Night Light Mushroom            ||             Index 1110 at address 7ADA1A2490 Value: 0
+Word: Walnut            ||             Index 1111 at address 7ADA1A2550 Value: 0
+Word: Megapoison Parasol            ||             Index 1112 at address 7ADA1A2610 Value: 0
+Word: Jelly Fungus            ||             Index 1113 at address 7ADA1A26D0 Value: 0
+Word: Earth Soba            ||             Index 1114 at address 7ADA1A2790 Value: 0
+Word: Lotus Seed            ||             Index 1115 at address 7ADA1A2850 Value: 0
+Word: Deadly Spore            ||             Index 1116 at address 7ADA1A2910 Value: 0
+Word: Blueberry            ||             Index 1117 at address 7ADA1A29D0 Value: 0
+Word: Mint            ||             Index 1118 at address 7ADA1A2A90 Value: 0
+Word: Large Bug Mushroom            ||             Index 1119 at address 7ADA1A2B50 Value: 0
+Word: Ochre Seed            ||             Index 1120 at address 7ADA1A2C10 Value: 0
+Word: Edible Mushroom            ||             Index 1121 at address 7ADA1A2CD0 Value: 0
+Word: Shimmering Fruit            ||             Index 1122 at address 7ADA1A2D90 Value: 0
+Word: Sleepy Mushroom            ||             Index 1123 at address 7ADA1A2E50 Value: 0
+Word: Orgamek Heartwood            ||             Index 1124 at address 7ADA1A2F10 Value: 0
+Word: Solitary Blossom            ||             Index 1125 at address 7ADA1A2FD0 Value: 0
+Word: Grass of the Dark Ages            ||             Index 1126 at address 7ADA1A3090 Value: 0
+Word: Morphing Leaf            ||             Index 1127 at address 7ADA1A3150 Value: 0
+Word: Dried Radish            ||             Index 1128 at address 7ADA1A3210 Value: 0
+Word: Pristine Lotus Stem            ||             Index 1129 at address 7ADA1A32D0 Value: 0
+Word: Prideful Bud            ||             Index 1130 at address 7ADA1A3390 Value: 0
+Word: Brillishroom            ||             Index 1131 at address 7ADA1A3450 Value: 0
+Word: Petals of Regret            ||             Index 1132 at address 7ADA1A3510 Value: 0
+Word: Parasitic Vine            ||             Index 1133 at address 7ADA1A35D0 Value: 0
+Word: Ever-Dead Tree Ring            ||             Index 1134 at address 7ADA1A3690 Value: 0
+Word: Giant Shroom Brightspore            ||             Index 1135 at address 7ADA1A3750 Value: 0
+Word: Ice Needle            ||             Index 1136 at address 7ADA1A3810 Value: 0
+Word: Dryflower Petal            ||             Index 1137 at address 7ADA1A38D0 Value: 0
+Word: Snow Grass            ||             Index 1138 at address 7ADA1A3990 Value: 0
+Word: Crimson Hellflower            ||             Index 1139 at address 7ADA1A3A50 Value: 0
+Word: Scarlet Seed            ||             Index 1140 at address 7ADA1A3B10 Value: 0
+Word: Polluted Coral            ||             Index 1141 at address 7ADA1A3BD0 Value: 0
+Word: Wild Crystalbloom            ||             Index 1142 at address 7ADA1A3C90 Value: 0
+Word: Parasitic Bud            ||             Index 1143 at address 7ADA1A3D50 Value: 0
+Word: Sapling Leaf            ||             Index 1144 at address 7ADA1A3E10 Value: 0
+Word: Blood Red Petal            ||             Index 1145 at address 7ADA1A3ED0 Value: 0
+Word: Giant Crystalshroom            ||             Index 1146 at address 7ADA1A3F90 Value: 0
+Word: Green Monster Leaf            ||             Index 1147 at address 7ADA1A4050 Value: 0
+Word: Liriam Fruit            ||             Index 1148 at address 7ADA1A4110 Value: 0
+Word: Rich Grass            ||             Index 1149 at address 7ADA1A41D0 Value: 0
+Word: Gold Grains            ||             Index 1150 at address 7ADA1A4290 Value: 0
+Word: Human Face Fruit            ||             Index 1151 at address 7ADA1A4350 Value: 0
+Word: Clear Crystalleaf            ||             Index 1152 at address 7ADA1A4410 Value: 0
+Word: Brightspore            ||             Index 1153 at address 7ADA1A44D0 Value: 0
+Word: Hollow Husk            ||             Index 1154 at address 7ADA1A4590 Value: 0
+Word: Rare Blue Petal            ||             Index 1155 at address 7ADA1A4650 Value: 0
+Word: Time-Slumbering Fruit            ||             Index 1156 at address 7ADA1A4710 Value: 0
+Word: Mammoth Mushroom            ||             Index 1157 at address 7ADA1A47D0 Value: 0
+Word: Brightshroom            ||             Index 1158 at address 7ADA1A4890 Value: 0
+Word: Kindling            ||             Index 1159 at address 7ADA1A4950 Value: 0
+Word: Satellite Potato            ||             Index 1160 at address 7ADA1A4A10 Value: 0
+Word: Thousand-Year Bloom            ||             Index 1161 at address 7ADA1A4AD0 Value: 0
+Word: Aged Moss            ||             Index 1162 at address 7ADA1A4B90 Value: 0
+Word: Dryflower            ||             Index 1163 at address 7ADA1A4C50 Value: 0
+Word: Green-Stained Hide            ||             Index 1164 at address 7ADA1A4D10 Value: 0
+Word: Blessed Light Grass            ||             Index 1165 at address 7ADA1A4DD0 Value: 0
+Word: Artificial Flower Bud            ||             Index 1166 at address 7ADA1A4E90 Value: 0
+Word: Unblooming Dew            ||             Index 1167 at address 7ADA1A4F50 Value: 0
+Word: Enlarged Root            ||             Index 1168 at address 7ADA1A5010 Value: 0
+Word: Well-grown Moss            ||             Index 1169 at address 7ADA1A50D0 Value: 0
+Word: Azure Hellflower            ||             Index 1170 at address 7ADA1A5190 Value: 0
+Word: Orgamek Vine            ||             Index 1171 at address 7ADA1A5250 Value: 0
+Word: Ancient Ivy            ||             Index 1172 at address 7ADA1A5310 Value: 0
+Word: Light Purple Fruit            ||             Index 1173 at address 7ADA1A53D0 Value: 0
+Word: Vibrant Ivy            ||             Index 1174 at address 7ADA1A5490 Value: 0
+Word: Scarlet Petals            ||             Index 1175 at address 7ADA1A5550 Value: 0
+Word: Wilted Crystal Flower            ||             Index 1176 at address 7ADA1A5610 Value: 0
+Word: Corrupted Void Leaf            ||             Index 1177 at address 7ADA1A56D0 Value: 0
+Word: Shining Particles            ||             Index 1178 at address 7ADA1A5790 Value: 0
+Word: Shift Clear Leaf            ||             Index 1179 at address 7ADA1A5850 Value: 0
+Word: Blue Core            ||             Index 1180 at address 7ADA1A5910 Value: 0
+Word: Red Cell            ||             Index 1181 at address 7ADA1A59D0 Value: 0
+Word: Edaxian Branch            ||             Index 1182 at address 7ADA1A5A90 Value: 0
+Word: Swallowed Leaf            ||             Index 1183 at address 7ADA1A5B50 Value: 0
+Word: Stardust            ||             Index 1184 at address 7ADA1A5C10 Value: 0
+Word: Scarlet Ironsand            ||             Index 1185 at address 7ADA1A5CD0 Value: 0
+Word: Damaged Flower Crystal            ||             Index 1186 at address 7ADA1A5D90 Value: 0
+Word: Bruised Gator Pear            ||             Index 1187 at address 7ADA1A5E50 Value: 0
+Word: Crystus            ||             Index 1188 at address 7ADA1A5F10 Value: 0
+Word: Green Core            ||             Index 1189 at address 7ADA1A5FD0 Value: 0
+Word: Red Core            ||             Index 1190 at address 7ADA1A6090 Value: 0
+Word: Drone Fragment            ||             Index 1191 at address 7ADA1A6150 Value: 0
+Word: Dry Sand            ||             Index 1192 at address 7ADA1A6210 Value: 0
+Word: Alloy Steel Powder            ||             Index 1193 at address 7ADA1A62D0 Value: 0
+Word: Red Ironsand            ||             Index 1194 at address 7ADA1A6390 Value: 0
+Word: White Bone Dust            ||             Index 1195 at address 7ADA1A6450 Value: 0
+Word: Shiny Particles            ||             Index 1196 at address 7ADA1A6510 Value: 0
+Word: White Ironsand            ||             Index 1197 at address 7ADA1A65D0 Value: 0
+Word: Southern Bloom Seed            ||             Index 1198 at address 7ADA1A6690 Value: 0
+Word: Metal Powder            ||             Index 1199 at address 7ADA1A6750 Value: 0
+Word: Shift Rich Grass            ||             Index 1200 at address 7ADA1A6810 Value: 0
+Word: Eternal Voidbloom            ||             Index 1201 at address 7ADA1A68D0 Value: 0
+Word: Silhouette Spore            ||             Index 1202 at address 7ADA1A6990 Value: 0
+Word: Fleeting Residue Flower            ||             Index 1203 at address 7ADA1A6A50 Value: 0
+Word: Illusory Glowshroom            ||             Index 1204 at address 7ADA1A6B10 Value: 0
+Word: Shift Blessed Light Grass            ||             Index 1205 at address 7ADA1A6BD0 Value: 0
+Word: Dawning Crystal Leaf            ||             Index 1206 at address 7ADA1A6C90 Value: 0
+Word: Colorless Flower            ||             Index 1207 at address 7ADA1A6D50 Value: 0
+Word: Shift Dancing Grass            ||             Index 1208 at address 7ADA1A6E10 Value: 0
+Word: Poison Spores            ||             Index 1209 at address 7ADA1A6ED0 Value: 0
+Word: Requiem Powder            ||             Index 1210 at address 7ADA1A6F90 Value: 0
+Word: Edaxian Bark            ||             Index 1211 at address 7ADA1A7050 Value: 0
+Word: Shiny Powder            ||             Index 1212 at address 7ADA1A7110 Value: 0
+Word: Burned Mineral Dust            ||             Index 1213 at address 7ADA1A71D0 Value: 0
+Word: Sandstone            ||             Index 1214 at address 7ADA1A7290 Value: 0
+Word: Blast Powder            ||             Index 1215 at address 7ADA1A7350 Value: 0
+Word: Requiem Mineral Dust            ||             Index 1216 at address 7ADA1A7410 Value: 0
+Word: Green Cell            ||             Index 1217 at address 7ADA1A74D0 Value: 0
+Word: Past Vestige Grass            ||             Index 1218 at address 7ADA1A7590 Value: 0
+Word: Flashing Glory Bud            ||             Index 1219 at address 7ADA1A7650 Value: 0
+Word: Colorful Nuts            ||             Index 1220 at address 7ADA1A7710 Value: 0
+Word: Gunpowder            ||             Index 1221 at address 7ADA1A77D0 Value: 0
+Word: Shift Well-grown Moss            ||             Index 1222 at address 7ADA1A7890 Value: 0
+Word: Broken Seashell            ||             Index 1223 at address 7ADA1A7950 Value: 0
+Word: Copper Powder            ||             Index 1224 at address 7ADA1A7A10 Value: 0
+Word: Ironsand            ||             Index 1225 at address 7ADA1A7AD0 Value: 0
+Word: Smoldering Powder            ||             Index 1226 at address 7ADA1A7B90 Value: 0
+Word: Singing Sand            ||             Index 1227 at address 7ADA1A7C50 Value: 0
+Word: Prison Spore            ||             Index 1228 at address 7ADA1A7D10 Value: 0
+Word: Hardened Singing Sand            ||             Index 1229 at address 7ADA1A7DD0 Value: 0
+Word: Thick Scale            ||             Index 1230 at address 7ADA1A7E90 Value: 0
+Word: Shiny Fused Trash            ||             Index 1231 at address 7ADA1A7F50 Value: 0
+Word: Foaming Leather            ||             Index 1232 at address 7ADA1A8010 Value: 0
+Word: Charged Failed Trash            ||             Index 1233 at address 7ADA1A80D0 Value: 0
+Word: Ghost Sand            ||             Index 1234 at address 7ADA1A8190 Value: 0
+Word: Venomous Dust            ||             Index 1235 at address 7ADA1A8250 Value: 0
+Word: Shadow Powder            ||             Index 1236 at address 7ADA1A8310 Value: 0
+Word: Charged Fused Trash            ||             Index 1237 at address 7ADA1A83D0 Value: 0
+Word: Blue-Green Scale            ||             Index 1238 at address 7ADA1A8490 Value: 0
+Word: Burning Remnant            ||             Index 1239 at address 7ADA1A8550 Value: 0
+Word: Blackened Fused Trash            ||             Index 1240 at address 7ADA1A8610 Value: 0
+Word: Keen Fillet            ||             Index 1241 at address 7ADA1A86D0 Value: 0
+Word: Flooded Remnant            ||             Index 1242 at address 7ADA1A8790 Value: 0
+Word: Demon Spawn Skin            ||             Index 1243 at address 7ADA1A8850 Value: 0
+Word: Leather            ||             Index 1244 at address 7ADA1A8910 Value: 0
+Word: Red Crest            ||             Index 1245 at address 7ADA1A89D0 Value: 0
+Word: Titanium Powder            ||             Index 1246 at address 7ADA1A8A90 Value: 0
+Word: Delusion Spore            ||             Index 1247 at address 7ADA1A8B50 Value: 0
+Word: Shiny Failed Trash            ||             Index 1248 at address 7ADA1A8C10 Value: 0
+Word: Worn White Bone Dust            ||             Index 1249 at address 7ADA1A8CD0 Value: 0
+Word: Sahuagin Fillet            ||             Index 1250 at address 7ADA1A8D90 Value: 0
+Word: Dark Matter Residue            ||             Index 1251 at address 7ADA1A8E50 Value: 0
+Word: Hardened Giant Skin            ||             Index 1252 at address 7ADA1A8F10 Value: 0
+Word: Monster Skin            ||             Index 1253 at address 7ADA1A8FD0 Value: 0
+Word: Creepy Glowing Bullet            ||             Index 1254 at address 7ADA1A9090 Value: 0
+Word: Coelus Shell            ||             Index 1255 at address 7ADA1A9150 Value: 0
+Word: Sulfur Flower            ||             Index 1256 at address 7ADA1A9210 Value: 0
+Word: Cloud Residue            ||             Index 1257 at address 7ADA1A92D0 Value: 0
+Word: Haunted Powder            ||             Index 1258 at address 7ADA1A9390 Value: 0
+Word: Artificial Heart            ||             Index 1259 at address 7ADA1A9450 Value: 0
+Word: Blue Dust            ||             Index 1260 at address 7ADA1A9510 Value: 0
+Word: Shining Fire Flower            ||             Index 1261 at address 7ADA1A95D0 Value: 0
+Word: Sahuagin Scale            ||             Index 1262 at address 7ADA1A9690 Value: 0
+Word: L Purple Breastplate            ||             Index 1263 at address 7ADA1A9750 Value: 0
+Word: Foaming Meat            ||             Index 1264 at address 7ADA1A9810 Value: 0
+Word: Gator Skin            ||             Index 1265 at address 7ADA1A98D0 Value: 0
+Word: Lustrous Beak            ||             Index 1266 at address 7ADA1A9990 Value: 0
+Word: Large Thick Scale            ||             Index 1267 at address 7ADA1A9A50 Value: 0
+Word: Superior Fillet            ||             Index 1268 at address 7ADA1A9B10 Value: 0
+Word: Blue Wild Beast Skin            ||             Index 1269 at address 7ADA1A9BD0 Value: 0
+Word: Nice Dragon Scale            ||             Index 1270 at address 7ADA1A9C90 Value: 0
+Word: Night Scene Bone            ||             Index 1271 at address 7ADA1A9D50 Value: 0
+Word: Dragon Scale            ||             Index 1272 at address 7ADA1A9E10 Value: 0
+Word: Giant Skin            ||             Index 1273 at address 7ADA1A9ED0 Value: 0
+Word: Ghost Powder            ||             Index 1274 at address 7ADA1A9F90 Value: 0
+Word: Forgetful Powder            ||             Index 1275 at address 7ADA1AA050 Value: 0
+Word: Blackened Failed Trash            ||             Index 1276 at address 7ADA1AA110 Value: 0
+Word: Metal Crest            ||             Index 1277 at address 7ADA1AA1D0 Value: 0
+Word: Worn Ironsand            ||             Index 1278 at address 7ADA1AA290 Value: 0
+Word: Spirit Mist            ||             Index 1279 at address 7ADA1AA350 Value: 0
+Word: Puffer Dragon Belly            ||             Index 1280 at address 7ADA1AA410 Value: 0
+Word: Dinosaur Belly            ||             Index 1281 at address 7ADA1AA4D0 Value: 0
+Word: Ultrasonic Emitter            ||             Index 1282 at address 7ADA1AA590 Value: 0
+Word: Hell Beast's Hide            ||             Index 1283 at address 7ADA1AA650 Value: 0
+Word: Ogre Hide            ||             Index 1284 at address 7ADA1AA710 Value: 0
+Word: Goblin's Foul Skin            ||             Index 1285 at address 7ADA1AA7D0 Value: 0
+Word: Beast Mane            ||             Index 1286 at address 7ADA1AA890 Value: 0
+Word: Huge Fin            ||             Index 1287 at address 7ADA1AA950 Value: 0
+Word: Steel Mouse Skin            ||             Index 1288 at address 7ADA1AAA10 Value: 0
+Word: Puffer Dragon Core            ||             Index 1289 at address 7ADA1AAAD0 Value: 0
+Word: Fine Scale            ||             Index 1290 at address 7ADA1AAB90 Value: 0
+Word: Iron Spinal Cord            ||             Index 1291 at address 7ADA1AAC50 Value: 0
+Word: Hardened Skin Piece            ||             Index 1292 at address 7ADA1AAD10 Value: 0
+Word: Sharp Fire Scale            ||             Index 1293 at address 7ADA1AADD0 Value: 0
+Word: Three-head Dragon Fin            ||             Index 1294 at address 7ADA1AAE90 Value: 0
+Word: Black Snout            ||             Index 1295 at address 7ADA1AAF50 Value: 0
+Word: Green Thorn            ||             Index 1296 at address 7ADA1AB010 Value: 0
+Word: Clown Ball            ||             Index 1297 at address 7ADA1AB0D0 Value: 0
+Word: Coelus Egg            ||             Index 1298 at address 7ADA1AB190 Value: 0
+Word: Thick Palm            ||             Index 1299 at address 7ADA1AB250 Value: 0
+Word: Soft Membrane            ||             Index 1300 at address 7ADA1AB310 Value: 0
+Word: Yellow Smoke Scale            ||             Index 1301 at address 7ADA1AB3D0 Value: 0
+Word: Goblin's Dirty Skin            ||             Index 1302 at address 7ADA1AB490 Value: 0
+Word: Angry Hound Tail            ||             Index 1303 at address 7ADA1AB550 Value: 0
+Word: Rare Metal Skin            ||             Index 1304 at address 7ADA1AB610 Value: 0
+Word: Monster's Scroll            ||             Index 1305 at address 7ADA1AB6D0 Value: 0
+Word: Aqua Hide            ||             Index 1306 at address 7ADA1AB790 Value: 0
+Word: Shiny Dragon Scale            ||             Index 1307 at address 7ADA1AB850 Value: 0
+Word: Durable Tendon            ||             Index 1308 at address 7ADA1AB910 Value: 0
+Word: Silver Pelt            ||             Index 1309 at address 7ADA1AB9D0 Value: 0
+Word: Metal Skin            ||             Index 1310 at address 7ADA1ABA90 Value: 0
+Word: Ape Arm            ||             Index 1311 at address 7ADA1ABB50 Value: 0
+Word: Beast Tail Skin            ||             Index 1312 at address 7ADA1ABC10 Value: 0
+Word: Water-Proof Skin            ||             Index 1313 at address 7ADA1ABCD0 Value: 0
+Word: Bear Stomach            ||             Index 1314 at address 7ADA1ABD90 Value: 0
+Word: Sky Serpent Backfin            ||             Index 1315 at address 7ADA1ABE50 Value: 0
+Word: Water-Repellent Scale            ||             Index 1316 at address 7ADA1ABF10 Value: 0
+Word: Feathery Skin            ||             Index 1317 at address 7ADA1ABFD0 Value: 0
+Word: Red Spot            ||             Index 1318 at address 7ADA1AC090 Value: 0
+Word: Goblin's Toxic Skin            ||             Index 1319 at address 7ADA1AC150 Value: 0
+Word: Old Tanuki's Pouch            ||             Index 1320 at address 7ADA1AC210 Value: 0
+Word: Large Dinosaur Belly            ||             Index 1321 at address 7ADA1AC2D0 Value: 0
+Word: Fire Scale            ||             Index 1322 at address 7ADA1AC390 Value: 0
+Word: Monster's Iron Hide            ||             Index 1323 at address 7ADA1AC450 Value: 0
+Word: Hell Beast's Skin            ||             Index 1324 at address 7ADA1AC510 Value: 0
+Word: Thorny Scale            ||             Index 1325 at address 7ADA1AC5D0 Value: 0
+Word: Bulky Pelt            ||             Index 1326 at address 7ADA1AC690 Value: 0
+Word: Goblin's Trick Hand            ||             Index 1327 at address 7ADA1AC750 Value: 0
+Word: Lustrous Snake Skin            ||             Index 1328 at address 7ADA1AC810 Value: 0
+Word: Beast Meat            ||             Index 1329 at address 7ADA1AC8D0 Value: 0
+Word: Monster's Steel Skin            ||             Index 1330 at address 7ADA1AC990 Value: 0
+Word: Jet Black Trace            ||             Index 1331 at address 7ADA1ACA50 Value: 0
+Word: Seaside Delight            ||             Index 1332 at address 7ADA1ACB10 Value: 0
+Word: Darkfallen Dragon Scale            ||             Index 1333 at address 7ADA1ACBD0 Value: 0
+Word: Murky Meat            ||             Index 1334 at address 7ADA1ACC90 Value: 0
+Word: Venomous Sucker            ||             Index 1335 at address 7ADA1ACD50 Value: 0
+Word: Evil Iron Hide            ||             Index 1336 at address 7ADA1ACE10 Value: 0
+Word: Waterbound Fin            ||             Index 1337 at address 7ADA1ACED0 Value: 0
+Word: Bladearmor Scales            ||             Index 1338 at address 7ADA1ACF90 Value: 0
+Word: Howling Darkness Scale            ||             Index 1339 at address 7ADA1AD050 Value: 0
+Word: Khad Leather            ||             Index 1340 at address 7ADA1AD110 Value: 0
+Word: Thunderstruck Hide            ||             Index 1341 at address 7ADA1AD1D0 Value: 0
+Word: Mystery Illucicle            ||             Index 1342 at address 7ADA1AD290 Value: 0
+Word: Dark Shiny Skin            ||             Index 1343 at address 7ADA1AD350 Value: 0
+Word: Forest's Plume            ||             Index 1344 at address 7ADA1AD410 Value: 0
+Word: Dark Dragon's Great Wing            ||             Index 1345 at address 7ADA1AD4D0 Value: 0
+Word: Corrupted Void Tail            ||             Index 1346 at address 7ADA1AD590 Value: 0
+Word: Giant Goat Heart            ||             Index 1347 at address 7ADA1AD650 Value: 0
+Word: Flexcut Scale            ||             Index 1348 at address 7ADA1AD710 Value: 0
+Word: Slimy Tentacle            ||             Index 1349 at address 7ADA1AD7D0 Value: 0
+Word: Darkfallen Dragon Tail            ||             Index 1350 at address 7ADA1AD890 Value: 0
+Word: Dark Dragon's Wing            ||             Index 1351 at address 7ADA1AD950 Value: 0
+Word: Hollow Dragon Scale            ||             Index 1352 at address 7ADA1ADA10 Value: 0
+Word: Impure Sucker            ||             Index 1353 at address 7ADA1ADAD0 Value: 0
+Word: Underworld Fur            ||             Index 1354 at address 7ADA1ADB90 Value: 0
+Word: Ether Pelt            ||             Index 1355 at address 7ADA1ADC50 Value: 0
+Word: Vivid Burnt Scale            ||             Index 1356 at address 7ADA1ADD10 Value: 0
+Word: Illucicle            ||             Index 1357 at address 7ADA1ADDD0 Value: 0
+Word: Fallen Beast Hair            ||             Index 1358 at address 7ADA1ADE90 Value: 0
+Word: River Beast Scale            ||             Index 1359 at address 7ADA1ADF50 Value: 0
+Word: Swallowed Hide            ||             Index 1360 at address 7ADA1AE010 Value: 0
+Word: Stretched Patagium            ||             Index 1361 at address 7ADA1AE0D0 Value: 0
+Word: Decayed Dragon Scale            ||             Index 1362 at address 7ADA1AE190 Value: 0
+Word: Scarlet Scale            ||             Index 1363 at address 7ADA1AE250 Value: 0
+Word: Abysswyrm Wing            ||             Index 1364 at address 7ADA1AE310 Value: 0
+Word: Rumbling Hide            ||             Index 1365 at address 7ADA1AE3D0 Value: 0
+Word: Fallen Beast Mane            ||             Index 1366 at address 7ADA1AE490 Value: 0
+Word: Cloak of Empty Ghost            ||             Index 1367 at address 7ADA1AE550 Value: 0
+Word: Crimson Venom Scale            ||             Index 1368 at address 7ADA1AE610 Value: 0
+Word: Scarlet Skin            ||             Index 1369 at address 7ADA1AE6D0 Value: 0
+Word: Sinister Suction Cup            ||             Index 1370 at address 7ADA1AE790 Value: 0
+Word: Lightly Stained Cloak            ||             Index 1371 at address 7ADA1AE850 Value: 0
+Word: Evil Steel Hide            ||             Index 1372 at address 7ADA1AE910 Value: 0
+Word: Swallowed Tail            ||             Index 1373 at address 7ADA1AE9D0 Value: 0
+Word: Demon Arm            ||             Index 1374 at address 7ADA1AEA90 Value: 0
+Word: Demon Goat Fillet            ||             Index 1375 at address 7ADA1AEB50 Value: 0
+Word: Muscular Arm            ||             Index 1376 at address 7ADA1AEC10 Value: 0
+Word: Pliable Hide            ||             Index 1377 at address 7ADA1AECD0 Value: 0
+Word: Corrupted Void Hide            ||             Index 1378 at address 7ADA1AED90 Value: 0
+Word: Forest's Tail            ||             Index 1379 at address 7ADA1AEE50 Value: 0
+Word: Lacquered Charged Shell            ||             Index 1380 at address 7ADA1AEF10 Value: 0
+Word: Dripping Fin            ||             Index 1381 at address 7ADA1AEFD0 Value: 0
+Word: Underworld Hide            ||             Index 1382 at address 7ADA1AF090 Value: 0
+Word: Warped Leather            ||             Index 1383 at address 7ADA1AF150 Value: 0
+Word: Color of Grief Wing            ||             Index 1384 at address 7ADA1AF210 Value: 0
+Word: Demon Bird Tail            ||             Index 1385 at address 7ADA1AF2D0 Value: 0
+Word: Large Bee Wing            ||             Index 1386 at address 7ADA1AF390 Value: 0
+Word: Demon Bird Wing            ||             Index 1387 at address 7ADA1AF450 Value: 0
+Word: Tiny Bug Wing            ||             Index 1388 at address 7ADA1AF510 Value: 0
+Word: Shimmering Dorsal Fin            ||             Index 1389 at address 7ADA1AF5D0 Value: 0
+Word: Floating Fillet            ||             Index 1390 at address 7ADA1AF690 Value: 0
+Word: Sky Blue Wing            ||             Index 1391 at address 7ADA1AF750 Value: 0
+Word: White Wing Membrane            ||             Index 1392 at address 7ADA1AF810 Value: 0
+Word: Shiny Dragon Wing            ||             Index 1393 at address 7ADA1AF8D0 Value: 0
+Word: Demon Bird Feather            ||             Index 1394 at address 7ADA1AF990 Value: 0
+Word: Luxuriant Down            ||             Index 1395 at address 7ADA1AFA50 Value: 0
+Word: Beast Wings            ||             Index 1396 at address 7ADA1AFB10 Value: 0
+Word: Colorful Feather            ||             Index 1397 at address 7ADA1AFBD0 Value: 0
+Word: Crimson Pupa            ||             Index 1398 at address 7ADA1AFC90 Value: 0
+Word: Mad Demon's Wing            ||             Index 1399 at address 7ADA1AFD50 Value: 0
+Word: Spiral Dorsal Fin            ||             Index 1400 at address 7ADA1AFE10 Value: 0
+Word: Swaying Ghost Wings            ||             Index 1401 at address 7ADA1AFED0 Value: 0
+Word: Bat Wings            ||             Index 1402 at address 7ADA1AFF90 Value: 0
+Word: Blue Burning Wing            ||             Index 1403 at address 7ADA1B0050 Value: 0
+Word: Giant Bee Wing            ||             Index 1404 at address 7ADA1B0110 Value: 0
+Word: Cut Dorsal Fin            ||             Index 1405 at address 7ADA1B01D0 Value: 0
+Word: Chalk Holy Wings            ||             Index 1406 at address 7ADA1B0290 Value: 0
+Word: Red Wing            ||             Index 1407 at address 7ADA1B0350 Value: 0
+Word: Jet Black Wing            ||             Index 1408 at address 7ADA1B0410 Value: 0
+Word: Red Flying Device            ||             Index 1409 at address 7ADA1B04D0 Value: 0
+Word: Cocoon of Bygone Days            ||             Index 1410 at address 7ADA1B0590 Value: 0
+Word: Blue Wing of Misfortune            ||             Index 1411 at address 7ADA1B0650 Value: 0
+Word: Red Flotation Device            ||             Index 1412 at address 7ADA1B0710 Value: 0
+Word: Color of Rage Wing            ||             Index 1413 at address 7ADA1B07D0 Value: 0
+Word: Wavering Ghost Wings            ||             Index 1414 at address 7ADA1B0890 Value: 0
+Word: Wing Rib            ||             Index 1415 at address 7ADA1B0950 Value: 0
+Word: Golden Dragon Hair            ||             Index 1416 at address 7ADA1B0A10 Value: 0
+Word: Scarlet Feather            ||             Index 1417 at address 7ADA1B0AD0 Value: 0
+Word: Large Raptor Wing            ||             Index 1418 at address 7ADA1B0B90 Value: 0
+Word: Demon Bird Plumage            ||             Index 1419 at address 7ADA1B0C50 Value: 0
+Word: Emerald Wing            ||             Index 1420 at address 7ADA1B0D10 Value: 0
+Word: Frizzled Feathers            ||             Index 1421 at address 7ADA1B0DD0 Value: 0
+Word: Flexible Dorsal Fin            ||             Index 1422 at address 7ADA1B0E90 Value: 0
+Word: Anti-Gravity Device            ||             Index 1423 at address 7ADA1B0F50 Value: 0
+Word: Hardy Feather Robe            ||             Index 1424 at address 7ADA1B1010 Value: 0
+Word: Green Feather            ||             Index 1425 at address 7ADA1B10D0 Value: 0
+Word: Seabird Feather            ||             Index 1426 at address 7ADA1B1190 Value: 0
+Word: Golden Feather            ||             Index 1427 at address 7ADA1B1250 Value: 0
+Word: Top Wing            ||             Index 1428 at address 7ADA1B1310 Value: 0
+Word: Strong Feather Robe            ||             Index 1429 at address 7ADA1B13D0 Value: 0
+Word: Nothing Feather            ||             Index 1430 at address 7ADA1B1490 Value: 0
+Word: Bottom Wing            ||             Index 1431 at address 7ADA1B1550 Value: 0
+Word: Bee Wing            ||             Index 1432 at address 7ADA1B1610 Value: 0
+Word: Dragon Wing            ||             Index 1433 at address 7ADA1B16D0 Value: 0
+Word: Crystal Wing Membrane            ||             Index 1434 at address 7ADA1B1790 Value: 0
+Word: Red Feather            ||             Index 1435 at address 7ADA1B1850 Value: 0
+Word: Sharp Horn            ||             Index 1436 at address 7ADA1B1910 Value: 0
+Word: Giant Monster Fang            ||             Index 1437 at address 7ADA1B19D0 Value: 0
+Word: Cursed Horn            ||             Index 1438 at address 7ADA1B1A90 Value: 0
+Word: Redscale Feather            ||             Index 1439 at address 7ADA1B1B50 Value: 0
+Word: Dinosaur Scapula            ||             Index 1440 at address 7ADA1B1C10 Value: 0
+Word: Tyrant Dragon Claw            ||             Index 1441 at address 7ADA1B1CD0 Value: 0
+Word: Sharp Claw            ||             Index 1442 at address 7ADA1B1D90 Value: 0
+Word: Black Frame            ||             Index 1443 at address 7ADA1B1E50 Value: 0
+Word: Waxen Feather            ||             Index 1444 at address 7ADA1B1F10 Value: 0
+Word: Thin Long Fang            ||             Index 1445 at address 7ADA1B1FD0 Value: 0
+Word: Purple Breastplate            ||             Index 1446 at address 7ADA1B2090 Value: 0
+Word: Coelus Tooth            ||             Index 1447 at address 7ADA1B2150 Value: 0
+Word: Silver Beast Fang            ||             Index 1448 at address 7ADA1B2210 Value: 0
+Word: Raptor Bone            ||             Index 1449 at address 7ADA1B22D0 Value: 0
+Word: Triple Mane            ||             Index 1450 at address 7ADA1B2390 Value: 0
+Word: Raptor Claw            ||             Index 1451 at address 7ADA1B2450 Value: 0
+Word: Dawnsky Wing            ||             Index 1452 at address 7ADA1B2510 Value: 0
+Word: Dinosaur Femur            ||             Index 1453 at address 7ADA1B25D0 Value: 0
+Word: Redscale Pinion            ||             Index 1454 at address 7ADA1B2690 Value: 0
+Word: Crimson Insect Wing            ||             Index 1455 at address 7ADA1B2750 Value: 0
+Word: Dinosaur Humerus            ||             Index 1456 at address 7ADA1B2810 Value: 0
+Word: Bee Sting            ||             Index 1457 at address 7ADA1B28D0 Value: 0
+Word: Deep Blue Feather            ||             Index 1458 at address 7ADA1B2990 Value: 0
+Word: Ruffled Orange Wing            ||             Index 1459 at address 7ADA1B2A50 Value: 0
+Word: Giant Dinosaur Horn            ||             Index 1460 at address 7ADA1B2B10 Value: 0
+Word: Dinosaur Horn            ||             Index 1461 at address 7ADA1B2BD0 Value: 0
+Word: Tyrant Dragon Skull            ||             Index 1462 at address 7ADA1B2C90 Value: 0
+Word: Large Carapace            ||             Index 1463 at address 7ADA1B2D50 Value: 0
+Word: Mystery Claw            ||             Index 1464 at address 7ADA1B2E10 Value: 0
+Word: Iron Bone            ||             Index 1465 at address 7ADA1B2ED0 Value: 0
+Word: Burning Sword Point            ||             Index 1466 at address 7ADA1B2F90 Value: 0
+Word: Dinosaur Rib            ||             Index 1467 at address 7ADA1B3050 Value: 0
+Word: Carapace Fragment            ||             Index 1468 at address 7ADA1B3110 Value: 0
+Word: Red Frame            ||             Index 1469 at address 7ADA1B31D0 Value: 0
+Word: Thick Triple Mane            ||             Index 1470 at address 7ADA1B3290 Value: 0
+Word: White Frame            ||             Index 1471 at address 7ADA1B3350 Value: 0
+Word: Cracked Egg            ||             Index 1472 at address 7ADA1B3410 Value: 0
+Word: Red Scissors            ||             Index 1473 at address 7ADA1B34D0 Value: 0
+Word: Goblin's Jade Horn            ||             Index 1474 at address 7ADA1B3590 Value: 0
+Word: Dinosaur Egg            ||             Index 1475 at address 7ADA1B3650 Value: 0
+Word: Orange Feather            ||             Index 1476 at address 7ADA1B3710 Value: 0
+Word: Hard Sharp Cube            ||             Index 1477 at address 7ADA1B37D0 Value: 0
+Word: Small Dragon Fang            ||             Index 1478 at address 7ADA1B3890 Value: 0
+Word: Tyrant Dragon Fang            ||             Index 1479 at address 7ADA1B3950 Value: 0
+Word: Large Monster Fang            ||             Index 1480 at address 7ADA1B3A10 Value: 0
+Word: Vibrant Wing            ||             Index 1481 at address 7ADA1B3AD0 Value: 0
+Word: Steel Bone            ||             Index 1482 at address 7ADA1B3B90 Value: 0
+Word: Purple Shell            ||             Index 1483 at address 7ADA1B3C50 Value: 0
+Word: Small Dragon Claw            ||             Index 1484 at address 7ADA1B3D10 Value: 0
+Word: Red Carapace            ||             Index 1485 at address 7ADA1B3DD0 Value: 0
+Word: Raptor Fang            ||             Index 1486 at address 7ADA1B3E90 Value: 0
+Word: Sahuagin Pole            ||             Index 1487 at address 7ADA1B3F50 Value: 0
+Word: Small Dinosaur Horn            ||             Index 1488 at address 7ADA1B4010 Value: 0
+Word: Old Thick Dragon Claw            ||             Index 1489 at address 7ADA1B40D0 Value: 0
+Word: Full Metal Bone            ||             Index 1490 at address 7ADA1B4190 Value: 0
+Word: Purple Stripped Horns            ||             Index 1491 at address 7ADA1B4250 Value: 0
+Word: Poison Prick            ||             Index 1492 at address 7ADA1B4310 Value: 0
+Word: Red Boar Tusk            ||             Index 1493 at address 7ADA1B43D0 Value: 0
+Word: Firm Dinosaur Horn            ||             Index 1494 at address 7ADA1B4490 Value: 0
+Word: Sharp Wild Dino Claw            ||             Index 1495 at address 7ADA1B4550 Value: 0
+Word: Poison Needle            ||             Index 1496 at address 7ADA1B4610 Value: 0
+Word: Blood Sucking Fang            ||             Index 1497 at address 7ADA1B46D0 Value: 0
+Word: Bat Fang            ||             Index 1498 at address 7ADA1B4790 Value: 0
+Word: Goblin's Green Horn            ||             Index 1499 at address 7ADA1B4850 Value: 0
+Word: Bat Claw            ||             Index 1500 at address 7ADA1B4910 Value: 0
+Word: Carnivore Beast Fang            ||             Index 1501 at address 7ADA1B49D0 Value: 0
+Word: Poison Sting            ||             Index 1502 at address 7ADA1B4A90 Value: 0
+Word: Mystery Bone            ||             Index 1503 at address 7ADA1B4B50 Value: 0
+Word: Beast Whistle Fingers            ||             Index 1504 at address 7ADA1B4C10 Value: 0
+Word: Purgatory Bug Claw            ||             Index 1505 at address 7ADA1B4CD0 Value: 0
+Word: Giant Bone            ||             Index 1506 at address 7ADA1B4D90 Value: 0
+Word: Monster's Trumpet            ||             Index 1507 at address 7ADA1B4E50 Value: 0
+Word: Poison Pierce            ||             Index 1508 at address 7ADA1B4F10 Value: 0
+Word: Hound Fang            ||             Index 1509 at address 7ADA1B4FD0 Value: 0
+Word: Metal Bone            ||             Index 1510 at address 7ADA1B5090 Value: 0
+Word: Old Thick Dragon Bone            ||             Index 1511 at address 7ADA1B5150 Value: 0
+Word: Large Dinosaur Rib            ||             Index 1512 at address 7ADA1B5210 Value: 0
+Word: Pointy Dinosaur Claw            ||             Index 1513 at address 7ADA1B52D0 Value: 0
+Word: Melted Rib            ||             Index 1514 at address 7ADA1B5390 Value: 0
+Word: Shiny Dragon Horn            ||             Index 1515 at address 7ADA1B5450 Value: 0
+Word: Dull Fire Beast Fang            ||             Index 1516 at address 7ADA1B5510 Value: 0
+Word: Boar King Tusks            ||             Index 1517 at address 7ADA1B55D0 Value: 0
+Word: Shiny Dragon Fang            ||             Index 1518 at address 7ADA1B5690 Value: 0
+Word: Mad Dog Fang            ||             Index 1519 at address 7ADA1B5750 Value: 0
+Word: Beast Bone Mask            ||             Index 1520 at address 7ADA1B5810 Value: 0
+Word: Pointy Dinosaur Horn            ||             Index 1521 at address 7ADA1B58D0 Value: 0
+Word: Large Twisted Horn            ||             Index 1522 at address 7ADA1B5990 Value: 0
+Word: Giant Hand            ||             Index 1523 at address 7ADA1B5A50 Value: 0
+Word: Pointy Wild Dino Claw            ||             Index 1524 at address 7ADA1B5B10 Value: 0
+Word: Giant Forearm            ||             Index 1525 at address 7ADA1B5BD0 Value: 0
+Word: Red Nail            ||             Index 1526 at address 7ADA1B5C90 Value: 0
+Word: Spirit Poison Fang            ||             Index 1527 at address 7ADA1B5D50 Value: 0
+Word: T-Rex Fossil            ||             Index 1528 at address 7ADA1B5E10 Value: 0
+Word: Sharp Dinosaur Claw            ||             Index 1529 at address 7ADA1B5ED0 Value: 0
+Word: Large Dinosaur Bone            ||             Index 1530 at address 7ADA1B5F90 Value: 0
+Word: Dinosaur Claw            ||             Index 1531 at address 7ADA1B6050 Value: 0
+Word: Keen Bone            ||             Index 1532 at address 7ADA1B6110 Value: 0
+Word: Beast Fang            ||             Index 1533 at address 7ADA1B61D0 Value: 0
+Word: Giant Cartilage            ||             Index 1534 at address 7ADA1B6290 Value: 0
+Word: Sharp Fire Beast Fang            ||             Index 1535 at address 7ADA1B6350 Value: 0
+Word: Dinosaur Talon            ||             Index 1536 at address 7ADA1B6410 Value: 0
+Word: Monster's Horn            ||             Index 1537 at address 7ADA1B64D0 Value: 0
+Word: Panther Lance            ||             Index 1538 at address 7ADA1B6590 Value: 0
+Word: Dull Horn            ||             Index 1539 at address 7ADA1B6650 Value: 0
+Word: Sharp Beak            ||             Index 1540 at address 7ADA1B6710 Value: 0
+Word: Blackened Failed Cube            ||             Index 1541 at address 7ADA1B67D0 Value: 0
+Word: Coral Jaw            ||             Index 1542 at address 7ADA1B6890 Value: 0
+Word: Demon Beast Incisor            ||             Index 1543 at address 7ADA1B6950 Value: 0
+Word: Bloodsoaked Nails            ||             Index 1544 at address 7ADA1B6A10 Value: 0
+Word: Smashed Mandible            ||             Index 1545 at address 7ADA1B6AD0 Value: 0
+Word: Demon Face Shell            ||             Index 1546 at address 7ADA1B6B90 Value: 0
+Word: Wind Tunnel Skull            ||             Index 1547 at address 7ADA1B6C50 Value: 0
+Word: Weathering Frame            ||             Index 1548 at address 7ADA1B6D10 Value: 0
+Word: Ley Bone            ||             Index 1549 at address 7ADA1B6DD0 Value: 0
+Word: Bright Beak            ||             Index 1550 at address 7ADA1B6E90 Value: 0
+Word: Weathered Frame            ||             Index 1551 at address 7ADA1B6F50 Value: 0
+Word: Bluish-white Fang            ||             Index 1552 at address 7ADA1B7010 Value: 0
+Word: Bloody Mad Mask            ||             Index 1553 at address 7ADA1B70D0 Value: 0
+Word: Demon Beast Fang            ||             Index 1554 at address 7ADA1B7190 Value: 0
+Word: Demon Beast Tooth            ||             Index 1555 at address 7ADA1B7250 Value: 0
+Word: Tanuki Spine            ||             Index 1556 at address 7ADA1B7310 Value: 0
+Word: Demon Beast Jaw            ||             Index 1557 at address 7ADA1B73D0 Value: 0
+Word: Sharp Twin Horns            ||             Index 1558 at address 7ADA1B7490 Value: 0
+Word: Unfaded Alloy Frame            ||             Index 1559 at address 7ADA1B7550 Value: 0
+Word: Burnt Talon            ||             Index 1560 at address 7ADA1B7610 Value: 0
+Word: Bloody Mask            ||             Index 1561 at address 7ADA1B76D0 Value: 0
+Word: Azure Carapace            ||             Index 1562 at address 7ADA1B7790 Value: 0
+Word: Sky-blue Fang            ||             Index 1563 at address 7ADA1B7850 Value: 0
+Word: Shiny Failed Cube            ||             Index 1564 at address 7ADA1B7910 Value: 0
+Word: Sparkling Beak            ||             Index 1565 at address 7ADA1B79D0 Value: 0
+Word: Charged Fused Cube            ||             Index 1566 at address 7ADA1B7A90 Value: 0
+Word: Bloody Nails            ||             Index 1567 at address 7ADA1B7B50 Value: 0
+Word: Ancient Fang            ||             Index 1568 at address 7ADA1B7C10 Value: 0
+Word: Scarlet Shell            ||             Index 1569 at address 7ADA1B7CD0 Value: 0
+Word: Shiny Fused Cube            ||             Index 1570 at address 7ADA1B7D90 Value: 0
+Word: Bone-Spirit Fang            ||             Index 1571 at address 7ADA1B7E50 Value: 0
+Word: Heaven Piercing Horn            ||             Index 1572 at address 7ADA1B7F10 Value: 0
+Word: Unusual Metal Shell            ||             Index 1573 at address 7ADA1B7FD0 Value: 0
+Word: Ironbone Powder            ||             Index 1574 at address 7ADA1B8090 Value: 0
+Word: Ancient Bone            ||             Index 1575 at address 7ADA1B8150 Value: 0
+Word: Blackened Fused Cube            ||             Index 1576 at address 7ADA1B8210 Value: 0
+Word: Thunder Flash Nail            ||             Index 1577 at address 7ADA1B82D0 Value: 0
+Word: Coral Crab Pincer            ||             Index 1578 at address 7ADA1B8390 Value: 0
+Word: Ancient Claw            ||             Index 1579 at address 7ADA1B8450 Value: 0
+Word: Sky Fang            ||             Index 1580 at address 7ADA1B8510 Value: 0
+Word: Twisted Spirit Horn            ||             Index 1581 at address 7ADA1B85D0 Value: 0
+Word: Crumbling Mandible            ||             Index 1582 at address 7ADA1B8690 Value: 0
+Word: Ancient Big Bone            ||             Index 1583 at address 7ADA1B8750 Value: 0
+Word: Evil Raging Horn            ||             Index 1584 at address 7ADA1B8810 Value: 0
+Word: Glowing Nail            ||             Index 1585 at address 7ADA1B88D0 Value: 0
+Word: Distorted Hoof            ||             Index 1586 at address 7ADA1B8990 Value: 0
+Word: Coral Tusk            ||             Index 1587 at address 7ADA1B8A50 Value: 0
+Word: Crystal Steel Bone            ||             Index 1588 at address 7ADA1B8B10 Value: 0
+Word: Forest's Shell            ||             Index 1589 at address 7ADA1B8BD0 Value: 0
+Word: Charged Failed Cube            ||             Index 1590 at address 7ADA1B8C90 Value: 0
+Word: Evil Fierce Horn            ||             Index 1591 at address 7ADA1B8D50 Value: 0
+Word: Eternal Burning Claw            ||             Index 1592 at address 7ADA1B8E10 Value: 0
+Word: Heavy Claw            ||             Index 1593 at address 7ADA1B8ED0 Value: 0
+Word: Shrouded Horn            ||             Index 1594 at address 7ADA1B8F90 Value: 0
+Word: Strange Demoniac Bone            ||             Index 1595 at address 7ADA1B9050 Value: 0
+Word: Grand Thorn            ||             Index 1596 at address 7ADA1B9110 Value: 0
+Word: Katana's Dragon Bone            ||             Index 1597 at address 7ADA1B91D0 Value: 0
+Word: Ash            ||             Index 1598 at address 7ADA1B9290 Value: 0
+Word: Void Veil Thunder Horn            ||             Index 1599 at address 7ADA1B9350 Value: 0
+Word: Classic Plate            ||             Index 1600 at address 7ADA1B9410 Value: 0
+Word: Bow's Dragon Bone            ||             Index 1601 at address 7ADA1B94D0 Value: 0
+Word: Multicolor Talon            ||             Index 1602 at address 7ADA1B9590 Value: 0
+Word: Sword's Dragon Bone            ||             Index 1603 at address 7ADA1B9650 Value: 0
+Word: Fallen Skull            ||             Index 1604 at address 7ADA1B9710 Value: 0
+Word: Piscean Darkfang            ||             Index 1605 at address 7ADA1B97D0 Value: 0
+Word: Worn Spear            ||             Index 1606 at address 7ADA1B9890 Value: 0
+Word: Hollow Disostean            ||             Index 1607 at address 7ADA1B9950 Value: 0
+Word: Staff's Dragon Bone            ||             Index 1608 at address 7ADA1B9A10 Value: 0
+Word: Screeching Claw            ||             Index 1609 at address 7ADA1B9AD0 Value: 0
+Word: Green Shell            ||             Index 1610 at address 7ADA1B9B90 Value: 0
+Word: Scattered Thorns            ||             Index 1611 at address 7ADA1B9C50 Value: 0
+Word: Blackwind Horn            ||             Index 1612 at address 7ADA1B9D10 Value: 0
+Word: Rainbow Talon            ||             Index 1613 at address 7ADA1B9DD0 Value: 0
+Word: Hammer's Dragon Bone            ||             Index 1614 at address 7ADA1B9E90 Value: 0
+Word: Lance's Dragon Bone            ||             Index 1615 at address 7ADA1B9F50 Value: 0
+Word: Shrouded Great Horn            ||             Index 1616 at address 7ADA1BA010 Value: 0
+Word: Giant Thorn            ||             Index 1617 at address 7ADA1BA0D0 Value: 0
+Word: Toxic Claw            ||             Index 1618 at address 7ADA1BA190 Value: 0
+Word: Iridescent Shell            ||             Index 1619 at address 7ADA1BA250 Value: 0
+Word: Maddening Thorn            ||             Index 1620 at address 7ADA1BA310 Value: 0
+Word: Walnut Branch            ||             Index 1621 at address 7ADA1BA3D0 Value: 0
+Word: Triple Beast Fang            ||             Index 1622 at address 7ADA1BA490 Value: 0
+Word: Forest's Fine Shell            ||             Index 1623 at address 7ADA1BA550 Value: 0
+Word: Colorful Shell            ||             Index 1624 at address 7ADA1BA610 Value: 0
+Word: Swallowed Fang            ||             Index 1625 at address 7ADA1BA6D0 Value: 0
+Word: Iron Plate            ||             Index 1626 at address 7ADA1BA790 Value: 0
+Word: Heavy Fang            ||             Index 1627 at address 7ADA1BA850 Value: 0
+Word: Fallen Fang            ||             Index 1628 at address 7ADA1BA910 Value: 0
+Word: Mimicked Coral            ||             Index 1629 at address 7ADA1BA9D0 Value: 0
+Word: Piscean Fang            ||             Index 1630 at address 7ADA1BAA90 Value: 0
+Word: Windy Horn            ||             Index 1631 at address 7ADA1BAB50 Value: 0
+Word: Iron Armor            ||             Index 1632 at address 7ADA1BAC10 Value: 0
+Word: Wooden Club            ||             Index 1633 at address 7ADA1BACD0 Value: 0
+Word: Unbreakable Carapace            ||             Index 1634 at address 7ADA1BAD90 Value: 0
+Word: Abysswyrm Marrow            ||             Index 1635 at address 7ADA1BAE50 Value: 0
+Word: Rumbling Horn            ||             Index 1636 at address 7ADA1BAF10 Value: 0
+Word: Broken Claw            ||             Index 1637 at address 7ADA1BAFD0 Value: 0
+Word: Ax's Dragon Bone            ||             Index 1638 at address 7ADA1BB090 Value: 0
+Word: Shadowed Claw            ||             Index 1639 at address 7ADA1BB150 Value: 0
+Word: Fist's Dragon Bone            ||             Index 1640 at address 7ADA1BB210 Value: 0
+Word: Broken Scarlet Shell            ||             Index 1641 at address 7ADA1BB2D0 Value: 0
+Word: Orange Claw            ||             Index 1642 at address 7ADA1BB390 Value: 0
+Word: Corrupted Void Fang            ||             Index 1643 at address 7ADA1BB450 Value: 0
+Word: White Wood            ||             Index 1644 at address 7ADA1BB510 Value: 0
+Word: Worn Battleax            ||             Index 1645 at address 7ADA1BB5D0 Value: 0
+Word: Broken Club            ||             Index 1646 at address 7ADA1BB690 Value: 0
+Word: Mysterious Driftwood            ||             Index 1647 at address 7ADA1BB750 Value: 0
+Word: Rough Seas Armor            ||             Index 1648 at address 7ADA1BB810 Value: 0
+Word: Solar Panel            ||             Index 1649 at address 7ADA1BB8D0 Value: 0
+Word: Snow Umbrella            ||             Index 1650 at address 7ADA1BB990 Value: 0
+Word: Oak            ||             Index 1651 at address 7ADA1BBA50 Value: 0
+Word: Full Metal Plate            ||             Index 1652 at address 7ADA1BBB10 Value: 0
+Word: Water Wheel Plume            ||             Index 1653 at address 7ADA1BBBD0 Value: 0
+Word: Thin Iron Plate            ||             Index 1654 at address 7ADA1BBC90 Value: 0
+Word: Bloodstained Mane            ||             Index 1655 at address 7ADA1BBD50 Value: 0
+Word: Old Gauntlets            ||             Index 1656 at address 7ADA1BBE10 Value: 0
+Word: Ceramic Plate            ||             Index 1657 at address 7ADA1BBED0 Value: 0
+Word: Old Spear            ||             Index 1658 at address 7ADA1BBF90 Value: 0
+Word: Dream Break Saddle            ||             Index 1659 at address 7ADA1BC050 Value: 0
+Word: Aging Wood Piece            ||             Index 1660 at address 7ADA1BC110 Value: 0
+Word: Mirror of the Future            ||             Index 1661 at address 7ADA1BC1D0 Value: 0
+Word: Electro Plate            ||             Index 1662 at address 7ADA1BC290 Value: 0
+Word: Circuit Board            ||             Index 1663 at address 7ADA1BC350 Value: 0
+Word: Old Battleax            ||             Index 1664 at address 7ADA1BC410 Value: 0
+Word: Full Metal Shaft            ||             Index 1665 at address 7ADA1BC4D0 Value: 0
+Word: Warped Giant Branch            ||             Index 1666 at address 7ADA1BC590 Value: 0
+Word: White Board            ||             Index 1667 at address 7ADA1BC650 Value: 0
+Word: Maple            ||             Index 1668 at address 7ADA1BC710 Value: 0
+Word: Hard Plate            ||             Index 1669 at address 7ADA1BC7D0 Value: 0
+Word: Old Breastplate            ||             Index 1670 at address 7ADA1BC890 Value: 0
+Word: Black Board            ||             Index 1671 at address 7ADA1BC950 Value: 0
+Word: Thorny Armor            ||             Index 1672 at address 7ADA1BCA10 Value: 0
+Word: Mirror of the Past            ||             Index 1673 at address 7ADA1BCAD0 Value: 0
+Word: Sacred Branch            ||             Index 1674 at address 7ADA1BCB90 Value: 0
+Word: Monster's Whistle            ||             Index 1675 at address 7ADA1BCC50 Value: 0
+Word: Golden Paper Lantern            ||             Index 1676 at address 7ADA1BCD10 Value: 0
+Word: Island Dragon Signpost            ||             Index 1677 at address 7ADA1BCDD0 Value: 0
+Word: Time Passage Board            ||             Index 1678 at address 7ADA1BCE90 Value: 0
+Word: Thick Giant Armor            ||             Index 1679 at address 7ADA1BCF50 Value: 0
+Word: Deep Sea Armor            ||             Index 1680 at address 7ADA1BD010 Value: 0
+Word: Worn Breastplate            ||             Index 1681 at address 7ADA1BD0D0 Value: 0
+Word: Fear Mask            ||             Index 1682 at address 7ADA1BD190 Value: 0
+Word: Wooden Hammer            ||             Index 1683 at address 7ADA1BD250 Value: 0
+Word: Solar Board            ||             Index 1684 at address 7ADA1BD310 Value: 0
+Word: Iron Breastplate            ||             Index 1685 at address 7ADA1BD3D0 Value: 0
+Word: Hatred Circuit Board            ||             Index 1686 at address 7ADA1BD490 Value: 0
+Word: Steel Outer Plating            ||             Index 1687 at address 7ADA1BD550 Value: 0
+Word: Steel Plate            ||             Index 1688 at address 7ADA1BD610 Value: 0
+Word: Rugged Armor            ||             Index 1689 at address 7ADA1BD6D0 Value: 0
+Word: Huge Iron Armor            ||             Index 1690 at address 7ADA1BD790 Value: 0
+Word: Space Plate            ||             Index 1691 at address 7ADA1BD850 Value: 0
+Word: Monster's Signal Fan            ||             Index 1692 at address 7ADA1BD910 Value: 0
+Word: Passionate Fan Letter            ||             Index 1693 at address 7ADA1BD9D0 Value: 0
+Word: Jagged Armor            ||             Index 1694 at address 7ADA1BDA90 Value: 0
+Word: Worn Gauntlets            ||             Index 1695 at address 7ADA1BDB50 Value: 0
+Word: Pale Golden Paper Lantern            ||             Index 1696 at address 7ADA1BDFD0 Value: 0
+Word: Oddly Hard Edax Lumber            ||             Index 1697 at address 7ADA1BE2D0 Value: 0
+Word: Dirty White Wood            ||             Index 1698 at address 7ADA1BE390 Value: 0
+Word: Broken Floorboard            ||             Index 1699 at address 7ADA1BE510 Value: 0
+Word: Screw Bark            ||             Index 1700 at address 7ADA1BE8D0 Value: 0
+Word: Broken Shaft            ||             Index 1701 at address 7ADA1BE990 Value: 0
+Word: Swallowed Tree            ||             Index 1702 at address 7ADA1BEA50 Value: 0
+Word: Shift Oak            ||             Index 1703 at address 7ADA1BF410 Value: 0
+Word: Specter Tab            ||             Index 1704 at address 7ADA1BF590 Value: 0
+Word: Medicine Chest            ||             Index 1705 at address 7ADA1BF650 Value: 0
+Word: Corrupted Void Tree            ||             Index 1706 at address 7ADA1BFB90 Value: 0
+Word: Spirit Tree Wood Piece            ||             Index 1707 at address 7ADA1BFE90 Value: 0
+Word: Unfulfilled Deadtree            ||             Index 1708 at address 7ADA1BFF50 Value: 0
+Word: Shift Warped Giant Branch            ||             Index 1709 at address 7ADA1C00D0 Value: 0

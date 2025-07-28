@@ -200,13 +200,14 @@ Hastantiqua Treatise::242030407
 Hecatoncheires Codex::242030610
 Hermes Starchart::242010001
 Hermes Tome::242030039
+Hierophant Starchart::242010017
 Hierophant Tome::242030002
 High Priestess Treatise::242030012
 Hihayahi Starchart::242012022
 Hihayahi Tome::242030231
 Holy Sentinel Codex::242030423
 Holy Sentinel Starchart::242014006
-Holy Sword Record::242030422
+Holy Sword Record::242030222
 Holy Warrior Tome::242020100
 Hrungnir Tome::242030414
 Hypnotist Treatise::242030006
@@ -309,6 +310,8 @@ Pluma Diana Treatise::242030513
 Polyhymniā Treatise::242030520
 Prayer Script::242000002
 Princess Psalm::242030103
+Prophet Starchart::242010016
+Prophet Treatise::242030047
 Protector Tome::242030008
 Proud Beast Treatise::242030607
 Prthivi Starchart::242017001
@@ -6706,9 +6709,12 @@ Artificial Grass::221004088
 Artificial Hammer Core::221004107
 Artificial Heart II::221008032
 Artificial Heart::221014020
+Artisan Ore::221007131
+Ash Crystal: Ember::221009157
 Ash::221017001
 Auto Circuit::221004133
 Auto Core::221004190
+Ax's Dragon Bone::221016180
 Azure Carapace::221016103
 Azure Hellflower::221012109
 Azure White Crystal::221009070
@@ -6834,6 +6840,7 @@ Bone-Spirit Fang::221016098
 Booster Pack::221004034
 Bottom Wing::221015015
 Boulder Armor::221007104
+Bow's Dragon Bone::221016182
 Brain Chip::221004073
 Brain Part::221004080
 Breeze Jelly::221011014
@@ -6855,15 +6862,21 @@ Broken Floorboard::221017063
 Broken Gear::221004044
 Broken Handle::221007056
 Broken Leg Part::221004026
+Broken Pebble::221007135
+Broken Scarlet Shell::221016191
 Broken Seashell::221013025
+Broken Shaft::221017065
 Broken Spring::221004099
+Broken Steam Gear::221004239
 Broken Stone Ax::221007011
 Broken Wheel::221008083
 Bronze Bullet::221008005
 Brotherly Bond::221009029
 Brotherly Love::221009031
 Brown Spider Stone::221009038
+Bruised Gator Pear::221012140
 Bulky Pelt::221014065
+Bulky Spike::221008278
 Buoyant Screw::221004184
 Burned Mineral Dust::221013018
 Burned Robe::221005021
@@ -6915,6 +6928,7 @@ Color of Rage Wing::221015042
 Colorful Feather::221015007
 Colorful Nuts::221012139
 Colorful Shell::221016166
+Colorless Flower::221012147
 Condensed Flame::221011029
 Conduction Cable::221004106
 Connect Chip::221004076
@@ -6924,6 +6938,17 @@ Coral Fragments::221008111
 Coral Jaw::221016105
 Coral Tusk::221016104
 Core Part::221004028
+Corrupted Hollow Core::221008257
+Corrupted Hollow Metal::221004237
+Corrupted Metal Part::221004236
+Corrupted Void Claw::221008259
+Corrupted Void Fang::221016188
+Corrupted Void Hide::221014122
+Corrupted Void Leaf::221012150
+Corrupted Void Stone::221004235
+Corrupted Void Tail::221014124
+Corrupted Void Tree::221017073
+Corrupted Void Water::221011107
 Cracked Egg::221016016
 Cracked Moon Shard::221009096
 Cracked Shard::221007053
@@ -6970,7 +6995,8 @@ Cut Wire Bundle::221005071
 Cyminum Seed::221012038
 Cyminum::221012037
 Cyrofiton::221012030
-Cyroxene::221007039
+Dainty Divine Cat's-eye::221009158
+Damaged Flower Crystal::221012148
 Damdi Test Drug::221011086
 Dancing Grass::221012004
 Dancing Tree::221012028
@@ -7006,6 +7032,7 @@ Deadly Poison Shot::221011038
 Deadly Poison::221011026
 Deadly Spore::221012066
 Decayed Crystal::221008245
+Decayed Dragon Scale::221014127
 Decaying Adoration::221009058
 Deep Azurewater::221011092
 Deep Blue Alloy::221008210
@@ -7030,6 +7057,7 @@ Defiant Blood::221011083
 Defiant Brand::221004143
 Defiant Shield::221009113
 Defiant Spear::221009114
+Deft Fish Peace Pearl::221009164
 Delusion Spore::221013037
 Demon Arm::221014078
 Demon Beast Fang::221016124
@@ -7049,6 +7077,7 @@ Demon Spawn Skin::221014001
 Demonic Wheel::221004023
 Dented Armor Plate::221008125
 Destroyed Robe::221005022
+Destroyer Heart::221004244
 Destruction Stick::221008038
 Detection Sensor::221004111
 Determination Gloves::221005039
@@ -7067,12 +7096,16 @@ Dinosaur Humerus::221016002
 Dinosaur Rib::221016004
 Dinosaur Scapula::221016014
 Dinosaur Talon::221016050
+Dire Fish Peace Pearl::221009166
+Dirty White Wood::221017068
 Disappearing Stone::221007023
 Display Panel::221004115
 Distant Ache of Solitude::221009132
+Distant Future Peace::221009167
 Distorted Hoof::221016120
 Distorted Mixture::221011036
 Divine Cat's-eye::221009103
+Draconian Ore::221007130
 Dragon Scale::221014004
 Dragon Wing::221015003
 Drakeshell::221008225
@@ -7093,6 +7126,7 @@ Dull Fire Beast Fang::221016052
 Dull Glowing Gear::221004161
 Dull Horn::221016094
 Dull Shiny Gear::221004162
+Dull Strange Metal::221008261
 Durable Tendon::221014076
 Dusk Circuit Board::221004160
 Dustsweep Antenna::221005086
@@ -7102,6 +7136,12 @@ Earth Soba::221012076
 Earth Spirit Crystal::221009062
 Earth Wave Stone::221009052
 Earthenware Fragment::221007067
+Edax-Breaker Sledge::221008272
+Edaxian Bark::221012152
+Edaxian Branch::221012151
+Edaxian Calculator::221004254
+Edaxian Circuit::221004253
+Edaxian Hollow Rope::221005107
 Edible Mushroom::221012062
 Elastomer::221005006
 Electrical Device::221004003
@@ -7124,6 +7164,8 @@ Enigmagreen Crystal::221009125
 Enigmatic Circuit::221004120
 Enlarged Root::221012103
 Epicyclic Gear::221004104
+Error Code Part::221004247
+Eternal Burning Claw::221016190
 Eternal Voidbloom::221012138
 Ether Pelt::221014086
 Ever-Dead Tree Ring::221012087
@@ -7132,6 +7174,7 @@ Evil Iron Hide::221014093
 Evil Raging Horn::221016133
 Evil Spirit Mask::221008251
 Evil Steel Hide::221014094
+Exorcism Ore::221007129
 Exoskeleton::221004053
 Extermination Chip::221004040
 Eye Infrared Sensor::221004090
@@ -7143,10 +7186,12 @@ Fallen Beast Hair::221014097
 Fallen Beast Mane::221014098
 Fallen Fang::221016159
 Fallen Skull::221016160
+Fallen Soul's Lament::221004251
+Fallen Soul::221004245
 Fear Mask::221017031
 Feathery Skin::221014070
-Feep-sea Relic::221004221
 Fiber Cord::221005055
+Fierce Fish Peace Pearl::221009162
 Fierce Iron Frame::221008163
 Fine Crystal Chain::221005101
 Fine Crystal Mass::221008249
@@ -7168,6 +7213,9 @@ Fire Wave Stone::221009051
 Firedrake Garnet::221004204
 Firedrake Ruby::221004205
 Firm Dinosaur Horn::221016064
+Firm Fish Peace Pearl::221009159
+Fist's Dragon Bone::221016183
+Flare Part::221004246
 Flash Lens::221004097
 Flashing Glory Bud::221012137
 Flashing Liquid::221011072
@@ -7193,7 +7241,12 @@ Forest's Tail::221014095
 Forest's Wisdom::221009045
 Forgetful Powder::221013033
 Forgotten Mantle::221005053
+Forgotten Time Future::221009152
+Forgotten Time Past::221009150
+Forgotten Time Present::221009151
 Fossil Gear::221004183
+Fragile Glass Fiber::221005105
+Fragile Neon Wire::221004242
 Frayed Robe::221005012
 Frizzled Feathers::221015030
 Front Cover::221004019
@@ -7218,6 +7271,7 @@ Geo Metal Bolt::221008031
 Geo-Elastomer::221005029
 Ghost City Lamp::221004121
 Ghost Powder::221013039
+Ghost Sand::221013054
 Ghostly Impulse::221011018
 Ghostly Passion::221011015
 Ghostly Sigh::221011017
@@ -7277,6 +7331,7 @@ Grand Thorn::221016172
 Grass Fiber::221005065
 Grass of the Dark Ages::221012102
 Gravity Device::221004092
+Gray Coil::221005108
 Green Cell::221013010
 Green Core::221013021
 Green Extract::221011090
@@ -7298,6 +7353,7 @@ Gunpowder::221013005
 Gustdrake Emerald::221004209
 Gustdrake Peridot::221004208
 Hallow Tear::221011082
+Hammer's Dragon Bone::221016184
 Hard Lens::221004069
 Hard Plate::221017041
 Hard Sharp Cube::221016038
@@ -7307,12 +7363,15 @@ Hard Steel Gauntlets::221008064
 Hard Steel Spear::221008065
 Hard Synthetic Skeleton::221008106
 Hardened Giant Skin::221014008
+Hardened Singing Sand::221013055
 Hardened Skin Piece::221014025
 Hardy Feather Robe::221015028
 Hatred Circuit Board::221017030
 Hatred Core::221004043
+Haunted Hellish Figurine::221004240
 Haunted Powder::221013040
 Haunted Vestige::221011104
+Haunting Crystal::221009156
 Hazy Scarlet Jewel::221004230
 Heart Fragment::221007057
 Heat Jelly::221011013
@@ -7338,16 +7397,31 @@ Hierarchy of Time::221007030
 High Purity Oil::221011076
 High Speed Gear::221004096
 High Speed Sensor::221004072
+High-Quality Frame Piece::221008277
 Historical Sword Remnant::221008240
+Hollow Beast Fur::221005106
 Hollow Bright Core::221004148
+Hollow Burnt Part::221004249
+Hollow Disostean::221016194
+Hollow Dragon Scale::221014128
+Hollow Error Core::221004248
 Hollow Fragment::221004217
 Hollow Husk::221012111
+Hollow Needle::221008268
+Hollow Ore::221008269
 Hollow Relic::221004223
 Hollow Residue::221004218
 Hollow Stone Core::221004147
+Home and Now Pyroxene::221009145
+Home and Yet Pyroxene::221009146
+Home and Yore Pyroxene::221009144
+Horizon Cloud Beyond::221009149
+Horizon Cloud Origin::221009147
+Horizon Cloud Twilight::221009148
 Hot Dragonstone::221007091
 Hound Collar::221008074
 Hound Fang::221016085
+Howling Darkness Scale::221014125
 Howling Jewel::221004212
 Huge Fin::221014038
 Huge Helmet::221008084
@@ -7380,9 +7454,13 @@ Imitation Skeleton::221008100
 Improved Sensor::221004059
 Impure Oil::221011075
 Impure Sucker::221014085
+Incomplete Earthenware::221007133
 Infrared Sensor::221004039
 Inky Resin::221004131
 Inky Steel::221008140
+Intersecting Hour Ark::221009153
+Intersecting Hour Shard::221009155
+Intersecting Hour Torrent::221009154
 Iridescent Shell::221016156
 Iron Arm::221008001
 Iron Armor Fragment::221008007
@@ -7393,6 +7471,14 @@ Iron Bullet::221008019
 Iron Ingot::221008004
 Iron Plate::221017005
 Iron Shaft::221008002
+Iron Soul Craft: Ax::221007124
+Iron Soul Craft: Bow::221007126
+Iron Soul Craft: Fists::221007127
+Iron Soul Craft: Hammer::221007128
+Iron Soul Craft: Katana::221007123
+Iron Soul Craft: Lance::221007125
+Iron Soul Craft: Staff::221007121
+Iron Soul Craft: Sword::221007122
 Iron Spinal Cord::221014031
 Ironbone Powder::221016139
 Ironsand::221013023
@@ -7403,23 +7489,27 @@ Jet Black Trace::221014034
 Jet Black Wing::221015018
 Jeweled Turtleshell::221009078
 Johns Edge::221004145
+Judge's Death Needle::221008265
 Judgement Blade::221008153
 Judgement Knife::221008152
 Judgement Scrap::221008150
 Judgement Sliver::221008151
 Kaolinite::221008115
+Katana's Dragon Bone::221016179
 Keen Bone::221016069
 Keen Fillet::221014022
 Keen Rock::221007047
 Khad Leather::221014092
 Kindling::221012084
 King Coral Piece::221009121
+Kingly Remnant::221004252
 Kite Thread::221005060
 Kuksonia::221012035
 Kusanda Sensor::221004109
 L Purple Breastplate::221014017
 Lacerating Poison Nail::221008089
 Lacquered Charged Shell::221014082
+Lance's Dragon Bone::221016181
 Large Bee Wing::221015039
 Large Blue Ax Fragment::221008121
 Large Bug Mushroom::221012073
@@ -7488,6 +7578,14 @@ Magic Crystal Chunk::221008233
 Magic Crystal Shard::221008232
 Magic Lunar Stone::221007110
 Magic Spiral Stone Slab::221007086
+Magic Stone Fall Ax::221009139
+Magic Stone Fall Bow::221009141
+Magic Stone Fall Fists::221009142
+Magic Stone Fall Hammer::221009143
+Magic Stone Fall Katana::221009138
+Magic Stone Fall Lance::221009140
+Magic Stone Fall Staff::221009136
+Magic Stone Fall Sword::221009137
 Magma Jelly::221011041
 Magnet Core::221004117
 Magnetic Iron::221008202
@@ -7500,6 +7598,7 @@ Maple::221017023
 Marjoram Roots::221012023
 Marjoram Seed::221012022
 Marjoram::221012021
+Martial Fish Peace Pearl::221009165
 Master Chip::221004071
 Mech Sword Edge::221008096
 Mechanic Whale Heart::221004055
@@ -7593,6 +7692,7 @@ Oak::221017034
 Oceanforged Ore::221007107
 Ochre Seed::221012031
 Odd Moving Liquid::221011035
+Oddly Hard Edax Lumber::221017071
 Ogre Cleaver::221008080
 Ogre Gauntlets::221008081
 Ogre Hide::221014063
@@ -7624,6 +7724,7 @@ Oregano::221012009
 Orgamek Heartwood::221012113
 Orgamek Vine::221012112
 Oval Arm::221004052
+Pale Golden Paper Lantern::221017067
 Pale Honey::221011081
 Panther Lance::221016071
 Paralysis Plant::221012045
@@ -7661,6 +7762,7 @@ Poison Spores::221013012
 Poison Sting::221016057
 Poison::221011004
 Polluted Coral::221012093
+Polluted Slaughter Core::221004243
 Power Cable::221005056
 Power Source::221004008
 Power Spring::221004087
@@ -7734,6 +7836,8 @@ Red Shilling::221004010
 Red Skin::221012019
 Red Spot::221014033
 Red Steel Blade::221008023
+Red Tektite Clump::221004233
+Red Tektite Shard::221004232
 Red Wing::221015012
 Reddened Metal::221008148
 Rediron Blade::221008170
@@ -7753,8 +7857,8 @@ Resent Flame::221011060
 Resentful Jade::221008145
 Resin::221011065
 Rich Grass::221012117
-Right Scene Fragment::221008138
 Ripple Rock::221007060
+River Beast Scale::221014130
 Road Tube::221005033
 Robo Shell::221008045
 Robust Battleax::221007026
@@ -7781,10 +7885,12 @@ Ruby Medal::221008146
 Ruffled Orange Wing::221015058
 Rugged Armor::221017058
 Rumbling Hide::221014109
+Rumbling Horn::221016193
 Rush Booster::221004094
 Rushed Lunar Stone::221007115
 Rushing Jewel::221004211
 Rust Needle::221008193
+Rusty Antiquity Ore::221008267
 Rusty Cog::221004081
 Rusty Gear::221004082
 Rusty Halberd::221008094
@@ -7822,11 +7928,13 @@ Scarlet Shell::221016101
 Scarlet Skin::221014099
 Scattered Thorns::221016164
 Scope Part::221004027
+Scorched Hell Blade::221008263
 Scorched Soul::221008250
 Scrap Bundle::221008174
 Scrap Metal::221008102
 Scrap of the Tested::221005076
 Scream of Regret::221009087
+Screeching Claw::221016189
 Screw Bark::221017061
 Sea Glass::221009082
 Seabird Feather::221015022
@@ -7834,6 +7942,7 @@ Seadrake Scale::221008223
 Searchlight::221004032
 Searumble Ore::221007098
 Seaside Delight::221014118
+Shabby Beast Fur::221005104
 Shadow Powder::221013041
 Shadow Rubble::221007088
 Shadow Stone::221007061
@@ -7846,12 +7955,25 @@ Sharp Claw::221016012
 Sharp Dinosaur Claw::221016062
 Sharp Fire Beast Fang::221016060
 Sharp Fire Scale::221014056
+Sharp Fish Peace Pearl::221009163
 Sharp Horn::221016015
 Sharp Parts::221008162
 Sharp Twin Horns::221016096
 Sharp Wild Dino Claw::221016063
 Sheet Metal Armor Clasp::221008129
 Sheet Metal Armor Fitting::221008130
+Shift Blessed Light Grass::221012142
+Shift Clear Leaf::221012144
+Shift Dancing Grass::221012145
+Shift Decayed Crystal::221008260
+Shift Levistone::221004238
+Shift Metal::221008273
+Shift Moving Part::221008274
+Shift Oak::221017066
+Shift Rich Grass::221012143
+Shift Ripple Rock::221007132
+Shift Warped Giant Branch::221017070
+Shift Well-grown Moss::221012141
 Shimmering Dorsal Fin::221015037
 Shimmering Fruit::221012027
 Shimmering Mucus::221011071
@@ -7859,6 +7981,7 @@ Shining Blue Liquid::221011021
 Shining Fire Flower::221013032
 Shining Particles::221013022
 Shining Red Eye::221009041
+Shining Red Relic::221004250
 Shiny Dragon Fang::221016065
 Shiny Dragon Horn::221016056
 Shiny Dragon Scale::221014029
@@ -7885,11 +8008,13 @@ Silver Beast Fang::221016007
 Silver Bolt::221004063
 Silver Chip::221004057
 Silver Pelt::221014071
+Simple Neon::221004241
 Simple Outer Parts::221004201
 Singing Sand::221013026
 Sinister Crystal Core::221004224
 Sinister Luminous Body::221009025
 Sinister Suction Cup::221014083
+Skilled Fish Peace Pearl::221009161
 Skin-like Rock::221007038
 Sky Blue Wing::221015017
 Sky Eye::221009034
@@ -7909,6 +8034,7 @@ Small Dragon Fang::221016006
 Smashed Mandible::221016118
 Smashed Part::221004060
 Smokedrift Ornament::221004188
+Smokey Wrought Iron::221008255
 Smoking Gold Chain::221005091
 Smoking Gold Crystal::221009120
 Smoking Gold Ingot::221008176
@@ -7947,6 +8073,7 @@ Sparkling Beak::221016115
 Sparkling Gear::221004083
 Sparkly Gelatin::221011042
 Specter Tab::221017064
+Spectral Ball::221004231
 Speed Sensor::221004102
 Spider Shimeji::221012054
 Spider Thread::221005063
@@ -7958,6 +8085,7 @@ Spirit Tree Wood Piece::221017060
 Spirit of Bravery::221009129
 Spring Water::221011040
 Staff Cannon::221008088
+Staff's Dragon Bone::221016177
 Stagnant Core::221004157
 Stalwart Cursed Core::221004229
 Stanis Core::221004144
@@ -7973,6 +8101,7 @@ Steel Breastplate::221008062
 Steel Bullet::221008030
 Steel Conduit::221004100
 Steel Dog Tooth::221004091
+Steel Fish Peace Pearl::221009160
 Steel Fists::221008040
 Steel Gauntlets::221008060
 Steel Gear::221004046
@@ -7987,7 +8116,9 @@ Stone Blade Fragment::221007004
 Stone Surface Fragment::221007084
 Stone Tool Piece::221007063
 Stone-Like Skin::221007020
+Strange Demoniac Bone::221016192
 Strange Fire Coals::221011067
+Strange Melted Metal::221008270
 Strange Mucus::221011062
 Strange Mushroom::221012018
 Strange Stone Slab::221007085
@@ -8004,6 +8135,7 @@ Sturdy Medal::221008167
 Sturdy Spear::221008051
 Sturdy Star Ball::221008052
 Subspace Ore::221007109
+Subterranean Ore::221008266
 Suffering Tear::221011103
 Sulfocast::221007031
 Sulfur Crystal::221009069
@@ -8015,8 +8147,18 @@ Superefficient Ax MkII::221008227
 Superefficient Ax::221008226
 Superior Fillet::221014013
 Suppression Stick::221008036
+Swallowed Claw::221008258
+Swallowed Core::221008256
+Swallowed Fang::221016187
+Swallowed Hide::221014121
+Swallowed Leaf::221012149
+Swallowed Magic Stone::221004234
+Swallowed Tail::221014123
+Swallowed Tree::221017072
+Swallowed Water::221011106
 Swaying Ghost Wings::221015045
 Sword Remnant::221008236
+Sword's Dragon Bone::221016178
 Synth Eye Ball::221004049
 Synthetic Light Blade::221008107
 Synthetic Masumune::221008108
@@ -8057,6 +8199,7 @@ Time Passage Board::221017013
 Time-Floating Core::221004180
 Time-Shifted Parts::221005085
 Time-Slumbering Fruit::221012110
+Time-swallowing Crystal::221008264
 Timeshock-Resistant Gear::221004181
 Tiny Bug Wing::221015026
 Titanium Bolt::221008006
@@ -8068,6 +8211,8 @@ Toto Eye::221004103
 Toxic Claw::221016165
 Toxic Nozzle::221004176
 Tragic Lost Soul::221009128
+Transforming Gear::221008276
+Transforming Sheet Metal::221008275
 Transparent Drop::221011001
 Transparent Shell::221004130
 Tree Shoot::221012024
@@ -8105,6 +8250,7 @@ Underworld Hide::221014113
 Undying Blue Flame::221011020
 Unfaded Alloy Core::221004178
 Unfaded Alloy Frame::221016145
+Unfulfilled Deadtree::221017069
 Unscratched Armor Plate::221008126
 Unusual Antenna::221005003
 Unusual Eye::221009010
@@ -8121,6 +8267,10 @@ Vibrant Wing::221015059
 Violated Soul::221009044
 Vitrified Crystal Shard::221008234
 Vitrified Crystal::221008235
+Vivid Burnt Scale::221014126
+Void Veil Thunder Horn::221016195
+Void-Soaked Pebble::221007136
+Wailing Blade Shard::221008262
 Wailing Iron::221008156
 Walnut Branch::221017003
 Walnut::221012041
@@ -8130,6 +8280,7 @@ Warped Crystal Core::221004219
 Warped Frame::221008071
 Warped Giant Branch::221017050
 Warped Heart::221009026
+Warped Leather::221014129
 Warped Screw::221004084
 Warped Stone::221007050
 Warped Wisdom::221009046
@@ -8154,6 +8305,7 @@ Wave Stability Fiber::221005035
 Wavering Ghost Wings::221015044
 Wavering Time Thread::221005073
 Waving Dimension Thread::221005074
+Waxen Feather::221015063
 Waxing Lunar Stone::221007114
 Weathered Core::221004164
 Weathered Frame::221016144
@@ -8179,6 +8331,7 @@ White Wood::221017048
 Wide-Range Feeler::221005097
 Wild Beast Tail::221005002
 Wild Crystalbloom::221012129
+Wilted Crystal Flower::221012146
 Wind Crystal::221009004
 Wind Scale::221008221
 Wind Soba::221012077
@@ -8198,9 +8351,13 @@ Worn Antenna::221005023
 Worn Battleax::221017009
 Worn Belt::221005009
 Worn Breastplate::221017008
+Worn Floating Ore::221007134
 Worn Gauntlets::221017010
+Worn Ironsand::221013056
 Worn Spear::221017007
 Worn Stone Lantern::221007058
+Worn White Bone Dust::221013057
+Writhing Metal::221008271
 Yearning Light of Dawn::221009130
 Yellow Lens::221004001
 Yellow Nut::221012016
