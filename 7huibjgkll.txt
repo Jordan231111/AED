@@ -10469,3 +10469,155 @@ Silver Whetstone::209000208
 Solid Fuel::209000001
 Super Alloy Arm::209000108
 Super Alloy Drill::209000103
+
+
+
+
+Aether Alter::2136000006
+Alabaster Stone::2136000125
+All-Natural Oil::2136000203
+Ancient Beetle::2136000310
+Aperturdite::2136000145
+Aperture Berry::2136000441
+Aperture Carp::2136000282
+Aperture Fruit::2136000223
+Aperture Pike::2136000285
+Aperture Rose::2136000069
+Aperture Uni::2136000041
+Aperture Water::2136000002
+Aperture Wheat::2136000221
+Aperture Wood::2136000341
+Aqua Stone::2136000144
+Ashroom::2136000181
+Asphodelus::2136000086
+Atonement Fang::2136000383
+Azure Shimmer::2136000005
+Beastly Venom Pouch::2136000385
+Big Bone::2136000381
+Black Ashen Sand::2136000103
+Black Explosives::2136000186
+Blue Amanita::2136000264
+Blue Needle::2136000305
+Blue Slate::2136000123
+Blue Stellite::2136000501
+Broken Item::2136000422
+Broken Pendant::2136000508
+Burn Grass::2136000185
+Burned Leaf::2136000023
+Combustible Bark::2136000202
+Corinda Spirit Grass::2136000506
+Crispy Mushroom::2136000263
+Dainty Herb::2136000025
+Diamond Devil::2136000312
+Dry Woodchip::2136000184
+Electro Stone::2136000150
+Element Flora::2136000403
+Everlasting Flame::2136000182
+Extra-Creamy Milk::2136000504
+Fairy's Scraps::2136000401
+False Beech Shroom::2136000265
+Flaming Bolete::2136000261
+Flood Element::2136000003
+Fluffy Feathers::2136000514
+Flycatcher Grass::2136000068
+Fog Blossom::2136000063
+Forest Bonito::2136000284
+Forest Flaxseed::2136000205
+Fresh Dew::2136000001
+Fresh Meat::2136000222
+Giant Tree Branch::2136000348
+Giant Tree Vine::2136000323
+Giant Tree::2136000342
+Glow Moss::2136000022
+Glowing Powder::2136000502
+Gold Aperture Uni::2136000043
+Golden Shiitake::2136000266
+Great Felwort::2136000082
+Great Tree Drop::2136000004
+Guardian Core::2136000146
+Hard Fruit::2136000241
+Hard Logs::2136000346
+Hell Hound Hide::2136000510
+Holy Branch::2136000349
+Holy Crystal::2136000163
+Holy Fragment::2136000167
+Holy Leaf::2136000026
+Honey Sauce::2136000443
+Honey Tree Bark::2136000343
+Honey Tree Fruit::2136000242
+Hot Sand::2136000102
+Indigorium::2136000512
+Inferno Element::2136000183
+Inky Fruit::2136000083
+Interstellar::2136000152
+Ivory Ore::2136000142
+Large Reed::2136000024
+Lightning Element::2136000112
+Medicinal Moss::2136000029
+Mixed Stone::2136000162
+Moist Moss Stone::2136000122
+Molasses Ant::2136000304
+Monster Hide::2136000382
+Monster Scale::2136000148
+Mush Powder::2136000361
+Mythical Hide::2136000386
+Night Shard::2136000149
+Old Badge::2136000423
+Old Stone::2136000124
+Ominous Spirit::2136000402
+Paper Scrap::2136000201
+Pebble Fly::2136000303
+Poison Plant::2136000084
+Polluted Dirt::2136000204
+Pretty Fossil::2136000121
+Pretty Stick::2136000347
+Pure Forest Flower::2136000064
+Quality Iron Ore::2136000509
+Rainbow Seed::2136000243
+Red Peony::2136000061
+Red Star::2136000301
+Red Truffle::2136000262
+Regular Grass::2136000027
+Reservoir Master::2136000286
+Rock Salt Grass::2136000021
+Round Pillar::2136000126
+Rusty Sword::2136000421
+Sage's Last Gift::2136000503
+Salamander's Claw::2136000500
+Sandstone::2136000127
+Sapphire-fly::2136000306
+Scarlet Flower Bud::2136000062
+Scrap Metal::2136000141
+Shiny Bile::2136000085
+Shopmaniac Clam::2136000168
+Silver Aperture Uni::2136000042
+Slate::2136000129
+Slough::2136000384
+Smooth Sand::2136000110
+Soft Bud::2136000065
+Solid Breccia::2136000143
+Sparkling Sand::2136000111
+Spider Thread::2136000321
+Spiky Sandworm::2136000302
+Spirit Grass Foam::2136000362
+Stalactite Piece::2136000128
+Stinky Trash::2136000081
+Stony Blowfish::2136000281
+Sturdy Branch::2136000344
+Sturdy Vine::2136000322
+Sugarcane::2136000442
+Summer Princess::2136000066
+Sun Honeysuckle::2136000067
+Thundercrack Stone::2136000169
+Tinite::2136000511
+Torn Doll::2136000513
+Traveler's Grass::2136000028
+Unknown Ancient Fish::2136000283
+Unknown Gemstone::2136000161
+Warm Sand::2136000101
+Weathered Old Tree::2136000345
+Whirlwind Element::2136000363
+White Charcoal::2136000206
+White Feldspar::2136000151
+Wind Stone::2136000147
+Yellow Ghost::2136000311
