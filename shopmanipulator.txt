@@ -1,348 +1,684 @@
-Found value within range at address: 6F02F99CAC, Value: 2132000504, Initial Address: 6F423D4F40, Index: 1
-Found value within range at address: 6F02F980DC, Value: 2132000180, Initial Address: 6F423F97A0, Index: 2
-Found value within range at address: 6F02F99BBC, Value: 2132000512, Initial Address: 6F423F9B10, Index: 3
-Found value within range at address: 6F02F98E9C, Value: 2132000537, Initial Address: 6F423FAA30, Index: 4
-Found value within range at address: 6F02F96DCC, Value: 2132000035, Initial Address: 6F423FC450, Index: 5
-Found value within range at address: 6F02F999DC, Value: 2132000532, Initial Address: 6F423FD000, Index: 6
-Found value within range at address: 6F02F992AC, Value: 2132000238, Initial Address: 6F423FD370, Index: 7
-Found value within range at address: 6F02F9966C, Value: 2132000529, Initial Address: 6F423FD630, Index: 8
-Found value within range at address: 6F02F9ADDC, Value: 2132000539, Initial Address: 6F423FD790, Index: 9
-Found value within range at address: 6F02F994DC, Value: 2132000526, Initial Address: 6F423FD840, Index: 10
-Found value within range at address: 6F02F9943C, Value: 2132000244, Initial Address: 6F423FD9A0, Index: 11
-Found value within range at address: 6F02F995CC, Value: 2132000246, Initial Address: 6F423FDA50, Index: 12
-Found value within range at address: 6F02F971DC, Value: 2132000031, Initial Address: 6F423FDB00, Index: 13
-Found value within range at address: 6F02F9934C, Value: 2132000519, Initial Address: 6F423FDD10, Index: 14
-Found value within range at address: 6F02F99B1C, Value: 2132000252, Initial Address: 6F423FDDC0, Index: 15
-Found value within range at address: 6F02F9970C, Value: 2132000517, Initial Address: 6F423FDE70, Index: 16
-Found value within range at address: 6F02F990CC, Value: 2132000228, Initial Address: 6F423FDF20, Index: 17
-Found value within range at address: 6F02F998EC, Value: 2132000500, Initial Address: 6F423FE1E0, Index: 18
-Found value within range at address: 6F02F9925C, Value: 2132000536, Initial Address: 6F423FE290, Index: 19
-Found value within range at address: 6F02F993EC, Value: 2132000531, Initial Address: 6F423FE3F0, Index: 20
-Found value within range at address: 6F02F99DEC, Value: 2132000507, Initial Address: 6F423FE550, Index: 21
-Found value within range at address: 6F02F9A1AC, Value: 2132000538, Initial Address: 6F423FE600, Index: 22
-Found value within range at address: 6F02F98A3C, Value: 2132000214, Initial Address: 6F423FE6B0, Index: 23
-Found value within range at address: 6F02F9916C, Value: 2132000520, Initial Address: 6F423FE760, Index: 24
-Found value within range at address: 6F02F9939C, Value: 2132000521, Initial Address: 6F423FE810, Index: 25
-Found value within range at address: 6F02F99C0C, Value: 2132000533, Initial Address: 6F423FE8C0, Index: 26
-Found value within range at address: 6F02F96FFC, Value: 2132000053, Initial Address: 6F423FE970, Index: 27
-Found value within range at address: 6F02F98E4C, Value: 2132000516, Initial Address: 6F423FECE0, Index: 28
-Found value within range at address: 6F02F99D4C, Value: 2132000245, Initial Address: 6F423FEE40, Index: 29
-Found value within range at address: 6F02F9AB0C, Value: 2132000540, Initial Address: 6F423FEEF0, Index: 30
-Found value within range at address: 6F02F996BC, Value: 2132000523, Initial Address: 6F423FF1B0, Index: 31
-Found value within range at address: 6F02F99C5C, Value: 2132000535, Initial Address: 6F423FF260, Index: 32
-Found value within range at address: 6F02F99ACC, Value: 2132000240, Initial Address: 6F423FF3C0, Index: 33
-Found value within range at address: 6F02F9920C, Value: 2132000524, Initial Address: 6F423FF470, Index: 34
-Found value within range at address: 6F02F9957C, Value: 2132000513, Initial Address: 6F423FF520, Index: 35
-Found value within range at address: 6F02F98EEC, Value: 2132000518, Initial Address: 6F423FF680, Index: 36
-Found value within range at address: 6F02F99A2C, Value: 2132000530, Initial Address: 6F423FF730, Index: 37
-Found value within range at address: 6F02F9A51C, Value: 2132000546, Initial Address: 6F423FF7E0, Index: 38
-Found value within range at address: 6F02F997FC, Value: 2132000528, Initial Address: 6F423FF890, Index: 39
-Found value within range at address: 6F02F997AC, Value: 2132000525, Initial Address: 6F423FF940, Index: 40
-Found value within range at address: 6F02F9948C, Value: 2132000510, Initial Address: 6F423FF9F0, Index: 41
-Found value within range at address: 6F02F97EAC, Value: 2132000197, Initial Address: 6F423FFC00, Index: 42
-Found value within range at address: 6F02F981CC, Value: 2132000178, Initial Address: 6F423FFCB0, Index: 43
-Found value within range at address: 6F02F99A7C, Value: 2132000234, Initial Address: 6F423FFD60, Index: 44
-Found value within range at address: 6F02F9993C, Value: 2132000501, Initial Address: 6F423FFE10, Index: 45
-Found value within range at address: 6F02F98B7C, Value: 2132000222, Initial Address: 6F423FFF70, Index: 46
-Found value within range at address: 6F02F9876C, Value: 2132000192, Initial Address: 6F42400020, Index: 47
-Found value within range at address: 6F02F9812C, Value: 2132000204, Initial Address: 6F424000D0, Index: 48
-Found value within range at address: 6F02F99D9C, Value: 2132000232, Initial Address: 6F42400180, Index: 49
-Found value within range at address: 6F02F983AC, Value: 2132000162, Initial Address: 6F424002E0, Index: 50
-Found value within range at address: 6F02F9803C, Value: 2132000210, Initial Address: 6F42400390, Index: 51
-Found value within range at address: 6F02F9952C, Value: 2132000233, Initial Address: 6F42400440, Index: 52
-Found value within range at address: 6F02F987BC, Value: 2132000156, Initial Address: 6F424005A0, Index: 53
-Found value within range at address: 6F02F9844C, Value: 2132000221, Initial Address: 6F42400650, Index: 54
-Found value within range at address: 6F02F98ADC, Value: 2132000172, Initial Address: 6F42400700, Index: 55
-Found value within range at address: 6F02F984EC, Value: 2132000203, Initial Address: 6F42400910, Index: 56
-Found value within range at address: 6F02F983FC, Value: 2132000155, Initial Address: 6F424009C0, Index: 57
-Found value within range at address: 6F02F9A47C, Value: 2132000544, Initial Address: 6F42400B20, Index: 58
-Found value within range at address: 6F02F99E3C, Value: 2132000509, Initial Address: 6F42400C80, Index: 59
-Found value within range at address: 6F02F9911C, Value: 2132000515, Initial Address: 6F42400D30, Index: 60
-Found value within range at address: 6F02F9902C, Value: 2132000251, Initial Address: 6F42400DE0, Index: 61
-Found value within range at address: 6F02F9998C, Value: 2132000511, Initial Address: 6F42400F40, Index: 62
-Found value within range at address: 6F02F9849C, Value: 2132000202, Initial Address: 6F42400FF0, Index: 63
-Found value within range at address: 6F02F9A33C, Value: 2132000541, Initial Address: 6F42401150, Index: 64
-Found value within range at address: 6F02F9961C, Value: 2132000522, Initial Address: 6F42401200, Index: 65
-Found value within range at address: 6F02F9862C, Value: 2132000174, Initial Address: 6F424012B0, Index: 66
-Found value within range at address: 6F02F992FC, Value: 2132000250, Initial Address: 6F42401360, Index: 67
-Found value within range at address: 6F02F99B6C, Value: 2132000514, Initial Address: 6F42401410, Index: 68
-Found value within range at address: 6F02F98DAC, Value: 2132000185, Initial Address: 6F424014C0, Index: 69
-Found value within range at address: 6F02F9984C, Value: 2132000503, Initial Address: 6F42401570, Index: 70
-Found value within range at address: 6F02F9907C, Value: 2132000508, Initial Address: 6F42401620, Index: 71
-Found value within range at address: 6F02F97E0C, Value: 2132000220, Initial Address: 6F424016D0, Index: 72
-Found value within range at address: 6F02F9853C, Value: 2132000148, Initial Address: 6F42401780, Index: 73
-Found value within range at address: 6F02F98F8C, Value: 2132000502, Initial Address: 6F42401830, Index: 74
-Found value within range at address: 6F02F9975C, Value: 2132000505, Initial Address: 6F424018E0, Index: 75
-Found value within range at address: 6F02F99CFC, Value: 2132000527, Initial Address: 6F42401990, Index: 76
-Found value within range at address: 6F02F9867C, Value: 2132000126, Initial Address: 6F42401A40, Index: 77
-Found value within range at address: 6F02F98C6C, Value: 2132000196, Initial Address: 6F42401AF0, Index: 78
-Found value within range at address: 6F02F991BC, Value: 2132000239, Initial Address: 6F42401BA0, Index: 79
-Found value within range at address: 6F02F98F3C, Value: 2132000506, Initial Address: 6F42401C50, Index: 80
-Found value within range at address: 6F02F98BCC, Value: 2132000191, Initial Address: 6F42401D00, Index: 81
-Found value within range at address: 6F02F9858C, Value: 2132000179, Initial Address: 6F42401DB0, Index: 82
-Found value within range at address: 6F02F97FEC, Value: 2132000186, Initial Address: 6F42401E60, Index: 83
-Found value within range at address: 6F02F979FC, Value: 2132000040, Initial Address: 6F42401FC0, Index: 84
-Found value within range at address: 6F02F9722C, Value: 2132000120, Initial Address: 6F42402070, Index: 85
-Found value within range at address: 6F02F96E1C, Value: 2132000038, Initial Address: 6F424021D0, Index: 86
-Found value within range at address: 6F02F96EBC, Value: 2132000037, Initial Address: 6F42402280, Index: 87
-Found value within range at address: 6F02F9894C, Value: 2132000166, Initial Address: 6F42402330, Index: 88
-Found value within range at address: 6F02F97A4C, Value: 2132000112, Initial Address: 6F424023E0, Index: 89
-Found value within range at address: 6F02F977CC, Value: 2132000101, Initial Address: 6F42402490, Index: 90
-Found value within range at address: 6F02F982BC, Value: 2132000125, Initial Address: 6F424025F0, Index: 91
-Found value within range at address: 6F02F9989C, Value: 2132000227, Initial Address: 6F424026A0, Index: 92
-Found value within range at address: 6F02F97B8C, Value: 2132000052, Initial Address: 6F424028B0, Index: 93
-Found value within range at address: 6F02F9754C, Value: 2132000119, Initial Address: 6F42402960, Index: 94
-Found value within range at address: 6F02F98CBC, Value: 2132000167, Initial Address: 6F42402A10, Index: 95
-Found value within range at address: 6F02F986CC, Value: 2132000215, Initial Address: 6F42402AC0, Index: 96
-Found value within range at address: 6F02F9646C, Value: 2132000005, Initial Address: 6F42402B70, Index: 97
-Found value within range at address: 6F02F9835C, Value: 2132000168, Initial Address: 6F42402C20, Index: 98
-Found value within range at address: 6F02F9772C, Value: 2132000044, Initial Address: 6F42402CD0, Index: 99
-Found value within range at address: 6F02F9821C, Value: 2132000190, Initial Address: 6F42402D80, Index: 100
-Found value within range at address: 6F02F985DC, Value: 2132000136, Initial Address: 6F42402F90, Index: 101
-Found value within range at address: 6F02F9830C, Value: 2132000150, Initial Address: 6F424030F0, Index: 102
-Found value within range at address: 6F02F9777C, Value: 2132000107, Initial Address: 6F424031A0, Index: 103
-Found value within range at address: 6F02F9817C, Value: 2132000226, Initial Address: 6F42403300, Index: 104
-Found value within range at address: 6F02F9A6AC, Value: 2132000543, Initial Address: 6F42403460, Index: 105
-Found value within range at address: 6F02F9687C, Value: 2132000004, Initial Address: 6F42403510, Index: 106
-Found value within range at address: 6F02F98A8C, Value: 2132000130, Initial Address: 6F424035C0, Index: 107
-Found value within range at address: 6F02F97BDC, Value: 2132000036, Initial Address: 6F42403670, Index: 108
-Found value within range at address: 6F02F96F5C, Value: 2132000019, Initial Address: 6F42403720, Index: 109
-Found value within range at address: 6F02F989EC, Value: 2132000144, Initial Address: 6F424037D0, Index: 110
-Found value within range at address: 6F02F9713C, Value: 2132000113, Initial Address: 6F42403930, Index: 111
-Found value within range at address: 6F02F9826C, Value: 2132000142, Initial Address: 6F42403B40, Index: 112
-Found value within range at address: 6F02F97EFC, Value: 2132000208, Initial Address: 6F42403BF0, Index: 113
-Found value within range at address: 6F02F9768C, Value: 2132000106, Initial Address: 6F42403D50, Index: 114
-Found value within range at address: 6F02F99FCC, Value: 2132000547, Initial Address: 6F42403EB0, Index: 115
-Found value within range at address: 6F02F98B2C, Value: 2132000209, Initial Address: 6F42403F60, Index: 116
-Found value within range at address: 6F02F9885C, Value: 2132000143, Initial Address: 6F42404010, Index: 117
-Found value within range at address: 6F02F9740C, Value: 2132000048, Initial Address: 6F424040C0, Index: 118
-Found value within range at address: 6F02F9786C, Value: 2132000043, Initial Address: 6F42404170, Index: 119
-Found value within range at address: 6F02F97F4C, Value: 2132000124, Initial Address: 6F42404220, Index: 120
-Found value within range at address: 6F02F9709C, Value: 2132000032, Initial Address: 6F424042D0, Index: 121
-Found value within range at address: 6F02F9718C, Value: 2132000108, Initial Address: 6F42404380, Index: 122
-Found value within range at address: 6F02F972CC, Value: 2132000026, Initial Address: 6F42404430, Index: 123
-Found value within range at address: 6F02F9727C, Value: 2132000118, Initial Address: 6F424044E0, Index: 124
-Found value within range at address: 6F02F97F9C, Value: 2132000132, Initial Address: 6F42404590, Index: 125
-Found value within range at address: 6F02F9781C, Value: 2132000045, Initial Address: 6F42404640, Index: 126
-Found value within range at address: 6F02F9600C, Value: 2132000001, Initial Address: 6F42404850, Index: 127
-Found value within range at address: 6F02F96D2C, Value: 2132000008, Initial Address: 6F42404900, Index: 128
-Found value within range at address: 6F02F97B3C, Value: 2132000034, Initial Address: 6F424049B0, Index: 129
-Found value within range at address: 6F02F96FAC, Value: 2132000017, Initial Address: 6F42404A60, Index: 130
-Found value within range at address: 6F02F97D6C, Value: 2132000100, Initial Address: 6F42404B10, Index: 131
-Found value within range at address: 6F02F97CCC, Value: 2132000114, Initial Address: 6F42404BC0, Index: 132
-Found value within range at address: 6F02F974FC, Value: 2132000102, Initial Address: 6F42404C70, Index: 133
-Found value within range at address: 6F02F97C7C, Value: 2132000009, Initial Address: 6F42404E80, Index: 134
-Found value within range at address: 6F02F96E6C, Value: 2132000020, Initial Address: 6F42404FE0, Index: 135
-Found value within range at address: 6F02F970EC, Value: 2132000018, Initial Address: 6F42405140, Index: 136
-Found value within range at address: 6F02F9880C, Value: 2132000173, Initial Address: 6F424051F0, Index: 137
-Found value within range at address: 6F02F97DBC, Value: 2132000021, Initial Address: 6F42405350, Index: 138
-Found value within range at address: 6F02F97E5C, Value: 2132000154, Initial Address: 6F42405400, Index: 139
-Found value within range at address: 6F02F97D1C, Value: 2132000011, Initial Address: 6F424054B0, Index: 140
-Found value within range at address: 6F02F97AEC, Value: 2132000039, Initial Address: 6F42405560, Index: 141
-Found value within range at address: 6F02F9736C, Value: 2132000010, Initial Address: 6F424056C0, Index: 142
-Found value within range at address: 6F02F96F0C, Value: 2132000015, Initial Address: 6F42405820, Index: 143
-Found value within range at address: 6F02F978BC, Value: 2132000047, Initial Address: 6F42405A30, Index: 144
-Found value within range at address: 6F02F9623C, Value: 2132000002, Initial Address: 6F42405AE0, Index: 145
-Found value within range at address: 6F02F98D5C, Value: 2132000138, Initial Address: 6F42405B90, Index: 146
-Found value within range at address: 6F02F988AC, Value: 2132000137, Initial Address: 6F42405C40, Index: 147
-Found value within range at address: 6F02F9795C, Value: 2132000012, Initial Address: 6F42405CF0, Index: 148
-Found value within range at address: 6F02F9704C, Value: 2132000025, Initial Address: 6F42405F00, Index: 149
-Found value within range at address: 6F02F979AC, Value: 2132000041, Initial Address: 6F42405FB0, Index: 150
-Found value within range at address: 6F02F9759C, Value: 2132000050, Initial Address: 6F42406060, Index: 151
-Found value within range at address: 6F02F988FC, Value: 2132000184, Initial Address: 6F42406110, Index: 152
-Found value within range at address: 6F02F95F6C, Value: 2132000003, Initial Address: 6F424063D0, Index: 153
-Found value within range at address: 6F02F976DC, Value: 2132000023, Initial Address: 6F42406480, Index: 154
-Found value within range at address: 6F02F9745C, Value: 2132000042, Initial Address: 6F424065E0, Index: 155
-Found value within range at address: 6F02F9899C, Value: 2132000149, Initial Address: 6F42406690, Index: 156
-Found value within range at address: 6F02F9808C, Value: 2132000216, Initial Address: 6F42406C10, Index: 157
-Found value within range at address: 6F02F97A9C, Value: 2132000051, Initial Address: 6F42406D70, Index: 158
-Found value within range at address: 6F02F9763C, Value: 2132000016, Initial Address: 6F42406F80, Index: 159
-Found value within range at address: 6F02F9A7EC, Value: 2132000542, Initial Address: 6F42407190, Index: 160
-Found value within range at address: 6F02F97C2C, Value: 2132000046, Initial Address: 6F42407A80, Index: 161
-Found value within range at address: 6F02F9871C, Value: 2132000131, Initial Address: 6F42407B30, Index: 162
-Found value within range at address: 6F02F973BC, Value: 2132000022, Initial Address: 6F42407F50, Index: 163
-Found value within range at address: 6F02F975EC, Value: 2132000030, Initial Address: 6F42408210, Index: 164
-Found value within range at address: 6F02F9731C, Value: 2132000033, Initial Address: 6F424084D0, Index: 165
-Found value within range at address: 6F02F965AC, Value: 2132000006, Initial Address: 6F42408630, Index: 166
-Found value within range at address: 6F02F9A97C, Value: 2132000545, Initial Address: 6F42409CE0, Index: 167
-Found value within range at address: 6F02F98C1C, Value: 2132000198, Initial Address: 6F4240A730, Index: 168
-Found value within range at address: 6F02F9664C, Value: 2132000007, Initial Address: 6F4240A890, Index: 169
-Found value within range at address: 6F02F9790C, Value: 2132000049, Initial Address: 6F4240AC00, Index: 170
-Found value within range at address: 6F02F98DFC, Value: 2132000161, Initial Address: 6F4240B230, Index: 171
-Found value within range at address: 6F02F98D0C, Value: 2132000160, Initial Address: 6F4240C570, Index: 172
-Found value within range at address: 6F02F974AC, Value: 2132000024, Initial Address: 6F42410E50, Index: 173
-Found value within range at address: 6F02F98FDC, Value: 2132000534, Initial Address: 6F42412240, Index: 174
-Word: Iridescent Crystal            ||             Index 1 at address 6F423D4F40 Value: 0
-Word: Rainbow Mystal III            ||             Index 2 at address 6F423F97A0 Value: 0
-Word: Gourmet Flour            ||             Index 3 at address 6F423F9B10 Value: 0
-Word: Cloudy Crystal            ||             Index 4 at address 6F423FAA30 Value: 0
-Word: Bug Net            ||             Index 5 at address 6F423FC450 Value: 0
-Word: Luxurious Cream            ||             Index 6 at address 6F423FD000 Value: 0
-Word: Aperture Sugar            ||             Index 7 at address 6F423FD370 Value: 0
-Word: Conductive Sheet            ||             Index 8 at address 6F423FD630 Value: 0
-Word: Cute Doll            ||             Index 9 at address 6F423FD790 Value: 0
-Word: Heat-Resistant Bucket            ||             Index 10 at address 6F423FD840 Value: 0
-Word: Floral Nectar            ||             Index 11 at address 6F423FD9A0 Value: 0
-Word: Fine Floral Nectar            ||             Index 12 at address 6F423FDA50 Value: 0
-Word: Bug Net            ||             Index 13 at address 6F423FDB00 Value: 0
-Word: Odd Elixir            ||             Index 14 at address 6F423FDD10 Value: 0
-Word: Scorching Stone III            ||             Index 15 at address 6F423FDDC0 Value: 0
-Word: Fallen Temptation            ||             Index 16 at address 6F423FDE70 Value: 0
-Word: Fine Building Boards            ||             Index 17 at address 6F423FDF20 Value: 0
-Word: Tears of Aperture            ||             Index 18 at address 6F423FE1E0 Value: 0
-Word: Cloudy Crystal            ||             Index 19 at address 6F423FE290 Value: 0
-Word: Luxurious Cream            ||             Index 20 at address 6F423FE3F0 Value: 0
-Word: Elixir of Aperture            ||             Index 21 at address 6F423FE550 Value: 0
-Word: Cloudy Crystal            ||             Index 22 at address 6F423FE600 Value: 0
-Word: Misty Velour            ||             Index 23 at address 6F423FE6B0 Value: 0
-Word: Odd Elixir            ||             Index 24 at address 6F423FE760 Value: 0
-Word: Karna's Pendant            ||             Index 25 at address 6F423FE810 Value: 0
-Word: Plain Tart            ||             Index 26 at address 6F423FE8C0 Value: 0
-Word: Wind Shoes II            ||             Index 27 at address 6F423FE970 Value: 0
-Word: Fallen Temptation            ||             Index 28 at address 6F423FECE0 Value: 0
-Word: Refined Floral Nectar            ||             Index 29 at address 6F423FEE40 Value: 0
-Word: Cute Doll            ||             Index 30 at address 6F423FEEF0 Value: 0
-Word: Karna's Pendant            ||             Index 31 at address 6F423FF1B0 Value: 0
-Word: Plain Tart            ||             Index 32 at address 6F423FF260 Value: 0
-Word: Fine Aperture Sugar            ||             Index 33 at address 6F423FF3C0 Value: 0
-Word: Heat-Resistant Bucket            ||             Index 34 at address 6F423FF470 Value: 0
-Word: Gourmet Flour            ||             Index 35 at address 6F423FF520 Value: 0
-Word: Odd Elixir            ||             Index 36 at address 6F423FF680 Value: 0
-Word: Luxurious Cream            ||             Index 37 at address 6F423FF730 Value: 0
-Word: Plain Biscuit            ||             Index 38 at address 6F423FF7E0 Value: 0
-Word: Conductive Sheet            ||             Index 39 at address 6F423FF890 Value: 0
-Word: Heat-Resistant Bucket            ||             Index 40 at address 6F423FF940 Value: 0
-Word: Sage's Stone            ||             Index 41 at address 6F423FF9F0 Value: 0
-Word: Ingot II            ||             Index 42 at address 6F423FFC00 Value: 0
-Word: Rainbow Mystal            ||             Index 43 at address 6F423FFCB0 Value: 0
-Word: Fine Fragrant Wood            ||             Index 44 at address 6F423FFD60 Value: 0
-Word: Tears of Aperture            ||             Index 45 at address 6F423FFE10 Value: 0
-Word: Wild Leather III            ||             Index 46 at address 6F423FFF70 Value: 0
-Word: Misty Diamond III            ||             Index 47 at address 6F42400020 Value: 0
-Word: Mistinite III            ||             Index 48 at address 6F424000D0 Value: 0
-Word: Fragrant Wood            ||             Index 49 at address 6F42400180 Value: 0
-Word: Fine Sticky Bait            ||             Index 50 at address 6F424002E0 Value: 0
-Word: Aperturium III            ||             Index 51 at address 6F42400390 Value: 0
-Word: Refined Fragrant Wood            ||             Index 52 at address 6F42400440 Value: 0
-Word: Finest Y. Supplement            ||             Index 53 at address 6F424005A0 Value: 0
-Word: Wild Leather II            ||             Index 54 at address 6F42400650 Value: 0
-Word: Polish Powder            ||             Index 55 at address 6F42400700 Value: 0
-Word: Mistinite II            ||             Index 56 at address 6F42400910 Value: 0
-Word: Refined Y. Supplement            ||             Index 57 at address 6F424009C0 Value: 0
-Word: Princess of Darkness Tart            ||             Index 58 at address 6F42400B20 Value: 0
-Word: Sage's Stone            ||             Index 59 at address 6F42400C80 Value: 0
-Word: Fallen Temptation            ||             Index 60 at address 6F42400D30 Value: 0
-Word: Scorching Stone II            ||             Index 61 at address 6F42400DE0 Value: 0
-Word: Sage's Stone            ||             Index 62 at address 6F42400F40 Value: 0
-Word: Mistinite            ||             Index 63 at address 6F42400FF0 Value: 0
-Word: Cute Doll            ||             Index 64 at address 6F42401150 Value: 0
-Word: Karna's Pendant            ||             Index 65 at address 6F42401200 Value: 0
-Word: Fine Polish Powder            ||             Index 66 at address 6F424012B0 Value: 0
-Word: Scorching Stone            ||             Index 67 at address 6F42401360 Value: 0
-Word: Gourmet Flour            ||             Index 68 at address 6F42401410 Value: 0
-Word: Gaia Pearl II            ||             Index 69 at address 6F424014C0 Value: 0
-Word: Iridescent Crystal            ||             Index 70 at address 6F42401570 Value: 0
-Word: Elixir of Aperture            ||             Index 71 at address 6F42401620 Value: 0
-Word: Wild Leather            ||             Index 72 at address 6F424016D0 Value: 0
-Word: Green Supplement            ||             Index 73 at address 6F42401780 Value: 0
-Word: Tears of Aperture            ||             Index 74 at address 6F42401830 Value: 0
-Word: Iridescent Crystal            ||             Index 75 at address 6F424018E0 Value: 0
-Word: Conductive Sheet            ||             Index 76 at address 6F42401990 Value: 0
-Word: Mystic Flow            ||             Index 77 at address 6F42401A40 Value: 0
-Word: Ingot            ||             Index 78 at address 6F42401AF0 Value: 0
-Word: Refined Aperture Sugar            ||             Index 79 at address 6F42401BA0 Value: 0
-Word: Elixir of Aperture            ||             Index 80 at address 6F42401C50 Value: 0
-Word: Misty Diamond II            ||             Index 81 at address 6F42401D00 Value: 0
-Word: Rainbow Mystal II            ||             Index 82 at address 6F42401DB0 Value: 0
-Word: Gaia Pearl III            ||             Index 83 at address 6F42401E60 Value: 0
-Word: Fishing Rod            ||             Index 84 at address 6F42401FC0 Value: 0
-Word: Spirit Song            ||             Index 85 at address 6F42402070 Value: 0
-Word: Bug Net            ||             Index 86 at address 6F424021D0 Value: 0
-Word: Bug Net            ||             Index 87 at address 6F42402280 Value: 0
-Word: Synth Fiber            ||             Index 88 at address 6F42402330 Value: 0
-Word: Flour            ||             Index 89 at address 6F424023E0 Value: 0
-Word: Taboo Drip            ||             Index 90 at address 6F42402490 Value: 0
-Word: Mystic Ripple            ||             Index 91 at address 6F424025F0 Value: 0
-Word: Refined Building Boards            ||             Index 92 at address 6F424026A0 Value: 0
-Word: Wind Shoes II            ||             Index 93 at address 6F424028B0 Value: 0
-Word: Spirit Whisper            ||             Index 94 at address 6F42402960 Value: 0
-Word: Refined Synth Fiber            ||             Index 95 at address 6F42402A10 Value: 0
-Word: Misty Velour II            ||             Index 96 at address 6F42402AC0 Value: 0
-Word: Reaper's Scythe            ||             Index 97 at address 6F42402B70 Value: 0
-Word: Fine Synth Fiber            ||             Index 98 at address 6F42402C20 Value: 0
-Word: Fishing Rod            ||             Index 99 at address 6F42402CD0 Value: 0
-Word: Misty Diamond            ||             Index 100 at address 6F42402D80 Value: 0
-Word: Red Supplement            ||             Index 101 at address 6F42402F90 Value: 0
-Word: Finest G. Supplement            ||             Index 102 at address 6F424030F0 Value: 0
-Word: Holy Drip            ||             Index 103 at address 6F424031A0 Value: 0
-Word: Building Boards            ||             Index 104 at address 6F42403300 Value: 0
-Word: Princess of Darkness Tart            ||             Index 105 at address 6F42403460 Value: 0
-Word: Reaper's Scythe            ||             Index 106 at address 6F42403510 Value: 0
-Word: Light of Aperture            ||             Index 107 at address 6F424035C0 Value: 0
-Word: Bug Net            ||             Index 108 at address 6F42403670 Value: 0
-Word: Hammer            ||             Index 109 at address 6F42403720 Value: 0
-Word: Finest B. Supplement            ||             Index 110 at address 6F424037D0 Value: 0
-Word: Refined Flour            ||             Index 111 at address 6F42403930 Value: 0
-Word: Blue Supplement            ||             Index 112 at address 6F42403B40 Value: 0
-Word: Aperturium            ||             Index 113 at address 6F42403BF0 Value: 0
-Word: Holy Pellet            ||             Index 114 at address 6F42403D50 Value: 0
-Word: Plain Biscuit            ||             Index 115 at address 6F42403EB0 Value: 0
-Word: Aperturium II            ||             Index 116 at address 6F42403F60 Value: 0
-Word: Refined B. Supplement            ||             Index 117 at address 6F42404010 Value: 0
-Word: Exploration Shoes            ||             Index 118 at address 6F424040C0 Value: 0
-Word: Fishing Rod            ||             Index 119 at address 6F42404170 Value: 0
-Word: Mystic Droplet            ||             Index 120 at address 6F42404220 Value: 0
-Word: Bug Net            ||             Index 121 at address 6F424042D0 Value: 0
-Word: Holy Haze            ||             Index 122 at address 6F42404380 Value: 0
-Word: Bomb Hammer II            ||             Index 123 at address 6F42404430 Value: 0
-Word: Spirit Sigh            ||             Index 124 at address 6F424044E0 Value: 0
-Word: Spark of Aperture            ||             Index 125 at address 6F42404590 Value: 0
-Word: Fishing Rod            ||             Index 126 at address 6F42404640 Value: 0
-Word: Reaper's Scythe            ||             Index 127 at address 6F42404850 Value: 0
-Word: Scythe Axe            ||             Index 128 at address 6F42404900 Value: 0
-Word: Bug Net            ||             Index 129 at address 6F424049B0 Value: 0
-Word: Hammer            ||             Index 130 at address 6F42404A60 Value: 0
-Word: Taboo Pellet            ||             Index 131 at address 6F42404B10 Value: 0
-Word: Fine Flour            ||             Index 132 at address 6F42404BC0 Value: 0
-Word: Taboo Haze            ||             Index 133 at address 6F42404C70 Value: 0
-Word: Scythe Axe            ||             Index 134 at address 6F42404E80 Value: 0
-Word: Hammer            ||             Index 135 at address 6F42404FE0 Value: 0
-Word: Hammer            ||             Index 136 at address 6F42405140 Value: 0
-Word: Refined Polish Powder            ||             Index 137 at address 6F424051F0 Value: 0
-Word: Bomb Hammer II            ||             Index 138 at address 6F42405350 Value: 0
-Word: Yellow Supplement            ||             Index 139 at address 6F42405400 Value: 0
-Word: Scythe Axe            ||             Index 140 at address 6F424054B0 Value: 0
-Word: Fishing Rod            ||             Index 141 at address 6F42405560 Value: 0
-Word: Scythe Axe            ||             Index 142 at address 6F424056C0 Value: 0
-Word: Hammer            ||             Index 143 at address 6F42405820 Value: 0
-Word: Fishing Rod            ||             Index 144 at address 6F42405A30 Value: 0
-Word: Reaper's Scythe            ||             Index 145 at address 6F42405AE0 Value: 0
-Word: Finest R. Supplement            ||             Index 146 at address 6F42405B90 Value: 0
-Word: Refined R. Supplement            ||             Index 147 at address 6F42405C40 Value: 0
-Word: Scythe Axe            ||             Index 148 at address 6F42405CF0 Value: 0
-Word: Bomb Hammer II            ||             Index 149 at address 6F42405F00 Value: 0
-Word: Fishing Rod            ||             Index 150 at address 6F42405FB0 Value: 0
-Word: Exploration Shoes            ||             Index 151 at address 6F42406060 Value: 0
-Word: Gaia Pearl            ||             Index 152 at address 6F42406110 Value: 0
-Word: Reaper's Scythe            ||             Index 153 at address 6F424063D0 Value: 0
-Word: Bomb Hammer II            ||             Index 154 at address 6F42406480 Value: 0
-Word: Fishing Rod            ||             Index 155 at address 6F424065E0 Value: 0
-Word: Refined G. Supplement            ||             Index 156 at address 6F42406690 Value: 0
-Word: Misty Velour III            ||             Index 157 at address 6F42406C10 Value: 0
-Word: Wind Shoes II            ||             Index 158 at address 6F42406D70 Value: 0
-Word: Hammer            ||             Index 159 at address 6F42406F80 Value: 0
-Word: Princess of Darkness Tart            ||             Index 160 at address 6F42407190 Value: 0
-Word: Fishing Rod            ||             Index 161 at address 6F42407A80 Value: 0
-Word: Dawn of Aperture            ||             Index 162 at address 6F42407B30 Value: 0
-Word: Bomb Hammer II            ||             Index 163 at address 6F42407F50 Value: 0
-Word: Bug Net            ||             Index 164 at address 6F42408210 Value: 0
-Word: Bug Net            ||             Index 165 at address 6F424084D0 Value: 0
-Word: Reaper's Scythe            ||             Index 166 at address 6F42408630 Value: 0
-Word: Plain Biscuit            ||             Index 167 at address 6F42409CE0 Value: 0
-Word: Ingot III            ||             Index 168 at address 6F4240A730 Value: 0
-Word: Scythe Axe            ||             Index 169 at address 6F4240A890 Value: 0
-Word: Exploration Shoes            ||             Index 170 at address 6F4240AC00 Value: 0
-Word: Refined Sticky Bait            ||             Index 171 at address 6F4240B230 Value: 0
-Word: Sticky Bait            ||             Index 172 at address 6F4240C570 Value: 0
-Word: Bomb Hammer II            ||             Index 173 at address 6F42410E50 Value: 0
-Word: Plain Tart            ||             Index 174 at address 6F42412240 Value: 0
+Word: Archaeologist Star Trail Drop            ||             Index 1 at address 6E01D805A0 Value: 0
+Word: Whisper of Time            ||             Index 2 at address 6E01D80700 Value: 0
+Word: ★5確定出逢いチケット            ||             Index 3 at address 6E01D80A70 Value: 0
+Word: 星跡のしずく・サクヤビメ            ||             Index 4 at address 6E01D82960 Value: 0
+Word: 星跡のしずく・サクヤビメ            ||             Index 5 at address 6E01D83880 Value: 0
+Word: 時の囁きのひとひら            ||             Index 6 at address 6E01D84590 Value: 0
+Word: 時の囁きのひとひら            ||             Index 7 at address 6E01D849B0 Value: 0
+Word: Verdanta Star Trail Drop            ||             Index 8 at address 6E01D84D20 Value: 0
+Word: Verdanta Star Trail Drop            ||             Index 9 at address 6E01D85090 Value: 0
+Word: Unut Star Trail Drop            ||             Index 10 at address 6E01D85FB0 Value: 0
+Word: Nina Star Trail Drop            ||             Index 11 at address 6E01D86740 Value: 0
+Word: Whisper of Time            ||             Index 12 at address 6E01D86AB0 Value: 0
+Word: Star Dreams Piece            ||             Index 13 at address 6E01D86B60 Value: 0
+Word: 5-Star Guaranteed Ticket            ||             Index 14 at address 6E01D86D70 Value: 0
+Word: Étoile Star Trail Drop            ||             Index 15 at address 6E01D86ED0 Value: 0
+Word: Whisper of Time Drop            ||             Index 16 at address 6E01D870E0 Value: 0
+Word: Dionysus Star Trail Drop            ||             Index 17 at address 6E01D87190 Value: 0
+Word: 8th Anniv. C-down Star Trail Drop            ||             Index 18 at address 6E01D87240 Value: 0
+Word: Encounter Ewan            ||             Index 19 at address 6E01D873A0 Value: 0
+Word: Catch-Up Campaign Special Ticket            ||             Index 20 at address 6E01D87450 Value: 0
+Word: 5-Star Guar. Ticket            ||             Index 21 at address 6E01D875B0 Value: 0
+Word: Chapter 13 CP Ticket            ||             Index 22 at address 6E01D879D0 Value: 0
+Word: Lone Encounter Ticket            ||             Index 23 at address 6E01D87A80 Value: 0
+Word: Destiny Token            ||             Index 24 at address 6E01D87F50 Value: 0
+Word: Encounter Hismena            ||             Index 25 at address 6E01D880B0 Value: 0
+Word: Part 3 Guiding Drop            ||             Index 26 at address 6E01D88630 Value: 0
+Word: Encounter Rosetta            ||             Index 27 at address 6E01D88E70 Value: 0
+Word: Whisper of Time            ||             Index 28 at address 6E01D88F20 Value: 0
+Word: Star Dreams Piece            ||             Index 29 at address 6E01D89130 Value: 0
+Word: Naivete Star Trail Drop            ||             Index 30 at address 6E01D891E0 Value: 0
+Word: Okuninushi Star Trail Drop            ||             Index 31 at address 6E01D89290 Value: 0
+Word: Destiny Token            ||             Index 32 at address 6E01D89340 Value: 0
+Word: Clughorn Star Trail Drop            ||             Index 33 at address 6E01D893F0 Value: 0
+Word: Whisper of Time Drop            ||             Index 34 at address 6E01D894A0 Value: 0
+Word: Whisper of Time            ||             Index 35 at address 6E01D89550 Value: 0
+Word: Ame-no-Uzume Star Trail Drop            ||             Index 36 at address 6E01D89600 Value: 0
+Word: Guiding Star Drop            ||             Index 37 at address 6E01D896B0 Value: 0
+Word: Whisper of Time Token            ||             Index 38 at address 6E01D89760 Value: 0
+Word: Sweet Lady Star Trail Drop            ||             Index 39 at address 6E01D89A20 Value: 0
+Word: Futsunomitama Star Trail Drop            ||             Index 40 at address 6E01D89AD0 Value: 0
+Word: 8.5th Star Trail Drop            ||             Index 41 at address 6E01D89C30 Value: 0
+Word: Encounter Thillelille            ||             Index 42 at address 6E01D89CE0 Value: 0
+Word: Reviver Star Trail Drop            ||             Index 43 at address 6E01D89D90 Value: 0
+Word: Encounter Lokido            ||             Index 44 at address 6E01D89E40 Value: 0
+Word: Id Star Trail Drop            ||             Index 45 at address 6E01D8A050 Value: 0
+Word: Encounter Anabel            ||             Index 46 at address 6E01D8A1B0 Value: 0
+Word: Sakuya-bime Star Trail Drop            ||             Index 47 at address 6E01D8A310 Value: 0
+Word: Lone Encounter Ticket (Land)            ||             Index 48 at address 6E01D8A5D0 Value: 0
+Word: Encounter Renri            ||             Index 49 at address 6E01D8A680 Value: 0
+Word: Guiding Star Drop            ||             Index 50 at address 6E01D8A730 Value: 0
+Word: Whisper of Time            ||             Index 51 at address 6E01D8A7E0 Value: 0
+Word: Star Dreams Piece            ||             Index 52 at address 6E01D8A890 Value: 0
+Word: 冥のしずくのかけら            ||             Index 53 at address 6E01D8A940 Value: 0
+Word: Whisper of Time Token            ||             Index 54 at address 6E01D8ACB0 Value: 0
+Word: Kagurame Star Trail Drop            ||             Index 55 at address 6E01D8AD60 Value: 0
+Word: 時の囁きのしずく            ||             Index 56 at address 6E01D8AE10 Value: 0
+Word: Day 3000 Star Trail Drop            ||             Index 57 at address 6E01D8AEC0 Value: 0
+Word: Guiding Star Drop            ||             Index 58 at address 6E01D8AF70 Value: 0
+Word: Voleur Star Trail Drop            ||             Index 59 at address 6E01D8B0D0 Value: 0
+Word: Whisper of Time Drop            ||             Index 60 at address 6E01D8B230 Value: 0
+Word: Linaria Star Trail Drop            ||             Index 61 at address 6E01D8B2E0 Value: 0
+Word: Whisper of Time Drop            ||             Index 62 at address 6E01D8B390 Value: 0
+Word: Azure Retainer Star Trail Drop            ||             Index 63 at address 6E01D8B440 Value: 0
+Word: Encounter Toova            ||             Index 64 at address 6E01D8B4F0 Value: 0
+Word: Guiding Adventure Token            ||             Index 65 at address 6E01D8B650 Value: 0
+Word: Encounter Shion            ||             Index 66 at address 6E01D8B700 Value: 0
+Word: Guiding Star Drop            ||             Index 67 at address 6E01D8B7B0 Value: 0
+Word: Encounter Eva            ||             Index 68 at address 6E01D8B860 Value: 0
+Word: Encounter Cetie            ||             Index 69 at address 6E01D8B9C0 Value: 0
+Word: Luring Shadow Drop            ||             Index 70 at address 6E01D8BA70 Value: 0
+Word: Sky Lesson's Token            ||             Index 71 at address 6E01D8BB20 Value: 0
+Word: Whisper of Time Drop            ||             Index 72 at address 6E01D8BC80 Value: 0
+Word: Star Dreams Piece            ||             Index 73 at address 6E01D8BDE0 Value: 0
+Word: Camena Star Trail Drop            ||             Index 74 at address 6E01D8BE90 Value: 0
+Word: Whisper of Time            ||             Index 75 at address 6E01D8BF40 Value: 0
+Word: Encounter Mariel            ||             Index 76 at address 6E01D8BFF0 Value: 0
+Word: Encounter Isuka            ||             Index 77 at address 6E01D8C0A0 Value: 0
+Word: Guiding Star Drop            ||             Index 78 at address 6E01D8C200 Value: 0
+Word: Encounter Yuna            ||             Index 79 at address 6E01D8C2B0 Value: 0
+Word: Encounter Melissa            ||             Index 80 at address 6E01D8C360 Value: 0
+Word: Whisper of Time Drop            ||             Index 81 at address 6E01D8C410 Value: 0
+Word: Star Dreams Piece            ||             Index 82 at address 6E01D8C4C0 Value: 0
+Word: Nilya Star Trail Drop            ||             Index 83 at address 6E01D8C620 Value: 0
+Word: 10 Allies Bundle Ticket            ||             Index 84 at address 6E01D8C830 Value: 0
+Word: Whisper of Time            ||             Index 85 at address 6E01D8C8E0 Value: 0
+Word: Encounter Tsukiha            ||             Index 86 at address 6E01D8C990 Value: 0
+Word: Last Haven Star Trail Drop            ||             Index 87 at address 6E01D8CA40 Value: 0
+Word: Whisper of Time            ||             Index 88 at address 6E01D8CAF0 Value: 0
+Word: Encounter Melina            ||             Index 89 at address 6E01D8CBA0 Value: 0
+Word: Whisper of Time Drop            ||             Index 90 at address 6E01D8CC50 Value: 0
+Word: Encounter Myrus            ||             Index 91 at address 6E01D8CD00 Value: 0
+Word: Daikokuten Star Trail Drop            ||             Index 92 at address 6E01D8CDB0 Value: 0
+Word: Part 2 Campaign Ticket            ||             Index 93 at address 6E01D8CF10 Value: 0
+Word: Encounter Bertrand            ||             Index 94 at address 6E01D8CFC0 Value: 0
+Word: Whisper of Time Drop            ||             Index 95 at address 6E01D8D070 Value: 0
+Word: Star Dreams Piece            ||             Index 96 at address 6E01D8D280 Value: 0
+Word: Part 2 Campaign Ticket            ||             Index 97 at address 6E01D8D330 Value: 0
+Word: Bête Théâtrale Star Trail Drop            ||             Index 98 at address 6E01D8D3E0 Value: 0
+Word: Mildy Star Trail Drop            ||             Index 99 at address 6E01D8D490 Value: 0
+Word: Luring Shadow Drop            ||             Index 100 at address 6E01D8D5F0 Value: 0
+Word: 時の囁きのひとひら            ||             Index 101 at address 6E01D8D6A0 Value: 0
+Word: Whisper of Time Drop            ||             Index 102 at address 6E01D8D750 Value: 0
+Word: Nekomata Avatar Star Trail Drop            ||             Index 103 at address 6E01D8D800 Value: 0
+Word: Whisper of Time Drop            ||             Index 104 at address 6E01D8D8B0 Value: 0
+Word: Whisper of Time            ||             Index 105 at address 6E01D8D960 Value: 0
+Word: Star Dreams Piece            ||             Index 106 at address 6E01D8DA10 Value: 0
+Word: Whisper of Time Drop            ||             Index 107 at address 6E01D8DAC0 Value: 0
+Word: Whisper of Time            ||             Index 108 at address 6E01D8DB70 Value: 0
+Word: Encounter Suzette            ||             Index 109 at address 6E01D8DC20 Value: 0
+Word: Whisper of Time            ||             Index 110 at address 6E01D8DCD0 Value: 0
+Word: Whisper of Time            ||             Index 111 at address 6E01D8DD80 Value: 0
+Word: Star Dreams Piece            ||             Index 112 at address 6E01D8DE30 Value: 0
+Word: Whisper of Time Drop            ||             Index 113 at address 6E01D8DEE0 Value: 0
+Word: Destiny Token            ||             Index 114 at address 6E01D8DF90 Value: 0
+Word: Resonant Strife Drop            ||             Index 115 at address 6E01D8E040 Value: 0
+Word: Luring Shadow Fragment            ||             Index 116 at address 6E01D8E0F0 Value: 0
+Word: Star Dreams Piece            ||             Index 117 at address 6E01D8E1A0 Value: 0
+Word: Whisper of Time            ||             Index 118 at address 6E01D8E250 Value: 0
+Word: Star Dreams Piece            ||             Index 119 at address 6E01D8E300 Value: 0
+Word: Whisper of Time Drop            ||             Index 120 at address 6E01D8E3B0 Value: 0
+Word: 星の夢のかけら            ||             Index 121 at address 6E01D8E460 Value: 0
+Word: Whisper of Time            ||             Index 122 at address 6E01D8E510 Value: 0
+Word: Star Dreams Piece            ||             Index 123 at address 6E01D8E5C0 Value: 0
+Word: Part 3 Guiding Drop            ||             Index 124 at address 6E01D8E670 Value: 0
+Word: Encounter Tiramisu            ||             Index 125 at address 6E01D8E7D0 Value: 0
+Word: Star Dreams Piece            ||             Index 126 at address 6E01D8E880 Value: 0
+Word: Part 2 Campaign Ticket            ||             Index 127 at address 6E01D8E930 Value: 0
+Word: Star Dreams Piece            ||             Index 128 at address 6E01D8E9E0 Value: 0
+Word: Moon Prayer Drop            ||             Index 129 at address 6E01D8EA90 Value: 0
+Word: Star Dreams Piece            ||             Index 130 at address 6E01D8EB40 Value: 0
+Word: Destiny Token            ||             Index 131 at address 6E01D8EBF0 Value: 0
+Word: 5-Star Guaranteed Ticket            ||             Index 132 at address 6E01D8ECA0 Value: 0
+Word: Guiding Star Drop            ||             Index 133 at address 6E01D8ED50 Value: 0
+Word: Encounter Shanie            ||             Index 134 at address 6E01D8EE00 Value: 0
+Word: Star Dreams Piece            ||             Index 135 at address 6E01D8EEB0 Value: 0
+Word: Encounter Mighty            ||             Index 136 at address 6E01D8F010 Value: 0
+Word: Weapon Resonance Series (x1)            ||             Index 137 at address 6E01D8F0C0 Value: 0
+Word: Guiding Light Fragment            ||             Index 138 at address 6E01D8F170 Value: 0
+Word: Part 2 Campaign Ticket            ||             Index 139 at address 6E01D8F220 Value: 0
+Word: Whisper of Time            ||             Index 140 at address 6E01D8F2D0 Value: 0
+Word: Weapon Resonance Series (x10)            ||             Index 141 at address 6E01D8F380 Value: 0
+Word: Whisper of Time            ||             Index 142 at address 6E01D8F430 Value: 0
+Word: 星の夢のかけら            ||             Index 143 at address 6E01D8F4E0 Value: 0
+Word: Moon Prayer Drop            ||             Index 144 at address 6E01D8F590 Value: 0
+Word: Rainbow Radiance Drop            ||             Index 145 at address 6E01D8F640 Value: 0
+Word: Whisper of Time            ||             Index 146 at address 6E01D8F6F0 Value: 0
+Word: Guiding Star Drop            ||             Index 147 at address 6E01D8F7A0 Value: 0
+Word: 運命のしずく            ||             Index 148 at address 6E01D8F850 Value: 0
+Word: Whisper of Time            ||             Index 149 at address 6E01D8F900 Value: 0
+Word: 星の導きのしずく            ||             Index 150 at address 6E01D8F9B0 Value: 0
+Word: Whisper of Time            ||             Index 151 at address 6E01D8FA60 Value: 0
+Word: Celestial Spark            ||             Index 152 at address 6E01D8FB10 Value: 0
+Word: Whisper of Time            ||             Index 153 at address 6E01D8FBC0 Value: 0
+Word: 星跡のしずく・イグノランス            ||             Index 154 at address 6E01D8FC70 Value: 0
+Word: Netherworld Princess Fragment            ||             Index 155 at address 6E01D8FD20 Value: 0
+Word: Woodcutter's Fragment            ||             Index 156 at address 6E01D8FDD0 Value: 0
+Word: Whisper of Time            ||             Index 157 at address 6E01D8FE80 Value: 0
+Word: 星跡のしずく・ウェネト            ||             Index 158 at address 6E01D8FF30 Value: 0
+Word: 星の導きのしずく            ||             Index 159 at address 6E01D8FFE0 Value: 0
+Word: 3rd Anniversary Drop            ||             Index 160 at address 6E01D90090 Value: 0
+Word: Destiny Token            ||             Index 161 at address 6E01D90140 Value: 0
+Word: 星跡のしずく・イド            ||             Index 162 at address 6E01D901F0 Value: 0
+Word: 時の囁きのしずく            ||             Index 163 at address 6E01D902A0 Value: 0
+Word: ロキドと出逢う            ||             Index 164 at address 6E01D90350 Value: 0
+Word: Seven Stars Piece            ||             Index 165 at address 6E01D90400 Value: 0
+Word: Princess' Prayer Fragment            ||             Index 166 at address 6E01D904B0 Value: 0
+Word: 星跡のしずく・ミルディ            ||             Index 167 at address 6E01D90560 Value: 0
+Word: Whisper of Time            ||             Index 168 at address 6E01D90610 Value: 0
+Word: Prophet Star Trail Drop            ||             Index 169 at address 6E01D906C0 Value: 0
+Word: 星の導きのしずく            ||             Index 170 at address 6E01D90770 Value: 0
+Word: ロゼッタと出逢う            ||             Index 171 at address 6E01D90820 Value: 0
+Word: Star Dreams Piece            ||             Index 172 at address 6E01D908D0 Value: 0
+Word: Whisper of Time            ||             Index 173 at address 6E01D90980 Value: 0
+Word: 星跡のしずく・クラグホーン            ||             Index 174 at address 6E01D90AE0 Value: 0
+Word: Whisper of Time Drop            ||             Index 175 at address 6E01D90B90 Value: 0
+Word: Moon Prayer Drop            ||             Index 176 at address 6E01D90C40 Value: 0
+Word: 星跡のしずく・リバイバー            ||             Index 177 at address 6E01D90CF0 Value: 0
+Word: ミュルスと出逢う            ||             Index 178 at address 6E01D90DA0 Value: 0
+Word: 星跡のしずく・8.5th            ||             Index 179 at address 6E01D90E50 Value: 0
+Word: Star Dreams Piece            ||             Index 180 at address 6E01D90F00 Value: 0
+Word: Holy Prayer Spirit            ||             Index 181 at address 6E01D90FB0 Value: 0
+Word: Star Dreams Piece            ||             Index 182 at address 6E01D91060 Value: 0
+Word: Star Dreams Piece            ||             Index 183 at address 6E01D91110 Value: 0
+Word: Grand Masters Drop            ||             Index 184 at address 6E01D911C0 Value: 0
+Word: 時の囁きのひとひら            ||             Index 185 at address 6E01D91270 Value: 0
+Word: Whisper of Time Drop            ||             Index 186 at address 6E01D91320 Value: 0
+Word: Star Dreams Piece            ||             Index 187 at address 6E01D913D0 Value: 0
+Word: Holy Knight Fragment            ||             Index 188 at address 6E01D91480 Value: 0
+Word: Destiny Token            ||             Index 189 at address 6E01D91530 Value: 0
+Word: Whisper of Time            ||             Index 190 at address 6E01D915E0 Value: 0
+Word: Destiny Token            ||             Index 191 at address 6E01D91690 Value: 0
+Word: 星の夢のかけら            ||             Index 192 at address 6E01D91740 Value: 0
+Word: Destiny Token (Moon)            ||             Index 193 at address 6E01D917F0 Value: 0
+Word: 十の出逢いチケット            ||             Index 194 at address 6E01D918A0 Value: 0
+Word: ひとたびの出逢いチケット            ||             Index 195 at address 6E01D91950 Value: 0
+Word: 星跡のしずく・ディオニュソス            ||             Index 196 at address 6E01D91A00 Value: 0
+Word: Guide of the Land Spirit            ||             Index 197 at address 6E01D91AB0 Value: 0
+Word: Researcher Fragment            ||             Index 198 at address 6E01D91B60 Value: 0
+Word: Destiny Token            ||             Index 199 at address 6E01D91C10 Value: 0
+Word: Whisper of Time            ||             Index 200 at address 6E01D91CC0 Value: 0
+Word: 星の導きのしずく            ||             Index 201 at address 6E01D91D70 Value: 0
+Word: 冒険の導きのしおり            ||             Index 202 at address 6E01D91E20 Value: 0
+Word: 星跡のしずく・ヴェルダンタ            ||             Index 203 at address 6E01D91ED0 Value: 0
+Word: Whisper of Time            ||             Index 204 at address 6E01D91F80 Value: 0
+Word: ティラミスと出逢う            ||             Index 205 at address 6E01D92030 Value: 0
+Word: ★5確定出逢いチケット            ||             Index 206 at address 6E01D920E0 Value: 0
+Word: 星跡のしずく・8th CD            ||             Index 207 at address 6E01D92190 Value: 0
+Word: ヒスメナと出逢う            ||             Index 208 at address 6E01D92240 Value: 0
+Word: Star Dreams Piece            ||             Index 209 at address 6E01D922F0 Value: 0
+Word: 時の囁きのしずく            ||             Index 210 at address 6E01D923A0 Value: 0
+Word: 星跡のしずく・ヴォルール            ||             Index 211 at address 6E01D92450 Value: 0
+Word: 天のしずくのかけら            ||             Index 212 at address 6E01D92500 Value: 0
+Word: Star Dreams Piece            ||             Index 213 at address 6E01D925B0 Value: 0
+Word: シェイネと出逢う            ||             Index 214 at address 6E01D92660 Value: 0
+Word: Whisper of Time            ||             Index 215 at address 6E01D92710 Value: 0
+Word: Whisper of Time Drop            ||             Index 216 at address 6E01D927C0 Value: 0
+Word: 星跡のしずく・ニナ            ||             Index 217 at address 6E01D92870 Value: 0
+Word: 星跡のしずく・3000Days            ||             Index 218 at address 6E01D92920 Value: 0
+Word: Star Dreams Piece            ||             Index 219 at address 6E01D929D0 Value: 0
+Word: Whisper of Time            ||             Index 220 at address 6E01D92A80 Value: 0
+Word: 時の囁きのしずく            ||             Index 221 at address 6E01D92B30 Value: 0
+Word: 時の囁きのしずく            ||             Index 222 at address 6E01D92BE0 Value: 0
+Word: 星跡のしずく・プロフェット            ||             Index 223 at address 6E01D92C90 Value: 0
+Word: マリエルと出逢う            ||             Index 224 at address 6E01D92D40 Value: 0
+Word: チルリルと出逢う            ||             Index 225 at address 6E01D92DF0 Value: 0
+Word: Destiny Token            ||             Index 226 at address 6E01D92EA0 Value: 0
+Word: 星跡のしずく・カメーネ            ||             Index 227 at address 6E01D92F50 Value: 0
+Word: 時の囁きのしおり            ||             Index 228 at address 6E01D93000 Value: 0
+Word: 星跡のしずく・ダイコクテン            ||             Index 229 at address 6E01D930B0 Value: 0
+Word: ひとたびの出逢いチケット(大地)            ||             Index 230 at address 6E01D93160 Value: 0
+Word: 星跡のしずく・アークロジスト            ||             Index 231 at address 6E01D93210 Value: 0
+Word: 星跡のしずく・ニルヤ            ||             Index 232 at address 6E01D932C0 Value: 0
+Word: 時の囁きのしずく            ||             Index 233 at address 6E01D93370 Value: 0
+Word: 星跡のしずく・アメノウズメ            ||             Index 234 at address 6E01D93420 Value: 0
+Word: 星跡のしずく・テアトラルベート            ||             Index 235 at address 6E01D934D0 Value: 0
+Word: 星跡のしずく・リナリア            ||             Index 236 at address 6E01D93630 Value: 0
+Word: 時の囁きのひとひら            ||             Index 237 at address 6E01D936E0 Value: 0
+Word: 星跡のしずく・スウィートレディ            ||             Index 238 at address 6E01D93790 Value: 0
+Word: 星跡のしずく・ラストヘイヴン            ||             Index 239 at address 6E01D93840 Value: 0
+Word: アナベルと出逢う            ||             Index 240 at address 6E01D938F0 Value: 0
+Word: Star Dreams Piece            ||             Index 241 at address 6E01D939A0 Value: 0
+Word: 時の囁きのしずく            ||             Index 242 at address 6E01D93A50 Value: 0
+Word: Destiny Token            ||             Index 243 at address 6E01D93B00 Value: 0
+Word: 星の導きのしずく            ||             Index 244 at address 6E01D93BB0 Value: 0
+Word: ユナと出逢う            ||             Index 245 at address 6E01D93C60 Value: 0
+Word: めぐり逢いのしおり            ||             Index 246 at address 6E01D93D10 Value: 0
+Word: 星の導きのしずく            ||             Index 247 at address 6E01D93DC0 Value: 0
+Word: セティーと出逢う            ||             Index 248 at address 6E01D93E70 Value: 0
+Word: 時の囁きのひとひら            ||             Index 249 at address 6E01D93F20 Value: 0
+Word: 星跡のしずく・オオクニヌシ            ||             Index 250 at address 6E01D93FD0 Value: 0
+Word: 星跡のしずく・カグラメ            ||             Index 251 at address 6E01D94080 Value: 0
+Word: Star Dreams Piece            ||             Index 252 at address 6E01D94130 Value: 0
+Word: ユーインと出逢う            ||             Index 253 at address 6E01D941E0 Value: 0
+Word: ベルトランと出逢う            ||             Index 254 at address 6E01D94290 Value: 0
+Word: 星の夢のかけら            ||             Index 255 at address 6E01D94340 Value: 0
+Word: 時の囁きのひとひら            ||             Index 256 at address 6E01D944A0 Value: 0
+Word: 時の囁きのひとひら            ||             Index 257 at address 6E01D94550 Value: 0
+Word: 第3部導きのしずく            ||             Index 258 at address 6E01D94810 Value: 0
+Word: 時の囁きのひとひら            ||             Index 259 at address 6E01D94970 Value: 0
+Word: 時の囁きのひとひら            ||             Index 260 at address 6E01D94A20 Value: 0
+Word: 時の囁きのひとひら            ||             Index 261 at address 6E01D94AD0 Value: 0
+Word: 第13章CPチケット            ||             Index 262 at address 6E01D94B80 Value: 0
+Word: 時の囁きのひとひら            ||             Index 263 at address 6E01D94C30 Value: 0
+Word: ★5確定出逢いチケット            ||             Index 264 at address 6E01D94EF0 Value: 0
+Word: 星の夢のかけら            ||             Index 265 at address 6E01D95050 Value: 0
+Word: Guiding Light Drop            ||             Index 266 at address 6E01D95100 Value: 0
+Word: 時の囁きのひとひら            ||             Index 267 at address 6E01D951B0 Value: 0
+Word: 星の夢のかけら            ||             Index 268 at address 6E01D95260 Value: 0
+Word: 星跡のしずく・フツノミタマ            ||             Index 269 at address 6E01D95310 Value: 0
+Word: レンリと出逢う            ||             Index 270 at address 6E01D953C0 Value: 0
+Word: メリッサと出逢う            ||             Index 271 at address 6E01D95470 Value: 0
+Word: シュゼットと出逢う            ||             Index 272 at address 6E01D95520 Value: 0
+Word: 第3部導きのしずく            ||             Index 273 at address 6E01D955D0 Value: 0
+Word: 時の囁きのしおり            ||             Index 274 at address 6E01D95680 Value: 0
+Word: メリナと出逢う            ||             Index 275 at address 6E01D95730 Value: 0
+Word: 時の囁きのひとひら            ||             Index 276 at address 6E01D957E0 Value: 0
+Word: マイティと出逢う            ||             Index 277 at address 6E01D95890 Value: 0
+Word: 星跡のしずく・猫又権現            ||             Index 278 at address 6E01D95940 Value: 0
+Word: Whisper of Time            ||             Index 279 at address 6E01D959F0 Value: 0
+Word: エヴァと出逢う            ||             Index 280 at address 6E01D95AA0 Value: 0
+Word: トゥーヴァと出逢う            ||             Index 281 at address 6E01D95B50 Value: 0
+Word: シオンと出逢う            ||             Index 282 at address 6E01D95C00 Value: 0
+Word: 星跡のしずく・蒼色の忠臣            ||             Index 283 at address 6E01D95CB0 Value: 0
+Word: 時の囁きのひとひら            ||             Index 284 at address 6E01D95E10 Value: 0
+Word: 第3部導きのしずく            ||             Index 285 at address 6E01D95EC0 Value: 0
+Word: 星の夢のかけら            ||             Index 286 at address 6E01D95F70 Value: 0
+Word: Luring Shadow Drop            ||             Index 287 at address 6E01D96020 Value: 0
+Word: 星の夢のかけら            ||             Index 288 at address 6E01D96180 Value: 0
+Word: 時の囁きのしずく            ||             Index 289 at address 6E01D96230 Value: 0
+Word: 星跡のしずく・エトワール            ||             Index 290 at address 6E01D962E0 Value: 0
+Word: 時の囁きのひとひら            ||             Index 291 at address 6E01D96390 Value: 0
+Word: 星の夢のかけら            ||             Index 292 at address 6E01D96440 Value: 0
+Word: Whisper of Time            ||             Index 293 at address 6E01D965A0 Value: 0
+Word: Silver Ticket            ||             Index 294 at address 6E01D96650 Value: 0
+Word: 時の囁きのしずく            ||             Index 295 at address 6E01D967B0 Value: 0
+Word: 第2部CPチケット            ||             Index 296 at address 6E01D96860 Value: 0
+Word: ツキハと出逢う            ||             Index 297 at address 6E01D969C0 Value: 0
+Word: 第2部CPチケット            ||             Index 298 at address 6E01D96A70 Value: 0
+Word: 武具の煌きのしずく            ||             Index 299 at address 6E01D96B20 Value: 0
+Word: 時の囁きのひとひら            ||             Index 300 at address 6E01D96BD0 Value: 0
+Word: Star Dreams Piece            ||             Index 301 at address 6E01D96C80 Value: 0
+Word: First Ticket            ||             Index 302 at address 6E01D96E90 Value: 0
+Word: Seven Stars Piece            ||             Index 303 at address 6E01D96F40 Value: 0
+Word: 星の夢のかけら            ||             Index 304 at address 6E01D96FF0 Value: 0
+Word: 天の導きのしずく            ||             Index 305 at address 6E01D970A0 Value: 0
+Word: Gold Ticket            ||             Index 306 at address 6E01D97200 Value: 0
+Word: Star Dreams Piece            ||             Index 307 at address 6E01D972B0 Value: 0
+Word: Princess' Prayer Fragment            ||             Index 308 at address 6E01D97360 Value: 0
+Word: 第2部CPチケット            ||             Index 309 at address 6E01D97410 Value: 0
+Word: 時の囁きのしずく            ||             Index 310 at address 6E01D974C0 Value: 0
+Word: Whisper of Time            ||             Index 311 at address 6E01D97570 Value: 0
+Word: Star Dreams Piece            ||             Index 312 at address 6E01D97620 Value: 0
+Word: Star Dreams Piece            ||             Index 313 at address 6E01D976D0 Value: 0
+Word: Whisper of Time            ||             Index 314 at address 6E01D97A40 Value: 0
+Word: 星の夢のかけら            ||             Index 315 at address 6E01D97AF0 Value: 0
+Word: Holy Prayer Spirit            ||             Index 316 at address 6E01D97BA0 Value: 0
+Word: Moon Prayer Drop            ||             Index 317 at address 6E01D97C50 Value: 0
+Word: 戦陣の響きのしずく            ||             Index 318 at address 6E01D97D00 Value: 0
+Word: Whisper of Time Drop            ||             Index 319 at address 6E01D97E60 Value: 0
+Word: Rainbow Radiance Drop            ||             Index 320 at address 6E01D97F10 Value: 0
+Word: 星の夢のかけら            ||             Index 321 at address 6E01D97FC0 Value: 0
+Word: 時の囁きのしずく            ||             Index 322 at address 6E01D98070 Value: 0
+Word: 時の囁きのひとひら            ||             Index 323 at address 6E01D98120 Value: 0
+Word: Star Dreams Piece            ||             Index 324 at address 6E01D981D0 Value: 0
+Word: 第2部CPチケット            ||             Index 325 at address 6E01D98280 Value: 0
+Word: 星の夢のかけら            ||             Index 326 at address 6E01D98490 Value: 0
+Word: 時の囁きのしずく            ||             Index 327 at address 6E01D98540 Value: 0
+Word: 時の囁きのひとひら            ||             Index 328 at address 6E01D985F0 Value: 0
+Word: 星の夢のかけら            ||             Index 329 at address 6E01D98750 Value: 0
+Word: Star Dreams Piece            ||             Index 330 at address 6E01D98D80 Value: 0
+Word: Sky Lesson's Token            ||             Index 331 at address 6E01D99300 Value: 0
+Word: Star Dreams Piece            ||             Index 332 at address 6E01D99880 Value: 0
+Word: Whisper of Time Drop            ||             Index 333 at address 6E01D99930 Value: 0
+Word: 時の囁きのしずく            ||             Index 334 at address 6E01D9A170 Value: 0
+Word: Time Wish Spirit            ||             Index 335 at address 6E01D9C690 Value: 0
+Word: Guide of the Land Spirit            ||             Index 336 at address 6E01D9CE20 Value: 0
+Word: 星の導きのしずく            ||             Index 337 at address 6E01D9D2F0 Value: 0
+Word: Luring Shadow Drop            ||             Index 338 at address 6E01D9D500 Value: 0
+Word: Celestial Spark            ||             Index 339 at address 6E01D9D5B0 Value: 0
+Word: Star Dreams Piece            ||             Index 340 at address 6E01D9D660 Value: 0
+Word: Knight's Prayer Piece            ||             Index 341 at address 6E01D9E580 Value: 0
+Word: イスカと出逢う            ||             Index 342 at address 6E01D9ED10 Value: 0
+Found value within range at address: 6DC28899AC, Value: 177900143, Initial Address: 6E01D805A0, Index: 1
+Found value within range at address: 6DC28880FC, Value: 177900087, Initial Address: 6E01D80700, Index: 2
+Found value within range at address: 6DC28858FC, Value: 177000114, Initial Address: 6E01D80A70, Index: 3
+Found value within range at address: 6DC288517C, Value: 177000111, Initial Address: 6E01D82960, Index: 4
+Found value within range at address: 6DC28855DC, Value: 177000074, Initial Address: 6E01D83880, Index: 5
+Found value within range at address: 6DC2883F5C, Value: 177000038, Initial Address: 6E01D84590, Index: 6
+Found value within range at address: 6DC28878DC, Value: 177900037, Initial Address: 6E01D849B0, Index: 7
+Found value within range at address: 6DC288A6CC, Value: 177900182, Initial Address: 6E01D84D20, Index: 8
+Found value within range at address: 6DC2888BEC, Value: 177900085, Initial Address: 6E01D85090, Index: 9
+Found value within range at address: 6DC28894AC, Value: 177900161, Initial Address: 6E01D85FB0, Index: 10
+Found value within range at address: 6DC288AC6C, Value: 177900169, Initial Address: 6E01D86740, Index: 11
+Found value within range at address: 6DC288AADC, Value: 177900176, Initial Address: 6E01D86AB0, Index: 12
+Found value within range at address: 6DC288742C, Value: 177900062, Initial Address: 6E01D86B60, Index: 13
+Found value within range at address: 6DC28890EC, Value: 177900136, Initial Address: 6E01D86D70, Index: 14
+Found value within range at address: 6DC288940C, Value: 177900160, Initial Address: 6E01D86ED0, Index: 15
+Found value within range at address: 6DC2888B4C, Value: 177900088, Initial Address: 6E01D870E0, Index: 16
+Found value within range at address: 6DC288A71C, Value: 177900171, Initial Address: 6E01D87190, Index: 17
+Found value within range at address: 6DC28897CC, Value: 177900138, Initial Address: 6E01D87240, Index: 18
+Found value within range at address: 6DC2888B9C, Value: 177900104, Initial Address: 6E01D873A0, Index: 19
+Found value within range at address: 6DC28883CC, Value: 177900083, Initial Address: 6E01D87450, Index: 20
+Found value within range at address: 6DC288ACBC, Value: 177900181, Initial Address: 6E01D875B0, Index: 21
+Found value within range at address: 6DC28884BC, Value: 177900086, Initial Address: 6E01D879D0, Index: 22
+Found value within range at address: 6DC288A03C, Value: 177900178, Initial Address: 6E01D87A80, Index: 23
+Found value within range at address: 6DC28881EC, Value: 177900075, Initial Address: 6E01D87F50, Index: 24
+Found value within range at address: 6DC288986C, Value: 177900149, Initial Address: 6E01D880B0, Index: 25
+Found value within range at address: 6DC288846C, Value: 177900101, Initial Address: 6E01D88630, Index: 26
+Found value within range at address: 6DC288A08C, Value: 177900172, Initial Address: 6E01D88E70, Index: 27
+Found value within range at address: 6DC2888AAC, Value: 177900096, Initial Address: 6E01D88F20, Index: 28
+Found value within range at address: 6DC2889DBC, Value: 177900120, Initial Address: 6E01D89130, Index: 29
+Found value within range at address: 6DC288AD0C, Value: 177900179, Initial Address: 6E01D891E0, Index: 30
+Found value within range at address: 6DC288977C, Value: 177900135, Initial Address: 6E01D89290, Index: 31
+Found value within range at address: 6DC288A53C, Value: 177900167, Initial Address: 6E01D89340, Index: 32
+Found value within range at address: 6DC288AB2C, Value: 177900177, Initial Address: 6E01D893F0, Index: 33
+Found value within range at address: 6DC2888F5C, Value: 177900128, Initial Address: 6E01D894A0, Index: 34
+Found value within range at address: 6DC288927C, Value: 177900145, Initial Address: 6E01D89550, Index: 35
+Found value within range at address: 6DC2888F0C, Value: 177900131, Initial Address: 6E01D89600, Index: 36
+Found value within range at address: 6DC288A99C, Value: 177900175, Initial Address: 6E01D896B0, Index: 37
+Found value within range at address: 6DC288909C, Value: 177900121, Initial Address: 6E01D89760, Index: 38
+Found value within range at address: 6DC2888EBC, Value: 177900152, Initial Address: 6E01D89A20, Index: 39
+Found value within range at address: 6DC288945C, Value: 177900140, Initial Address: 6E01D89AD0, Index: 40
+Found value within range at address: 6DC288A44C, Value: 177900173, Initial Address: 6E01D89C30, Index: 41
+Found value within range at address: 6DC288A9EC, Value: 177900180, Initial Address: 6E01D89CE0, Index: 42
+Found value within range at address: 6DC288963C, Value: 177900129, Initial Address: 6E01D89D90, Index: 43
+Found value within range at address: 6DC2889D1C, Value: 177900162, Initial Address: 6E01D89E40, Index: 44
+Found value within range at address: 6DC288954C, Value: 177900116, Initial Address: 6E01D8A050, Index: 45
+Found value within range at address: 6DC288AA8C, Value: 177900170, Initial Address: 6E01D8A1B0, Index: 46
+Found value within range at address: 6DC288972C, Value: 177900133, Initial Address: 6E01D8A310, Index: 47
+Found value within range at address: 6DC28898BC, Value: 177900166, Initial Address: 6E01D8A5D0, Index: 48
+Found value within range at address: 6DC2889AEC, Value: 177900153, Initial Address: 6E01D8A680, Index: 49
+Found value within range at address: 6DC2888FAC, Value: 177900132, Initial Address: 6E01D8A730, Index: 50
+Found value within range at address: 6DC28894FC, Value: 177900164, Initial Address: 6E01D8A7E0, Index: 51
+Found value within range at address: 6DC2887D8C, Value: 177900102, Initial Address: 6E01D8A890, Index: 52
+Found value within range at address: 6DC288463C, Value: 177000050, Initial Address: 6E01D8A940, Index: 53
+Found value within range at address: 6DC2887E7C, Value: 177900092, Initial Address: 6E01D8ACB0, Index: 54
+Found value within range at address: 6DC288913C, Value: 177900124, Initial Address: 6E01D8AD60, Index: 55
+Found value within range at address: 6DC2884EFC, Value: 177000075, Initial Address: 6E01D8AE10, Index: 56
+Found value within range at address: 6DC288959C, Value: 177900155, Initial Address: 6E01D8AEC0, Index: 57
+Found value within range at address: 6DC28895EC, Value: 177900126, Initial Address: 6E01D8AF70, Index: 58
+Found value within range at address: 6DC2889C2C, Value: 177900148, Initial Address: 6E01D8B0D0, Index: 59
+Found value within range at address: 6DC288936C, Value: 177900146, Initial Address: 6E01D8B230, Index: 60
+Found value within range at address: 6DC288904C, Value: 177900150, Initial Address: 6E01D8B2E0, Index: 61
+Found value within range at address: 6DC288931C, Value: 177900122, Initial Address: 6E01D8B390, Index: 62
+Found value within range at address: 6DC2889E5C, Value: 177900168, Initial Address: 6E01D8B440, Index: 63
+Found value within range at address: 6DC288990C, Value: 177900130, Initial Address: 6E01D8B4F0, Index: 64
+Found value within range at address: 6DC288823C, Value: 177900106, Initial Address: 6E01D8B650, Index: 65
+Found value within range at address: 6DC2887FBC, Value: 177900108, Initial Address: 6E01D8B700, Index: 66
+Found value within range at address: 6DC2889A9C, Value: 177900154, Initial Address: 6E01D8B7B0, Index: 67
+Found value within range at address: 6DC2888E1C, Value: 177900125, Initial Address: 6E01D8B860, Index: 68
+Found value within range at address: 6DC2889A4C, Value: 177900151, Initial Address: 6E01D8B9C0, Index: 69
+Found value within range at address: 6DC288756C, Value: 177900034, Initial Address: 6E01D8BA70, Index: 70
+Found value within range at address: 6DC2885DFC, Value: 177900010, Initial Address: 6E01D8BB20, Index: 71
+Found value within range at address: 6DC2889C7C, Value: 177900165, Initial Address: 6E01D8BC80, Index: 72
+Found value within range at address: 6DC288797C, Value: 177900030, Initial Address: 6E01D8BDE0, Index: 73
+Found value within range at address: 6DC2889CCC, Value: 177900118, Initial Address: 6E01D8BE90, Index: 74
+Found value within range at address: 6DC28896DC, Value: 177900127, Initial Address: 6E01D8BF40, Index: 75
+Found value within range at address: 6DC288922C, Value: 177900159, Initial Address: 6E01D8BFF0, Index: 76
+Found value within range at address: 6DC288995C, Value: 177900134, Initial Address: 6E01D8C0A0, Index: 77
+Found value within range at address: 6DC288864C, Value: 177900112, Initial Address: 6E01D8C200, Index: 78
+Found value within range at address: 6DC288918C, Value: 177900117, Initial Address: 6E01D8C2B0, Index: 79
+Found value within range at address: 6DC288878C, Value: 177900094, Initial Address: 6E01D8C360, Index: 80
+Found value within range at address: 6DC2887ECC, Value: 177900066, Initial Address: 6E01D8C410, Index: 81
+Found value within range at address: 6DC2888DCC, Value: 177900163, Initial Address: 6E01D8C4C0, Index: 82
+Found value within range at address: 6DC2889B3C, Value: 177900139, Initial Address: 6E01D8C620, Index: 83
+Found value within range at address: 6DC28891DC, Value: 177900137, Initial Address: 6E01D8C830, Index: 84
+Found value within range at address: 6DC2887E2C, Value: 177900114, Initial Address: 6E01D8C8E0, Index: 85
+Found value within range at address: 6DC2888C8C, Value: 177900090, Initial Address: 6E01D8C990, Index: 86
+Found value within range at address: 6DC28893BC, Value: 177900147, Initial Address: 6E01D8CA40, Index: 87
+Found value within range at address: 6DC288819C, Value: 177900076, Initial Address: 6E01D8CAF0, Index: 88
+Found value within range at address: 6DC288828C, Value: 177900105, Initial Address: 6E01D8CBA0, Index: 89
+Found value within range at address: 6DC288896C, Value: 177900073, Initial Address: 6E01D8CC50, Index: 90
+Found value within range at address: 6DC288981C, Value: 177900144, Initial Address: 6E01D8CD00, Index: 91
+Found value within range at address: 6DC2888FFC, Value: 177900156, Initial Address: 6E01D8CDB0, Index: 92
+Found value within range at address: 6DC2887F1C, Value: 177900080, Initial Address: 6E01D8CF10, Index: 93
+Found value within range at address: 6DC288850C, Value: 177900100, Initial Address: 6E01D8CFC0, Index: 94
+Found value within range at address: 6DC2888D7C, Value: 177900097, Initial Address: 6E01D8D070, Index: 95
+Found value within range at address: 6DC28887DC, Value: 177900109, Initial Address: 6E01D8D280, Index: 96
+Found value within range at address: 6DC288841C, Value: 177900078, Initial Address: 6E01D8D330, Index: 97
+Found value within range at address: 6DC2889D6C, Value: 177900123, Initial Address: 6E01D8D3E0, Index: 98
+Found value within range at address: 6DC288AD5C, Value: 177900174, Initial Address: 6E01D8D490, Index: 99
+Found value within range at address: 6DC2887B5C, Value: 177900038, Initial Address: 6E01D8D5F0, Index: 100
+Found value within range at address: 6DC2886B1C, Value: 177000142, Initial Address: 6E01D8D6A0, Index: 101
+Found value within range at address: 6DC288800C, Value: 177900077, Initial Address: 6E01D8D750, Index: 102
+Found value within range at address: 6DC2889BDC, Value: 177900119, Initial Address: 6E01D8D800, Index: 103
+Found value within range at address: 6DC288706C, Value: 177900021, Initial Address: 6E01D8D8B0, Index: 104
+Found value within range at address: 6DC2888A5C, Value: 177900103, Initial Address: 6E01D8D960, Index: 105
+Found value within range at address: 6DC288738C, Value: 177900046, Initial Address: 6E01D8DA10, Index: 106
+Found value within range at address: 6DC28886EC, Value: 177900111, Initial Address: 6E01D8DAC0, Index: 107
+Found value within range at address: 6DC28899FC, Value: 177900157, Initial Address: 6E01D8DB70, Index: 108
+Found value within range at address: 6DC2888CDC, Value: 177900089, Initial Address: 6E01D8DC20, Index: 109
+Found value within range at address: 6DC288724C, Value: 177900031, Initial Address: 6E01D8DCD0, Index: 110
+Found value within range at address: 6DC288779C, Value: 177900041, Initial Address: 6E01D8DD80, Index: 111
+Found value within range at address: 6DC2888A0C, Value: 177900084, Initial Address: 6E01D8DE30, Index: 112
+Found value within range at address: 6DC2886D4C, Value: 177900042, Initial Address: 6E01D8DEE0, Index: 113
+Found value within range at address: 6DC288774C, Value: 177900059, Initial Address: 6E01D8DF90, Index: 114
+Found value within range at address: 6DC2887DDC, Value: 177900068, Initial Address: 6E01D8E040, Index: 115
+Found value within range at address: 6DC28885FC, Value: 177900071, Initial Address: 6E01D8E0F0, Index: 116
+Found value within range at address: 6DC288805C, Value: 177900098, Initial Address: 6E01D8E1A0, Index: 117
+Found value within range at address: 6DC2888D2C, Value: 177900072, Initial Address: 6E01D8E250, Index: 118
+Found value within range at address: 6DC288837C, Value: 177900074, Initial Address: 6E01D8E300, Index: 119
+Found value within range at address: 6DC288832C, Value: 177900093, Initial Address: 6E01D8E3B0, Index: 120
+Found value within range at address: 6DC288418C, Value: 177000036, Initial Address: 6E01D8E460, Index: 121
+Found value within range at address: 6DC2887D3C, Value: 177900051, Initial Address: 6E01D8E510, Index: 122
+Found value within range at address: 6DC288873C, Value: 177900091, Initial Address: 6E01D8E5C0, Index: 123
+Found value within range at address: 6DC2888C3C, Value: 177900082, Initial Address: 6E01D8E670, Index: 124
+Found value within range at address: 6DC288887C, Value: 177900095, Initial Address: 6E01D8E7D0, Index: 125
+Found value within range at address: 6DC288882C, Value: 177900069, Initial Address: 6E01D8E880, Index: 126
+Found value within range at address: 6DC288891C, Value: 177900081, Initial Address: 6E01D8E930, Index: 127
+Found value within range at address: 6DC288715C, Value: 177900049, Initial Address: 6E01D8E9E0, Index: 128
+Found value within range at address: 6DC288710C, Value: 177900025, Initial Address: 6E01D8EA90, Index: 129
+Found value within range at address: 6DC2887CEC, Value: 177900039, Initial Address: 6E01D8EB40, Index: 130
+Found value within range at address: 6DC2887BAC, Value: 177900012, Initial Address: 6E01D8EBF0, Index: 131
+Found value within range at address: 6DC288855C, Value: 177900107, Initial Address: 6E01D8ECA0, Index: 132
+Found value within range at address: 6DC28885AC, Value: 177900099, Initial Address: 6E01D8ED50, Index: 133
+Found value within range at address: 6DC288869C, Value: 177900113, Initial Address: 6E01D8EE00, Index: 134
+Found value within range at address: 6DC2888AFC, Value: 177900067, Initial Address: 6E01D8EEB0, Index: 135
+Found value within range at address: 6DC2887F6C, Value: 177900115, Initial Address: 6E01D8F010, Index: 136
+Found value within range at address: 6DC28874CC, Value: 177900060, Initial Address: 6E01D8F0C0, Index: 137
+Found value within range at address: 6DC288814C, Value: 177900070, Initial Address: 6E01D8F170, Index: 138
+Found value within range at address: 6DC28889BC, Value: 177900079, Initial Address: 6E01D8F220, Index: 139
+Found value within range at address: 6DC28877EC, Value: 177900063, Initial Address: 6E01D8F2D0, Index: 140
+Found value within range at address: 6DC288733C, Value: 177900061, Initial Address: 6E01D8F380, Index: 141
+Found value within range at address: 6DC28875BC, Value: 177900054, Initial Address: 6E01D8F430, Index: 142
+Found value within range at address: 6DC2885BCC, Value: 177000076, Initial Address: 6E01D8F4E0, Index: 143
+Found value within range at address: 6DC2887C4C, Value: 177900026, Initial Address: 6E01D8F590, Index: 144
+Found value within range at address: 6DC28876FC, Value: 177900029, Initial Address: 6E01D8F640, Index: 145
+Found value within range at address: 6DC28882DC, Value: 177900110, Initial Address: 6E01D8F6F0, Index: 146
+Found value within range at address: 6DC288968C, Value: 177900142, Initial Address: 6E01D8F7A0, Index: 147
+Found value within range at address: 6DC2884C2C, Value: 177000026, Initial Address: 6E01D8F850, Index: 148
+Found value within range at address: 6DC28862FC, Value: 177900011, Initial Address: 6E01D8F900, Index: 149
+Found value within range at address: 6DC28864DC, Value: 177000154, Initial Address: 6E01D8F9B0, Index: 150
+Found value within range at address: 6DC2884BDC, Value: 177000028, Initial Address: 6E01D8FA60, Index: 151
+Found value within range at address: 6DC2887A6C, Value: 177900045, Initial Address: 6E01D8FB10, Index: 152
+Found value within range at address: 6DC28872EC, Value: 177900048, Initial Address: 6E01D8FBC0, Index: 153
+Found value within range at address: 6DC2885D0C, Value: 177000157, Initial Address: 6E01D8FC70, Index: 154
+Found value within range at address: 6DC28876AC, Value: 177900032, Initial Address: 6E01D8FD20, Index: 155
+Found value within range at address: 6DC2886CAC, Value: 177900002, Initial Address: 6E01D8FDD0, Index: 156
+Found value within range at address: 6DC2886A2C, Value: 177900007, Initial Address: 6E01D8FE80, Index: 157
+Found value within range at address: 6DC28862AC, Value: 177000139, Initial Address: 6E01D8FF30, Index: 158
+Found value within range at address: 6DC2884D1C, Value: 177000077, Initial Address: 6E01D8FFE0, Index: 159
+Found value within range at address: 6DC2886F2C, Value: 177900053, Initial Address: 6E01D90090, Index: 160
+Found value within range at address: 6DC2886EDC, Value: 177900013, Initial Address: 6E01D90140, Index: 161
+Found value within range at address: 6DC288503C, Value: 177000094, Initial Address: 6E01D901F0, Index: 162
+Found value within range at address: 6DC28867FC, Value: 177000143, Initial Address: 6E01D902A0, Index: 163
+Found value within range at address: 6DC288698C, Value: 177000140, Initial Address: 6E01D90350, Index: 164
+Found value within range at address: 6DC28871FC, Value: 177900043, Initial Address: 6E01D90400, Index: 165
+Found value within range at address: 6DC288616C, Value: 177900001, Initial Address: 6E01D904B0, Index: 166
+Found value within range at address: 6DC288675C, Value: 177000152, Initial Address: 6E01D90560, Index: 167
+Found value within range at address: 6DC28873DC, Value: 177900022, Initial Address: 6E01D90610, Index: 168
+Found value within range at address: 6DC2888E6C, Value: 177900158, Initial Address: 6E01D906C0, Index: 169
+Found value within range at address: 6DC288585C, Value: 177000104, Initial Address: 6E01D90770, Index: 170
+Found value within range at address: 6DC288684C, Value: 177000150, Initial Address: 6E01D90820, Index: 171
+Found value within range at address: 6DC288648C, Value: 177900009, Initial Address: 6E01D908D0, Index: 172
+Found value within range at address: 6DC288783C, Value: 177900019, Initial Address: 6E01D90980, Index: 173
+Found value within range at address: 6DC288689C, Value: 177000155, Initial Address: 6E01D90AE0, Index: 174
+Found value within range at address: 6DC2887BFC, Value: 177900055, Initial Address: 6E01D90B90, Index: 175
+Found value within range at address: 6DC2886FCC, Value: 177900028, Initial Address: 6E01D90C40, Index: 176
+Found value within range at address: 6DC2885A8C, Value: 177000107, Initial Address: 6E01D90CF0, Index: 177
+Found value within range at address: 6DC28865CC, Value: 177000122, Initial Address: 6E01D90DA0, Index: 178
+Found value within range at address: 6DC2886C0C, Value: 177000151, Initial Address: 6E01D90E50, Index: 179
+Found value within range at address: 6DC288765C, Value: 177900023, Initial Address: 6E01D90F00, Index: 180
+Found value within range at address: 6DC2886E3C, Value: 177900027, Initial Address: 6E01D90FB0, Index: 181
+Found value within range at address: 6DC288751C, Value: 177900058, Initial Address: 6E01D91060, Index: 182
+Found value within range at address: 6DC28892CC, Value: 177900141, Initial Address: 6E01D91110, Index: 183
+Found value within range at address: 6DC28879CC, Value: 177900057, Initial Address: 6E01D911C0, Index: 184
+Found value within range at address: 6DC288607C, Value: 177000153, Initial Address: 6E01D91270, Index: 185
+Found value within range at address: 6DC28888CC, Value: 177900064, Initial Address: 6E01D91320, Index: 186
+Found value within range at address: 6DC2886B6C, Value: 177900004, Initial Address: 6E01D913D0, Index: 187
+Found value within range at address: 6DC28870BC, Value: 177900014, Initial Address: 6E01D91480, Index: 188
+Found value within range at address: 6DC2886DEC, Value: 177900024, Initial Address: 6E01D91530, Index: 189
+Found value within range at address: 6DC2886E8C, Value: 177900018, Initial Address: 6E01D915E0, Index: 190
+Found value within range at address: 6DC2886D9C, Value: 177900016, Initial Address: 6E01D91690, Index: 191
+Found value within range at address: 6DC2885F3C, Value: 177000141, Initial Address: 6E01D91740, Index: 192
+Found value within range at address: 6DC288602C, Value: 177900005, Initial Address: 6E01D917F0, Index: 193
+Found value within range at address: 6DC288553C, Value: 177000115, Initial Address: 6E01D918A0, Index: 194
+Found value within range at address: 6DC28860CC, Value: 177000156, Initial Address: 6E01D91950, Index: 195
+Found value within range at address: 6DC2885E4C, Value: 177000149, Initial Address: 6E01D91A00, Index: 196
+Found value within range at address: 6DC288729C, Value: 177900044, Initial Address: 6E01D91AB0, Index: 197
+Found value within range at address: 6DC2886F7C, Value: 177900015, Initial Address: 6E01D91B60, Index: 198
+Found value within range at address: 6DC2887B0C, Value: 177900033, Initial Address: 6E01D91C10, Index: 199
+Found value within range at address: 6DC28880AC, Value: 177900065, Initial Address: 6E01D91CC0, Index: 200
+Found value within range at address: 6DC2884D6C, Value: 177000110, Initial Address: 6E01D91D70, Index: 201
+Found value within range at address: 6DC28852BC, Value: 177000084, Initial Address: 6E01D91E20, Index: 202
+Found value within range at address: 6DC288657C, Value: 177000159, Initial Address: 6E01D91ED0, Index: 203
+Found value within range at address: 6DC2887C9C, Value: 177900020, Initial Address: 6E01D91F80, Index: 204
+Found value within range at address: 6DC2884EAC, Value: 177000073, Initial Address: 6E01D92030, Index: 205
+Found value within range at address: 6DC2885EEC, Value: 177000160, Initial Address: 6E01D920E0, Index: 206
+Found value within range at address: 6DC2885C1C, Value: 177000116, Initial Address: 6E01D92190, Index: 207
+Found value within range at address: 6DC28863EC, Value: 177000127, Initial Address: 6E01D92240, Index: 208
+Found value within range at address: 6DC2883AAC, Value: 177000004, Initial Address: 6E01D922F0, Index: 209
+Found value within range at address: 6DC288562C, Value: 177000106, Initial Address: 6E01D923A0, Index: 210
+Found value within range at address: 6DC2886CFC, Value: 177000126, Initial Address: 6E01D92450, Index: 211
+Found value within range at address: 6DC28840EC, Value: 177000049, Initial Address: 6E01D92500, Index: 212
+Found value within range at address: 6DC28871AC, Value: 177900017, Initial Address: 6E01D925B0, Index: 213
+Found value within range at address: 6DC2885A3C, Value: 177000091, Initial Address: 6E01D92660, Index: 214
+Found value within range at address: 6DC2887ABC, Value: 177900036, Initial Address: 6E01D92710, Index: 215
+Found value within range at address: 6DC288747C, Value: 177900052, Initial Address: 6E01D927C0, Index: 216
+Found value within range at address: 6DC288639C, Value: 177000147, Initial Address: 6E01D92870, Index: 217
+Found value within range at address: 6DC288670C, Value: 177000133, Initial Address: 6E01D92920, Index: 218
+Found value within range at address: 6DC288634C, Value: 177900006, Initial Address: 6E01D929D0, Index: 219
+Found value within range at address: 6DC2885DAC, Value: 177900008, Initial Address: 6E01D92A80, Index: 220
+Found value within range at address: 6DC28859EC, Value: 177000089, Initial Address: 6E01D92B30, Index: 221
+Found value within range at address: 6DC288620C, Value: 177000124, Initial Address: 6E01D92BE0, Index: 222
+Found value within range at address: 6DC288661C, Value: 177000136, Initial Address: 6E01D92C90, Index: 223
+Found value within range at address: 6DC2885E9C, Value: 177000137, Initial Address: 6E01D92D40, Index: 224
+Found value within range at address: 6DC2886BBC, Value: 177000158, Initial Address: 6E01D92DF0, Index: 225
+Found value within range at address: 6DC288788C, Value: 177900050, Initial Address: 6E01D92EA0, Index: 226
+Found value within range at address: 6DC288580C, Value: 177000095, Initial Address: 6E01D92F50, Index: 227
+Found value within range at address: 6DC288544C, Value: 177000099, Initial Address: 6E01D93000, Index: 228
+Found value within range at address: 6DC28868EC, Value: 177000134, Initial Address: 6E01D930B0, Index: 229
+Found value within range at address: 6DC2886C5C, Value: 177000144, Initial Address: 6E01D93160, Index: 230
+Found value within range at address: 6DC288625C, Value: 177000121, Initial Address: 6E01D93210, Index: 231
+Found value within range at address: 6DC2885B7C, Value: 177000117, Initial Address: 6E01D932C0, Index: 232
+Found value within range at address: 6DC288599C, Value: 177000071, Initial Address: 6E01D93370, Index: 233
+Found value within range at address: 6DC2885C6C, Value: 177000109, Initial Address: 6E01D93420, Index: 234
+Found value within range at address: 6DC2884E0C, Value: 177000101, Initial Address: 6E01D934D0, Index: 235
+Found value within range at address: 6DC2885FDC, Value: 177000128, Initial Address: 6E01D93630, Index: 236
+Found value within range at address: 6DC288611C, Value: 177000123, Initial Address: 6E01D936E0, Index: 237
+Found value within range at address: 6DC28867AC, Value: 177000130, Initial Address: 6E01D93790, Index: 238
+Found value within range at address: 6DC288666C, Value: 177000125, Initial Address: 6E01D93840, Index: 239
+Found value within range at address: 6DC288652C, Value: 177000148, Initial Address: 6E01D938F0, Index: 240
+Found value within range at address: 6DC288792C, Value: 177900035, Initial Address: 6E01D939A0, Index: 241
+Found value within range at address: 6DC2884DBC, Value: 177000100, Initial Address: 6E01D93A50, Index: 242
+Found value within range at address: 6DC2885F8C, Value: 177900003, Initial Address: 6E01D93B00, Index: 243
+Found value within range at address: 6DC288643C, Value: 177000132, Initial Address: 6E01D93BB0, Index: 244
+Found value within range at address: 6DC28853FC, Value: 177000096, Initial Address: 6E01D93C60, Index: 245
+Found value within range at address: 6DC28869DC, Value: 177000145, Initial Address: 6E01D93D10, Index: 246
+Found value within range at address: 6DC288693C, Value: 177000120, Initial Address: 6E01D93DC0, Index: 247
+Found value within range at address: 6DC2885D5C, Value: 177000129, Initial Address: 6E01D93E70, Index: 248
+Found value within range at address: 6DC288558C, Value: 177000105, Initial Address: 6E01D93F20, Index: 249
+Found value within range at address: 6DC288508C, Value: 177000113, Initial Address: 6E01D93FD0, Index: 250
+Found value within range at address: 6DC28854EC, Value: 177000102, Initial Address: 6E01D94080, Index: 251
+Found value within range at address: 6DC288760C, Value: 177900056, Initial Address: 6E01D94130, Index: 252
+Found value within range at address: 6DC28850DC, Value: 177000082, Initial Address: 6E01D941E0, Index: 253
+Found value within range at address: 6DC2885CBC, Value: 177000078, Initial Address: 6E01D94290, Index: 254
+Found value within range at address: 6DC28858AC, Value: 177000069, Initial Address: 6E01D94340, Index: 255
+Found value within range at address: 6DC288526C, Value: 177000081, Initial Address: 6E01D944A0, Index: 256
+Found value within range at address: 6DC288530C, Value: 177000068, Initial Address: 6E01D94550, Index: 257
+Found value within range at address: 6DC288594C, Value: 177000079, Initial Address: 6E01D94810, Index: 258
+Found value within range at address: 6DC288567C, Value: 177000088, Initial Address: 6E01D94970, Index: 259
+Found value within range at address: 6DC288409C, Value: 177000054, Initial Address: 6E01D94A20, Index: 260
+Found value within range at address: 6DC288422C, Value: 177000066, Initial Address: 6E01D94AD0, Index: 261
+Found value within range at address: 6DC2883CDC, Value: 177000065, Initial Address: 6E01D94B80, Index: 262
+Found value within range at address: 6DC28853AC, Value: 177000092, Initial Address: 6E01D94C30, Index: 263
+Found value within range at address: 6DC288576C, Value: 177000085, Initial Address: 6E01D94EF0, Index: 264
+Found value within range at address: 6DC288571C, Value: 177000098, Initial Address: 6E01D95050, Index: 265
+Found value within range at address: 6DC288701C, Value: 177900040, Initial Address: 6E01D95100, Index: 266
+Found value within range at address: 6DC288427C, Value: 177000041, Initial Address: 6E01D951B0, Index: 267
+Found value within range at address: 6DC28856CC, Value: 177000119, Initial Address: 6E01D95260, Index: 268
+Found value within range at address: 6DC2884CCC, Value: 177000118, Initial Address: 6E01D95310, Index: 269
+Found value within range at address: 6DC28866BC, Value: 177000131, Initial Address: 6E01D953C0, Index: 270
+Found value within range at address: 6DC2885ADC, Value: 177000072, Initial Address: 6E01D95470, Index: 271
+Found value within range at address: 6DC288468C, Value: 177000063, Initial Address: 6E01D95520, Index: 272
+Found value within range at address: 6DC288486C, Value: 177000062, Initial Address: 6E01D955D0, Index: 273
+Found value within range at address: 6DC2884E5C, Value: 177000070, Initial Address: 6E01D95680, Index: 274
+Found value within range at address: 6DC2884FEC, Value: 177000083, Initial Address: 6E01D95730, Index: 275
+Found value within range at address: 6DC2883FFC, Value: 177000051, Initial Address: 6E01D957E0, Index: 276
+Found value within range at address: 6DC28851CC, Value: 177000093, Initial Address: 6E01D95890, Index: 277
+Found value within range at address: 6DC2884F9C, Value: 177000097, Initial Address: 6E01D95940, Index: 278
+Found value within range at address: 6DC2887A1C, Value: 177900047, Initial Address: 6E01D959F0, Index: 279
+Found value within range at address: 6DC288512C, Value: 177000103, Initial Address: 6E01D95AA0, Index: 280
+Found value within range at address: 6DC288535C, Value: 177000108, Initial Address: 6E01D95B50, Index: 281
+Found value within range at address: 6DC28857BC, Value: 177000086, Initial Address: 6E01D95C00, Index: 282
+Found value within range at address: 6DC2886A7C, Value: 177000146, Initial Address: 6E01D95CB0, Index: 283
+Found value within range at address: 6DC2884C7C, Value: 177000055, Initial Address: 6E01D95E10, Index: 284
+Found value within range at address: 6DC2884B3C, Value: 177000060, Initial Address: 6E01D95EC0, Index: 285
+Found value within range at address: 6DC288521C, Value: 177000087, Initial Address: 6E01D95F70, Index: 286
+Found value within range at address: 6DC288477C, Value: 177000024, Initial Address: 6E01D96020, Index: 287
+Found value within range at address: 6DC288490C, Value: 177000053, Initial Address: 6E01D96180, Index: 288
+Found value within range at address: 6DC28845EC, Value: 177000067, Initial Address: 6E01D96230, Index: 289
+Found value within range at address: 6DC28861BC, Value: 177000138, Initial Address: 6E01D962E0, Index: 290
+Found value within range at address: 6DC2886ACC, Value: 177000135, Initial Address: 6E01D96390, Index: 291
+Found value within range at address: 6DC288459C, Value: 177000061, Initial Address: 6E01D96440, Index: 292
+Found value within range at address: 6DC288373C, Value: 177000013, Initial Address: 6E01D965A0, Index: 293
+Found value within range at address: 6DC28834BC, Value: 177000001, Initial Address: 6E01D96650, Index: 294
+Found value within range at address: 6DC288404C, Value: 177000052, Initial Address: 6E01D967B0, Index: 295
+Found value within range at address: 6DC2883E6C, Value: 177000059, Initial Address: 6E01D96860, Index: 296
+Found value within range at address: 6DC2884A9C, Value: 177000064, Initial Address: 6E01D969C0, Index: 297
+Found value within range at address: 6DC2884AEC, Value: 177000058, Initial Address: 6E01D96A70, Index: 298
+Found value within range at address: 6DC288481C, Value: 177000037, Initial Address: 6E01D96B20, Index: 299
+Found value within range at address: 6DC288436C, Value: 177000043, Initial Address: 6E01D96BD0, Index: 300
+Found value within range at address: 6DC288454C, Value: 177000030, Initial Address: 6E01D96C80, Index: 301
+Found value within range at address: 6DC2883C3C, Value: 177000002, Initial Address: 6E01D96E90, Index: 302
+Found value within range at address: 6DC28844FC, Value: 177000017, Initial Address: 6E01D96F40, Index: 303
+Found value within range at address: 6DC2885B2C, Value: 177000080, Initial Address: 6E01D96FF0, Index: 304
+Found value within range at address: 6DC288440C, Value: 177000031, Initial Address: 6E01D970A0, Index: 305
+Found value within range at address: 6DC288328C, Value: 177000003, Initial Address: 6E01D97200, Index: 306
+Found value within range at address: 6DC2884B8C, Value: 177000023, Initial Address: 6E01D972B0, Index: 307
+Found value within range at address: 6DC2882D3C, Value: 177000011, Initial Address: 6E01D97360, Index: 308
+Found value within range at address: 6DC2883D2C, Value: 177000056, Initial Address: 6E01D97410, Index: 309
+Found value within range at address: 6DC2883D7C, Value: 177000035, Initial Address: 6E01D974C0, Index: 310
+Found value within range at address: 6DC28841DC, Value: 177000019, Initial Address: 6E01D97570, Index: 311
+Found value within range at address: 6DC2883F0C, Value: 177000025, Initial Address: 6E01D97620, Index: 312
+Found value within range at address: 6DC288337C, Value: 177000007, Initial Address: 6E01D976D0, Index: 313
+Found value within range at address: 6DC288319C, Value: 177000014, Initial Address: 6E01D97A40, Index: 314
+Found value within range at address: 6DC2883FAC, Value: 177000048, Initial Address: 6E01D97AF0, Index: 315
+Found value within range at address: 6DC28849AC, Value: 177000016, Initial Address: 6E01D97BA0, Index: 316
+Found value within range at address: 6DC288314C, Value: 177000006, Initial Address: 6E01D97C50, Index: 317
+Found value within range at address: 6DC28846DC, Value: 177000045, Initial Address: 6E01D97D00, Index: 318
+Found value within range at address: 6DC288445C, Value: 177000029, Initial Address: 6E01D97E60, Index: 319
+Found value within range at address: 6DC2883C8C, Value: 177000022, Initial Address: 6E01D97F10, Index: 320
+Found value within range at address: 6DC288413C, Value: 177000042, Initial Address: 6E01D97FC0, Index: 321
+Found value within range at address: 6DC288431C, Value: 177000047, Initial Address: 6E01D98070, Index: 322
+Found value within range at address: 6DC28843BC, Value: 177000046, Initial Address: 6E01D98120, Index: 323
+Found value within range at address: 6DC28830FC, Value: 177000009, Initial Address: 6E01D981D0, Index: 324
+Found value within range at address: 6DC28847CC, Value: 177000057, Initial Address: 6E01D98280, Index: 325
+Found value within range at address: 6DC28844AC, Value: 177000033, Initial Address: 6E01D98490, Index: 326
+Found value within range at address: 6DC28849FC, Value: 177000044, Initial Address: 6E01D98540, Index: 327
+Found value within range at address: 6DC28848BC, Value: 177000034, Initial Address: 6E01D985F0, Index: 328
+Found value within range at address: 6DC28842CC, Value: 177000040, Initial Address: 6E01D98750, Index: 329
+Found value within range at address: 6DC2883E1C, Value: 177000032, Initial Address: 6E01D98D80, Index: 330
+Found value within range at address: 6DC288391C, Value: 177000008, Initial Address: 6E01D99300, Index: 331
+Found value within range at address: 6DC28836EC, Value: 177000015, Initial Address: 6E01D99880, Index: 332
+Found value within range at address: 6DC2884A4C, Value: 177000020, Initial Address: 6E01D99930, Index: 333
+Found value within range at address: 6DC288472C, Value: 177000039, Initial Address: 6E01D9A170, Index: 334
+Found value within range at address: 6DC28833CC, Value: 177000005, Initial Address: 6E01D9C690, Index: 335
+Found value within range at address: 6DC2883EBC, Value: 177000021, Initial Address: 6E01D9CE20, Index: 336
+Found value within range at address: 6DC2884F4C, Value: 177000090, Initial Address: 6E01D9D2F0, Index: 337
+Found value within range at address: 6DC288495C, Value: 177000027, Initial Address: 6E01D9D500, Index: 338
+Found value within range at address: 6DC2883DCC, Value: 177000018, Initial Address: 6E01D9D5B0, Index: 339
+Found value within range at address: 6DC28838CC, Value: 177000010, Initial Address: 6E01D9D660, Index: 340
+Found value within range at address: 6DC288332C, Value: 177000012, Initial Address: 6E01D9E580, Index: 341
+Found value within range at address: 6DC288549C, Value: 177000112, Initial Address: 6E01D9ED10, Index: 342

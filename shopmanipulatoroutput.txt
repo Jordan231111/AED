@@ -1,174 +1,342 @@
-Iridescent Crystal::2132000504
-Rainbow Mystal III::2132000180
-Gourmet Flour::2132000512
-Cloudy Crystal::2132000537
-Bug Net::2132000035
-Luxurious Cream::2132000532
-Aperture Sugar::2132000238
-Conductive Sheet::2132000529
-Cute Doll::2132000539
-Heat-Resistant Bucket::2132000526
-Floral Nectar::2132000244
-Fine Floral Nectar::2132000246
-Bug Net::2132000031
-Odd Elixir::2132000519
-Scorching Stone III::2132000252
-Fallen Temptation::2132000517
-Fine Building Boards::2132000228
-Tears of Aperture::2132000500
-Cloudy Crystal::2132000536
-Luxurious Cream::2132000531
-Elixir of Aperture::2132000507
-Cloudy Crystal::2132000538
-Misty Velour::2132000214
-Odd Elixir::2132000520
-Karna's Pendant::2132000521
-Plain Tart::2132000533
-Wind Shoes II::2132000053
-Fallen Temptation::2132000516
-Refined Floral Nectar::2132000245
-Cute Doll::2132000540
-Karna's Pendant::2132000523
-Plain Tart::2132000535
-Fine Aperture Sugar::2132000240
-Heat-Resistant Bucket::2132000524
-Gourmet Flour::2132000513
-Odd Elixir::2132000518
-Luxurious Cream::2132000530
-Plain Biscuit::2132000546
-Conductive Sheet::2132000528
-Heat-Resistant Bucket::2132000525
-Sage's Stone::2132000510
-Ingot II::2132000197
-Rainbow Mystal::2132000178
-Fine Fragrant Wood::2132000234
-Tears of Aperture::2132000501
-Wild Leather III::2132000222
-Misty Diamond III::2132000192
-Mistinite III::2132000204
-Fragrant Wood::2132000232
-Fine Sticky Bait::2132000162
-Aperturium III::2132000210
-Refined Fragrant Wood::2132000233
-Finest Y. Supplement::2132000156
-Wild Leather II::2132000221
-Polish Powder::2132000172
-Mistinite II::2132000203
-Refined Y. Supplement::2132000155
-Princess of Darkness Tart::2132000544
-Sage's Stone::2132000509
-Fallen Temptation::2132000515
-Scorching Stone II::2132000251
-Sage's Stone::2132000511
-Mistinite::2132000202
-Cute Doll::2132000541
-Karna's Pendant::2132000522
-Fine Polish Powder::2132000174
-Scorching Stone::2132000250
-Gourmet Flour::2132000514
-Gaia Pearl II::2132000185
-Iridescent Crystal::2132000503
-Elixir of Aperture::2132000508
-Wild Leather::2132000220
-Green Supplement::2132000148
-Tears of Aperture::2132000502
-Iridescent Crystal::2132000505
-Conductive Sheet::2132000527
-Mystic Flow::2132000126
-Ingot::2132000196
-Refined Aperture Sugar::2132000239
-Elixir of Aperture::2132000506
-Misty Diamond II::2132000191
-Rainbow Mystal II::2132000179
-Gaia Pearl III::2132000186
-Fishing Rod::2132000040
-Spirit Song::2132000120
-Bug Net::2132000038
-Bug Net::2132000037
-Synth Fiber::2132000166
-Flour::2132000112
-Taboo Drip::2132000101
-Mystic Ripple::2132000125
-Refined Building Boards::2132000227
-Wind Shoes II::2132000052
-Spirit Whisper::2132000119
-Refined Synth Fiber::2132000167
-Misty Velour II::2132000215
-Reaper's Scythe::2132000005
-Fine Synth Fiber::2132000168
-Fishing Rod::2132000044
-Misty Diamond::2132000190
-Red Supplement::2132000136
-Finest G. Supplement::2132000150
-Holy Drip::2132000107
-Building Boards::2132000226
-Princess of Darkness Tart::2132000543
-Reaper's Scythe::2132000004
-Light of Aperture::2132000130
-Bug Net::2132000036
-Hammer::2132000019
-Finest B. Supplement::2132000144
-Refined Flour::2132000113
-Blue Supplement::2132000142
-Aperturium::2132000208
-Holy Pellet::2132000106
-Plain Biscuit::2132000547
-Aperturium II::2132000209
-Refined B. Supplement::2132000143
-Exploration Shoes::2132000048
-Fishing Rod::2132000043
-Mystic Droplet::2132000124
-Bug Net::2132000032
-Holy Haze::2132000108
-Bomb Hammer II::2132000026
-Spirit Sigh::2132000118
-Spark of Aperture::2132000132
-Fishing Rod::2132000045
-Reaper's Scythe::2132000001
-Scythe Axe::2132000008
-Bug Net::2132000034
-Hammer::2132000017
-Taboo Pellet::2132000100
-Fine Flour::2132000114
-Taboo Haze::2132000102
-Scythe Axe::2132000009
-Hammer::2132000020
-Hammer::2132000018
-Refined Polish Powder::2132000173
-Bomb Hammer II::2132000021
-Yellow Supplement::2132000154
-Scythe Axe::2132000011
-Fishing Rod::2132000039
-Scythe Axe::2132000010
-Hammer::2132000015
-Fishing Rod::2132000047
-Reaper's Scythe::2132000002
-Finest R. Supplement::2132000138
-Refined R. Supplement::2132000137
-Scythe Axe::2132000012
-Bomb Hammer II::2132000025
-Fishing Rod::2132000041
-Exploration Shoes::2132000050
-Gaia Pearl::2132000184
-Reaper's Scythe::2132000003
-Bomb Hammer II::2132000023
-Fishing Rod::2132000042
-Refined G. Supplement::2132000149
-Misty Velour III::2132000216
-Wind Shoes II::2132000051
-Hammer::2132000016
-Princess of Darkness Tart::2132000542
-Fishing Rod::2132000046
-Dawn of Aperture::2132000131
-Bomb Hammer II::2132000022
-Bug Net::2132000030
-Bug Net::2132000033
-Reaper's Scythe::2132000006
-Plain Biscuit::2132000545
-Ingot III::2132000198
-Scythe Axe::2132000007
-Exploration Shoes::2132000049
-Refined Sticky Bait::2132000161
-Sticky Bait::2132000160
-Bomb Hammer II::2132000024
-Plain Tart::2132000534
+Archaeologist Star Trail Drop::177900143
+Whisper of Time::177900087
+★5確定出逢いチケット::177000114
+星跡のしずく・サクヤビメ::177000111
+星跡のしずく・サクヤビメ::177000074
+時の囁きのひとひら::177000038
+時の囁きのひとひら::177900037
+Verdanta Star Trail Drop::177900182
+Verdanta Star Trail Drop::177900085
+Unut Star Trail Drop::177900161
+Nina Star Trail Drop::177900169
+Whisper of Time::177900176
+Star Dreams Piece::177900062
+5-Star Guaranteed Ticket::177900136
+Étoile Star Trail Drop::177900160
+Whisper of Time Drop::177900088
+Dionysus Star Trail Drop::177900171
+8th Anniv. C-down Star Trail Drop::177900138
+Encounter Ewan::177900104
+Catch-Up Campaign Special Ticket::177900083
+5-Star Guar. Ticket::177900181
+Chapter 13 CP Ticket::177900086
+Lone Encounter Ticket::177900178
+Destiny Token::177900075
+Encounter Hismena::177900149
+Part 3 Guiding Drop::177900101
+Encounter Rosetta::177900172
+Whisper of Time::177900096
+Star Dreams Piece::177900120
+Naivete Star Trail Drop::177900179
+Okuninushi Star Trail Drop::177900135
+Destiny Token::177900167
+Clughorn Star Trail Drop::177900177
+Whisper of Time Drop::177900128
+Whisper of Time::177900145
+Ame-no-Uzume Star Trail Drop::177900131
+Guiding Star Drop::177900175
+Whisper of Time Token::177900121
+Sweet Lady Star Trail Drop::177900152
+Futsunomitama Star Trail Drop::177900140
+8.5th Star Trail Drop::177900173
+Encounter Thillelille::177900180
+Reviver Star Trail Drop::177900129
+Encounter Lokido::177900162
+Id Star Trail Drop::177900116
+Encounter Anabel::177900170
+Sakuya-bime Star Trail Drop::177900133
+Lone Encounter Ticket (Land)::177900166
+Encounter Renri::177900153
+Guiding Star Drop::177900132
+Whisper of Time::177900164
+Star Dreams Piece::177900102
+冥のしずくのかけら::177000050
+Whisper of Time Token::177900092
+Kagurame Star Trail Drop::177900124
+時の囁きのしずく::177000075
+Day 3000 Star Trail Drop::177900155
+Guiding Star Drop::177900126
+Voleur Star Trail Drop::177900148
+Whisper of Time Drop::177900146
+Linaria Star Trail Drop::177900150
+Whisper of Time Drop::177900122
+Azure Retainer Star Trail Drop::177900168
+Encounter Toova::177900130
+Guiding Adventure Token::177900106
+Encounter Shion::177900108
+Guiding Star Drop::177900154
+Encounter Eva::177900125
+Encounter Cetie::177900151
+Luring Shadow Drop::177900034
+Sky Lesson's Token::177900010
+Whisper of Time Drop::177900165
+Star Dreams Piece::177900030
+Camena Star Trail Drop::177900118
+Whisper of Time::177900127
+Encounter Mariel::177900159
+Encounter Isuka::177900134
+Guiding Star Drop::177900112
+Encounter Yuna::177900117
+Encounter Melissa::177900094
+Whisper of Time Drop::177900066
+Star Dreams Piece::177900163
+Nilya Star Trail Drop::177900139
+10 Allies Bundle Ticket::177900137
+Whisper of Time::177900114
+Encounter Tsukiha::177900090
+Last Haven Star Trail Drop::177900147
+Whisper of Time::177900076
+Encounter Melina::177900105
+Whisper of Time Drop::177900073
+Encounter Myrus::177900144
+Daikokuten Star Trail Drop::177900156
+Part 2 Campaign Ticket::177900080
+Encounter Bertrand::177900100
+Whisper of Time Drop::177900097
+Star Dreams Piece::177900109
+Part 2 Campaign Ticket::177900078
+Bête Théâtrale Star Trail Drop::177900123
+Mildy Star Trail Drop::177900174
+Luring Shadow Drop::177900038
+時の囁きのひとひら::177000142
+Whisper of Time Drop::177900077
+Nekomata Avatar Star Trail Drop::177900119
+Whisper of Time Drop::177900021
+Whisper of Time::177900103
+Star Dreams Piece::177900046
+Whisper of Time Drop::177900111
+Whisper of Time::177900157
+Encounter Suzette::177900089
+Whisper of Time::177900031
+Whisper of Time::177900041
+Star Dreams Piece::177900084
+Whisper of Time Drop::177900042
+Destiny Token::177900059
+Resonant Strife Drop::177900068
+Luring Shadow Fragment::177900071
+Star Dreams Piece::177900098
+Whisper of Time::177900072
+Star Dreams Piece::177900074
+Whisper of Time Drop::177900093
+星の夢のかけら::177000036
+Whisper of Time::177900051
+Star Dreams Piece::177900091
+Part 3 Guiding Drop::177900082
+Encounter Tiramisu::177900095
+Star Dreams Piece::177900069
+Part 2 Campaign Ticket::177900081
+Star Dreams Piece::177900049
+Moon Prayer Drop::177900025
+Star Dreams Piece::177900039
+Destiny Token::177900012
+5-Star Guaranteed Ticket::177900107
+Guiding Star Drop::177900099
+Encounter Shanie::177900113
+Star Dreams Piece::177900067
+Encounter Mighty::177900115
+Weapon Resonance Series (x1)::177900060
+Guiding Light Fragment::177900070
+Part 2 Campaign Ticket::177900079
+Whisper of Time::177900063
+Weapon Resonance Series (x10)::177900061
+Whisper of Time::177900054
+星の夢のかけら::177000076
+Moon Prayer Drop::177900026
+Rainbow Radiance Drop::177900029
+Whisper of Time::177900110
+Guiding Star Drop::177900142
+運命のしずく::177000026
+Whisper of Time::177900011
+星の導きのしずく::177000154
+Whisper of Time::177000028
+Celestial Spark::177900045
+Whisper of Time::177900048
+星跡のしずく・イグノランス::177000157
+Netherworld Princess Fragment::177900032
+Woodcutter's Fragment::177900002
+Whisper of Time::177900007
+星跡のしずく・ウェネト::177000139
+星の導きのしずく::177000077
+3rd Anniversary Drop::177900053
+Destiny Token::177900013
+星跡のしずく・イド::177000094
+時の囁きのしずく::177000143
+ロキドと出逢う::177000140
+Seven Stars Piece::177900043
+Princess' Prayer Fragment::177900001
+星跡のしずく・ミルディ::177000152
+Whisper of Time::177900022
+Prophet Star Trail Drop::177900158
+星の導きのしずく::177000104
+ロゼッタと出逢う::177000150
+Star Dreams Piece::177900009
+Whisper of Time::177900019
+星跡のしずく・クラグホーン::177000155
+Whisper of Time Drop::177900055
+Moon Prayer Drop::177900028
+星跡のしずく・リバイバー::177000107
+ミュルスと出逢う::177000122
+星跡のしずく・8.5th::177000151
+Star Dreams Piece::177900023
+Holy Prayer Spirit::177900027
+Star Dreams Piece::177900058
+Star Dreams Piece::177900141
+Grand Masters Drop::177900057
+時の囁きのひとひら::177000153
+Whisper of Time Drop::177900064
+Star Dreams Piece::177900004
+Holy Knight Fragment::177900014
+Destiny Token::177900024
+Whisper of Time::177900018
+Destiny Token::177900016
+星の夢のかけら::177000141
+Destiny Token (Moon)::177900005
+十の出逢いチケット::177000115
+ひとたびの出逢いチケット::177000156
+星跡のしずく・ディオニュソス::177000149
+Guide of the Land Spirit::177900044
+Researcher Fragment::177900015
+Destiny Token::177900033
+Whisper of Time::177900065
+星の導きのしずく::177000110
+冒険の導きのしおり::177000084
+星跡のしずく・ヴェルダンタ::177000159
+Whisper of Time::177900020
+ティラミスと出逢う::177000073
+★5確定出逢いチケット::177000160
+星跡のしずく・8th CD::177000116
+ヒスメナと出逢う::177000127
+Star Dreams Piece::177000004
+時の囁きのしずく::177000106
+星跡のしずく・ヴォルール::177000126
+天のしずくのかけら::177000049
+Star Dreams Piece::177900017
+シェイネと出逢う::177000091
+Whisper of Time::177900036
+Whisper of Time Drop::177900052
+星跡のしずく・ニナ::177000147
+星跡のしずく・3000Days::177000133
+Star Dreams Piece::177900006
+Whisper of Time::177900008
+時の囁きのしずく::177000089
+時の囁きのしずく::177000124
+星跡のしずく・プロフェット::177000136
+マリエルと出逢う::177000137
+チルリルと出逢う::177000158
+Destiny Token::177900050
+星跡のしずく・カメーネ::177000095
+時の囁きのしおり::177000099
+星跡のしずく・ダイコクテン::177000134
+ひとたびの出逢いチケット(大地)::177000144
+星跡のしずく・アークロジスト::177000121
+星跡のしずく・ニルヤ::177000117
+時の囁きのしずく::177000071
+星跡のしずく・アメノウズメ::177000109
+星跡のしずく・テアトラルベート::177000101
+星跡のしずく・リナリア::177000128
+時の囁きのひとひら::177000123
+星跡のしずく・スウィートレディ::177000130
+星跡のしずく・ラストヘイヴン::177000125
+アナベルと出逢う::177000148
+Star Dreams Piece::177900035
+時の囁きのしずく::177000100
+Destiny Token::177900003
+星の導きのしずく::177000132
+ユナと出逢う::177000096
+めぐり逢いのしおり::177000145
+星の導きのしずく::177000120
+セティーと出逢う::177000129
+時の囁きのひとひら::177000105
+星跡のしずく・オオクニヌシ::177000113
+星跡のしずく・カグラメ::177000102
+Star Dreams Piece::177900056
+ユーインと出逢う::177000082
+ベルトランと出逢う::177000078
+星の夢のかけら::177000069
+時の囁きのひとひら::177000081
+時の囁きのひとひら::177000068
+第3部導きのしずく::177000079
+時の囁きのひとひら::177000088
+時の囁きのひとひら::177000054
+時の囁きのひとひら::177000066
+第13章CPチケット::177000065
+時の囁きのひとひら::177000092
+★5確定出逢いチケット::177000085
+星の夢のかけら::177000098
+Guiding Light Drop::177900040
+時の囁きのひとひら::177000041
+星の夢のかけら::177000119
+星跡のしずく・フツノミタマ::177000118
+レンリと出逢う::177000131
+メリッサと出逢う::177000072
+シュゼットと出逢う::177000063
+第3部導きのしずく::177000062
+時の囁きのしおり::177000070
+メリナと出逢う::177000083
+時の囁きのひとひら::177000051
+マイティと出逢う::177000093
+星跡のしずく・猫又権現::177000097
+Whisper of Time::177900047
+エヴァと出逢う::177000103
+トゥーヴァと出逢う::177000108
+シオンと出逢う::177000086
+星跡のしずく・蒼色の忠臣::177000146
+時の囁きのひとひら::177000055
+第3部導きのしずく::177000060
+星の夢のかけら::177000087
+Luring Shadow Drop::177000024
+星の夢のかけら::177000053
+時の囁きのしずく::177000067
+星跡のしずく・エトワール::177000138
+時の囁きのひとひら::177000135
+星の夢のかけら::177000061
+Whisper of Time::177000013
+Silver Ticket::177000001
+時の囁きのしずく::177000052
+第2部CPチケット::177000059
+ツキハと出逢う::177000064
+第2部CPチケット::177000058
+武具の煌きのしずく::177000037
+時の囁きのひとひら::177000043
+Star Dreams Piece::177000030
+First Ticket::177000002
+Seven Stars Piece::177000017
+星の夢のかけら::177000080
+天の導きのしずく::177000031
+Gold Ticket::177000003
+Star Dreams Piece::177000023
+Princess' Prayer Fragment::177000011
+第2部CPチケット::177000056
+時の囁きのしずく::177000035
+Whisper of Time::177000019
+Star Dreams Piece::177000025
+Star Dreams Piece::177000007
+Whisper of Time::177000014
+星の夢のかけら::177000048
+Holy Prayer Spirit::177000016
+Moon Prayer Drop::177000006
+戦陣の響きのしずく::177000045
+Whisper of Time Drop::177000029
+Rainbow Radiance Drop::177000022
+星の夢のかけら::177000042
+時の囁きのしずく::177000047
+時の囁きのひとひら::177000046
+Star Dreams Piece::177000009
+第2部CPチケット::177000057
+星の夢のかけら::177000033
+時の囁きのしずく::177000044
+時の囁きのひとひら::177000034
+星の夢のかけら::177000040
+Star Dreams Piece::177000032
+Sky Lesson's Token::177000008
+Star Dreams Piece::177000015
+Whisper of Time Drop::177000020
+時の囁きのしずく::177000039
+Time Wish Spirit::177000005
+Guide of the Land Spirit::177000021
+星の導きのしずく::177000090
+Luring Shadow Drop::177000027
+Celestial Spark::177000018
+Star Dreams Piece::177000010
+Knight's Prayer Piece::177000012
+イスカと出逢う::177000112

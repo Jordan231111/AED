@@ -1,4 +1,25 @@
 #!/bin/sh
+# Remove temp files on exit
+trap 'rm -f "$removed_tmp" "$added_tmp"' EXIT
+removed_tmp=$(mktemp)
+added_tmp=$(mktemp)
+
+filter_added_lines() {
+  awk -v removed_file="$1" '
+    FILENAME == removed_file {count[$0]++; next}
+    {
+      if (count[$0] > 0) {
+        count[$0]--;
+        next;
+      }
+      if ($0 ~ /[^[:space:]]/) {
+        line = $0
+        sub(/::.*$/, "", line)
+        print line
+      }
+    }
+  ' "$1" "$2"
+}
 
 FILE_TO_TRACK="7huibjgkll.txt"
 
@@ -19,9 +40,14 @@ else
 
     echo "\n--- ${commit_date} ---"
 
-    # Get added lines, remove '+', remove '::.*', and add line numbers for this commit
-    # Only for the specific file
-    added_lines=$(git show "$commit_sha" --pretty=format: --unified=0 -- "$FILE_TO_TRACK" | grep '^+[^+]' | sed -e 's/^+//' -e 's/::.*//')
+    # Get removed lines (raw content)
+    git show "$commit_sha" --pretty=format: --unified=0 -- "$FILE_TO_TRACK" | grep '^-' | grep -v '^--- ' | sed -e 's/^-//' > "$removed_tmp"
+
+    # Get added lines (raw content)
+    git show "$commit_sha" --pretty=format: --unified=0 -- "$FILE_TO_TRACK" | grep '^+' | grep -v '^+++ ' | sed -e 's/^+//' > "$added_tmp"
+
+    # Filter: Added lines NOT matched by removals, drop blanks, strip IDs
+    added_lines=$(filter_added_lines "$removed_tmp" "$added_tmp")
 
     if [ -n "$added_lines" ]; then
       # Pipe the lines to awk for numbering
@@ -32,17 +58,26 @@ else
   done
 fi
 
-echo "\n\n### Current Staged/Uncommitted Added Lines for $FILE_TO_TRACK ###"
+echo "\n\n### Current Unstaged Added Lines for $FILE_TO_TRACK ###"
 
-# Run the original command logic for current changes (staged or unstaged)
-# Only for the specific file
-current_added_lines=$(git diff --unified=0 -- "$FILE_TO_TRACK" | grep '^+[^+]' | sed -e 's/^+//' -e 's/::.*//') # Check unstaged
-if [ -z "$current_added_lines" ]; then
-    current_added_lines=$(git diff --cached --unified=0 -- "$FILE_TO_TRACK" | grep '^+[^+]' | sed -e 's/^+//' -e 's/::.*//') # Check staged
+git diff --unified=0 -- "$FILE_TO_TRACK" | grep '^-' | grep -v '^--- ' | sed -e 's/^-//' > "$removed_tmp"
+git diff --unified=0 -- "$FILE_TO_TRACK" | grep '^+' | grep -v '^+++ ' | sed -e 's/^+//' > "$added_tmp"
+unstaged_added=$(filter_added_lines "$removed_tmp" "$added_tmp")
+
+if [ -n "$unstaged_added" ]; then
+  echo "$unstaged_added" | awk '{print NR ": " $0}'
+else
+  echo "(No relevant unstaged additions found for $FILE_TO_TRACK)"
 fi
 
-if [ -n "$current_added_lines" ]; then
-  echo "$current_added_lines" | awk '{print NR ": " $0}'
+echo "\n### Current Staged Added Lines for $FILE_TO_TRACK ###"
+
+git diff --cached --unified=0 -- "$FILE_TO_TRACK" | grep '^-' | grep -v '^--- ' | sed -e 's/^-//' > "$removed_tmp"
+git diff --cached --unified=0 -- "$FILE_TO_TRACK" | grep '^+' | grep -v '^+++ ' | sed -e 's/^+//' > "$added_tmp"
+staged_added=$(filter_added_lines "$removed_tmp" "$added_tmp")
+
+if [ -n "$staged_added" ]; then
+  echo "$staged_added" | awk '{print NR ": " $0}'
 else
-  echo "(No relevant current additions found for $FILE_TO_TRACK in staging or working directory)"
+  echo "(No relevant staged additions found for $FILE_TO_TRACK)"
 fi
