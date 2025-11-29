@@ -1,296 +1,348 @@
-Found value within range at address: 7487C4038C, Value: 2136000362, Initial Address: 74C70EAF20, Index: 1
-Found value within range at address: 7487C3FEDC, Value: 2136000384, Initial Address: 74C70EB340, Index: 2
-Found value within range at address: 7487C40BAC, Value: 2136000321, Initial Address: 74C70ED230, Index: 3
-Found value within range at address: 7487C4010C, Value: 2136000286, Initial Address: 74C70ED390, Index: 4
-Found value within range at address: 7487C4006C, Value: 2136000347, Initial Address: 74C70ED5A0, Index: 5
-Found value within range at address: 7487C4033C, Value: 2136000310, Initial Address: 74C70ED650, Index: 6
-Found value within range at address: 7487C4042C, Value: 2136000322, Initial Address: 74C70ED7B0, Index: 7
-Found value within range at address: 7487C40B5C, Value: 2136000343, Initial Address: 74C70ED860, Index: 8
-Found value within range at address: 7487C4024C, Value: 2136000284, Initial Address: 74C70ED9C0, Index: 9
-Found value within range at address: 7487C3F34C, Value: 2136000167, Initial Address: 74C70EDBD0, Index: 10
-Found value within range at address: 7487C4083C, Value: 2136000421, Initial Address: 74C70EE200, Index: 11
-Found value within range at address: 7487C4056C, Value: 2136000342, Initial Address: 74C70EE360, Index: 12
-Found value within range at address: 7487C40D3C, Value: 2136000348, Initial Address: 74C70EE410, Index: 13
-Found value within range at address: 7487C3EF3C, Value: 2136000206, Initial Address: 74C70EE620, Index: 14
-Found value within range at address: 7487C4100C, Value: 2136000511, Initial Address: 74C70EE6D0, Index: 15
-Found value within range at address: 7487C401FC, Value: 2136000402, Initial Address: 74C70EE780, Index: 16
-Found value within range at address: 7487C40ABC, Value: 2136000301, Initial Address: 74C70EE830, Index: 17
-Found value within range at address: 7487C40F1C, Value: 2136000503, Initial Address: 74C70EEA40, Index: 18
-Found value within range at address: 7487C40D8C, Value: 2136000513, Initial Address: 74C70EEAF0, Index: 19
-Found value within range at address: 7487C3FD4C, Value: 2136000344, Initial Address: 74C70EED00, Index: 20
-Found value within range at address: 7487C409CC, Value: 2136000422, Initial Address: 74C70EEF10, Index: 21
-Found value within range at address: 7487C405BC, Value: 2136000385, Initial Address: 74C70EEFC0, Index: 22
-Found value within range at address: 7487C3FF7C, Value: 2136000345, Initial Address: 74C70EF330, Index: 23
-Found value within range at address: 7487C3F89C, Value: 2136000162, Initial Address: 74C70EF3E0, Index: 24
-Found value within range at address: 7487C4128C, Value: 2136000508, Initial Address: 74C70EF540, Index: 25
-Found value within range at address: 7487C3F61C, Value: 2136000168, Initial Address: 74C70EF5F0, Index: 26
-Found value within range at address: 7487C41C8C, Value: 2136000501, Initial Address: 74C70EF6A0, Index: 27
-Found value within range at address: 7487C3FD9C, Value: 2136000264, Initial Address: 74C70EF750, Index: 28
-Found value within range at address: 7487C4097C, Value: 2136000349, Initial Address: 74C70EF8B0, Index: 29
-Found value within range at address: 7487C3FC0C, Value: 2136000182, Initial Address: 74C70EF960, Index: 30
-Found value within range at address: 7487C3FACC, Value: 2136000086, Initial Address: 74C70EFA10, Index: 31
-Found value within range at address: 7487C3F16C, Value: 2136000161, Initial Address: 74C70EFB70, Index: 32
-Found value within range at address: 7487C404CC, Value: 2136000363, Initial Address: 74C70EFC20, Index: 33
-Found value within range at address: 7487C4169C, Value: 2136000509, Initial Address: 74C70EFCD0, Index: 34
-Found value within range at address: 7487C40C9C, Value: 2136000381, Initial Address: 74C70EFE30, Index: 35
-Found value within range at address: 7487C407EC, Value: 2136000403, Initial Address: 74C70EFEE0, Index: 36
-Found value within range at address: 7487C4001C, Value: 2136000383, Initial Address: 74C70EFF90, Index: 37
-Found value within range at address: 7487C4173C, Value: 2136000504, Initial Address: 74C70F0040, Index: 38
-Found value within range at address: 7487C3FB1C, Value: 2136000201, Initial Address: 74C70F00F0, Index: 39
-Found value within range at address: 7487C4074C, Value: 2136000441, Initial Address: 74C70F01A0, Index: 40
-Found value within range at address: 7487C40BFC, Value: 2136000386, Initial Address: 74C70F0250, Index: 41
-Found value within range at address: 7487C3FBBC, Value: 2136000169, Initial Address: 74C70F03B0, Index: 42
-Found value within range at address: 7487C3FE8C, Value: 2136000341, Initial Address: 74C70F0510, Index: 43
-Found value within range at address: 7487C415FC, Value: 2136000510, Initial Address: 74C70F0670, Index: 44
-Found value within range at address: 7487C4015C, Value: 2136000285, Initial Address: 74C70F0720, Index: 45
-Found value within range at address: 7487C4029C, Value: 2136000263, Initial Address: 74C70F0880, Index: 46
-Found value within range at address: 7487C3E21C, Value: 2136000025, Initial Address: 74C70F0930, Index: 47
-Found value within range at address: 7487C3E30C, Value: 2136000006, Initial Address: 74C70F0A90, Index: 48
-Found value within range at address: 7487C40E7C, Value: 2136000506, Initial Address: 74C70F0B40, Index: 49
-Found value within range at address: 7487C40C4C, Value: 2136000266, Initial Address: 74C70F0CA0, Index: 50
-Found value within range at address: 7487C4079C, Value: 2136000304, Initial Address: 74C70F0D50, Index: 51
-Found value within range at address: 7487C4047C, Value: 2136000423, Initial Address: 74C70F0EB0, Index: 52
-Found value within range at address: 7487C4065C, Value: 2136000443, Initial Address: 74C70F0F60, Index: 53
-Found value within range at address: 7487C419BC, Value: 2136000512, Initial Address: 74C70F1010, Index: 54
-Found value within range at address: 7487C3F93C, Value: 2136000203, Initial Address: 74C70F1170, Index: 55
-Found value within range at address: 7487C4141C, Value: 2136000514, Initial Address: 74C70F1220, Index: 56
-Found value within range at address: 7487C3F5CC, Value: 2136000243, Initial Address: 74C70F14E0, Index: 57
-Found value within range at address: 7487C3FDEC, Value: 2136000323, Initial Address: 74C70F1590, Index: 58
-Found value within range at address: 7487C40A6C, Value: 2136000283, Initial Address: 74C70F1640, Index: 59
-Found value within range at address: 7487C3FCFC, Value: 2136000142, Initial Address: 74C70F16F0, Index: 60
-Found value within range at address: 7487C3ED5C, Value: 2136000242, Initial Address: 74C70F17A0, Index: 61
-Found value within range at address: 7487C3F75C, Value: 2136000152, Initial Address: 74C70F1850, Index: 62
-Found value within range at address: 7487C3F02C, Value: 2136000151, Initial Address: 74C70F1900, Index: 63
-Found value within range at address: 7487C3FFCC, Value: 2136000306, Initial Address: 74C70F19B0, Index: 64
-Found value within range at address: 7487C3FB6C, Value: 2136000184, Initial Address: 74C70F1B10, Index: 65
-Found value within range at address: 7487C408DC, Value: 2136000401, Initial Address: 74C70F1BC0, Index: 66
-Found value within range at address: 7487C3FC5C, Value: 2136000102, Initial Address: 74C70F1D20, Index: 67
-Found value within range at address: 7487C401AC, Value: 2136000442, Initial Address: 74C70F1DD0, Index: 68
-Found value within range at address: 7487C4088C, Value: 2136000261, Initial Address: 74C70F1E80, Index: 69
-Found value within range at address: 7487C3F0CC, Value: 2136000124, Initial Address: 74C70F1FE0, Index: 70
-Found value within range at address: 7487C3F66C, Value: 2136000150, Initial Address: 74C70F2140, Index: 71
-Found value within range at address: 7487C3F98C, Value: 2136000222, Initial Address: 74C70F21F0, Index: 72
-Found value within range at address: 7487C406AC, Value: 2136000346, Initial Address: 74C70F22A0, Index: 73
-Found value within range at address: 7487C3FA2C, Value: 2136000204, Initial Address: 74C70F2350, Index: 74
-Found value within range at address: 7487C402EC, Value: 2136000305, Initial Address: 74C70F2400, Index: 75
-Found value within range at address: 7487C3F11C, Value: 2136000147, Initial Address: 74C70F24B0, Index: 76
-Found value within range at address: 7487C3EE4C, Value: 2136000149, Initial Address: 74C70F2610, Index: 77
-Found value within range at address: 7487C3F07C, Value: 2136000103, Initial Address: 74C70F26C0, Index: 78
-Found value within range at address: 7487C3FF2C, Value: 2136000382, Initial Address: 74C70F2820, Index: 79
-Found value within range at address: 7487C3F52C, Value: 2136000185, Initial Address: 74C70F28D0, Index: 80
-Found value within range at address: 7487C3F2FC, Value: 2136000141, Initial Address: 74C70F2980, Index: 81
-Found value within range at address: 7487C3DE0C, Value: 2136000029, Initial Address: 74C70F2B90, Index: 82
-Found value within range at address: 7487C40CEC, Value: 2136000361, Initial Address: 74C70F2C40, Index: 83
-Found value within range at address: 7487C3EDAC, Value: 2136000146, Initial Address: 74C70F2CF0, Index: 84
-Found value within range at address: 7487C3FA7C, Value: 2136000148, Initial Address: 74C70F2DA0, Index: 85
-Found value within range at address: 7487C3ED0C, Value: 2136000125, Initial Address: 74C70F2E50, Index: 86
-Found value within range at address: 7487C3F39C, Value: 2136000143, Initial Address: 74C70F2F00, Index: 87
-Found value within range at address: 7487C3F8EC, Value: 2136000181, Initial Address: 74C70F2FB0, Index: 88
-Found value within range at address: 7487C3F9DC, Value: 2136000145, Initial Address: 74C70F3060, Index: 89
-Found value within range at address: 7487C3E12C, Value: 2136000002, Initial Address: 74C70F3110, Index: 90
-Found value within range at address: 7487C3F4DC, Value: 2136000112, Initial Address: 74C70F31C0, Index: 91
-Found value within range at address: 7487C3E2BC, Value: 2136000043, Initial Address: 74C70F3270, Index: 92
-Found value within range at address: 7487C3F2AC, Value: 2136000223, Initial Address: 74C70F3320, Index: 93
-Found value within range at address: 7487C3F6BC, Value: 2136000205, Initial Address: 74C70F33D0, Index: 94
-Found value within range at address: 7487C3F43C, Value: 2136000241, Initial Address: 74C70F35E0, Index: 95
-Found value within range at address: 7487C400BC, Value: 2136000302, Initial Address: 74C70F3690, Index: 96
-Found value within range at address: 7487C3E03C, Value: 2136000004, Initial Address: 74C70F3740, Index: 97
-Found value within range at address: 7487C3EFDC, Value: 2136000144, Initial Address: 74C70F37F0, Index: 98
-Found value within range at address: 7487C3FE3C, Value: 2136000303, Initial Address: 74C70F38A0, Index: 99
-Found value within range at address: 7487C406FC, Value: 2136000282, Initial Address: 74C70F3950, Index: 100
-Found value within range at address: 7487C3F3EC, Value: 2136000186, Initial Address: 74C70F3A00, Index: 101
-Found value within range at address: 7487C3F84C, Value: 2136000123, Initial Address: 74C70F3B60, Index: 102
-Found value within range at address: 7487C3F48C, Value: 2136000163, Initial Address: 74C70F3C10, Index: 103
-Found value within range at address: 7487C403DC, Value: 2136000311, Initial Address: 74C70F3CC0, Index: 104
-Found value within range at address: 7487C3FCAC, Value: 2136000122, Initial Address: 74C70F3D70, Index: 105
-Found value within range at address: 7487C3F1BC, Value: 2136000101, Initial Address: 74C70F3F80, Index: 106
-Found value within range at address: 7487C3F25C, Value: 2136000128, Initial Address: 74C70F40E0, Index: 107
-Found value within range at address: 7487C3EA3C, Value: 2136000042, Initial Address: 74C70F4190, Index: 108
-Found value within range at address: 7487C3E9EC, Value: 2136000041, Initial Address: 74C70F42F0, Index: 109
-Found value within range at address: 7487C3F20C, Value: 2136000111, Initial Address: 74C70F4500, Index: 110
-Found value within range at address: 7487C3E49C, Value: 2136000082, Initial Address: 74C70F45B0, Index: 111
-Found value within range at address: 7487C3E85C, Value: 2136000026, Initial Address: 74C70F4710, Index: 112
-Found value within range at address: 7487C3E7BC, Value: 2136000085, Initial Address: 74C70F4870, Index: 113
-Found value within range at address: 7487C3EDFC, Value: 2136000129, Initial Address: 74C70F49D0, Index: 114
-Found value within range at address: 7487C3F70C, Value: 2136000121, Initial Address: 74C70F4BE0, Index: 115
-Found value within range at address: 7487C40A1C, Value: 2136000265, Initial Address: 74C70F4C90, Index: 116
-Found value within range at address: 7487C3E26C, Value: 2136000021, Initial Address: 74C70F4DF0, Index: 117
-Found value within range at address: 7487C3EB7C, Value: 2136000081, Initial Address: 74C70F5000, Index: 118
-Found value within range at address: 7487C3F7FC, Value: 2136000183, Initial Address: 74C70F50B0, Index: 119
-Found value within range at address: 7487C40B0C, Value: 2136000262, Initial Address: 74C70F5210, Index: 120
-Found value within range at address: 7487C3EE9C, Value: 2136000127, Initial Address: 74C70F5370, Index: 121
-Found value within range at address: 7487C4060C, Value: 2136000312, Initial Address: 74C70F54D0, Index: 122
-Found value within range at address: 7487C3E4EC, Value: 2136000005, Initial Address: 74C70F5580, Index: 123
-Found value within range at address: 7487C3F57C, Value: 2136000126, Initial Address: 74C70F5630, Index: 124
-Found value within range at address: 7487C3EEEC, Value: 2136000221, Initial Address: 74C70F5790, Index: 125
-Found value within range at address: 7487C3F7AC, Value: 2136000110, Initial Address: 74C70F5840, Index: 126
-Found value within range at address: 7487C3DFEC, Value: 2136000084, Initial Address: 74C70F58F0, Index: 127
-Found value within range at address: 7487C3E0DC, Value: 2136000069, Initial Address: 74C70F59A0, Index: 128
-Found value within range at address: 7487C3E1CC, Value: 2136000083, Initial Address: 74C70F5B00, Index: 129
-Found value within range at address: 7487C4051C, Value: 2136000281, Initial Address: 74C70F5BB0, Index: 130
-Found value within range at address: 7487C3EF8C, Value: 2136000202, Initial Address: 74C70F5C60, Index: 131
-Found value within range at address: 7487C3EB2C, Value: 2136000001, Initial Address: 74C70F5D10, Index: 132
-Found value within range at address: 7487C3E62C, Value: 2136000067, Initial Address: 74C70F5F20, Index: 133
-Found value within range at address: 7487C3E58C, Value: 2136000068, Initial Address: 74C70F5FD0, Index: 134
-Found value within range at address: 7487C3DF9C, Value: 2136000065, Initial Address: 74C70F6080, Index: 135
-Found value within range at address: 7487C3DF4C, Value: 2136000063, Initial Address: 74C70F64A0, Index: 136
-Found value within range at address: 7487C3E53C, Value: 2136000027, Initial Address: 74C70F6600, Index: 137
-Found value within range at address: 7487C3DEFC, Value: 2136000024, Initial Address: 74C70F6C30, Index: 138
-Found value within range at address: 7487C3E76C, Value: 2136000062, Initial Address: 74C70F7050, Index: 139
-Found value within range at address: 7487C3DE5C, Value: 2136000023, Initial Address: 74C70F77E0, Index: 140
-Found value within range at address: 7487C3DDBC, Value: 2136000064, Initial Address: 74C70F7C00, Index: 141
-Found value within range at address: 7487C4092C, Value: 2136000500, Initial Address: 74C70F8020, Index: 142
-Found value within range at address: 7487C3E5DC, Value: 2136000066, Initial Address: 74C70F9780, Index: 143
-Found value within range at address: 7487C3E71C, Value: 2136000003, Initial Address: 74C70FA960, Index: 144
-Found value within range at address: 7487C3ECBC, Value: 2136000028, Initial Address: 74C70FAA10, Index: 145
-Found value within range at address: 7487C3E44C, Value: 2136000022, Initial Address: 74C70FB460, Index: 146
-Found value within range at address: 7487C410AC, Value: 2136000502, Initial Address: 74C70FB880, Index: 147
-Found value within range at address: 7487C3EC1C, Value: 2136000061, Initial Address: 74C70FBD50, Index: 148
-Word: Spirit Grass Foam            ||             Index 1 at address 74C70EAF20 Value: 0
-Word: Slough            ||             Index 2 at address 74C70EB340 Value: 0
-Word: Spider Thread            ||             Index 3 at address 74C70ED230 Value: 0
-Word: Reservoir Master            ||             Index 4 at address 74C70ED390 Value: 0
-Word: Pretty Stick            ||             Index 5 at address 74C70ED5A0 Value: 0
-Word: Ancient Beetle            ||             Index 6 at address 74C70ED650 Value: 0
-Word: Sturdy Vine            ||             Index 7 at address 74C70ED7B0 Value: 0
-Word: Honey Tree Bark            ||             Index 8 at address 74C70ED860 Value: 0
-Word: Forest Bonito            ||             Index 9 at address 74C70ED9C0 Value: 0
-Word: Holy Fragment            ||             Index 10 at address 74C70EDBD0 Value: 0
-Word: Rusty Sword            ||             Index 11 at address 74C70EE200 Value: 0
-Word: Giant Tree            ||             Index 12 at address 74C70EE360 Value: 0
-Word: Giant Tree Branch            ||             Index 13 at address 74C70EE410 Value: 0
-Word: White Charcoal            ||             Index 14 at address 74C70EE620 Value: 0
-Word: Tinite            ||             Index 15 at address 74C70EE6D0 Value: 0
-Word: Ominous Spirit            ||             Index 16 at address 74C70EE780 Value: 0
-Word: Red Star            ||             Index 17 at address 74C70EE830 Value: 0
-Word: Sage's Last Gift            ||             Index 18 at address 74C70EEA40 Value: 0
-Word: Torn Doll            ||             Index 19 at address 74C70EEAF0 Value: 0
-Word: Sturdy Branch            ||             Index 20 at address 74C70EED00 Value: 0
-Word: Broken Item            ||             Index 21 at address 74C70EEF10 Value: 0
-Word: Beastly Venom Pouch            ||             Index 22 at address 74C70EEFC0 Value: 0
-Word: Weathered Old Tree            ||             Index 23 at address 74C70EF330 Value: 0
-Word: Mixed Stone            ||             Index 24 at address 74C70EF3E0 Value: 0
-Word: Broken Pendant            ||             Index 25 at address 74C70EF540 Value: 0
-Word: Shopmaniac Clam            ||             Index 26 at address 74C70EF5F0 Value: 0
-Word: Blue Stellite            ||             Index 27 at address 74C70EF6A0 Value: 0
-Word: Blue Amanita            ||             Index 28 at address 74C70EF750 Value: 0
-Word: Holy Branch            ||             Index 29 at address 74C70EF8B0 Value: 0
-Word: Everlasting Flame            ||             Index 30 at address 74C70EF960 Value: 0
-Word: Asphodelus            ||             Index 31 at address 74C70EFA10 Value: 0
-Word: Unknown Gemstone            ||             Index 32 at address 74C70EFB70 Value: 0
-Word: Whirlwind Element            ||             Index 33 at address 74C70EFC20 Value: 0
-Word: Quality Iron Ore            ||             Index 34 at address 74C70EFCD0 Value: 0
-Word: Big Bone            ||             Index 35 at address 74C70EFE30 Value: 0
-Word: Element Flora            ||             Index 36 at address 74C70EFEE0 Value: 0
-Word: Atonement Fang            ||             Index 37 at address 74C70EFF90 Value: 0
-Word: Extra-Creamy Milk            ||             Index 38 at address 74C70F0040 Value: 0
-Word: Paper Scrap            ||             Index 39 at address 74C70F00F0 Value: 0
-Word: Aperture Berry            ||             Index 40 at address 74C70F01A0 Value: 0
-Word: Mythical Hide            ||             Index 41 at address 74C70F0250 Value: 0
-Word: Thundercrack Stone            ||             Index 42 at address 74C70F03B0 Value: 0
-Word: Aperture Wood            ||             Index 43 at address 74C70F0510 Value: 0
-Word: Hell Hound Hide            ||             Index 44 at address 74C70F0670 Value: 0
-Word: Aperture Pike            ||             Index 45 at address 74C70F0720 Value: 0
-Word: Crispy Mushroom            ||             Index 46 at address 74C70F0880 Value: 0
-Word: Dainty Herb            ||             Index 47 at address 74C70F0930 Value: 0
-Word: Aether Alter            ||             Index 48 at address 74C70F0A90 Value: 0
-Word: Corinda Spirit Grass            ||             Index 49 at address 74C70F0B40 Value: 0
-Word: Golden Shiitake            ||             Index 50 at address 74C70F0CA0 Value: 0
-Word: Molasses Ant            ||             Index 51 at address 74C70F0D50 Value: 0
-Word: Old Badge            ||             Index 52 at address 74C70F0EB0 Value: 0
-Word: Honey Sauce            ||             Index 53 at address 74C70F0F60 Value: 0
-Word: Indigorium            ||             Index 54 at address 74C70F1010 Value: 0
-Word: All-Natural Oil            ||             Index 55 at address 74C70F1170 Value: 0
-Word: Fluffy Feathers            ||             Index 56 at address 74C70F1220 Value: 0
-Word: Rainbow Seed            ||             Index 57 at address 74C70F14E0 Value: 0
-Word: Giant Tree Vine            ||             Index 58 at address 74C70F1590 Value: 0
-Word: Unknown Ancient Fish            ||             Index 59 at address 74C70F1640 Value: 0
-Word: Ivory Ore            ||             Index 60 at address 74C70F16F0 Value: 0
-Word: Honey Tree Fruit            ||             Index 61 at address 74C70F17A0 Value: 0
-Word: Interstellar            ||             Index 62 at address 74C70F1850 Value: 0
-Word: White Feldspar            ||             Index 63 at address 74C70F1900 Value: 0
-Word: Sapphire-fly            ||             Index 64 at address 74C70F19B0 Value: 0
-Word: Dry Woodchip            ||             Index 65 at address 74C70F1B10 Value: 0
-Word: Fairy's Scraps            ||             Index 66 at address 74C70F1BC0 Value: 0
-Word: Hot Sand            ||             Index 67 at address 74C70F1D20 Value: 0
-Word: Sugarcane            ||             Index 68 at address 74C70F1DD0 Value: 0
-Word: Flaming Bolete            ||             Index 69 at address 74C70F1E80 Value: 0
-Word: Old Stone            ||             Index 70 at address 74C70F1FE0 Value: 0
-Word: Electro Stone            ||             Index 71 at address 74C70F2140 Value: 0
-Word: Fresh Meat            ||             Index 72 at address 74C70F21F0 Value: 0
-Word: Hard Logs            ||             Index 73 at address 74C70F22A0 Value: 0
-Word: Polluted Dirt            ||             Index 74 at address 74C70F2350 Value: 0
-Word: Blue Needle            ||             Index 75 at address 74C70F2400 Value: 0
-Word: Wind Stone            ||             Index 76 at address 74C70F24B0 Value: 0
-Word: Night Shard            ||             Index 77 at address 74C70F2610 Value: 0
-Word: Black Ashen Sand            ||             Index 78 at address 74C70F26C0 Value: 0
-Word: Monster Hide            ||             Index 79 at address 74C70F2820 Value: 0
-Word: Burn Grass            ||             Index 80 at address 74C70F28D0 Value: 0
-Word: Scrap Metal            ||             Index 81 at address 74C70F2980 Value: 0
-Word: Medicinal Moss            ||             Index 82 at address 74C70F2B90 Value: 0
-Word: Mush Powder            ||             Index 83 at address 74C70F2C40 Value: 0
-Word: Guardian Core            ||             Index 84 at address 74C70F2CF0 Value: 0
-Word: Monster Scale            ||             Index 85 at address 74C70F2DA0 Value: 0
-Word: Alabaster Stone            ||             Index 86 at address 74C70F2E50 Value: 0
-Word: Solid Breccia            ||             Index 87 at address 74C70F2F00 Value: 0
-Word: Ashroom            ||             Index 88 at address 74C70F2FB0 Value: 0
-Word: Aperturdite            ||             Index 89 at address 74C70F3060 Value: 0
-Word: Aperture Water            ||             Index 90 at address 74C70F3110 Value: 0
-Word: Lightning Element            ||             Index 91 at address 74C70F31C0 Value: 0
-Word: Gold Aperture Uni            ||             Index 92 at address 74C70F3270 Value: 0
-Word: Aperture Fruit            ||             Index 93 at address 74C70F3320 Value: 0
-Word: Forest Flaxseed            ||             Index 94 at address 74C70F33D0 Value: 0
-Word: Hard Fruit            ||             Index 95 at address 74C70F35E0 Value: 0
-Word: Spiky Sandworm            ||             Index 96 at address 74C70F3690 Value: 0
-Word: Great Tree Drop            ||             Index 97 at address 74C70F3740 Value: 0
-Word: Aqua Stone            ||             Index 98 at address 74C70F37F0 Value: 0
-Word: Pebble Fly            ||             Index 99 at address 74C70F38A0 Value: 0
-Word: Aperture Carp            ||             Index 100 at address 74C70F3950 Value: 0
-Word: Black Explosives            ||             Index 101 at address 74C70F3A00 Value: 0
-Word: Blue Slate            ||             Index 102 at address 74C70F3B60 Value: 0
-Word: Holy Crystal            ||             Index 103 at address 74C70F3C10 Value: 0
-Word: Yellow Ghost            ||             Index 104 at address 74C70F3CC0 Value: 0
-Word: Moist Moss Stone            ||             Index 105 at address 74C70F3D70 Value: 0
-Word: Warm Sand            ||             Index 106 at address 74C70F3F80 Value: 0
-Word: Stalactite Piece            ||             Index 107 at address 74C70F40E0 Value: 0
-Word: Silver Aperture Uni            ||             Index 108 at address 74C70F4190 Value: 0
-Word: Aperture Uni            ||             Index 109 at address 74C70F42F0 Value: 0
-Word: Sparkling Sand            ||             Index 110 at address 74C70F4500 Value: 0
-Word: Great Felwort            ||             Index 111 at address 74C70F45B0 Value: 0
-Word: Holy Leaf            ||             Index 112 at address 74C70F4710 Value: 0
-Word: Shiny Bile            ||             Index 113 at address 74C70F4870 Value: 0
-Word: Slate            ||             Index 114 at address 74C70F49D0 Value: 0
-Word: Pretty Fossil            ||             Index 115 at address 74C70F4BE0 Value: 0
-Word: False Beech Shroom            ||             Index 116 at address 74C70F4C90 Value: 0
-Word: Rock Salt Grass            ||             Index 117 at address 74C70F4DF0 Value: 0
-Word: Stinky Trash            ||             Index 118 at address 74C70F5000 Value: 0
-Word: Inferno Element            ||             Index 119 at address 74C70F50B0 Value: 0
-Word: Red Truffle            ||             Index 120 at address 74C70F5210 Value: 0
-Word: Sandstone            ||             Index 121 at address 74C70F5370 Value: 0
-Word: Diamond Devil            ||             Index 122 at address 74C70F54D0 Value: 0
-Word: Azure Shimmer            ||             Index 123 at address 74C70F5580 Value: 0
-Word: Round Pillar            ||             Index 124 at address 74C70F5630 Value: 0
-Word: Aperture Wheat            ||             Index 125 at address 74C70F5790 Value: 0
-Word: Smooth Sand            ||             Index 126 at address 74C70F5840 Value: 0
-Word: Poison Plant            ||             Index 127 at address 74C70F58F0 Value: 0
-Word: Aperture Rose            ||             Index 128 at address 74C70F59A0 Value: 0
-Word: Inky Fruit            ||             Index 129 at address 74C70F5B00 Value: 0
-Word: Stony Blowfish            ||             Index 130 at address 74C70F5BB0 Value: 0
-Word: Combustible Bark            ||             Index 131 at address 74C70F5C60 Value: 0
-Word: Fresh Dew            ||             Index 132 at address 74C70F5D10 Value: 0
-Word: Sun Honeysuckle            ||             Index 133 at address 74C70F5F20 Value: 0
-Word: Flycatcher Grass            ||             Index 134 at address 74C70F5FD0 Value: 0
-Word: Soft Bud            ||             Index 135 at address 74C70F6080 Value: 0
-Word: Fog Blossom            ||             Index 136 at address 74C70F64A0 Value: 0
-Word: Regular Grass            ||             Index 137 at address 74C70F6600 Value: 0
-Word: Large Reed            ||             Index 138 at address 74C70F6C30 Value: 0
-Word: Scarlet Flower Bud            ||             Index 139 at address 74C70F7050 Value: 0
-Word: Burned Leaf            ||             Index 140 at address 74C70F77E0 Value: 0
-Word: Pure Forest Flower            ||             Index 141 at address 74C70F7C00 Value: 0
-Word: Salamander's Claw            ||             Index 142 at address 74C70F8020 Value: 0
-Word: Summer Princess            ||             Index 143 at address 74C70F9780 Value: 0
-Word: Flood Element            ||             Index 144 at address 74C70FA960 Value: 0
-Word: Traveler's Grass            ||             Index 145 at address 74C70FAA10 Value: 0
-Word: Glow Moss            ||             Index 146 at address 74C70FB460 Value: 0
-Word: Glowing Powder            ||             Index 147 at address 74C70FB880 Value: 0
-Word: Red Peony            ||             Index 148 at address 74C70FBD50 Value: 0
+Found value within range at address: 6F02F99CAC, Value: 2132000504, Initial Address: 6F423D4F40, Index: 1
+Found value within range at address: 6F02F980DC, Value: 2132000180, Initial Address: 6F423F97A0, Index: 2
+Found value within range at address: 6F02F99BBC, Value: 2132000512, Initial Address: 6F423F9B10, Index: 3
+Found value within range at address: 6F02F98E9C, Value: 2132000537, Initial Address: 6F423FAA30, Index: 4
+Found value within range at address: 6F02F96DCC, Value: 2132000035, Initial Address: 6F423FC450, Index: 5
+Found value within range at address: 6F02F999DC, Value: 2132000532, Initial Address: 6F423FD000, Index: 6
+Found value within range at address: 6F02F992AC, Value: 2132000238, Initial Address: 6F423FD370, Index: 7
+Found value within range at address: 6F02F9966C, Value: 2132000529, Initial Address: 6F423FD630, Index: 8
+Found value within range at address: 6F02F9ADDC, Value: 2132000539, Initial Address: 6F423FD790, Index: 9
+Found value within range at address: 6F02F994DC, Value: 2132000526, Initial Address: 6F423FD840, Index: 10
+Found value within range at address: 6F02F9943C, Value: 2132000244, Initial Address: 6F423FD9A0, Index: 11
+Found value within range at address: 6F02F995CC, Value: 2132000246, Initial Address: 6F423FDA50, Index: 12
+Found value within range at address: 6F02F971DC, Value: 2132000031, Initial Address: 6F423FDB00, Index: 13
+Found value within range at address: 6F02F9934C, Value: 2132000519, Initial Address: 6F423FDD10, Index: 14
+Found value within range at address: 6F02F99B1C, Value: 2132000252, Initial Address: 6F423FDDC0, Index: 15
+Found value within range at address: 6F02F9970C, Value: 2132000517, Initial Address: 6F423FDE70, Index: 16
+Found value within range at address: 6F02F990CC, Value: 2132000228, Initial Address: 6F423FDF20, Index: 17
+Found value within range at address: 6F02F998EC, Value: 2132000500, Initial Address: 6F423FE1E0, Index: 18
+Found value within range at address: 6F02F9925C, Value: 2132000536, Initial Address: 6F423FE290, Index: 19
+Found value within range at address: 6F02F993EC, Value: 2132000531, Initial Address: 6F423FE3F0, Index: 20
+Found value within range at address: 6F02F99DEC, Value: 2132000507, Initial Address: 6F423FE550, Index: 21
+Found value within range at address: 6F02F9A1AC, Value: 2132000538, Initial Address: 6F423FE600, Index: 22
+Found value within range at address: 6F02F98A3C, Value: 2132000214, Initial Address: 6F423FE6B0, Index: 23
+Found value within range at address: 6F02F9916C, Value: 2132000520, Initial Address: 6F423FE760, Index: 24
+Found value within range at address: 6F02F9939C, Value: 2132000521, Initial Address: 6F423FE810, Index: 25
+Found value within range at address: 6F02F99C0C, Value: 2132000533, Initial Address: 6F423FE8C0, Index: 26
+Found value within range at address: 6F02F96FFC, Value: 2132000053, Initial Address: 6F423FE970, Index: 27
+Found value within range at address: 6F02F98E4C, Value: 2132000516, Initial Address: 6F423FECE0, Index: 28
+Found value within range at address: 6F02F99D4C, Value: 2132000245, Initial Address: 6F423FEE40, Index: 29
+Found value within range at address: 6F02F9AB0C, Value: 2132000540, Initial Address: 6F423FEEF0, Index: 30
+Found value within range at address: 6F02F996BC, Value: 2132000523, Initial Address: 6F423FF1B0, Index: 31
+Found value within range at address: 6F02F99C5C, Value: 2132000535, Initial Address: 6F423FF260, Index: 32
+Found value within range at address: 6F02F99ACC, Value: 2132000240, Initial Address: 6F423FF3C0, Index: 33
+Found value within range at address: 6F02F9920C, Value: 2132000524, Initial Address: 6F423FF470, Index: 34
+Found value within range at address: 6F02F9957C, Value: 2132000513, Initial Address: 6F423FF520, Index: 35
+Found value within range at address: 6F02F98EEC, Value: 2132000518, Initial Address: 6F423FF680, Index: 36
+Found value within range at address: 6F02F99A2C, Value: 2132000530, Initial Address: 6F423FF730, Index: 37
+Found value within range at address: 6F02F9A51C, Value: 2132000546, Initial Address: 6F423FF7E0, Index: 38
+Found value within range at address: 6F02F997FC, Value: 2132000528, Initial Address: 6F423FF890, Index: 39
+Found value within range at address: 6F02F997AC, Value: 2132000525, Initial Address: 6F423FF940, Index: 40
+Found value within range at address: 6F02F9948C, Value: 2132000510, Initial Address: 6F423FF9F0, Index: 41
+Found value within range at address: 6F02F97EAC, Value: 2132000197, Initial Address: 6F423FFC00, Index: 42
+Found value within range at address: 6F02F981CC, Value: 2132000178, Initial Address: 6F423FFCB0, Index: 43
+Found value within range at address: 6F02F99A7C, Value: 2132000234, Initial Address: 6F423FFD60, Index: 44
+Found value within range at address: 6F02F9993C, Value: 2132000501, Initial Address: 6F423FFE10, Index: 45
+Found value within range at address: 6F02F98B7C, Value: 2132000222, Initial Address: 6F423FFF70, Index: 46
+Found value within range at address: 6F02F9876C, Value: 2132000192, Initial Address: 6F42400020, Index: 47
+Found value within range at address: 6F02F9812C, Value: 2132000204, Initial Address: 6F424000D0, Index: 48
+Found value within range at address: 6F02F99D9C, Value: 2132000232, Initial Address: 6F42400180, Index: 49
+Found value within range at address: 6F02F983AC, Value: 2132000162, Initial Address: 6F424002E0, Index: 50
+Found value within range at address: 6F02F9803C, Value: 2132000210, Initial Address: 6F42400390, Index: 51
+Found value within range at address: 6F02F9952C, Value: 2132000233, Initial Address: 6F42400440, Index: 52
+Found value within range at address: 6F02F987BC, Value: 2132000156, Initial Address: 6F424005A0, Index: 53
+Found value within range at address: 6F02F9844C, Value: 2132000221, Initial Address: 6F42400650, Index: 54
+Found value within range at address: 6F02F98ADC, Value: 2132000172, Initial Address: 6F42400700, Index: 55
+Found value within range at address: 6F02F984EC, Value: 2132000203, Initial Address: 6F42400910, Index: 56
+Found value within range at address: 6F02F983FC, Value: 2132000155, Initial Address: 6F424009C0, Index: 57
+Found value within range at address: 6F02F9A47C, Value: 2132000544, Initial Address: 6F42400B20, Index: 58
+Found value within range at address: 6F02F99E3C, Value: 2132000509, Initial Address: 6F42400C80, Index: 59
+Found value within range at address: 6F02F9911C, Value: 2132000515, Initial Address: 6F42400D30, Index: 60
+Found value within range at address: 6F02F9902C, Value: 2132000251, Initial Address: 6F42400DE0, Index: 61
+Found value within range at address: 6F02F9998C, Value: 2132000511, Initial Address: 6F42400F40, Index: 62
+Found value within range at address: 6F02F9849C, Value: 2132000202, Initial Address: 6F42400FF0, Index: 63
+Found value within range at address: 6F02F9A33C, Value: 2132000541, Initial Address: 6F42401150, Index: 64
+Found value within range at address: 6F02F9961C, Value: 2132000522, Initial Address: 6F42401200, Index: 65
+Found value within range at address: 6F02F9862C, Value: 2132000174, Initial Address: 6F424012B0, Index: 66
+Found value within range at address: 6F02F992FC, Value: 2132000250, Initial Address: 6F42401360, Index: 67
+Found value within range at address: 6F02F99B6C, Value: 2132000514, Initial Address: 6F42401410, Index: 68
+Found value within range at address: 6F02F98DAC, Value: 2132000185, Initial Address: 6F424014C0, Index: 69
+Found value within range at address: 6F02F9984C, Value: 2132000503, Initial Address: 6F42401570, Index: 70
+Found value within range at address: 6F02F9907C, Value: 2132000508, Initial Address: 6F42401620, Index: 71
+Found value within range at address: 6F02F97E0C, Value: 2132000220, Initial Address: 6F424016D0, Index: 72
+Found value within range at address: 6F02F9853C, Value: 2132000148, Initial Address: 6F42401780, Index: 73
+Found value within range at address: 6F02F98F8C, Value: 2132000502, Initial Address: 6F42401830, Index: 74
+Found value within range at address: 6F02F9975C, Value: 2132000505, Initial Address: 6F424018E0, Index: 75
+Found value within range at address: 6F02F99CFC, Value: 2132000527, Initial Address: 6F42401990, Index: 76
+Found value within range at address: 6F02F9867C, Value: 2132000126, Initial Address: 6F42401A40, Index: 77
+Found value within range at address: 6F02F98C6C, Value: 2132000196, Initial Address: 6F42401AF0, Index: 78
+Found value within range at address: 6F02F991BC, Value: 2132000239, Initial Address: 6F42401BA0, Index: 79
+Found value within range at address: 6F02F98F3C, Value: 2132000506, Initial Address: 6F42401C50, Index: 80
+Found value within range at address: 6F02F98BCC, Value: 2132000191, Initial Address: 6F42401D00, Index: 81
+Found value within range at address: 6F02F9858C, Value: 2132000179, Initial Address: 6F42401DB0, Index: 82
+Found value within range at address: 6F02F97FEC, Value: 2132000186, Initial Address: 6F42401E60, Index: 83
+Found value within range at address: 6F02F979FC, Value: 2132000040, Initial Address: 6F42401FC0, Index: 84
+Found value within range at address: 6F02F9722C, Value: 2132000120, Initial Address: 6F42402070, Index: 85
+Found value within range at address: 6F02F96E1C, Value: 2132000038, Initial Address: 6F424021D0, Index: 86
+Found value within range at address: 6F02F96EBC, Value: 2132000037, Initial Address: 6F42402280, Index: 87
+Found value within range at address: 6F02F9894C, Value: 2132000166, Initial Address: 6F42402330, Index: 88
+Found value within range at address: 6F02F97A4C, Value: 2132000112, Initial Address: 6F424023E0, Index: 89
+Found value within range at address: 6F02F977CC, Value: 2132000101, Initial Address: 6F42402490, Index: 90
+Found value within range at address: 6F02F982BC, Value: 2132000125, Initial Address: 6F424025F0, Index: 91
+Found value within range at address: 6F02F9989C, Value: 2132000227, Initial Address: 6F424026A0, Index: 92
+Found value within range at address: 6F02F97B8C, Value: 2132000052, Initial Address: 6F424028B0, Index: 93
+Found value within range at address: 6F02F9754C, Value: 2132000119, Initial Address: 6F42402960, Index: 94
+Found value within range at address: 6F02F98CBC, Value: 2132000167, Initial Address: 6F42402A10, Index: 95
+Found value within range at address: 6F02F986CC, Value: 2132000215, Initial Address: 6F42402AC0, Index: 96
+Found value within range at address: 6F02F9646C, Value: 2132000005, Initial Address: 6F42402B70, Index: 97
+Found value within range at address: 6F02F9835C, Value: 2132000168, Initial Address: 6F42402C20, Index: 98
+Found value within range at address: 6F02F9772C, Value: 2132000044, Initial Address: 6F42402CD0, Index: 99
+Found value within range at address: 6F02F9821C, Value: 2132000190, Initial Address: 6F42402D80, Index: 100
+Found value within range at address: 6F02F985DC, Value: 2132000136, Initial Address: 6F42402F90, Index: 101
+Found value within range at address: 6F02F9830C, Value: 2132000150, Initial Address: 6F424030F0, Index: 102
+Found value within range at address: 6F02F9777C, Value: 2132000107, Initial Address: 6F424031A0, Index: 103
+Found value within range at address: 6F02F9817C, Value: 2132000226, Initial Address: 6F42403300, Index: 104
+Found value within range at address: 6F02F9A6AC, Value: 2132000543, Initial Address: 6F42403460, Index: 105
+Found value within range at address: 6F02F9687C, Value: 2132000004, Initial Address: 6F42403510, Index: 106
+Found value within range at address: 6F02F98A8C, Value: 2132000130, Initial Address: 6F424035C0, Index: 107
+Found value within range at address: 6F02F97BDC, Value: 2132000036, Initial Address: 6F42403670, Index: 108
+Found value within range at address: 6F02F96F5C, Value: 2132000019, Initial Address: 6F42403720, Index: 109
+Found value within range at address: 6F02F989EC, Value: 2132000144, Initial Address: 6F424037D0, Index: 110
+Found value within range at address: 6F02F9713C, Value: 2132000113, Initial Address: 6F42403930, Index: 111
+Found value within range at address: 6F02F9826C, Value: 2132000142, Initial Address: 6F42403B40, Index: 112
+Found value within range at address: 6F02F97EFC, Value: 2132000208, Initial Address: 6F42403BF0, Index: 113
+Found value within range at address: 6F02F9768C, Value: 2132000106, Initial Address: 6F42403D50, Index: 114
+Found value within range at address: 6F02F99FCC, Value: 2132000547, Initial Address: 6F42403EB0, Index: 115
+Found value within range at address: 6F02F98B2C, Value: 2132000209, Initial Address: 6F42403F60, Index: 116
+Found value within range at address: 6F02F9885C, Value: 2132000143, Initial Address: 6F42404010, Index: 117
+Found value within range at address: 6F02F9740C, Value: 2132000048, Initial Address: 6F424040C0, Index: 118
+Found value within range at address: 6F02F9786C, Value: 2132000043, Initial Address: 6F42404170, Index: 119
+Found value within range at address: 6F02F97F4C, Value: 2132000124, Initial Address: 6F42404220, Index: 120
+Found value within range at address: 6F02F9709C, Value: 2132000032, Initial Address: 6F424042D0, Index: 121
+Found value within range at address: 6F02F9718C, Value: 2132000108, Initial Address: 6F42404380, Index: 122
+Found value within range at address: 6F02F972CC, Value: 2132000026, Initial Address: 6F42404430, Index: 123
+Found value within range at address: 6F02F9727C, Value: 2132000118, Initial Address: 6F424044E0, Index: 124
+Found value within range at address: 6F02F97F9C, Value: 2132000132, Initial Address: 6F42404590, Index: 125
+Found value within range at address: 6F02F9781C, Value: 2132000045, Initial Address: 6F42404640, Index: 126
+Found value within range at address: 6F02F9600C, Value: 2132000001, Initial Address: 6F42404850, Index: 127
+Found value within range at address: 6F02F96D2C, Value: 2132000008, Initial Address: 6F42404900, Index: 128
+Found value within range at address: 6F02F97B3C, Value: 2132000034, Initial Address: 6F424049B0, Index: 129
+Found value within range at address: 6F02F96FAC, Value: 2132000017, Initial Address: 6F42404A60, Index: 130
+Found value within range at address: 6F02F97D6C, Value: 2132000100, Initial Address: 6F42404B10, Index: 131
+Found value within range at address: 6F02F97CCC, Value: 2132000114, Initial Address: 6F42404BC0, Index: 132
+Found value within range at address: 6F02F974FC, Value: 2132000102, Initial Address: 6F42404C70, Index: 133
+Found value within range at address: 6F02F97C7C, Value: 2132000009, Initial Address: 6F42404E80, Index: 134
+Found value within range at address: 6F02F96E6C, Value: 2132000020, Initial Address: 6F42404FE0, Index: 135
+Found value within range at address: 6F02F970EC, Value: 2132000018, Initial Address: 6F42405140, Index: 136
+Found value within range at address: 6F02F9880C, Value: 2132000173, Initial Address: 6F424051F0, Index: 137
+Found value within range at address: 6F02F97DBC, Value: 2132000021, Initial Address: 6F42405350, Index: 138
+Found value within range at address: 6F02F97E5C, Value: 2132000154, Initial Address: 6F42405400, Index: 139
+Found value within range at address: 6F02F97D1C, Value: 2132000011, Initial Address: 6F424054B0, Index: 140
+Found value within range at address: 6F02F97AEC, Value: 2132000039, Initial Address: 6F42405560, Index: 141
+Found value within range at address: 6F02F9736C, Value: 2132000010, Initial Address: 6F424056C0, Index: 142
+Found value within range at address: 6F02F96F0C, Value: 2132000015, Initial Address: 6F42405820, Index: 143
+Found value within range at address: 6F02F978BC, Value: 2132000047, Initial Address: 6F42405A30, Index: 144
+Found value within range at address: 6F02F9623C, Value: 2132000002, Initial Address: 6F42405AE0, Index: 145
+Found value within range at address: 6F02F98D5C, Value: 2132000138, Initial Address: 6F42405B90, Index: 146
+Found value within range at address: 6F02F988AC, Value: 2132000137, Initial Address: 6F42405C40, Index: 147
+Found value within range at address: 6F02F9795C, Value: 2132000012, Initial Address: 6F42405CF0, Index: 148
+Found value within range at address: 6F02F9704C, Value: 2132000025, Initial Address: 6F42405F00, Index: 149
+Found value within range at address: 6F02F979AC, Value: 2132000041, Initial Address: 6F42405FB0, Index: 150
+Found value within range at address: 6F02F9759C, Value: 2132000050, Initial Address: 6F42406060, Index: 151
+Found value within range at address: 6F02F988FC, Value: 2132000184, Initial Address: 6F42406110, Index: 152
+Found value within range at address: 6F02F95F6C, Value: 2132000003, Initial Address: 6F424063D0, Index: 153
+Found value within range at address: 6F02F976DC, Value: 2132000023, Initial Address: 6F42406480, Index: 154
+Found value within range at address: 6F02F9745C, Value: 2132000042, Initial Address: 6F424065E0, Index: 155
+Found value within range at address: 6F02F9899C, Value: 2132000149, Initial Address: 6F42406690, Index: 156
+Found value within range at address: 6F02F9808C, Value: 2132000216, Initial Address: 6F42406C10, Index: 157
+Found value within range at address: 6F02F97A9C, Value: 2132000051, Initial Address: 6F42406D70, Index: 158
+Found value within range at address: 6F02F9763C, Value: 2132000016, Initial Address: 6F42406F80, Index: 159
+Found value within range at address: 6F02F9A7EC, Value: 2132000542, Initial Address: 6F42407190, Index: 160
+Found value within range at address: 6F02F97C2C, Value: 2132000046, Initial Address: 6F42407A80, Index: 161
+Found value within range at address: 6F02F9871C, Value: 2132000131, Initial Address: 6F42407B30, Index: 162
+Found value within range at address: 6F02F973BC, Value: 2132000022, Initial Address: 6F42407F50, Index: 163
+Found value within range at address: 6F02F975EC, Value: 2132000030, Initial Address: 6F42408210, Index: 164
+Found value within range at address: 6F02F9731C, Value: 2132000033, Initial Address: 6F424084D0, Index: 165
+Found value within range at address: 6F02F965AC, Value: 2132000006, Initial Address: 6F42408630, Index: 166
+Found value within range at address: 6F02F9A97C, Value: 2132000545, Initial Address: 6F42409CE0, Index: 167
+Found value within range at address: 6F02F98C1C, Value: 2132000198, Initial Address: 6F4240A730, Index: 168
+Found value within range at address: 6F02F9664C, Value: 2132000007, Initial Address: 6F4240A890, Index: 169
+Found value within range at address: 6F02F9790C, Value: 2132000049, Initial Address: 6F4240AC00, Index: 170
+Found value within range at address: 6F02F98DFC, Value: 2132000161, Initial Address: 6F4240B230, Index: 171
+Found value within range at address: 6F02F98D0C, Value: 2132000160, Initial Address: 6F4240C570, Index: 172
+Found value within range at address: 6F02F974AC, Value: 2132000024, Initial Address: 6F42410E50, Index: 173
+Found value within range at address: 6F02F98FDC, Value: 2132000534, Initial Address: 6F42412240, Index: 174
+Word: Iridescent Crystal            ||             Index 1 at address 6F423D4F40 Value: 0
+Word: Rainbow Mystal III            ||             Index 2 at address 6F423F97A0 Value: 0
+Word: Gourmet Flour            ||             Index 3 at address 6F423F9B10 Value: 0
+Word: Cloudy Crystal            ||             Index 4 at address 6F423FAA30 Value: 0
+Word: Bug Net            ||             Index 5 at address 6F423FC450 Value: 0
+Word: Luxurious Cream            ||             Index 6 at address 6F423FD000 Value: 0
+Word: Aperture Sugar            ||             Index 7 at address 6F423FD370 Value: 0
+Word: Conductive Sheet            ||             Index 8 at address 6F423FD630 Value: 0
+Word: Cute Doll            ||             Index 9 at address 6F423FD790 Value: 0
+Word: Heat-Resistant Bucket            ||             Index 10 at address 6F423FD840 Value: 0
+Word: Floral Nectar            ||             Index 11 at address 6F423FD9A0 Value: 0
+Word: Fine Floral Nectar            ||             Index 12 at address 6F423FDA50 Value: 0
+Word: Bug Net            ||             Index 13 at address 6F423FDB00 Value: 0
+Word: Odd Elixir            ||             Index 14 at address 6F423FDD10 Value: 0
+Word: Scorching Stone III            ||             Index 15 at address 6F423FDDC0 Value: 0
+Word: Fallen Temptation            ||             Index 16 at address 6F423FDE70 Value: 0
+Word: Fine Building Boards            ||             Index 17 at address 6F423FDF20 Value: 0
+Word: Tears of Aperture            ||             Index 18 at address 6F423FE1E0 Value: 0
+Word: Cloudy Crystal            ||             Index 19 at address 6F423FE290 Value: 0
+Word: Luxurious Cream            ||             Index 20 at address 6F423FE3F0 Value: 0
+Word: Elixir of Aperture            ||             Index 21 at address 6F423FE550 Value: 0
+Word: Cloudy Crystal            ||             Index 22 at address 6F423FE600 Value: 0
+Word: Misty Velour            ||             Index 23 at address 6F423FE6B0 Value: 0
+Word: Odd Elixir            ||             Index 24 at address 6F423FE760 Value: 0
+Word: Karna's Pendant            ||             Index 25 at address 6F423FE810 Value: 0
+Word: Plain Tart            ||             Index 26 at address 6F423FE8C0 Value: 0
+Word: Wind Shoes II            ||             Index 27 at address 6F423FE970 Value: 0
+Word: Fallen Temptation            ||             Index 28 at address 6F423FECE0 Value: 0
+Word: Refined Floral Nectar            ||             Index 29 at address 6F423FEE40 Value: 0
+Word: Cute Doll            ||             Index 30 at address 6F423FEEF0 Value: 0
+Word: Karna's Pendant            ||             Index 31 at address 6F423FF1B0 Value: 0
+Word: Plain Tart            ||             Index 32 at address 6F423FF260 Value: 0
+Word: Fine Aperture Sugar            ||             Index 33 at address 6F423FF3C0 Value: 0
+Word: Heat-Resistant Bucket            ||             Index 34 at address 6F423FF470 Value: 0
+Word: Gourmet Flour            ||             Index 35 at address 6F423FF520 Value: 0
+Word: Odd Elixir            ||             Index 36 at address 6F423FF680 Value: 0
+Word: Luxurious Cream            ||             Index 37 at address 6F423FF730 Value: 0
+Word: Plain Biscuit            ||             Index 38 at address 6F423FF7E0 Value: 0
+Word: Conductive Sheet            ||             Index 39 at address 6F423FF890 Value: 0
+Word: Heat-Resistant Bucket            ||             Index 40 at address 6F423FF940 Value: 0
+Word: Sage's Stone            ||             Index 41 at address 6F423FF9F0 Value: 0
+Word: Ingot II            ||             Index 42 at address 6F423FFC00 Value: 0
+Word: Rainbow Mystal            ||             Index 43 at address 6F423FFCB0 Value: 0
+Word: Fine Fragrant Wood            ||             Index 44 at address 6F423FFD60 Value: 0
+Word: Tears of Aperture            ||             Index 45 at address 6F423FFE10 Value: 0
+Word: Wild Leather III            ||             Index 46 at address 6F423FFF70 Value: 0
+Word: Misty Diamond III            ||             Index 47 at address 6F42400020 Value: 0
+Word: Mistinite III            ||             Index 48 at address 6F424000D0 Value: 0
+Word: Fragrant Wood            ||             Index 49 at address 6F42400180 Value: 0
+Word: Fine Sticky Bait            ||             Index 50 at address 6F424002E0 Value: 0
+Word: Aperturium III            ||             Index 51 at address 6F42400390 Value: 0
+Word: Refined Fragrant Wood            ||             Index 52 at address 6F42400440 Value: 0
+Word: Finest Y. Supplement            ||             Index 53 at address 6F424005A0 Value: 0
+Word: Wild Leather II            ||             Index 54 at address 6F42400650 Value: 0
+Word: Polish Powder            ||             Index 55 at address 6F42400700 Value: 0
+Word: Mistinite II            ||             Index 56 at address 6F42400910 Value: 0
+Word: Refined Y. Supplement            ||             Index 57 at address 6F424009C0 Value: 0
+Word: Princess of Darkness Tart            ||             Index 58 at address 6F42400B20 Value: 0
+Word: Sage's Stone            ||             Index 59 at address 6F42400C80 Value: 0
+Word: Fallen Temptation            ||             Index 60 at address 6F42400D30 Value: 0
+Word: Scorching Stone II            ||             Index 61 at address 6F42400DE0 Value: 0
+Word: Sage's Stone            ||             Index 62 at address 6F42400F40 Value: 0
+Word: Mistinite            ||             Index 63 at address 6F42400FF0 Value: 0
+Word: Cute Doll            ||             Index 64 at address 6F42401150 Value: 0
+Word: Karna's Pendant            ||             Index 65 at address 6F42401200 Value: 0
+Word: Fine Polish Powder            ||             Index 66 at address 6F424012B0 Value: 0
+Word: Scorching Stone            ||             Index 67 at address 6F42401360 Value: 0
+Word: Gourmet Flour            ||             Index 68 at address 6F42401410 Value: 0
+Word: Gaia Pearl II            ||             Index 69 at address 6F424014C0 Value: 0
+Word: Iridescent Crystal            ||             Index 70 at address 6F42401570 Value: 0
+Word: Elixir of Aperture            ||             Index 71 at address 6F42401620 Value: 0
+Word: Wild Leather            ||             Index 72 at address 6F424016D0 Value: 0
+Word: Green Supplement            ||             Index 73 at address 6F42401780 Value: 0
+Word: Tears of Aperture            ||             Index 74 at address 6F42401830 Value: 0
+Word: Iridescent Crystal            ||             Index 75 at address 6F424018E0 Value: 0
+Word: Conductive Sheet            ||             Index 76 at address 6F42401990 Value: 0
+Word: Mystic Flow            ||             Index 77 at address 6F42401A40 Value: 0
+Word: Ingot            ||             Index 78 at address 6F42401AF0 Value: 0
+Word: Refined Aperture Sugar            ||             Index 79 at address 6F42401BA0 Value: 0
+Word: Elixir of Aperture            ||             Index 80 at address 6F42401C50 Value: 0
+Word: Misty Diamond II            ||             Index 81 at address 6F42401D00 Value: 0
+Word: Rainbow Mystal II            ||             Index 82 at address 6F42401DB0 Value: 0
+Word: Gaia Pearl III            ||             Index 83 at address 6F42401E60 Value: 0
+Word: Fishing Rod            ||             Index 84 at address 6F42401FC0 Value: 0
+Word: Spirit Song            ||             Index 85 at address 6F42402070 Value: 0
+Word: Bug Net            ||             Index 86 at address 6F424021D0 Value: 0
+Word: Bug Net            ||             Index 87 at address 6F42402280 Value: 0
+Word: Synth Fiber            ||             Index 88 at address 6F42402330 Value: 0
+Word: Flour            ||             Index 89 at address 6F424023E0 Value: 0
+Word: Taboo Drip            ||             Index 90 at address 6F42402490 Value: 0
+Word: Mystic Ripple            ||             Index 91 at address 6F424025F0 Value: 0
+Word: Refined Building Boards            ||             Index 92 at address 6F424026A0 Value: 0
+Word: Wind Shoes II            ||             Index 93 at address 6F424028B0 Value: 0
+Word: Spirit Whisper            ||             Index 94 at address 6F42402960 Value: 0
+Word: Refined Synth Fiber            ||             Index 95 at address 6F42402A10 Value: 0
+Word: Misty Velour II            ||             Index 96 at address 6F42402AC0 Value: 0
+Word: Reaper's Scythe            ||             Index 97 at address 6F42402B70 Value: 0
+Word: Fine Synth Fiber            ||             Index 98 at address 6F42402C20 Value: 0
+Word: Fishing Rod            ||             Index 99 at address 6F42402CD0 Value: 0
+Word: Misty Diamond            ||             Index 100 at address 6F42402D80 Value: 0
+Word: Red Supplement            ||             Index 101 at address 6F42402F90 Value: 0
+Word: Finest G. Supplement            ||             Index 102 at address 6F424030F0 Value: 0
+Word: Holy Drip            ||             Index 103 at address 6F424031A0 Value: 0
+Word: Building Boards            ||             Index 104 at address 6F42403300 Value: 0
+Word: Princess of Darkness Tart            ||             Index 105 at address 6F42403460 Value: 0
+Word: Reaper's Scythe            ||             Index 106 at address 6F42403510 Value: 0
+Word: Light of Aperture            ||             Index 107 at address 6F424035C0 Value: 0
+Word: Bug Net            ||             Index 108 at address 6F42403670 Value: 0
+Word: Hammer            ||             Index 109 at address 6F42403720 Value: 0
+Word: Finest B. Supplement            ||             Index 110 at address 6F424037D0 Value: 0
+Word: Refined Flour            ||             Index 111 at address 6F42403930 Value: 0
+Word: Blue Supplement            ||             Index 112 at address 6F42403B40 Value: 0
+Word: Aperturium            ||             Index 113 at address 6F42403BF0 Value: 0
+Word: Holy Pellet            ||             Index 114 at address 6F42403D50 Value: 0
+Word: Plain Biscuit            ||             Index 115 at address 6F42403EB0 Value: 0
+Word: Aperturium II            ||             Index 116 at address 6F42403F60 Value: 0
+Word: Refined B. Supplement            ||             Index 117 at address 6F42404010 Value: 0
+Word: Exploration Shoes            ||             Index 118 at address 6F424040C0 Value: 0
+Word: Fishing Rod            ||             Index 119 at address 6F42404170 Value: 0
+Word: Mystic Droplet            ||             Index 120 at address 6F42404220 Value: 0
+Word: Bug Net            ||             Index 121 at address 6F424042D0 Value: 0
+Word: Holy Haze            ||             Index 122 at address 6F42404380 Value: 0
+Word: Bomb Hammer II            ||             Index 123 at address 6F42404430 Value: 0
+Word: Spirit Sigh            ||             Index 124 at address 6F424044E0 Value: 0
+Word: Spark of Aperture            ||             Index 125 at address 6F42404590 Value: 0
+Word: Fishing Rod            ||             Index 126 at address 6F42404640 Value: 0
+Word: Reaper's Scythe            ||             Index 127 at address 6F42404850 Value: 0
+Word: Scythe Axe            ||             Index 128 at address 6F42404900 Value: 0
+Word: Bug Net            ||             Index 129 at address 6F424049B0 Value: 0
+Word: Hammer            ||             Index 130 at address 6F42404A60 Value: 0
+Word: Taboo Pellet            ||             Index 131 at address 6F42404B10 Value: 0
+Word: Fine Flour            ||             Index 132 at address 6F42404BC0 Value: 0
+Word: Taboo Haze            ||             Index 133 at address 6F42404C70 Value: 0
+Word: Scythe Axe            ||             Index 134 at address 6F42404E80 Value: 0
+Word: Hammer            ||             Index 135 at address 6F42404FE0 Value: 0
+Word: Hammer            ||             Index 136 at address 6F42405140 Value: 0
+Word: Refined Polish Powder            ||             Index 137 at address 6F424051F0 Value: 0
+Word: Bomb Hammer II            ||             Index 138 at address 6F42405350 Value: 0
+Word: Yellow Supplement            ||             Index 139 at address 6F42405400 Value: 0
+Word: Scythe Axe            ||             Index 140 at address 6F424054B0 Value: 0
+Word: Fishing Rod            ||             Index 141 at address 6F42405560 Value: 0
+Word: Scythe Axe            ||             Index 142 at address 6F424056C0 Value: 0
+Word: Hammer            ||             Index 143 at address 6F42405820 Value: 0
+Word: Fishing Rod            ||             Index 144 at address 6F42405A30 Value: 0
+Word: Reaper's Scythe            ||             Index 145 at address 6F42405AE0 Value: 0
+Word: Finest R. Supplement            ||             Index 146 at address 6F42405B90 Value: 0
+Word: Refined R. Supplement            ||             Index 147 at address 6F42405C40 Value: 0
+Word: Scythe Axe            ||             Index 148 at address 6F42405CF0 Value: 0
+Word: Bomb Hammer II            ||             Index 149 at address 6F42405F00 Value: 0
+Word: Fishing Rod            ||             Index 150 at address 6F42405FB0 Value: 0
+Word: Exploration Shoes            ||             Index 151 at address 6F42406060 Value: 0
+Word: Gaia Pearl            ||             Index 152 at address 6F42406110 Value: 0
+Word: Reaper's Scythe            ||             Index 153 at address 6F424063D0 Value: 0
+Word: Bomb Hammer II            ||             Index 154 at address 6F42406480 Value: 0
+Word: Fishing Rod            ||             Index 155 at address 6F424065E0 Value: 0
+Word: Refined G. Supplement            ||             Index 156 at address 6F42406690 Value: 0
+Word: Misty Velour III            ||             Index 157 at address 6F42406C10 Value: 0
+Word: Wind Shoes II            ||             Index 158 at address 6F42406D70 Value: 0
+Word: Hammer            ||             Index 159 at address 6F42406F80 Value: 0
+Word: Princess of Darkness Tart            ||             Index 160 at address 6F42407190 Value: 0
+Word: Fishing Rod            ||             Index 161 at address 6F42407A80 Value: 0
+Word: Dawn of Aperture            ||             Index 162 at address 6F42407B30 Value: 0
+Word: Bomb Hammer II            ||             Index 163 at address 6F42407F50 Value: 0
+Word: Bug Net            ||             Index 164 at address 6F42408210 Value: 0
+Word: Bug Net            ||             Index 165 at address 6F424084D0 Value: 0
+Word: Reaper's Scythe            ||             Index 166 at address 6F42408630 Value: 0
+Word: Plain Biscuit            ||             Index 167 at address 6F42409CE0 Value: 0
+Word: Ingot III            ||             Index 168 at address 6F4240A730 Value: 0
+Word: Scythe Axe            ||             Index 169 at address 6F4240A890 Value: 0
+Word: Exploration Shoes            ||             Index 170 at address 6F4240AC00 Value: 0
+Word: Refined Sticky Bait            ||             Index 171 at address 6F4240B230 Value: 0
+Word: Sticky Bait            ||             Index 172 at address 6F4240C570 Value: 0
+Word: Bomb Hammer II            ||             Index 173 at address 6F42410E50 Value: 0
+Word: Plain Tart            ||             Index 174 at address 6F42412240 Value: 0

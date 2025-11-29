@@ -10621,3 +10621,185 @@ White Charcoal::2136000206
 White Feldspar::2136000151
 Wind Stone::2136000147
 Yellow Ghost::2136000311
+
+
+
+
+
+
+
+
+Aperture Sugar::2132000238
+Aperturium II::2132000209
+Aperturium III::2132000210
+Aperturium::2132000208
+Blue Supplement::2132000142
+Bomb Hammer II::2132000021
+Bomb Hammer II::2132000022
+Bomb Hammer II::2132000023
+Bomb Hammer II::2132000024
+Bomb Hammer II::2132000025
+Bomb Hammer II::2132000026
+Bug Net::2132000030
+Bug Net::2132000031
+Bug Net::2132000032
+Bug Net::2132000033
+Bug Net::2132000034
+Bug Net::2132000035
+Bug Net::2132000036
+Bug Net::2132000037
+Bug Net::2132000038
+Building Boards::2132000226
+Cloudy Crystal::2132000536
+Cloudy Crystal::2132000537
+Cloudy Crystal::2132000538
+Conductive Sheet::2132000527
+Conductive Sheet::2132000528
+Conductive Sheet::2132000529
+Cute Doll::2132000539
+Cute Doll::2132000540
+Cute Doll::2132000541
+Dawn of Aperture::2132000131
+Elixir of Aperture::2132000506
+Elixir of Aperture::2132000507
+Elixir of Aperture::2132000508
+Exploration Shoes::2132000048
+Exploration Shoes::2132000049
+Exploration Shoes::2132000050
+Fallen Temptation::2132000515
+Fallen Temptation::2132000516
+Fallen Temptation::2132000517
+Fine Aperture Sugar::2132000240
+Fine Building Boards::2132000228
+Fine Floral Nectar::2132000246
+Fine Flour::2132000114
+Fine Fragrant Wood::2132000234
+Fine Polish Powder::2132000174
+Fine Sticky Bait::2132000162
+Fine Synth Fiber::2132000168
+Finest B. Supplement::2132000144
+Finest G. Supplement::2132000150
+Finest R. Supplement::2132000138
+Finest Y. Supplement::2132000156
+Fishing Rod::2132000039
+Fishing Rod::2132000040
+Fishing Rod::2132000041
+Fishing Rod::2132000042
+Fishing Rod::2132000043
+Fishing Rod::2132000044
+Fishing Rod::2132000045
+Fishing Rod::2132000046
+Fishing Rod::2132000047
+Floral Nectar::2132000244
+Flour::2132000112
+Fragrant Wood::2132000232
+Gaia Pearl II::2132000185
+Gaia Pearl III::2132000186
+Gaia Pearl::2132000184
+Gourmet Flour::2132000512
+Gourmet Flour::2132000513
+Gourmet Flour::2132000514
+Green Supplement::2132000148
+Hammer::2132000015
+Hammer::2132000016
+Hammer::2132000017
+Hammer::2132000018
+Hammer::2132000019
+Hammer::2132000020
+Heat-Resistant Bucket::2132000524
+Heat-Resistant Bucket::2132000525
+Heat-Resistant Bucket::2132000526
+Holy Drip::2132000107
+Holy Haze::2132000108
+Holy Pellet::2132000106
+Ingot II::2132000197
+Ingot III::2132000198
+Ingot::2132000196
+Iridescent Crystal::2132000503
+Iridescent Crystal::2132000504
+Iridescent Crystal::2132000505
+Karna's Pendant::2132000521
+Karna's Pendant::2132000522
+Karna's Pendant::2132000523
+Light of Aperture::2132000130
+Luxurious Cream::2132000530
+Luxurious Cream::2132000531
+Luxurious Cream::2132000532
+Mistinite II::2132000203
+Mistinite III::2132000204
+Mistinite::2132000202
+Misty Diamond II::2132000191
+Misty Diamond III::2132000192
+Misty Diamond::2132000190
+Misty Velour II::2132000215
+Misty Velour III::2132000216
+Misty Velour::2132000214
+Mystic Droplet::2132000124
+Mystic Flow::2132000126
+Mystic Ripple::2132000125
+Odd Elixir::2132000518
+Odd Elixir::2132000519
+Odd Elixir::2132000520
+Plain Biscuit::2132000545
+Plain Biscuit::2132000546
+Plain Biscuit::2132000547
+Plain Tart::2132000533
+Plain Tart::2132000534
+Plain Tart::2132000535
+Polish Powder::2132000172
+Princess of Darkness Tart::2132000542
+Princess of Darkness Tart::2132000543
+Princess of Darkness Tart::2132000544
+Rainbow Mystal II::2132000179
+Rainbow Mystal III::2132000180
+Rainbow Mystal::2132000178
+Reaper's Scythe::2132000001
+Reaper's Scythe::2132000002
+Reaper's Scythe::2132000003
+Reaper's Scythe::2132000004
+Reaper's Scythe::2132000005
+Reaper's Scythe::2132000006
+Red Supplement::2132000136
+Refined Aperture Sugar::2132000239
+Refined B. Supplement::2132000143
+Refined Building Boards::2132000227
+Refined Floral Nectar::2132000245
+Refined Flour::2132000113
+Refined Fragrant Wood::2132000233
+Refined G. Supplement::2132000149
+Refined Polish Powder::2132000173
+Refined R. Supplement::2132000137
+Refined Sticky Bait::2132000161
+Refined Synth Fiber::2132000167
+Refined Y. Supplement::2132000155
+Sage's Stone::2132000509
+Sage's Stone::2132000510
+Sage's Stone::2132000511
+Scorching Stone II::2132000251
+Scorching Stone III::2132000252
+Scorching Stone::2132000250
+Scythe Axe::2132000007
+Scythe Axe::2132000008
+Scythe Axe::2132000009
+Scythe Axe::2132000010
+Scythe Axe::2132000011
+Scythe Axe::2132000012
+Spark of Aperture::2132000132
+Spirit Sigh::2132000118
+Spirit Song::2132000120
+Spirit Whisper::2132000119
+Sticky Bait::2132000160
+Synth Fiber::2132000166
+Taboo Drip::2132000101
+Taboo Haze::2132000102
+Taboo Pellet::2132000100
+Tears of Aperture::2132000500
+Tears of Aperture::2132000501
+Tears of Aperture::2132000502
+Wild Leather II::2132000221
+Wild Leather III::2132000222
+Wild Leather::2132000220
+Wind Shoes II::2132000051
+Wind Shoes II::2132000052
+Wind Shoes II::2132000053
+Yellow Supplement::2132000154

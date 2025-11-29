@@ -1,148 +1,174 @@
-Spirit Grass Foam::2136000362
-Slough::2136000384
-Spider Thread::2136000321
-Reservoir Master::2136000286
-Pretty Stick::2136000347
-Ancient Beetle::2136000310
-Sturdy Vine::2136000322
-Honey Tree Bark::2136000343
-Forest Bonito::2136000284
-Holy Fragment::2136000167
-Rusty Sword::2136000421
-Giant Tree::2136000342
-Giant Tree Branch::2136000348
-White Charcoal::2136000206
-Tinite::2136000511
-Ominous Spirit::2136000402
-Red Star::2136000301
-Sage's Last Gift::2136000503
-Torn Doll::2136000513
-Sturdy Branch::2136000344
-Broken Item::2136000422
-Beastly Venom Pouch::2136000385
-Weathered Old Tree::2136000345
-Mixed Stone::2136000162
-Broken Pendant::2136000508
-Shopmaniac Clam::2136000168
-Blue Stellite::2136000501
-Blue Amanita::2136000264
-Holy Branch::2136000349
-Everlasting Flame::2136000182
-Asphodelus::2136000086
-Unknown Gemstone::2136000161
-Whirlwind Element::2136000363
-Quality Iron Ore::2136000509
-Big Bone::2136000381
-Element Flora::2136000403
-Atonement Fang::2136000383
-Extra-Creamy Milk::2136000504
-Paper Scrap::2136000201
-Aperture Berry::2136000441
-Mythical Hide::2136000386
-Thundercrack Stone::2136000169
-Aperture Wood::2136000341
-Hell Hound Hide::2136000510
-Aperture Pike::2136000285
-Crispy Mushroom::2136000263
-Dainty Herb::2136000025
-Aether Alter::2136000006
-Corinda Spirit Grass::2136000506
-Golden Shiitake::2136000266
-Molasses Ant::2136000304
-Old Badge::2136000423
-Honey Sauce::2136000443
-Indigorium::2136000512
-All-Natural Oil::2136000203
-Fluffy Feathers::2136000514
-Rainbow Seed::2136000243
-Giant Tree Vine::2136000323
-Unknown Ancient Fish::2136000283
-Ivory Ore::2136000142
-Honey Tree Fruit::2136000242
-Interstellar::2136000152
-White Feldspar::2136000151
-Sapphire-fly::2136000306
-Dry Woodchip::2136000184
-Fairy's Scraps::2136000401
-Hot Sand::2136000102
-Sugarcane::2136000442
-Flaming Bolete::2136000261
-Old Stone::2136000124
-Electro Stone::2136000150
-Fresh Meat::2136000222
-Hard Logs::2136000346
-Polluted Dirt::2136000204
-Blue Needle::2136000305
-Wind Stone::2136000147
-Night Shard::2136000149
-Black Ashen Sand::2136000103
-Monster Hide::2136000382
-Burn Grass::2136000185
-Scrap Metal::2136000141
-Medicinal Moss::2136000029
-Mush Powder::2136000361
-Guardian Core::2136000146
-Monster Scale::2136000148
-Alabaster Stone::2136000125
-Solid Breccia::2136000143
-Ashroom::2136000181
-Aperturdite::2136000145
-Aperture Water::2136000002
-Lightning Element::2136000112
-Gold Aperture Uni::2136000043
-Aperture Fruit::2136000223
-Forest Flaxseed::2136000205
-Hard Fruit::2136000241
-Spiky Sandworm::2136000302
-Great Tree Drop::2136000004
-Aqua Stone::2136000144
-Pebble Fly::2136000303
-Aperture Carp::2136000282
-Black Explosives::2136000186
-Blue Slate::2136000123
-Holy Crystal::2136000163
-Yellow Ghost::2136000311
-Moist Moss Stone::2136000122
-Warm Sand::2136000101
-Stalactite Piece::2136000128
-Silver Aperture Uni::2136000042
-Aperture Uni::2136000041
-Sparkling Sand::2136000111
-Great Felwort::2136000082
-Holy Leaf::2136000026
-Shiny Bile::2136000085
-Slate::2136000129
-Pretty Fossil::2136000121
-False Beech Shroom::2136000265
-Rock Salt Grass::2136000021
-Stinky Trash::2136000081
-Inferno Element::2136000183
-Red Truffle::2136000262
-Sandstone::2136000127
-Diamond Devil::2136000312
-Azure Shimmer::2136000005
-Round Pillar::2136000126
-Aperture Wheat::2136000221
-Smooth Sand::2136000110
-Poison Plant::2136000084
-Aperture Rose::2136000069
-Inky Fruit::2136000083
-Stony Blowfish::2136000281
-Combustible Bark::2136000202
-Fresh Dew::2136000001
-Sun Honeysuckle::2136000067
-Flycatcher Grass::2136000068
-Soft Bud::2136000065
-Fog Blossom::2136000063
-Regular Grass::2136000027
-Large Reed::2136000024
-Scarlet Flower Bud::2136000062
-Burned Leaf::2136000023
-Pure Forest Flower::2136000064
-Salamander's Claw::2136000500
-Summer Princess::2136000066
-Flood Element::2136000003
-Traveler's Grass::2136000028
-Glow Moss::2136000022
-Glowing Powder::2136000502
-Red Peony::2136000061
+Iridescent Crystal::2132000504
+Rainbow Mystal III::2132000180
+Gourmet Flour::2132000512
+Cloudy Crystal::2132000537
+Bug Net::2132000035
+Luxurious Cream::2132000532
+Aperture Sugar::2132000238
+Conductive Sheet::2132000529
+Cute Doll::2132000539
+Heat-Resistant Bucket::2132000526
+Floral Nectar::2132000244
+Fine Floral Nectar::2132000246
+Bug Net::2132000031
+Odd Elixir::2132000519
+Scorching Stone III::2132000252
+Fallen Temptation::2132000517
+Fine Building Boards::2132000228
+Tears of Aperture::2132000500
+Cloudy Crystal::2132000536
+Luxurious Cream::2132000531
+Elixir of Aperture::2132000507
+Cloudy Crystal::2132000538
+Misty Velour::2132000214
+Odd Elixir::2132000520
+Karna's Pendant::2132000521
+Plain Tart::2132000533
+Wind Shoes II::2132000053
+Fallen Temptation::2132000516
+Refined Floral Nectar::2132000245
+Cute Doll::2132000540
+Karna's Pendant::2132000523
+Plain Tart::2132000535
+Fine Aperture Sugar::2132000240
+Heat-Resistant Bucket::2132000524
+Gourmet Flour::2132000513
+Odd Elixir::2132000518
+Luxurious Cream::2132000530
+Plain Biscuit::2132000546
+Conductive Sheet::2132000528
+Heat-Resistant Bucket::2132000525
+Sage's Stone::2132000510
+Ingot II::2132000197
+Rainbow Mystal::2132000178
+Fine Fragrant Wood::2132000234
+Tears of Aperture::2132000501
+Wild Leather III::2132000222
+Misty Diamond III::2132000192
+Mistinite III::2132000204
+Fragrant Wood::2132000232
+Fine Sticky Bait::2132000162
+Aperturium III::2132000210
+Refined Fragrant Wood::2132000233
+Finest Y. Supplement::2132000156
+Wild Leather II::2132000221
+Polish Powder::2132000172
+Mistinite II::2132000203
+Refined Y. Supplement::2132000155
+Princess of Darkness Tart::2132000544
+Sage's Stone::2132000509
+Fallen Temptation::2132000515
+Scorching Stone II::2132000251
+Sage's Stone::2132000511
+Mistinite::2132000202
+Cute Doll::2132000541
+Karna's Pendant::2132000522
+Fine Polish Powder::2132000174
+Scorching Stone::2132000250
+Gourmet Flour::2132000514
+Gaia Pearl II::2132000185
+Iridescent Crystal::2132000503
+Elixir of Aperture::2132000508
+Wild Leather::2132000220
+Green Supplement::2132000148
+Tears of Aperture::2132000502
+Iridescent Crystal::2132000505
+Conductive Sheet::2132000527
+Mystic Flow::2132000126
+Ingot::2132000196
+Refined Aperture Sugar::2132000239
+Elixir of Aperture::2132000506
+Misty Diamond II::2132000191
+Rainbow Mystal II::2132000179
+Gaia Pearl III::2132000186
+Fishing Rod::2132000040
+Spirit Song::2132000120
+Bug Net::2132000038
+Bug Net::2132000037
+Synth Fiber::2132000166
+Flour::2132000112
+Taboo Drip::2132000101
+Mystic Ripple::2132000125
+Refined Building Boards::2132000227
+Wind Shoes II::2132000052
+Spirit Whisper::2132000119
+Refined Synth Fiber::2132000167
+Misty Velour II::2132000215
+Reaper's Scythe::2132000005
+Fine Synth Fiber::2132000168
+Fishing Rod::2132000044
+Misty Diamond::2132000190
+Red Supplement::2132000136
+Finest G. Supplement::2132000150
+Holy Drip::2132000107
+Building Boards::2132000226
+Princess of Darkness Tart::2132000543
+Reaper's Scythe::2132000004
+Light of Aperture::2132000130
+Bug Net::2132000036
+Hammer::2132000019
+Finest B. Supplement::2132000144
+Refined Flour::2132000113
+Blue Supplement::2132000142
+Aperturium::2132000208
+Holy Pellet::2132000106
+Plain Biscuit::2132000547
+Aperturium II::2132000209
+Refined B. Supplement::2132000143
+Exploration Shoes::2132000048
+Fishing Rod::2132000043
+Mystic Droplet::2132000124
+Bug Net::2132000032
+Holy Haze::2132000108
+Bomb Hammer II::2132000026
+Spirit Sigh::2132000118
+Spark of Aperture::2132000132
+Fishing Rod::2132000045
+Reaper's Scythe::2132000001
+Scythe Axe::2132000008
+Bug Net::2132000034
+Hammer::2132000017
+Taboo Pellet::2132000100
+Fine Flour::2132000114
+Taboo Haze::2132000102
+Scythe Axe::2132000009
+Hammer::2132000020
+Hammer::2132000018
+Refined Polish Powder::2132000173
+Bomb Hammer II::2132000021
+Yellow Supplement::2132000154
+Scythe Axe::2132000011
+Fishing Rod::2132000039
+Scythe Axe::2132000010
+Hammer::2132000015
+Fishing Rod::2132000047
+Reaper's Scythe::2132000002
+Finest R. Supplement::2132000138
+Refined R. Supplement::2132000137
+Scythe Axe::2132000012
+Bomb Hammer II::2132000025
+Fishing Rod::2132000041
+Exploration Shoes::2132000050
+Gaia Pearl::2132000184
+Reaper's Scythe::2132000003
+Bomb Hammer II::2132000023
+Fishing Rod::2132000042
+Refined G. Supplement::2132000149
+Misty Velour III::2132000216
+Wind Shoes II::2132000051
+Hammer::2132000016
+Princess of Darkness Tart::2132000542
+Fishing Rod::2132000046
+Dawn of Aperture::2132000131
+Bomb Hammer II::2132000022
+Bug Net::2132000030
+Bug Net::2132000033
+Reaper's Scythe::2132000006
+Plain Biscuit::2132000545
+Ingot III::2132000198
+Scythe Axe::2132000007
+Exploration Shoes::2132000049
+Refined Sticky Bait::2132000161
+Sticky Bait::2132000160
+Bomb Hammer II::2132000024
+Plain Tart::2132000534
