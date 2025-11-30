@@ -1,113 +1,198 @@
-Loaded 18212 unique-pointer values.
-Loaded 10406 manifest values.
+Prefixes (first 4 digits):
+2050 -- currency items like git, and sidestory currency like black pearls
+2110 -- badges and a bunch of other weapons
+2170 -- unknown category
+2180 -- Timetwisted Maze Charms
+2210 -- most material items found in the world/mob drop material items
+2310 -- random ahh Ultra Salmon, neo meat, Super Crunch
+2320 -- Item names: Rolly-rolly (Index 1 at address 79835EC120 Value: 0), Catnip (Index 2 at address 7983DE9760 Value: 0), Squeaky EX (Index 3 at address 7983DEC6A0 Value: 0)
+2350 -- random opus ticket, treatisies ticket, or codexes ticket (i think unavilable in current state of the game)
+2419 -- DANGER key items like story keys and also some items and misc keystuff all which are DANGEROUS
+2420 -- Treatisies, opus, tomes
+2430 -- will corrupt world if have more than 1 or any modifications to any item here (restore mp and hp item food)
+2470 -- MISC stuff like Grasta upgrade Ore, Gadaro Soil, Poison Res.+20 Seed, Darkness Res. Fertilizer, Funeral Cavern Soil, Sleep Res. Fertilizer, Stone Res. Fertilizer, Poison Res. Fertilizer, Confusion Res. Fertilizer, Talgana Mountain Soil, Last Stand Ore
+2790 -- Account corruption if modify Alchemist items
+2817 -- unknown category
+2819 -- unknown category
+2820 -- unknown category
+2880 -- unknown category
+2881 -- unknown category
+2883 -- unknown category
+2950 -- auction items treasure items to get roc or seeker points
+2970 -- light and shadow upgrade item?? (useless)
+4500 -- cat material items...
+4520 -- cat shop items mostly using meow coin
+4640 -- random items like enemy deck
+4920 -- unknown category
+5640 -- dungeon key items (Another Dungeon)
+5650 -- some AD items like superior dogu ** updated 2-23-2025 453 items
+7730 -- harpoon bait items??
+7740 -- harpoon type shi like proof of harpoon power
+7750 -- Harpoon Fishing
+7760 -- more Harpoon bogus?
+7770 -- pretty sure its harpoon related (trap items)
+7780 -- it says large cooling box maybe harpoon upgrade idKKK
+8085 -- unknown category
+8086 -- unknown category
+8087 -- unknown category
+8088 -- unknown category
+8126 -- unknown category
+8253 -- unknown category
+8283 -- unknown category
+8284 -- unknown category
+8287 -- unknown category
+8289 -- unknown category
+8293 -- unknown category
+8294 -- unknown category
+8295 -- unknown category
+8300 -- unknown category
+8421 -- unknown category
+8451 -- unknown category
+8452 -- unknown category
+8455 -- unknown category
+8457 -- unknown category
+8459 -- unknown category
+8460 -- unknown category
+8463 -- unknown category
+8467 -- unknown category
+8468 -- unknown category
+8588 -- unknown category
+8620 -- unknown category
+8622 -- unknown category
+8625 -- unknown category
+8626 -- unknown category
+8628 -- unknown category
+8631 -- unknown category
+8635 -- unknown category
+8730 -- fishing bait
+8740 -- does have master fishing rod. (very interesting prob would saved time leveling the fish rod to level 30...)
+8750 -- fishing Reel upgrades like master reel V lol...
+8760 -- fishing upgrade (orochi hook, dimensional hook etc.)
+8770 -- fishing hook upgrades like floats
+8780 -- fishing storage upgrade (cooling box)
+8787 -- unknown category
+8788 -- unknown category
+8790 -- unknown category
+8793 -- unknown category
+8796 -- unknown category
+8799 -- unknown category
+8803 -- unknown category
+8923 -- unknown category
+8924 -- unknown category
+8925 -- unknown category
+8926 -- unknown category
+8954 -- unknown category
+8955 -- unknown category
+8957 -- unknown category
+8958 -- unknown category
+8960 -- unknown category
+8961 -- unknown category
+8964 -- unknown category
+8966 -- unknown category
+8971 -- unknown category
+9000 -- time mine items
+9001 -- unknown category
+9123 -- unknown category
+9126 -- unknown category
+9128 -- unknown category
+9132 -- unknown category
+9134 -- unknown category
+9139 -- unknown category
+9289 -- unknown category
+9291 -- unknown category
+9293 -- unknown category
+9296 -- unknown category
+9299 -- unknown category
+9302 -- unknown category
+9307 -- unknown category
+9427 -- unknown category
+9459 -- unknown category
+9461 -- unknown category
+9464 -- unknown category
+9467 -- unknown category
+9470 -- unknown category
+9474 -- unknown category
+9626 -- unknown category
+9629 -- unknown category
+9632 -- unknown category
+9635 -- unknown category
+9637 -- unknown category
+9642 -- unknown category
+1597 -- unknown category
+1601 -- unknown category
+1627 -- unknown category
+1633 -- unknown category
+1634 -- unknown category
+1635 -- unknown category
+1650 -- unknown category
+1651 -- unknown category
+1667 -- unknown category
+1684 -- unknown category
+1685 -- unknown category
+1700 -- unknown category
+1701 -- unknown category
+1702 -- unknown category
+1717 -- unknown category
+1718 -- unknown category
+1719 -- unknown category
+1734 -- unknown category
+1735 -- unknown category
+1744 -- unknown category
+1748 -- unknown category
+1749 -- unknown category
+1750 -- unknown category
+1751 -- unknown category
+1752 -- unknown category
+1761 -- unknown category
+1767 -- unknown category
+1768 -- unknown category
+1769 -- unknown category
+1801 -- unknown category
+1802 -- unknown category
+1818 -- unknown category
+1819 -- unknown category
+1834 -- unknown category
+1835 -- unknown category
+1836 -- unknown category
+1851 -- unknown category
+1852 -- unknown category
+1853 -- unknown category
+1862 -- unknown category
+1868 -- unknown category
+1869 -- unknown category
+1870 -- unknown category
+1886 -- unknown category
+1918 -- unknown category
+1919 -- unknown category
+1920 -- unknown category
+1935 -- unknown category
+1936 -- unknown category
+1937 -- unknown category
+1952 -- unknown category
+1953 -- unknown category
+1969 -- unknown category
+1970 -- unknown category
+2002 -- unknown category
+2003 -- unknown category
+2004 -- unknown category
+2008 -- similar to 2136000149 or 2132000202 unsure which event/sidestory items though
+2010 -- unknown category
+2011 -- unknown category
+2012 -- unknown category
+2019 -- unknown category
+2036 -- unknown category
+2037 -- unknown category
+2053 -- unknown category
+2061 -- unknown category
+2075 -- unknown category
+2076 -- unknown category
+2078 -- unknown category
+2080 -- unknown category
 
-Missing in manifest: 7806
-177000111
-177000112
-177000113
-177000114
-177000115
-177000116
-177000117
-177000118
-177000119
-177000120
-177000121
-177000122
-177000123
-177000124
-177000125
-177000126
-177000127
-177000128
-177000129
-177000130
-177000131
-177000132
-177000133
-177000134
-177000135
-177000136
-177000137
-177000138
-177000139
-177000140
-177000141
-177000142
-177000143
-177000144
-177000145
-177000146
-177000147
-177000148
-177000149
-177000150
-177000151
-177000152
-177000153
-177000154
-177000155
-177000156
-177000157
-177000158
-177000159
-177000160
-177900133
-177900134
-177900135
-177900136
-177900137
-177900138
-177900139
-177900140
-177900141
-177900142
-177900143
-177900144
-177900145
-177900146
-177900147
-177900148
-177900149
-177900150
-177900151
-177900152
-177900153
-177900154
-177900155
-177900156
-177900157
-177900158
-177900159
-177900160
-177900161
-177900162
-177900163
-177900164
-177900165
-177900166
-177900167
-177900168
-177900169
-177900170
-177900171
-177900172
-177900173
-177900174
-177900175
-177900176
-177900177
-177900178
-177900179
-177900180
-177900181
-177900182
-202000002
-202000003
-202000004
-202000005
-202000006
-202000007
+Loaded 18205 unique-pointer values.
+Loaded 10828 manifest values.
+
+Missing in manifest: 7377
 205000114
 205000115
 205000116
@@ -271,7 +356,6 @@ Missing in manifest: 7806
 211070980
 211090600
 211090610
-216000002
 217021201
 217024041
 217031211
@@ -7487,7 +7571,5 @@ Missing in manifest: 7806
 2080000603
 2080000604
 
-
-
-
-
+Critical error: manifest-only entries: 0
+(none)

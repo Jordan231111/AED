@@ -10904,3 +10904,60 @@ Wind Shoes II::2132000051
 Wind Shoes II::2132000052
 Wind Shoes II::2132000053
 Yellow Supplement::2132000154
+
+
+
+
+
+
+
+Beautiful Bouquet::492000012
+Blue Mushroom::492000018
+Blue Powder::492000019
+Blue/Green Powder Mix::492000046
+Broken Net::492000038
+Bucket::492000023
+Busted Hammer::492000027
+Coin::492000037
+Desire Dust::492000050
+Earth Prisma Crystal::492000005
+Earth Prismazooka::492000036
+Empty Envelope::492000048
+Envelope::492000031
+Failed Powder Mix::492000047
+Fire Prisma Crystal::492000003
+Fire Prismazooka::492000033
+Fish Attractant::492000049
+Flint::492000013
+Full Bucket::492000024
+Green Mushroom::492000020
+Green Powder::492000021
+Lantern::492000040
+Lively Fish::492000026
+Miasma Orb (With Pedestal)::492000039
+Miasma Orb::492000001
+Mortar::492000032
+Net::492000025
+Pesticide::492000022
+Prismazooka::492000008
+Rag::492000030
+Red Flower::492000009
+Red Mushroom::492000014
+Red Powder::492000015
+Red/Blue Powder Mix::492000044
+Red/Green Powder Mix::492000045
+Small Key::492000007
+Stone Weight::492000028
+Sword of the Hero::492000002
+Water Prisma Crystal::492000004
+Water Prismazooka::492000034
+White Flower::492000010
+White Mushroom::492000016
+White Powder::492000017
+White/Blue Powder Mix::492000042
+White/Green Powder Mix::492000043
+White/Red Powder Mix::492000041
+Wind Prisma Crystal::492000006
+Wind Prismazooka::492000035
+Wooden Stick::492000029
+Yellow Flower::492000011

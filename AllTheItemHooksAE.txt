@@ -1,43 +1,45 @@
-Final printed value for unique -1308002592: 297000001 -- light and shadow upgrade item?? (useless)
-Final printed value for unique -1307991304: 232000003 -- // Item names: Rolly-rolly (Index 1 at address 79835EC120 Value: 0), Catnip (Index 2 at address 7983DE9760 Value: 0), Squeaky EX (Index 3 at address 7983DEC6A0 Value: 0)
-Final printed value for unique -1307986400: 231000004 -- random ahh Ultra Salmon, neo meat, Super Crunch 
-Final printed value for unique -1307944992: 2132000202 -- Aperture and also maybe Crystal of Wisdom and the Secret Castle
-Final printed value for unique -1307945784: 2136000149 -- Crystal of Wisdom and the Secret Castle
-Final printed value for unique -1307949712: 870000044 -- fish types,  from fishing??? (seems like a true false) whether i caught a fish or not
-Final printed value for unique -1307970536: 241900321 -- DANGER key items like story keys and also some items and misc keystuff all which are DANGEROUS
-Final printed value for unique -1307962592: 464001065 -- random items like enemy deck
-Final printed value for unique -1307954648: 279002011 -- Account corruption if modify Alchemist items
-Final printed value for unique -1308001720: 177900019 -- whisper of time and gacha items but server sided 
-Final printed value for unique -1308048224: 295000031 -- auction items treasure items to get roc or seeker points
-Final printed value for unique -1307995992: 565000569 -- some AD items like superior dogu ** updated 2-23-2025 453 items
-Final printed value for unique -1308018896: 775000018 -- Harpoon Fishing
-Final printed value for unique -1308028568: 247000004 -- MISC stuff like Grasta upgrade Ore, Gadaro Soil, Poison Res.+20 Seed, Darkness Res. Fertilizer, Funeral Cavern Soil, Sleep Res. Fertilizer, Stone Res. Fertilizer, Poison Res. Fertilizer, Confusion Res. Fertilizer, Talgana Mountain Soil, Last Stand Ore"}, -- added 155
-Final printed value for unique -1308022720: 242030017 -- Treatisies, opus, tomes
-Final printed value for unique -1308040360: 209000202 -- Bolts, Gear, Screws like Gold Gear, Diamond Drill -- added 23 items
-Final printed value for unique -1308018104: 776000002 -- more Harpoon bogus?
-Final printed value for unique -1307968368: 2008000152 -- similar to 2136000149 or 2132000202 unsure which event/sidestory items though
-Final printed value for unique -1308064448: 874000021 -- does have master fishing rod. (very interesting prob would saved time leveling the fish rod to level 30...)
-Final printed value for unique -1308064840: 875000030 -- fishing Reel upgrades like master reel V lol...
-Final printed value for unique -1308035944: 243000028 -- will corrupt world if have more than 1 or any modifications to any item here (restore mp and hp item food)
-Final printed value for unique -1308063664: 877000014 -- fishing hook upgrades like floats
-Final printed value for unique -1308019288: 774000029 -- harpoon type shi like proof of harpoon power
-Final printed value for unique -1308013192: 246000005 -- low medium high class scrolls
-Final printed value for unique -1308019680: 777000001 -- pretty sure its harpoon related (trap items)
-Final printed value for unique -1308065752: 876000010 -- fishing upgrade (orochi hook, dimensional hook etc.)
-Final printed value for unique -1308061120: 791000003 -- OOP ART type shii
-Final printed value for unique -1308021816: 773000002 -- harpoon bait items??
-Final printed value for unique -1308065232: 878000005 -- fishing storage upgrade (cooling box)
-Final printed value for unique -1308020200: 778000001 -- it says large cooling box maybe harpoon upgrade idKKK
-Final printed value for unique -1308035328: 235000002 -- random opus ticket, treatisies ticket, or codexes ticket (i think unavilable in current state of the game)
-Final printed value for unique -1307956696: 205000024 -- currency items like git, and sidestory currency like black pearls
-Final printed value for unique -1307993280: 564001001 -- dungeon key items (Another Dungeon)
-Final printed value for unique -1308037184: 218001064 -- Timetwisted Maze Charms
-Final printed value for unique -1308066704: 222000009 -- Special Fragment and related
-Final printed value for unique -1307956256: 221004033 -- most material items found in the world/mob drop material items
-Final printed value for unique -1308063272: 873000104 -- fishing bait
-Final printed value for unique -1307988552: 452010004 -- cat shop items mostly using meow coin
-Final printed value for unique -1307987616: 450000022 -- cat material items...
-Final printed value for unique -1308057216: 961013003 -- Side Story Symphony: Tales of Chronographia cooking material items
-Final printed value for unique -1308055048: 211000092 -- badges and a bunch of other weapons
-Final printed value for unique -2031526288: 900000003 -- time mine items
-Final printed value for unique  1664374720: 245000014 -- light and shadow for character
+ 297000001 -- light and shadow upgrade item?? (useless)
+ 232000003 -- Item names: Rolly-rolly (Index 1 at address 79835EC120 Value: 0), Catnip (Index 2 at address 7983DE9760 Value: 0), Squeaky EX (Index 3 at address 7983DEC6A0 Value: 0)
+ 231000004 -- random ahh Ultra Salmon, neo meat, Super Crunch 
+ 2132000202 -- Aperture and also maybe Crystal of Wisdom and the Secret Castle
+ 2136000149 -- Crystal of Wisdom and the Secret Castle
+ 870000044 -- fish types,  from fishing??? (seems like a true false) whether i caught a fish or not
+ 241900321 -- DANGER key items like story keys and also some items and misc keystuff all which are DANGEROUS
+ 464001065 -- random items like enemy deck
+ 279002011 -- Account corruption if modify Alchemist items
+ 177900019 -- whisper of time and gacha items but server sided 
+ 295000031 -- auction items treasure items to get roc or seeker points
+ 565000569 -- some AD items like superior dogu ** updated 2-23-2025 453 items
+ 775000018 -- Harpoon Fishing
+ 247000004 -- MISC stuff like Grasta upgrade Ore, Gadaro Soil, Poison Res.+20 Seed, Darkness Res. Fertilizer, Funeral Cavern Soil, Sleep Res. Fertilizer, Stone Res. Fertilizer, Poison Res. Fertilizer, Confusion Res. Fertilizer, Talgana Mountain Soil, Last Stand Ore"}, -- added 155
+ 242030017 -- Treatisies, opus, tomes
+ 209000202 -- Bolts, Gear, Screws like Gold Gear, Diamond Drill -- added 23 items
+ 776000002 -- more Harpoon bogus?
+ 2008000152 -- similar to 2136000149 or 2132000202 unsure which event/sidestory items though
+ 874000021 -- does have master fishing rod. (very interesting prob would saved time leveling the fish rod to level 30...)
+ 875000030 -- fishing Reel upgrades like master reel V lol...
+ 243000028 -- will corrupt world if have more than 1 or any modifications to any item here (restore mp and hp item food)
+ 877000014 -- fishing hook upgrades like floats
+ 774000029 -- harpoon type shi like proof of harpoon power
+ 246000005 -- low medium high class scrolls
+ 777000001 -- pretty sure its harpoon related (trap items)
+ 876000010 -- fishing upgrade (orochi hook, dimensional hook etc.)
+ 791000003 -- OOP ART type shii
+ 773000002 -- harpoon bait items??
+ 878000005 -- fishing storage upgrade (cooling box)
+ 778000001 -- it says large cooling box maybe harpoon upgrade idKKK
+ 235000002 -- random opus ticket, treatisies ticket, or codexes ticket (i think unavilable in current state of the game)
+ 205000024 -- currency items like git, and sidestory currency like black pearls
+ 564001001 -- dungeon key items (Another Dungeon)
+ 218001064 -- Timetwisted Maze Charms
+ 222000009 -- Special Fragment and related
+ 221004033 -- most material items found in the world/mob drop material items
+ 873000104 -- fishing bait
+ 452010004 -- cat shop items mostly using meow coin
+ 450000022 -- cat material items...
+ 961013003 -- Side Story Symphony: Tales of Chronographia cooking material items
+ 211000092 -- badges and a bunch of other weapons
+ 217021201 -- badges and a bunch of other weapons
+ 900000003 -- time mine items
+ 245000014 -- light and shadow for character
+ 492000001 -- Myrical Manor/Hero of the Hidden Blade
