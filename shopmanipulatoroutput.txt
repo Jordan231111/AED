@@ -1,177 +1,431 @@
-Slope::2080000575
-Café Barrel::2080000600
-Mini Guardian Deity::2080000520
-Special Iron Plate::2080000222
-Slope Foundation::2080000576
-Marbled Glass Tread::2080000597
-Monument Flowers::2080000580
-Pawm Tread Material::2080000579
-Gondola Pole::2080000572
-Souvenir Candy Bottle::2080000569
-Astwuh Ladder::2080000106
-Volgar Iron Ingot::2080000548
-Café Shelf::2080000601
-Quality Furniture Cloth::2080000561
-Café Counter::2080000599
-Café Parasol::2080000602
-Café Chair::2080000604
-Monument::2080000583
-Bridge Materials::2080000105
-Special Pawm Resin::2080000541
-Quality Dye::2080000559
-Sickle Lv. 1::2080000001
-Dye Ingredient::2080000203
-Café Table::2080000603
-Passionate Fireworks::2080000592
-Villa Floral Arrangement::2080000565
-Villa Foundation::2080000567
-Tropical Stone Wall::2080000595
-Astwuh Tread Material::2080000564
-Pawm Heartpillar::2080000550
-Modern Steel::2080000554
-Pristine Sootglass::2080000547
-Cookie Can::2080000568
-Deluxe Thatch Roof::2080000509
-Dried Flowers (Grace)::2080000574
-Large Aupa Plushie::2080000585
-Remulia Steel::2080000552
-Gondola Rope::2080000571
-Ancient Steel::2080000555
-Astwuh Resin::2080000213
-Astra Steel::2080000557
-Monument Foundation::2080000582
-Cool Fireworks::2080000598
-Remulia Ingot::2080000551
-Monument Bell::2080000581
-Glittering White Dye::2080000563
-Tropical Roof Tile::2080000594
-Luxurious Bed::2080000589
-Café Floral Arrangement::2080000570
-Remulia Rainbow Steel::2080000558
-Pawm Pillar::2080000549
-Dried Flowers (Luster)::2080000586
-Small Aupa Plushie::2080000584
-Broken Azure Asterorb::2080000230
-Quality Dye Base::2080000560
-Quality Villa Furniture::2080000566
-Sootglass::2080000546
-DX Sootglass Glassware::2080000590
-Sootrock Slab::2080000545
-Condensed Pawm Resin::2080000542
-Marbled Slab::2080000215
-Marbled Glass::2080000219
-Pawm Flooring::2080000577
-Guardian Deity Material::2080000523
-Ancient Talisman::2080000120
-Black Dye::2080000535
-Broken Alabaster Asterorb::2080000231
-Raw Dye::2080000531
-Broken Abyssal Relic::2080000116
-Broken Viridian Asterorb::2080000232
-Refined Pawm Sap::2080000540
-Astra Repair Material::2080000556
-Broken Ashen Asterorb::2080000525
-Broken Flaxen Asterorb::2080000229
-Sootrock Gravel::2080000544
-Astwuh Rubber::2080000233
-Strong String::2080000532
-Deluxe Astwuh Pillar::2080000507
-Furniture Cloth::2080000512
-Shimmering Ingot::2080000553
-Astwuh Torch::2080000107
-DX Marbled Glassware::2080000522
-Glittering Yellow Dye::2080000562
-Foundation::2080000518
-Sootglass Glassware::2080000591
-Broken Onyxian Asterorb::2080000526
-Special Astwuh Resin::2080000223
-Thick Strong Rope::2080000530
-Lovely Fireworks::2080000587
-Vell Iron Nail::2080000510
-Special Marbled Gravel::2080000221
-Sturdy String::2080000204
-Blue Dye::2080000207
-Hard Pawm Lumber::2080000538
-Green Rug::2080000516
-Yellow Dye::2080000536
-Gondola::2080000573
-Pickaxe Lv. 3::2080000009
-Pawm Lumber::2080000537
-Ruins Wall Stone::2080000301
-Toolbox::2080000517
-Strong Cloth::2080000533
-Broken Amber Asterorb::2080000527
-Furniture Resin::2080000513
-White Dye::2080000534
-Deluxe Astwuh Walling::2080000508
-Sickle Lv. 2::2080000002
-Sickle Lv. 5::2080000017
-Soft Astwuh Lumber::2080000211
-Repair Kit Lv. 2::2080000011
-Soft Cloth::2080000205
-Thin Rope::2080000201
-Vell Iron Ingot::2080000217
-Astwuh Lumber::2080000209
-Broken Blue Cube (L)::2080000110
-Energy Bottle::2080000103
-Pristine Marbled Glass::2080000220
-Abyssal Coffin::2080000119
-Blue Energy Cube::2080000102
-Furniture Hinge::2080000511
-Repair Wall::2080000124
-Broken Stonework Relic::2080000115
-Sabastone::2080000118
-Marbled Gravel::2080000214
-Dried Flowers (Fancy)::2080000593
-Astra Polymer::2080000125
-Ruins Floor Stone::2080000302
-Soft Pawm Lumber::2080000539
-Meowstet Family Statue::2080000117
-Vell Iron Plate::2080000218
-Floral Decoration::2080000519
-Repair Kit Lv. 1::2080000010
-Green Dye::2080000208
-Pickaxe Lv. 6::2080000024
-Thatch Roof::2080000506
-Marbled Glassware::2080000521
-Hard Astwuh Lumber::2080000210
-Large Broken Relic::2080000114
-Axe Lv. 2::2080000005
-Axe Lv. 4::2080000019
-Repair Kit Lv. 3::2080000012
-Sickle Lv. 3::2080000003
-Axe Lv. 1::2080000004
-Astra Weir::2080000122
-Preserved Pigment::2080000112
-Pickaxe Lv. 5::2080000023
-Pickaxe Lv. 4::2080000022
-Geolas Bloom Incense::2080000104
-Red Dye::2080000206
-Mysterious Device Part::2080000303
-Axe Lv. 5::2080000020
-Pickaxe Lv. 1::2080000007
-Dragondola::2080000123
-Repair Kit Lv. 6::2080000015
-Astwuh Walling::2080000505
-Broken Blue Cube (S)::2080000111
-Pawm Rubber::2080000528
-Ruins Slope::2080000121
-Pickaxe Lv. 2::2080000008
-Axe Lv. 6::2080000021
-Broken Green Cube (L)::2080000108
-Repair Kit Lv. 5::2080000014
-Broken Yellow Asterorb::2080000524
-Thin Strong Rope::2080000529
-Green Energy Cube::2080000101
-Astwuh Pillar::2080000504
-Ritual Stone::2080000216
-Red Bed::2080000514
-Thick Rope::2080000202
-Sickle Lv. 4::2080000016
-Axe Lv. 3::2080000006
-Refined Astwuh Sap::2080000212
-Broken Talisman::2080000113
-Repair Kit Lv. 4::2080000013
-Sickle Lv. 6::2080000018
-Broken Green Cube (S)::2080000109
-Blue Bed::2080000515
+Magic Rewind Clock Hand::2008000324
+Magic Rewind Clock Hand::2008000329
+Single-Point Booster::2008000315
+Single-Point Booster::2008000312
+Single-Point Booster::2008000319
+Power Crystal::2008000278
+Wisdom Orb::2008000304
+Magic Flow Staff::2008000350
+Wisdom Orb::2008000308
+Laika Charm (Yellow)::2008000387
+Magic Flow Staff::2008000349
+Power Crystal::2008000279
+Laika Charm (Yellow)::2008000392
+Laika Charm (Blue)::2008000365
+Distorted Amulet::2008000427
+Magic Flow Staff::2008000343
+Laika Charm (Red)::2008000379
+Laika Charm (Blue)::2008000368
+Recovery Stone::2008000364
+Distorted Amulet::2008000428
+Distorted Amulet::2008000424
+Warding Pendant::2008000414
+Warding Pendant::2008000416
+Distorted Amulet::2008000422
+Warding Pendant::2008000410
+Warding Pendant::2008000415
+Critical Orb::2008000407
+Recovery Stone::2008000357
+Critical Orb::2008000409
+Critical Orb::2008000401
+Distorted Amulet::2008000423
+Critical Orb::2008000399
+Distorted Amulet::2008000426
+Laika Charm (Red)::2008000384
+Warding Pendant::2008000420
+Laika Charm (Red)::2008000381
+Laika Charm (Yellow)::2008000394
+Critical Orb::2008000408
+Laika Charm (Yellow)::2008000391
+Distorted Amulet::2008000425
+Single-Point Booster::2008000310
+Distorted Amulet::2008000421
+Recovery Stone::2008000358
+Distorted Amulet::2008000431
+Distorted Amulet::2008000429
+Critical Orb::2008000403
+Warding Pendant::2008000418
+Recovery Stone::2008000359
+Warding Pendant::2008000417
+Laika Charm (Blue)::2008000373
+Warding Pendant::2008000419
+Power Crystal::2008000280
+Magic Flow Staff::2008000351
+Laika Charm (Blue)::2008000375
+Laika Charm (Red)::2008000377
+Laika Charm (Red)::2008000386
+Buoyancy Shield::2008000339
+Laika Charm (Yellow)::2008000396
+Buoyancy Shield::2008000338
+Buoyancy Shield::2008000337
+Laika Charm (Yellow)::2008000388
+Laika Charm (Blue)::2008000370
+Laika Charm (Red)::2008000383
+Laika Charm (Blue)::2008000374
+Warding Pendant::2008000411
+Recovery Stone::2008000356
+Critical Orb::2008000406
+Laika Charm (Red)::2008000385
+Critical Orb::2008000405
+Recovery Stone::2008000360
+Critical Orb::2008000404
+Laika Charm (Red)::2008000376
+Recovery Stone::2008000362
+Warding Pendant::2008000413
+Laika Charm (Yellow)::2008000393
+Magic Rewind Clock Hand::2008000331
+Laika Charm (Red)::2008000380
+Wisdom Orb::2008000306
+Laika Charm (Blue)::2008000372
+Laika Charm (Red)::2008000378
+Laika Charm (Blue)::2008000366
+Laika Charm (Red)::2008000382
+Critical Orb::2008000402
+Distorted Amulet::2008000430
+Tamamo Bell::2008000398
+Buoyancy Shield::2008000335
+Laika Charm (Yellow)::2008000389
+Critical Orb::2008000400
+Magic Flow Staff::2008000348
+Recovery Stone::2008000361
+Warding Pendant::2008000412
+Laika Charm (Blue)::2008000371
+Recovery Stone::2008000354
+Laika Charm (Yellow)::2008000395
+Magic Rewind Clock Hand::2008000327
+Magic Rewind Clock Hand::2008000325
+Recovery Stone::2008000355
+Laika Charm (Yellow)::2008000390
+Laika Charm (Blue)::2008000367
+Laika Charm (Yellow)::2008000397
+Magic Rewind Clock Hand::2008000326
+Magic Rewind Clock Hand::2008000330
+Magic Rewind Clock Hand::2008000321
+Power Crystal::2008000282
+Magic Flow Staff::2008000345
+Magic Flow Staff::2008000353
+Recovery Stone::2008000363
+Single-Point Booster::2008000314
+Magic Rewind Clock Hand::2008000328
+Buoyancy Shield::2008000332
+Laika Charm (Blue)::2008000369
+Buoyancy Shield::2008000333
+Buoyancy Shield::2008000341
+Buoyancy Shield::2008000342
+Magic Flow Staff::2008000346
+Buoyancy Shield::2008000336
+Magic Flow Staff::2008000344
+Magic Flow Staff::2008000347
+Crystalline Claws::2008000241
+Magic Flow Staff::2008000352
+Buoyancy Shield::2008000340
+Vitality Orb::2008000288
+Weaklumite::2008000225
+Wisdom Orb::2008000300
+Crystal Bat::2008000256
+Vitality Orb::2008000289
+Vitality Orb::2008000291
+Magia Crystal::2008000270
+Vitality Orb::2008000295
+Vitality Orb::2008000290
+Crystal Bat::2008000265
+Sea Rattle::2008000181
+Wisdom Orb::2008000302
+Weaklumite::2008000229
+Vitality Orb::2008000296
+Wisdom Orb::2008000309
+Wisdom Orb::2008000303
+Crystal Bat::2008000264
+Healing Jewel::2008000252
+Single-Point Booster::2008000313
+Magia Crystal::2008000268
+Crystal Bat::2008000260
+Vitality Orb::2008000294
+Crystalline Claws::2008000242
+Wisdom Orb::2008000299
+Crystalline Claws::2008000239
+Single-Point Booster::2008000317
+Magia Crystal::2008000274
+Power Crystal::2008000277
+Power Crystal::2008000281
+Magia Crystal::2008000272
+Wisdom Orb::2008000301
+Power Crystal::2008000286
+Single-Point Booster::2008000311
+Single-Point Booster::2008000318
+Wisdom Orb::2008000305
+Magia Crystal::2008000275
+Wisdom Orb::2008000307
+Magia Crystal::2008000271
+Power Crystal::2008000285
+Crystal Bat::2008000259
+Vitality Orb::2008000292
+Power Crystal::2008000287
+Healing Jewel::2008000246
+Vitality Orb::2008000297
+Magia Crystal::2008000276
+Weaklumite::2008000223
+Weaklumite::2008000224
+Prickle Ball::2008000173
+Crystalline Claws::2008000237
+Weaklumite::2008000227
+Healing Jewel::2008000254
+Darkshade Necklace::2008000201
+Healing Jewel::2008000247
+Prickle Ball::2008000167
+Magia Crystal::2008000267
+Pandora's Can::2008000117
+Prickle Ball::2008000166
+Stun Baton::2008000165
+Armored Gauntlet::2008000152
+Weaklumite::2008000226
+Prismblade Necklace::2008000210
+Crystalline Claws::2008000236
+Crystal Bat::2008000255
+Healing Jewel::2008000249
+Crystalline Claws::2008000233
+Crystalline Claws::2008000238
+Prismblade Necklace::2008000220
+Vitality Orb::2008000298
+Power Crystal::2008000283
+Weaklumite::2008000230
+Weaklumite::2008000232
+Crystalline Claws::2008000240
+Weaklumite::2008000222
+Crystalline Claws::2008000235
+Weaklumite::2008000231
+Prismblade Necklace::2008000211
+Crystalline Claws::2008000243
+Healing Jewel::2008000251
+Prismblade Necklace::2008000215
+Prickle Ball::2008000175
+Crystalline Claws::2008000234
+Darkshade Necklace::2008000208
+Sea Rattle::2008000185
+Prismblade Necklace::2008000218
+Healing Jewel::2008000248
+Armored Gauntlet::2008000151
+Crystal Bat::2008000263
+Healing Jewel::2008000253
+Weaklumite::2008000228
+Prismblade Necklace::2008000219
+Healing Jewel::2008000250
+Dragon Exile's Stole::2008000221
+Healing Jewel::2008000244
+Stun Baton::2008000157
+Prismblade Necklace::2008000217
+Healing Jewel::2008000245
+Darkshade Necklace::2008000205
+Darkshade Necklace::2008000207
+Prickle Ball::2008000170
+Darkshade Necklace::2008000209
+Sea Rattle::2008000187
+Darkshade Necklace::2008000203
+Prismblade Necklace::2008000213
+Sea Rattle::2008000183
+Crystal Bat::2008000262
+Stun Baton::2008000160
+Thundercrack Necklace::2008000197
+Prickle Ball::2008000171
+Thundercrack Necklace::2008000196
+Prismblade Necklace::2008000214
+Darkshade Necklace::2008000206
+Prickle Ball::2008000176
+Crystal Bat::2008000258
+Darkshade Necklace::2008000200
+Prismblade Necklace::2008000212
+Thundercrack Necklace::2008000198
+Sky Amulet::2008000089
+Sea Rattle::2008000178
+Sea Rattle::2008000184
+Darkshade Necklace::2008000199
+Armored Gauntlet::2008000153
+Armored Handlance::2008000139
+Stun Baton::2008000163
+Vitality Orb::2008000293
+Thundercrack Necklace::2008000193
+Thundercrack Necklace::2008000189
+Sea Rattle::2008000179
+Sea Rattle::2008000186
+Prickle Ball::2008000169
+Armored Handlance::2008000137
+Thundercrack Necklace::2008000195
+Darkshade Necklace::2008000204
+Thundercrack Necklace::2008000188
+Armored Gauntlet::2008000154
+Armored Gauntlet::2008000145
+Sea Rattle::2008000177
+Thundercrack Necklace::2008000190
+Sea Rattle::2008000180
+Prickle Ball::2008000174
+Darkshade Necklace::2008000202
+Thundercrack Necklace::2008000192
+Thundercrack Necklace::2008000191
+Prismblade Necklace::2008000216
+Armored Handlance::2008000143
+Sea Rattle::2008000182
+Crystal Bat::2008000261
+Stun Baton::2008000155
+Thundercrack Necklace::2008000194
+Armored Gauntlet::2008000146
+Sky Amulet::2008000091
+Stun Baton::2008000162
+Armored Handlance::2008000133
+Armored Handlance::2008000138
+Armored Claw::2008000122
+Pandora's Can::2008000113
+Armored Claw::2008000126
+Pandora's Can::2008000118
+Pandora's Can::2008000119
+Stun Baton::2008000158
+Crystal Bat::2008000257
+Armored Claw::2008000129
+Wavelet Shell::2008000038
+Armored Gauntlet::2008000147
+Soothing Bell::2008000100
+Armored Gauntlet::2008000149
+Armored Handlance::2008000135
+Soothing Bell::2008000102
+Armored Gauntlet::2008000144
+Stun Baton::2008000161
+Sky Amulet::2008000096
+Pandora's Can::2008000116
+Magia Crystal::2008000266
+Pandora's Can::2008000120
+Power Crystal::2008000284
+Stun Baton::2008000164
+Stun Baton::2008000159
+Soothing Bell::2008000106
+Armored Claw::2008000124
+Armored Handlance::2008000141
+Prickle Ball::2008000168
+Magia Crystal::2008000269
+Armored Handlance::2008000140
+Soothing Bell::2008000107
+Armored Claw::2008000132
+Armored Claw::2008000125
+Soothing Bell::2008000110
+Armored Handlance::2008000136
+Sky Amulet::2008000094
+Soothing Bell::2008000104
+Armored Gauntlet::2008000148
+Armored Handlance::2008000134
+Stun Baton::2008000156
+Armored Gauntlet::2008000150
+Wavelet Shell::2008000035
+Prickle Ball::2008000172
+Armored Claw::2008000123
+Armored Claw::2008000128
+Magia Crystal::2008000273
+Armored Claw::2008000131
+Pandora's Can::2008000114
+Time Sprout::2008000063
+Loire's Pocket Watch::2008000045
+Crag Amulet::2008000082
+Time Sprout::2008000059
+Storm Amulet::2008000074
+Armored Handlance::2008000142
+Storm Amulet::2008000077
+Time Sprout::2008000062
+Armored Claw::2008000127
+Crag Amulet::2008000086
+Armored Claw::2008000130
+Sky Amulet::2008000092
+Wavelet Shell::2008000037
+Soothing Bell::2008000108
+Storm Amulet::2008000072
+Sky Amulet::2008000090
+Time Sprout::2008000066
+Soothing Bell::2008000109
+Crag Amulet::2008000087
+Bleeding Edge::2008000015
+Pandora's Can::2008000111
+Pandora's Can::2008000115
+Poison Needle::2008000027
+Storm Amulet::2008000075
+Sky Amulet::2008000093
+Crag Amulet::2008000084
+Crag Amulet::2008000080
+Time Sprout::2008000064
+Crag Amulet::2008000088
+Loire's Pocket Watch::2008000050
+Crag Amulet::2008000085
+Pandora's Can::2008000121
+Soothing Bell::2008000103
+Time Sprout::2008000065
+Soothing Bell::2008000105
+Pandora's Can::2008000112
+Wavelet Shell::2008000043
+Crag Amulet::2008000083
+Time Sprout::2008000060
+Storm Amulet::2008000067
+Sky Amulet::2008000095
+Time Sprout::2008000058
+Soothing Bell::2008000101
+Loire's Pocket Watch::2008000047
+Crag Amulet::2008000079
+Storm Amulet::2008000068
+Sky Amulet::2008000099
+Sky Amulet::2008000097
+Sky Amulet::2008000098
+Loire's Pocket Watch::2008000051
+Time Sprout::2008000061
+Storm Amulet::2008000071
+Knuckles::2008000006
+Wavelet Shell::2008000042
+Knuckles::2008000011
+Bleeding Edge::2008000016
+Time Sprout::2008000056
+Bleeding Edge::2008000019
+Bleeding Edge::2008000017
+Wavelet Shell::2008000036
+Loire's Pocket Watch::2008000048
+Bleeding Edge::2008000018
+Poison Needle::2008000026
+Bleeding Edge::2008000012
+Bleeding Edge::2008000021
+Knuckles::2008000010
+Wavelet Shell::2008000044
+Loire's Pocket Watch::2008000054
+Knuckles::2008000004
+Poison Needle::2008000023
+Poison Needle::2008000033
+Storm Amulet::2008000076
+Bleeding Edge::2008000022
+Time Sprout::2008000057
+Poison Needle::2008000032
+Loire's Pocket Watch::2008000046
+Poison Needle::2008000029
+Knuckles::2008000003
+Storm Amulet::2008000070
+Bleeding Edge::2008000013
+Loire's Pocket Watch::2008000053
+Poison Needle::2008000024
+Poison Needle::2008000030
+Wavelet Shell::2008000034
+Wavelet Shell::2008000041
+Wavelet Shell::2008000040
+Bleeding Edge::2008000020
+Knuckles::2008000008
+Bleeding Edge::2008000014
+Crag Amulet::2008000081
+Crag Amulet::2008000078
+Storm Amulet::2008000069
+Poison Needle::2008000025
+Wavelet Shell::2008000039
+Storm Amulet::2008000073
+Poison Needle::2008000031
+Knuckles::2008000009
+Knuckles::2008000002
+Knuckles::2008000007
+Loire's Pocket Watch::2008000055
+Knuckles::2008000001
+Knuckles::2008000005
+Poison Needle::2008000028
+Loire's Pocket Watch::2008000052
+Loire's Pocket Watch::2008000049
+Buoyancy Shield::2008000334
+Magic Rewind Clock Hand::2008000323
+Magic Rewind Clock Hand::2008000322
+Single-Point Booster::2008000320
+Single-Point Booster::2008000316

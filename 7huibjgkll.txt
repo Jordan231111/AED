@@ -11253,3 +11253,440 @@ Villa Foundation::2080000567
 Volgar Iron Ingot::2080000548
 White Dye::2080000534
 Yellow Dye::2080000536
+
+
+
+
+
+
+Armored Claw::2008000122
+Armored Claw::2008000123
+Armored Claw::2008000124
+Armored Claw::2008000125
+Armored Claw::2008000126
+Armored Claw::2008000127
+Armored Claw::2008000128
+Armored Claw::2008000129
+Armored Claw::2008000130
+Armored Claw::2008000131
+Armored Claw::2008000132
+Armored Gauntlet::2008000144
+Armored Gauntlet::2008000145
+Armored Gauntlet::2008000146
+Armored Gauntlet::2008000147
+Armored Gauntlet::2008000148
+Armored Gauntlet::2008000149
+Armored Gauntlet::2008000150
+Armored Gauntlet::2008000151
+Armored Gauntlet::2008000152
+Armored Gauntlet::2008000153
+Armored Gauntlet::2008000154
+Armored Handlance::2008000133
+Armored Handlance::2008000134
+Armored Handlance::2008000135
+Armored Handlance::2008000136
+Armored Handlance::2008000137
+Armored Handlance::2008000138
+Armored Handlance::2008000139
+Armored Handlance::2008000140
+Armored Handlance::2008000141
+Armored Handlance::2008000142
+Armored Handlance::2008000143
+Bleeding Edge::2008000012
+Bleeding Edge::2008000013
+Bleeding Edge::2008000014
+Bleeding Edge::2008000015
+Bleeding Edge::2008000016
+Bleeding Edge::2008000017
+Bleeding Edge::2008000018
+Bleeding Edge::2008000019
+Bleeding Edge::2008000020
+Bleeding Edge::2008000021
+Bleeding Edge::2008000022
+Buoyancy Shield::2008000332
+Buoyancy Shield::2008000333
+Buoyancy Shield::2008000334
+Buoyancy Shield::2008000335
+Buoyancy Shield::2008000336
+Buoyancy Shield::2008000337
+Buoyancy Shield::2008000338
+Buoyancy Shield::2008000339
+Buoyancy Shield::2008000340
+Buoyancy Shield::2008000341
+Buoyancy Shield::2008000342
+Crag Amulet::2008000078
+Crag Amulet::2008000079
+Crag Amulet::2008000080
+Crag Amulet::2008000081
+Crag Amulet::2008000082
+Crag Amulet::2008000083
+Crag Amulet::2008000084
+Crag Amulet::2008000085
+Crag Amulet::2008000086
+Crag Amulet::2008000087
+Crag Amulet::2008000088
+Critical Orb::2008000399
+Critical Orb::2008000400
+Critical Orb::2008000401
+Critical Orb::2008000402
+Critical Orb::2008000403
+Critical Orb::2008000404
+Critical Orb::2008000405
+Critical Orb::2008000406
+Critical Orb::2008000407
+Critical Orb::2008000408
+Critical Orb::2008000409
+Crystal Bat::2008000255
+Crystal Bat::2008000256
+Crystal Bat::2008000257
+Crystal Bat::2008000258
+Crystal Bat::2008000259
+Crystal Bat::2008000260
+Crystal Bat::2008000261
+Crystal Bat::2008000262
+Crystal Bat::2008000263
+Crystal Bat::2008000264
+Crystal Bat::2008000265
+Crystalline Claws::2008000233
+Crystalline Claws::2008000234
+Crystalline Claws::2008000235
+Crystalline Claws::2008000236
+Crystalline Claws::2008000237
+Crystalline Claws::2008000238
+Crystalline Claws::2008000239
+Crystalline Claws::2008000240
+Crystalline Claws::2008000241
+Crystalline Claws::2008000242
+Crystalline Claws::2008000243
+Darkshade Necklace::2008000199
+Darkshade Necklace::2008000200
+Darkshade Necklace::2008000201
+Darkshade Necklace::2008000202
+Darkshade Necklace::2008000203
+Darkshade Necklace::2008000204
+Darkshade Necklace::2008000205
+Darkshade Necklace::2008000206
+Darkshade Necklace::2008000207
+Darkshade Necklace::2008000208
+Darkshade Necklace::2008000209
+Distorted Amulet::2008000421
+Distorted Amulet::2008000422
+Distorted Amulet::2008000423
+Distorted Amulet::2008000424
+Distorted Amulet::2008000425
+Distorted Amulet::2008000426
+Distorted Amulet::2008000427
+Distorted Amulet::2008000428
+Distorted Amulet::2008000429
+Distorted Amulet::2008000430
+Distorted Amulet::2008000431
+Dragon Exile's Stole::2008000221
+Healing Jewel::2008000244
+Healing Jewel::2008000245
+Healing Jewel::2008000246
+Healing Jewel::2008000247
+Healing Jewel::2008000248
+Healing Jewel::2008000249
+Healing Jewel::2008000250
+Healing Jewel::2008000251
+Healing Jewel::2008000252
+Healing Jewel::2008000253
+Healing Jewel::2008000254
+Knuckles::2008000001
+Knuckles::2008000002
+Knuckles::2008000003
+Knuckles::2008000004
+Knuckles::2008000005
+Knuckles::2008000006
+Knuckles::2008000007
+Knuckles::2008000008
+Knuckles::2008000009
+Knuckles::2008000010
+Knuckles::2008000011
+Laika Charm (Blue)::2008000365
+Laika Charm (Blue)::2008000366
+Laika Charm (Blue)::2008000367
+Laika Charm (Blue)::2008000368
+Laika Charm (Blue)::2008000369
+Laika Charm (Blue)::2008000370
+Laika Charm (Blue)::2008000371
+Laika Charm (Blue)::2008000372
+Laika Charm (Blue)::2008000373
+Laika Charm (Blue)::2008000374
+Laika Charm (Blue)::2008000375
+Laika Charm (Red)::2008000376
+Laika Charm (Red)::2008000377
+Laika Charm (Red)::2008000378
+Laika Charm (Red)::2008000379
+Laika Charm (Red)::2008000380
+Laika Charm (Red)::2008000381
+Laika Charm (Red)::2008000382
+Laika Charm (Red)::2008000383
+Laika Charm (Red)::2008000384
+Laika Charm (Red)::2008000385
+Laika Charm (Red)::2008000386
+Laika Charm (Yellow)::2008000387
+Laika Charm (Yellow)::2008000388
+Laika Charm (Yellow)::2008000389
+Laika Charm (Yellow)::2008000390
+Laika Charm (Yellow)::2008000391
+Laika Charm (Yellow)::2008000392
+Laika Charm (Yellow)::2008000393
+Laika Charm (Yellow)::2008000394
+Laika Charm (Yellow)::2008000395
+Laika Charm (Yellow)::2008000396
+Laika Charm (Yellow)::2008000397
+Loire's Pocket Watch::2008000045
+Loire's Pocket Watch::2008000046
+Loire's Pocket Watch::2008000047
+Loire's Pocket Watch::2008000048
+Loire's Pocket Watch::2008000049
+Loire's Pocket Watch::2008000050
+Loire's Pocket Watch::2008000051
+Loire's Pocket Watch::2008000052
+Loire's Pocket Watch::2008000053
+Loire's Pocket Watch::2008000054
+Loire's Pocket Watch::2008000055
+Magia Crystal::2008000266
+Magia Crystal::2008000267
+Magia Crystal::2008000268
+Magia Crystal::2008000269
+Magia Crystal::2008000270
+Magia Crystal::2008000271
+Magia Crystal::2008000272
+Magia Crystal::2008000273
+Magia Crystal::2008000274
+Magia Crystal::2008000275
+Magia Crystal::2008000276
+Magic Flow Staff::2008000343
+Magic Flow Staff::2008000344
+Magic Flow Staff::2008000345
+Magic Flow Staff::2008000346
+Magic Flow Staff::2008000347
+Magic Flow Staff::2008000348
+Magic Flow Staff::2008000349
+Magic Flow Staff::2008000350
+Magic Flow Staff::2008000351
+Magic Flow Staff::2008000352
+Magic Flow Staff::2008000353
+Magic Rewind Clock Hand::2008000321
+Magic Rewind Clock Hand::2008000322
+Magic Rewind Clock Hand::2008000323
+Magic Rewind Clock Hand::2008000324
+Magic Rewind Clock Hand::2008000325
+Magic Rewind Clock Hand::2008000326
+Magic Rewind Clock Hand::2008000327
+Magic Rewind Clock Hand::2008000328
+Magic Rewind Clock Hand::2008000329
+Magic Rewind Clock Hand::2008000330
+Magic Rewind Clock Hand::2008000331
+Pandora's Can::2008000111
+Pandora's Can::2008000112
+Pandora's Can::2008000113
+Pandora's Can::2008000114
+Pandora's Can::2008000115
+Pandora's Can::2008000116
+Pandora's Can::2008000117
+Pandora's Can::2008000118
+Pandora's Can::2008000119
+Pandora's Can::2008000120
+Pandora's Can::2008000121
+Poison Needle::2008000023
+Poison Needle::2008000024
+Poison Needle::2008000025
+Poison Needle::2008000026
+Poison Needle::2008000027
+Poison Needle::2008000028
+Poison Needle::2008000029
+Poison Needle::2008000030
+Poison Needle::2008000031
+Poison Needle::2008000032
+Poison Needle::2008000033
+Power Crystal::2008000277
+Power Crystal::2008000278
+Power Crystal::2008000279
+Power Crystal::2008000280
+Power Crystal::2008000281
+Power Crystal::2008000282
+Power Crystal::2008000283
+Power Crystal::2008000284
+Power Crystal::2008000285
+Power Crystal::2008000286
+Power Crystal::2008000287
+Prickle Ball::2008000166
+Prickle Ball::2008000167
+Prickle Ball::2008000168
+Prickle Ball::2008000169
+Prickle Ball::2008000170
+Prickle Ball::2008000171
+Prickle Ball::2008000172
+Prickle Ball::2008000173
+Prickle Ball::2008000174
+Prickle Ball::2008000175
+Prickle Ball::2008000176
+Prismblade Necklace::2008000210
+Prismblade Necklace::2008000211
+Prismblade Necklace::2008000212
+Prismblade Necklace::2008000213
+Prismblade Necklace::2008000214
+Prismblade Necklace::2008000215
+Prismblade Necklace::2008000216
+Prismblade Necklace::2008000217
+Prismblade Necklace::2008000218
+Prismblade Necklace::2008000219
+Prismblade Necklace::2008000220
+Recovery Stone::2008000354
+Recovery Stone::2008000355
+Recovery Stone::2008000356
+Recovery Stone::2008000357
+Recovery Stone::2008000358
+Recovery Stone::2008000359
+Recovery Stone::2008000360
+Recovery Stone::2008000361
+Recovery Stone::2008000362
+Recovery Stone::2008000363
+Recovery Stone::2008000364
+Sea Rattle::2008000177
+Sea Rattle::2008000178
+Sea Rattle::2008000179
+Sea Rattle::2008000180
+Sea Rattle::2008000181
+Sea Rattle::2008000182
+Sea Rattle::2008000183
+Sea Rattle::2008000184
+Sea Rattle::2008000185
+Sea Rattle::2008000186
+Sea Rattle::2008000187
+Single-Point Booster::2008000310
+Single-Point Booster::2008000311
+Single-Point Booster::2008000312
+Single-Point Booster::2008000313
+Single-Point Booster::2008000314
+Single-Point Booster::2008000315
+Single-Point Booster::2008000316
+Single-Point Booster::2008000317
+Single-Point Booster::2008000318
+Single-Point Booster::2008000319
+Single-Point Booster::2008000320
+Sky Amulet::2008000089
+Sky Amulet::2008000090
+Sky Amulet::2008000091
+Sky Amulet::2008000092
+Sky Amulet::2008000093
+Sky Amulet::2008000094
+Sky Amulet::2008000095
+Sky Amulet::2008000096
+Sky Amulet::2008000097
+Sky Amulet::2008000098
+Sky Amulet::2008000099
+Soothing Bell::2008000100
+Soothing Bell::2008000101
+Soothing Bell::2008000102
+Soothing Bell::2008000103
+Soothing Bell::2008000104
+Soothing Bell::2008000105
+Soothing Bell::2008000106
+Soothing Bell::2008000107
+Soothing Bell::2008000108
+Soothing Bell::2008000109
+Soothing Bell::2008000110
+Storm Amulet::2008000067
+Storm Amulet::2008000068
+Storm Amulet::2008000069
+Storm Amulet::2008000070
+Storm Amulet::2008000071
+Storm Amulet::2008000072
+Storm Amulet::2008000073
+Storm Amulet::2008000074
+Storm Amulet::2008000075
+Storm Amulet::2008000076
+Storm Amulet::2008000077
+Stun Baton::2008000155
+Stun Baton::2008000156
+Stun Baton::2008000157
+Stun Baton::2008000158
+Stun Baton::2008000159
+Stun Baton::2008000160
+Stun Baton::2008000161
+Stun Baton::2008000162
+Stun Baton::2008000163
+Stun Baton::2008000164
+Stun Baton::2008000165
+Tamamo Bell::2008000398
+Thundercrack Necklace::2008000188
+Thundercrack Necklace::2008000189
+Thundercrack Necklace::2008000190
+Thundercrack Necklace::2008000191
+Thundercrack Necklace::2008000192
+Thundercrack Necklace::2008000193
+Thundercrack Necklace::2008000194
+Thundercrack Necklace::2008000195
+Thundercrack Necklace::2008000196
+Thundercrack Necklace::2008000197
+Thundercrack Necklace::2008000198
+Time Sprout::2008000056
+Time Sprout::2008000057
+Time Sprout::2008000058
+Time Sprout::2008000059
+Time Sprout::2008000060
+Time Sprout::2008000061
+Time Sprout::2008000062
+Time Sprout::2008000063
+Time Sprout::2008000064
+Time Sprout::2008000065
+Time Sprout::2008000066
+Vitality Orb::2008000288
+Vitality Orb::2008000289
+Vitality Orb::2008000290
+Vitality Orb::2008000291
+Vitality Orb::2008000292
+Vitality Orb::2008000293
+Vitality Orb::2008000294
+Vitality Orb::2008000295
+Vitality Orb::2008000296
+Vitality Orb::2008000297
+Vitality Orb::2008000298
+Warding Pendant::2008000410
+Warding Pendant::2008000411
+Warding Pendant::2008000412
+Warding Pendant::2008000413
+Warding Pendant::2008000414
+Warding Pendant::2008000415
+Warding Pendant::2008000416
+Warding Pendant::2008000417
+Warding Pendant::2008000418
+Warding Pendant::2008000419
+Warding Pendant::2008000420
+Wavelet Shell::2008000034
+Wavelet Shell::2008000035
+Wavelet Shell::2008000036
+Wavelet Shell::2008000037
+Wavelet Shell::2008000038
+Wavelet Shell::2008000039
+Wavelet Shell::2008000040
+Wavelet Shell::2008000041
+Wavelet Shell::2008000042
+Wavelet Shell::2008000043
+Wavelet Shell::2008000044
+Weaklumite::2008000222
+Weaklumite::2008000223
+Weaklumite::2008000224
+Weaklumite::2008000225
+Weaklumite::2008000226
+Weaklumite::2008000227
+Weaklumite::2008000228
+Weaklumite::2008000229
+Weaklumite::2008000230
+Weaklumite::2008000231
+Weaklumite::2008000232
+Wisdom Orb::2008000299
+Wisdom Orb::2008000300
+Wisdom Orb::2008000301
+Wisdom Orb::2008000302
+Wisdom Orb::2008000303
+Wisdom Orb::2008000304
+Wisdom Orb::2008000305
+Wisdom Orb::2008000306
+Wisdom Orb::2008000307
+Wisdom Orb::2008000308
+Wisdom Orb::2008000309
