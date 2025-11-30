@@ -1,100 +1,210 @@
-Found value within range at address: 772801B08C, Value: 492000033, Initial Address: 7767494180, Index: 1
-Found value within range at address: 77280192DC, Value: 492000003, Initial Address: 77674942E0, Index: 2
-Found value within range at address: 772801AAEC, Value: 492000042, Initial Address: 7767494700, Index: 3
-Found value within range at address: 772801A63C, Value: 492000016, Initial Address: 77674949C0, Index: 4
-Found value within range at address: 772801B21C, Value: 492000035, Initial Address: 77674954C0, Index: 5
-Found value within range at address: 772801955C, Value: 492000011, Initial Address: 7767495620, Index: 6
-Found value within range at address: 772801A3BC, Value: 492000045, Initial Address: 7767495BA0, Index: 7
-Found value within range at address: 772801B2BC, Value: 492000025, Initial Address: 7767495C50, Index: 8
-Found value within range at address: 772801A27C, Value: 492000013, Initial Address: 7767495DB0, Index: 9
-Found value within range at address: 772801AEFC, Value: 492000043, Initial Address: 7767495E60, Index: 10
-Found value within range at address: 772801ACCC, Value: 492000026, Initial Address: 7767495F10, Index: 11
-Found value within range at address: 772801AB3C, Value: 492000020, Initial Address: 77674961D0, Index: 12
-Found value within range at address: 772801B17C, Value: 492000031, Initial Address: 7767496280, Index: 13
-Found value within range at address: 772801A59C, Value: 492000024, Initial Address: 7767496750, Index: 14
-Found value within range at address: 772801AC7C, Value: 492000039, Initial Address: 7767496800, Index: 15
-Found value within range at address: 772801982C, Value: 492000006, Initial Address: 77674968B0, Index: 16
-Found value within range at address: 772801A81C, Value: 492000046, Initial Address: 7767496A10, Index: 17
-Found value within range at address: 7728019F0C, Value: 492000015, Initial Address: 7767496AC0, Index: 18
-Found value within range at address: 772801A7CC, Value: 492000018, Initial Address: 7767496D80, Index: 19
-Found value within range at address: 772801C16C, Value: 492000049, Initial Address: 7767497510, Index: 20
-Found value within range at address: 772801AE5C, Value: 492000021, Initial Address: 77674977D0, Index: 21
-Found value within range at address: 772801A2CC, Value: 492000036, Initial Address: 7767498010, Index: 22
-Found value within range at address: 772801950C, Value: 492000010, Initial Address: 77674980C0, Index: 23
-Found value within range at address: 772801A95C, Value: 492000041, Initial Address: 7767498170, Index: 24
-Found value within range at address: 7728019B4C, Value: 492000004, Initial Address: 7767498220, Index: 25
-Found value within range at address: 772801A36C, Value: 492000017, Initial Address: 77674982D0, Index: 26
-Found value within range at address: 7728019D2C, Value: 492000002, Initial Address: 7767498430, Index: 27
-Found value within range at address: 772801A4AC, Value: 492000023, Initial Address: 77674987A0, Index: 28
-Found value within range at address: 772801A68C, Value: 492000030, Initial Address: 7767498850, Index: 29
-Found value within range at address: 772801AF9C, Value: 492000038, Initial Address: 7767498BC0, Index: 30
-Found value within range at address: 77280194BC, Value: 492000005, Initial Address: 7767498C70, Index: 31
-Found value within range at address: 772801AF4C, Value: 492000027, Initial Address: 7767498D20, Index: 32
-Found value within range at address: 772801C02C, Value: 492000050, Initial Address: 7767498DD0, Index: 33
-Found value within range at address: 772801BF8C, Value: 492000047, Initial Address: 7767498FE0, Index: 34
-Found value within range at address: 772801A72C, Value: 492000040, Initial Address: 77674991F0, Index: 35
-Found value within range at address: 7728019AAC, Value: 492000009, Initial Address: 7767499350, Index: 36
-Found value within range at address: 772801AD6C, Value: 492000044, Initial Address: 7767499400, Index: 37
-Found value within range at address: 772801969C, Value: 492000008, Initial Address: 7767499980, Index: 38
-Found value within range at address: 772801A77C, Value: 492000019, Initial Address: 7767499B90, Index: 39
-Found value within range at address: 772801AA9C, Value: 492000022, Initial Address: 7767499CF0, Index: 40
-Found value within range at address: 772801AFEC, Value: 492000028, Initial Address: 776749A110, Index: 41
-Found value within range at address: 772801A9AC, Value: 492000029, Initial Address: 776749A1C0, Index: 42
-Found value within range at address: 772801A1DC, Value: 492000001, Initial Address: 776749B0E0, Index: 43
-Found value within range at address: 772801C20C, Value: 492000048, Initial Address: 776749B3A0, Index: 44
-Found value within range at address: 7728019BEC, Value: 492000007, Initial Address: 776749B920, Index: 45
-Found value within range at address: 772801AB8C, Value: 492000032, Initial Address: 776749BB30, Index: 46
-Found value within range at address: 772801932C, Value: 492000014, Initial Address: 776749C000, Index: 47
-Found value within range at address: 772801B0DC, Value: 492000037, Initial Address: 776749C210, Index: 48
-Found value within range at address: 7728019EBC, Value: 492000012, Initial Address: 776749D970, Index: 49
-Found value within range at address: 772801A86C, Value: 492000034, Initial Address: 776749F2E0, Index: 50
-Word: Fire Prismazooka            ||             Index 1 at address 7767494180 Value: 0
-Word: Fire Prisma Crystal            ||             Index 2 at address 77674942E0 Value: 0
-Word: White/Blue Powder Mix            ||             Index 3 at address 7767494700 Value: 0
-Word: White Mushroom            ||             Index 4 at address 77674949C0 Value: 0
-Word: Wind Prismazooka            ||             Index 5 at address 77674954C0 Value: 0
-Word: Yellow Flower            ||             Index 6 at address 7767495620 Value: 0
-Word: Red/Green Powder Mix            ||             Index 7 at address 7767495BA0 Value: 0
-Word: Net            ||             Index 8 at address 7767495C50 Value: 0
-Word: Flint            ||             Index 9 at address 7767495DB0 Value: 0
-Word: White/Green Powder Mix            ||             Index 10 at address 7767495E60 Value: 0
-Word: Lively Fish            ||             Index 11 at address 7767495F10 Value: 0
-Word: Green Mushroom            ||             Index 12 at address 77674961D0 Value: 0
-Word: Envelope            ||             Index 13 at address 7767496280 Value: 0
-Word: Full Bucket            ||             Index 14 at address 7767496750 Value: 0
-Word: Miasma Orb (With Pedestal)            ||             Index 15 at address 7767496800 Value: 0
-Word: Wind Prisma Crystal            ||             Index 16 at address 77674968B0 Value: 0
-Word: Blue/Green Powder Mix            ||             Index 17 at address 7767496A10 Value: 0
-Word: Red Powder            ||             Index 18 at address 7767496AC0 Value: 0
-Word: Blue Mushroom            ||             Index 19 at address 7767496D80 Value: 0
-Word: Fish Attractant            ||             Index 20 at address 7767497510 Value: 0
-Word: Green Powder            ||             Index 21 at address 77674977D0 Value: 0
-Word: Earth Prismazooka            ||             Index 22 at address 7767498010 Value: 0
-Word: White Flower            ||             Index 23 at address 77674980C0 Value: 0
-Word: White/Red Powder Mix            ||             Index 24 at address 7767498170 Value: 0
-Word: Water Prisma Crystal            ||             Index 25 at address 7767498220 Value: 0
-Word: White Powder            ||             Index 26 at address 77674982D0 Value: 0
-Word: Sword of the Hero            ||             Index 27 at address 7767498430 Value: 0
-Word: Bucket            ||             Index 28 at address 77674987A0 Value: 0
-Word: Rag            ||             Index 29 at address 7767498850 Value: 0
-Word: Broken Net            ||             Index 30 at address 7767498BC0 Value: 0
-Word: Earth Prisma Crystal            ||             Index 31 at address 7767498C70 Value: 0
-Word: Busted Hammer            ||             Index 32 at address 7767498D20 Value: 0
-Word: Desire Dust            ||             Index 33 at address 7767498DD0 Value: 0
-Word: Failed Powder Mix            ||             Index 34 at address 7767498FE0 Value: 0
-Word: Lantern            ||             Index 35 at address 77674991F0 Value: 0
-Word: Red Flower            ||             Index 36 at address 7767499350 Value: 0
-Word: Red/Blue Powder Mix            ||             Index 37 at address 7767499400 Value: 0
-Word: Prismazooka            ||             Index 38 at address 7767499980 Value: 0
-Word: Blue Powder            ||             Index 39 at address 7767499B90 Value: 0
-Word: Pesticide            ||             Index 40 at address 7767499CF0 Value: 0
-Word: Stone Weight            ||             Index 41 at address 776749A110 Value: 0
-Word: Wooden Stick            ||             Index 42 at address 776749A1C0 Value: 0
-Word: Miasma Orb            ||             Index 43 at address 776749B0E0 Value: 0
-Word: Empty Envelope            ||             Index 44 at address 776749B3A0 Value: 0
-Word: Small Key            ||             Index 45 at address 776749B920 Value: 0
-Word: Mortar            ||             Index 46 at address 776749BB30 Value: 0
-Word: Red Mushroom            ||             Index 47 at address 776749C000 Value: 0
-Word: Coin            ||             Index 48 at address 776749C210 Value: 0
-Word: Beautiful Bouquet            ||             Index 49 at address 776749D970 Value: 0
-Word: Water Prismazooka            ||             Index 50 at address 776749F2E0 Value: 0
+Word: Iron Ore            ||             Index 1 at address 7797482930 Value: 0
+Word: Red Iron Furnace            ||             Index 2 at address 7797482A50 Value: 0
+Word: Stone            ||             Index 3 at address 7797482B70 Value: 0
+Word: Minecart            ||             Index 4 at address 7797482DB0 Value: 0
+Word: Copper Mining Hammer            ||             Index 5 at address 7797482FF0 Value: 0
+Word: Torch            ||             Index 6 at address 7797483230 Value: 0
+Word: Stone Furnace            ||             Index 7 at address 7797483350 Value: 0
+Word: Steel Mining Hammer            ||             Index 8 at address 7797483470 Value: 0
+Word: Forager Box            ||             Index 9 at address 7797483590 Value: 0
+Word: Fine Lumber            ||             Index 10 at address 77974836B0 Value: 0
+Word: Old Mining Hammer            ||             Index 11 at address 7797483A10 Value: 0
+Word: Raw Cotton            ||             Index 12 at address 7797483C50 Value: 0
+Word: Safety Hat with Light            ||             Index 13 at address 7797483D70 Value: 0
+Word: Lumber            ||             Index 14 at address 7797483FB0 Value: 0
+Word: Ivy            ||             Index 15 at address 77974840D0 Value: 0
+Word: Fast Minecart            ||             Index 16 at address 7797484310 Value: 0
+Word: Burnable Resin            ||             Index 17 at address 7797484430 Value: 0
+Word: Flower            ||             Index 18 at address 7797484550 Value: 0
+Word: Copper Ore            ||             Index 19 at address 7797484670 Value: 0
+Word: Rope            ||             Index 20 at address 77974848B0 Value: 0
+Word: Iron Furnace            ||             Index 21 at address 7797484AF0 Value: 0
+Word: Stone Mining Hammer            ||             Index 22 at address 7797484C10 Value: 0
+Word: Iron Felling Ax            ||             Index 23 at address 7797484F70 Value: 0
+Word: Stone Felling Ax            ||             Index 24 at address 77974851B0 Value: 0
+Word: New Formula Bomb            ||             Index 25 at address 77974852D0 Value: 0
+Word: Hildamite            ||             Index 26 at address 7797485510 Value: 0
+Word: Old Felling Ax            ||             Index 27 at address 7797485870 Value: 0
+Word: Sylvia's Flower            ||             Index 28 at address 7797485990 Value: 0
+Word: Ladder            ||             Index 29 at address 7797485AB0 Value: 0
+Word: Red Iron Ore            ||             Index 30 at address 7797485BD0 Value: 0
+Word: Coal            ||             Index 31 at address 7797485CF0 Value: 0
+Word: Bomb            ||             Index 32 at address 7797485F30 Value: 0
+Word: Lantern            ||             Index 33 at address 7797486050 Value: 0
+Word: Lightning Rod            ||             Index 34 at address 7797486290 Value: 0
+Word: Floorboard            ||             Index 35 at address 77974863B0 Value: 0
+Word: Bizarre Wood Piece            ||             Index 36 at address 77974864D0 Value: 0
+Word: Quartz Sand            ||             Index 37 at address 77974865F0 Value: 0
+Word: Fireworks            ||             Index 38 at address 7797486710 Value: 0
+Word: Barrel Set            ||             Index 39 at address 7797486830 Value: 0
+Word: Simple Shelf            ||             Index 40 at address 7797486950 Value: 0
+Word: Shovel Blade            ||             Index 41 at address 7797486A70 Value: 0
+Word: Bizarre Wood            ||             Index 42 at address 7797486B90 Value: 0
+Word: Brick Wall-plate            ||             Index 43 at address 7797486CB0 Value: 0
+Word: Red Iron Ingot            ||             Index 44 at address 7797486DD0 Value: 0
+Word: String            ||             Index 45 at address 7797486EF0 Value: 0
+Word: Poet's Harp            ||             Index 46 at address 7797487010 Value: 0
+Word: Nopaew Doll            ||             Index 47 at address 7797487130 Value: 0
+Word: Anvil            ||             Index 48 at address 7797487250 Value: 0
+Word: Barbera Table            ||             Index 49 at address 7797487370 Value: 0
+Word: Clay            ||             Index 50 at address 7797487490 Value: 10000
+Word: Floor Tiles            ||             Index 51 at address 77974875B0 Value: 0
+Word: Rainbow Illusion Stone            ||             Index 52 at address 77974876D0 Value: 0
+Word: Simple Table            ||             Index 53 at address 77974877F0 Value: 0
+Word: Steel Wheel            ||             Index 54 at address 7797487910 Value: 0
+Word: Barbera Lamp            ||             Index 55 at address 7797487A30 Value: 0
+Word: Damp Linen            ||             Index 56 at address 7797487B50 Value: 0
+Word: Wooden Wall-plate            ||             Index 57 at address 7797487C70 Value: 0
+Word: Copper Ingot            ||             Index 58 at address 7797487D90 Value: 0
+Word: Barbera Mat            ||             Index 59 at address 7797487EB0 Value: 0
+Word: Alloy Ingot            ||             Index 60 at address 7797487FD0 Value: 0
+Word: Barbera Carpet            ||             Index 61 at address 77974880F0 Value: 0
+Word: Barbera Mushroom            ||             Index 62 at address 7797488210 Value: 0
+Word: Iron Ingot            ||             Index 63 at address 7797488330 Value: 0
+Word: Glass Window            ||             Index 64 at address 7797488450 Value: 0
+Word: Cord            ||             Index 65 at address 7797488570 Value: 0
+Word: Unblessed Boulder            ||             Index 66 at address 7797488690 Value: 0
+Word: Level Board            ||             Index 67 at address 77974887B0 Value: 0
+Word: Simple Bed            ||             Index 68 at address 77974888D0 Value: 0
+Word: Magic Bomb            ||             Index 69 at address 77974889F0 Value: 0
+Word: Barbera Mushroom (L)            ||             Index 70 at address 7797488B10 Value: 0
+Word: Brick            ||             Index 71 at address 7797488C30 Value: 0
+Word: Barbera Bed            ||             Index 72 at address 7797488D50 Value: 0
+Word: Gunpowder            ||             Index 73 at address 7797488E70 Value: 0
+Word: Steel Ingot            ||             Index 74 at address 7797488F90 Value: 0
+Word: Unblessed Rock            ||             Index 75 at address 77974890B0 Value: 0
+Word: Magic Gunpowder            ||             Index 76 at address 77974891D0 Value: 0
+Word: Cotton Sheet            ||             Index 77 at address 77974892F0 Value: 0
+Word: Barbera Shelf            ||             Index 78 at address 7797489410 Value: 0
+Word: Bizarre Board            ||             Index 79 at address 7797489530 Value: 0
+Word: Wet Silk            ||             Index 80 at address 7797489650 Value: 0
+Word: Thunderbolt Ore            ||             Index 81 at address 7797489770 Value: 0
+Word: Wooden Stick            ||             Index 82 at address 7797489890 Value: 0
+Word: Medicine            ||             Index 83 at address 77974899B0 Value: 0
+Word: Barbera Rug            ||             Index 84 at address 7797489AD0 Value: 0
+Word: Prisma Ore            ||             Index 85 at address 7797489BF0 Value: 0
+Word: Glowing Stone            ||             Index 86 at address 7797489E30 Value: 0
+Word: Flame of Life            ||             Index 87 at address 7797489F50 Value: 0
+Word: Small Screw            ||             Index 88 at address 779748A070 Value: 0
+Word: Gale Vitalis            ||             Index 89 at address 779748A2B0 Value: 0
+Word: Durable Cloth            ||             Index 90 at address 779748A3D0 Value: 0
+Word: Red Stone            ||             Index 91 at address 779748ABB0 Value: 0
+Word: Dazzling Ore            ||             Index 92 at address 779748ACD0 Value: 0
+Word: Broken Lantern            ||             Index 93 at address 779748B270 Value: 0
+Word: Poor Ore            ||             Index 94 at address 779748B930 Value: 0
+Word: Soft Wood            ||             Index 95 at address 779748BB70 Value: 0
+Word: Chilled Fluid            ||             Index 96 at address 779748BDB0 Value: 0
+Word: Planks            ||             Index 97 at address 779748BFF0 Value: 0
+Word: Earth Vitalis            ||             Index 98 at address 779748C230 Value: 0
+Word: Fine Ore            ||             Index 99 at address 779748C350 Value: 0
+Word: Wind Vitalis            ||             Index 100 at address 779748C470 Value: 0
+Word: Crag Vitalis            ||             Index 101 at address 779748CE90 Value: 0
+Word: Durable Bone            ||             Index 102 at address 779748CFB0 Value: 0
+Word: Broken Watch            ||             Index 103 at address 779748D310 Value: 0
+Word: Hook            ||             Index 104 at address 779748D550 Value: 0
+Word: Sticky Fluid            ||             Index 105 at address 779748D670 Value: 0
+Found value within range at address: 7727FD0DAC, Value: 900070004, Initial Address: 7797482930, Index: 1
+Found value within range at address: 7727FCF0EC, Value: 900020003, Initial Address: 7797482A50, Index: 2
+Found value within range at address: 7727FD062C, Value: 900070001, Initial Address: 7797482B70, Index: 3
+Found value within range at address: 7727FCF63C, Value: 900040005, Initial Address: 7797482DB0, Index: 4
+Found value within range at address: 7727FCFB3C, Value: 900000003, Initial Address: 7797482FF0, Index: 5
+Found value within range at address: 7727FCF4FC, Value: 900040003, Initial Address: 7797483230, Index: 6
+Found value within range at address: 7727FCF36C, Value: 900020001, Initial Address: 7797483350, Index: 7
+Found value within range at address: 7727FCFD6C, Value: 900000004, Initial Address: 7797483470, Index: 8
+Found value within range at address: 7727FCF3BC, Value: 900010004, Initial Address: 7797483590, Index: 9
+Found value within range at address: 7727FCFBDC, Value: 900050003, Initial Address: 77974836B0, Index: 10
+Found value within range at address: 7727FCFCCC, Value: 900000001, Initial Address: 7797483A10, Index: 11
+Found value within range at address: 7727FCFC2C, Value: 900060001, Initial Address: 7797483C50, Index: 12
+Found value within range at address: 7727FCFDBC, Value: 900000005, Initial Address: 7797483D70, Index: 13
+Found value within range at address: 7727FCF54C, Value: 900050001, Initial Address: 7797483FB0, Index: 14
+Found value within range at address: 7727FCFE5C, Value: 900060002, Initial Address: 77974840D0, Index: 15
+Found value within range at address: 7727FCF9FC, Value: 900040006, Initial Address: 7797484310, Index: 16
+Found value within range at address: 7727FCF22C, Value: 900050002, Initial Address: 7797484430, Index: 17
+Found value within range at address: 7727FD0E4C, Value: 900060003, Initial Address: 7797484550, Index: 18
+Found value within range at address: 7727FD094C, Value: 900070003, Initial Address: 7797484670, Index: 19
+Found value within range at address: 7727FCFC7C, Value: 900040001, Initial Address: 77974848B0, Index: 20
+Found value within range at address: 7727FCF04C, Value: 900020002, Initial Address: 7797484AF0, Index: 21
+Found value within range at address: 7727FCF59C, Value: 900000002, Initial Address: 7797484C10, Index: 22
+Found value within range at address: 7727FCFF9C, Value: 900010003, Initial Address: 7797484F70, Index: 23
+Found value within range at address: 7727FCF1DC, Value: 900010002, Initial Address: 77974851B0, Index: 24
+Found value within range at address: 7727FCFD1C, Value: 900030002, Initial Address: 77974852D0, Index: 25
+Found value within range at address: 7727FCF13C, Value: 900030003, Initial Address: 7797485510, Index: 26
+Found value within range at address: 7727FCF8BC, Value: 900010001, Initial Address: 7797485870, Index: 27
+Found value within range at address: 7727FD07BC, Value: 900060004, Initial Address: 7797485990, Index: 28
+Found value within range at address: 7727FCF77C, Value: 900040002, Initial Address: 7797485AB0, Index: 29
+Found value within range at address: 7727FD00DC, Value: 900070005, Initial Address: 7797485BD0, Index: 30
+Found value within range at address: 7727FD0E9C, Value: 900070002, Initial Address: 7797485CF0, Index: 31
+Found value within range at address: 7727FCFFEC, Value: 900030001, Initial Address: 7797485F30, Index: 32
+Found value within range at address: 7727FCFA4C, Value: 900040004, Initial Address: 7797486050, Index: 33
+Found value within range at address: 7727FD0B7C, Value: 900110008, Initial Address: 7797486290, Index: 34
+Found value within range at address: 7727FD080C, Value: 900090014, Initial Address: 77974863B0, Index: 35
+Found value within range at address: 7727FD035C, Value: 900110001, Initial Address: 77974864D0, Index: 36
+Found value within range at address: 7727FD04EC, Value: 900080003, Initial Address: 77974865F0, Index: 37
+Found value within range at address: 7727FD076C, Value: 900090008, Initial Address: 7797486710, Index: 38
+Found value within range at address: 7727FD049C, Value: 900090018, Initial Address: 7797486830, Index: 39
+Found value within range at address: 7727FD012C, Value: 900110018, Initial Address: 7797486950, Index: 40
+Found value within range at address: 7727FD10CC, Value: 900120001, Initial Address: 7797486A70, Index: 41
+Found value within range at address: 7727FD1F7C, Value: 900110023, Initial Address: 7797486B90, Index: 42
+Found value within range at address: 7727FD0D5C, Value: 900090016, Initial Address: 7797486CB0, Index: 43
+Found value within range at address: 7727FD0C1C, Value: 900090009, Initial Address: 7797486DD0, Index: 44
+Found value within range at address: 7727FD017C, Value: 900090002, Initial Address: 7797486EF0, Index: 45
+Found value within range at address: 7727FD01CC, Value: 900090001, Initial Address: 7797487010, Index: 46
+Found value within range at address: 7727FD0B2C, Value: 900110015, Initial Address: 7797487130, Index: 47
+Found value within range at address: 7727FD085C, Value: 900090019, Initial Address: 7797487250, Index: 48
+Found value within range at address: 7727FD03AC, Value: 900110012, Initial Address: 7797487370, Index: 49
+Found value within range at address: 7727FD107C, Value: 900080002, Initial Address: 7797487490, Index: 50
+Found value within range at address: 7727FD0ADC, Value: 900090013, Initial Address: 77974875B0, Index: 51
+Found value within range at address: 7727FD08AC, Value: 900100004, Initial Address: 77974876D0, Index: 52
+Found value within range at address: 7727FD0F3C, Value: 900110017, Initial Address: 77974877F0, Index: 53
+Found value within range at address: 7727FD0FDC, Value: 900090007, Initial Address: 7797487910, Index: 54
+Found value within range at address: 7727FD0A8C, Value: 900110014, Initial Address: 7797487A30, Index: 55
+Found value within range at address: 7727FD0D0C, Value: 900110005, Initial Address: 7797487B50, Index: 56
+Found value within range at address: 7727FD044C, Value: 900090012, Initial Address: 7797487C70, Index: 57
+Found value within range at address: 7727FD0BCC, Value: 900090004, Initial Address: 7797487D90, Index: 58
+Found value within range at address: 7727FD152C, Value: 900110022, Initial Address: 7797487EB0, Index: 59
+Found value within range at address: 7727FD030C, Value: 900090010, Initial Address: 7797487FD0, Index: 60
+Found value within range at address: 7727FD111C, Value: 900110020, Initial Address: 77974880F0, Index: 61
+Found value within range at address: 7727FD0CBC, Value: 900110013, Initial Address: 7797488210, Index: 62
+Found value within range at address: 7727FD099C, Value: 900090005, Initial Address: 7797488330, Index: 63
+Found value within range at address: 7727FD03FC, Value: 900090015, Initial Address: 7797488450, Index: 64
+Found value within range at address: 7727FD161C, Value: 900120003, Initial Address: 7797488570, Index: 65
+Found value within range at address: 7727FD05DC, Value: 900110004, Initial Address: 7797488690, Index: 66
+Found value within range at address: 7727FD0DFC, Value: 900110009, Initial Address: 77974887B0, Index: 67
+Found value within range at address: 7727FD058C, Value: 900110016, Initial Address: 77974888D0, Index: 68
+Found value within range at address: 7727FD08FC, Value: 900100002, Initial Address: 77974889F0, Index: 69
+Found value within range at address: 7727FD026C, Value: 900110019, Initial Address: 7797488B10, Index: 70
+Found value within range at address: 7727FD02BC, Value: 900090003, Initial Address: 7797488C30, Index: 71
+Found value within range at address: 7727FD0EEC, Value: 900110011, Initial Address: 7797488D50, Index: 72
+Found value within range at address: 7727FD053C, Value: 900080001, Initial Address: 7797488E70, Index: 73
+Found value within range at address: 7727FD0C6C, Value: 900090006, Initial Address: 7797488F90, Index: 74
+Found value within range at address: 7727FD06CC, Value: 900110003, Initial Address: 77974890B0, Index: 75
+Found value within range at address: 7727FD071C, Value: 900100001, Initial Address: 77974891D0, Index: 76
+Found value within range at address: 7727FD021C, Value: 900090017, Initial Address: 77974892F0, Index: 77
+Found value within range at address: 7727FD067C, Value: 900110010, Initial Address: 7797489410, Index: 78
+Found value within range at address: 7727FD102C, Value: 900110002, Initial Address: 7797489530, Index: 79
+Found value within range at address: 7727FD09EC, Value: 900110006, Initial Address: 7797489650, Index: 80
+Found value within range at address: 7727FD008C, Value: 900110007, Initial Address: 7797489770, Index: 81
+Found value within range at address: 7727FD143C, Value: 900120002, Initial Address: 7797489890, Index: 82
+Found value within range at address: 7727FD0A3C, Value: 900090011, Initial Address: 77974899B0, Index: 83
+Found value within range at address: 7727FD120C, Value: 900110021, Initial Address: 7797489AD0, Index: 84
+Found value within range at address: 7727FD0F8C, Value: 900100003, Initial Address: 7797489BF0, Index: 85
+Found value within range at address: 7727FD1FCC, Value: 900120007, Initial Address: 7797489E30, Index: 86
+Found value within range at address: 7727FD12FC, Value: 900120019, Initial Address: 7797489F50, Index: 87
+Found value within range at address: 7727FD1A7C, Value: 900120020, Initial Address: 779748A070, Index: 88
+Found value within range at address: 7727FD1DEC, Value: 900120016, Initial Address: 779748A2B0, Index: 89
+Found value within range at address: 7727FD1CAC, Value: 900120009, Initial Address: 779748A3D0, Index: 90
+Found value within range at address: 7727FD139C, Value: 900120013, Initial Address: 779748ABB0, Index: 91
+Found value within range at address: 7727FD1A2C, Value: 900130001, Initial Address: 779748ACD0, Index: 92
+Found value within range at address: 7727FD184C, Value: 900120006, Initial Address: 779748B270, Index: 93
+Found value within range at address: 7727FD193C, Value: 900130003, Initial Address: 779748B930, Index: 94
+Found value within range at address: 7727FD1E8C, Value: 900120012, Initial Address: 779748BB70, Index: 95
+Found value within range at address: 7727FD14DC, Value: 900120005, Initial Address: 779748BDB0, Index: 96
+Found value within range at address: 7727FD198C, Value: 900120004, Initial Address: 779748BFF0, Index: 97
+Found value within range at address: 7727FD1B1C, Value: 900120015, Initial Address: 779748C230, Index: 98
+Found value within range at address: 7727FD1BBC, Value: 900130002, Initial Address: 779748C350, Index: 99
+Found value within range at address: 7727FD1ACC, Value: 900120014, Initial Address: 779748C470, Index: 100
+Found value within range at address: 7727FD12AC, Value: 900120017, Initial Address: 779748CE90, Index: 101
+Found value within range at address: 7727FD1C0C, Value: 900120010, Initial Address: 779748CFB0, Index: 102
+Found value within range at address: 7727FD15CC, Value: 900120018, Initial Address: 779748D310, Index: 103
+Found value within range at address: 7727FD13EC, Value: 900120011, Initial Address: 779748D550, Index: 104
+Found value within range at address: 7727FD148C, Value: 900120008, Initial Address: 779748D670, Index: 105

@@ -1,50 +1,105 @@
-Fire Prismazooka::492000033
-Fire Prisma Crystal::492000003
-White/Blue Powder Mix::492000042
-White Mushroom::492000016
-Wind Prismazooka::492000035
-Yellow Flower::492000011
-Red/Green Powder Mix::492000045
-Net::492000025
-Flint::492000013
-White/Green Powder Mix::492000043
-Lively Fish::492000026
-Green Mushroom::492000020
-Envelope::492000031
-Full Bucket::492000024
-Miasma Orb (With Pedestal)::492000039
-Wind Prisma Crystal::492000006
-Blue/Green Powder Mix::492000046
-Red Powder::492000015
-Blue Mushroom::492000018
-Fish Attractant::492000049
-Green Powder::492000021
-Earth Prismazooka::492000036
-White Flower::492000010
-White/Red Powder Mix::492000041
-Water Prisma Crystal::492000004
-White Powder::492000017
-Sword of the Hero::492000002
-Bucket::492000023
-Rag::492000030
-Broken Net::492000038
-Earth Prisma Crystal::492000005
-Busted Hammer::492000027
-Desire Dust::492000050
-Failed Powder Mix::492000047
-Lantern::492000040
-Red Flower::492000009
-Red/Blue Powder Mix::492000044
-Prismazooka::492000008
-Blue Powder::492000019
-Pesticide::492000022
-Stone Weight::492000028
-Wooden Stick::492000029
-Miasma Orb::492000001
-Empty Envelope::492000048
-Small Key::492000007
-Mortar::492000032
-Red Mushroom::492000014
-Coin::492000037
-Beautiful Bouquet::492000012
-Water Prismazooka::492000034
+Iron Ore::900070004
+Red Iron Furnace::900020003
+Stone::900070001
+Minecart::900040005
+Copper Mining Hammer::900000003
+Torch::900040003
+Stone Furnace::900020001
+Steel Mining Hammer::900000004
+Forager Box::900010004
+Fine Lumber::900050003
+Old Mining Hammer::900000001
+Raw Cotton::900060001
+Safety Hat with Light::900000005
+Lumber::900050001
+Ivy::900060002
+Fast Minecart::900040006
+Burnable Resin::900050002
+Flower::900060003
+Copper Ore::900070003
+Rope::900040001
+Iron Furnace::900020002
+Stone Mining Hammer::900000002
+Iron Felling Ax::900010003
+Stone Felling Ax::900010002
+New Formula Bomb::900030002
+Hildamite::900030003
+Old Felling Ax::900010001
+Sylvia's Flower::900060004
+Ladder::900040002
+Red Iron Ore::900070005
+Coal::900070002
+Bomb::900030001
+Lantern::900040004
+Lightning Rod::900110008
+Floorboard::900090014
+Bizarre Wood Piece::900110001
+Quartz Sand::900080003
+Fireworks::900090008
+Barrel Set::900090018
+Simple Shelf::900110018
+Shovel Blade::900120001
+Bizarre Wood::900110023
+Brick Wall-plate::900090016
+Red Iron Ingot::900090009
+String::900090002
+Poet's Harp::900090001
+Nopaew Doll::900110015
+Anvil::900090019
+Barbera Table::900110012
+Clay::900080002
+Floor Tiles::900090013
+Rainbow Illusion Stone::900100004
+Simple Table::900110017
+Steel Wheel::900090007
+Barbera Lamp::900110014
+Damp Linen::900110005
+Wooden Wall-plate::900090012
+Copper Ingot::900090004
+Barbera Mat::900110022
+Alloy Ingot::900090010
+Barbera Carpet::900110020
+Barbera Mushroom::900110013
+Iron Ingot::900090005
+Glass Window::900090015
+Cord::900120003
+Unblessed Boulder::900110004
+Level Board::900110009
+Simple Bed::900110016
+Magic Bomb::900100002
+Barbera Mushroom (L)::900110019
+Brick::900090003
+Barbera Bed::900110011
+Gunpowder::900080001
+Steel Ingot::900090006
+Unblessed Rock::900110003
+Magic Gunpowder::900100001
+Cotton Sheet::900090017
+Barbera Shelf::900110010
+Bizarre Board::900110002
+Wet Silk::900110006
+Thunderbolt Ore::900110007
+Wooden Stick::900120002
+Medicine::900090011
+Barbera Rug::900110021
+Prisma Ore::900100003
+Glowing Stone::900120007
+Flame of Life::900120019
+Small Screw::900120020
+Gale Vitalis::900120016
+Durable Cloth::900120009
+Red Stone::900120013
+Dazzling Ore::900130001
+Broken Lantern::900120006
+Poor Ore::900130003
+Soft Wood::900120012
+Chilled Fluid::900120005
+Planks::900120004
+Earth Vitalis::900120015
+Fine Ore::900130002
+Wind Vitalis::900120014
+Crag Vitalis::900120017
+Durable Bone::900120010
+Broken Watch::900120018
+Hook::900120011
+Sticky Fluid::900120008

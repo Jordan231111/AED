@@ -1,7 +1,7 @@
 Prefixes (first 4 digits):
 2050 -- currency items like git, and sidestory currency like black pearls
 2110 -- badges and a bunch of other weapons
-2170 -- unknown category
+2170 -- badges and a bunch of other weapons
 2180 -- Timetwisted Maze Charms
 2210 -- most material items found in the world/mob drop material items
 2310 -- random ahh Ultra Salmon, neo meat, Super Crunch
@@ -23,7 +23,6 @@ Prefixes (first 4 digits):
 4500 -- cat material items...
 4520 -- cat shop items mostly using meow coin
 4640 -- random items like enemy deck
-4920 -- unknown category
 5640 -- dungeon key items (Another Dungeon)
 5650 -- some AD items like superior dogu ** updated 2-23-2025 453 items
 7730 -- harpoon bait items??
@@ -190,9 +189,9 @@ Prefixes (first 4 digits):
 2080 -- unknown category
 
 Loaded 18205 unique-pointer values.
-Loaded 10828 manifest values.
+Loaded 10878 manifest values.
 
-Missing in manifest: 7377
+Missing in manifest: 7327
 205000114
 205000115
 205000116
@@ -1210,56 +1209,6 @@ Missing in manifest: 7377
 464001095
 464001096
 464001097
-492000001
-492000002
-492000003
-492000004
-492000005
-492000006
-492000007
-492000008
-492000009
-492000010
-492000011
-492000012
-492000013
-492000014
-492000015
-492000016
-492000017
-492000018
-492000019
-492000020
-492000021
-492000022
-492000023
-492000024
-492000025
-492000026
-492000027
-492000028
-492000029
-492000030
-492000031
-492000032
-492000033
-492000034
-492000035
-492000036
-492000037
-492000038
-492000039
-492000040
-492000041
-492000042
-492000043
-492000044
-492000045
-492000046
-492000047
-492000048
-492000049
-492000050
 564000002
 564000004
 564001001

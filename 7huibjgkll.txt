@@ -10961,3 +10961,113 @@ Wind Prisma Crystal::492000006
 Wind Prismazooka::492000035
 Wooden Stick::492000029
 Yellow Flower::492000011
+
+
+
+
+
+Alloy Ingot::900090010
+Anvil::900090019
+Barbera Bed::900110011
+Barbera Carpet::900110020
+Barbera Lamp::900110014
+Barbera Mat::900110022
+Barbera Mushroom (L)::900110019
+Barbera Mushroom::900110013
+Barbera Rug::900110021
+Barbera Shelf::900110010
+Barbera Table::900110012
+Barrel Set::900090018
+Bizarre Board::900110002
+Bizarre Wood Piece::900110001
+Bizarre Wood::900110023
+Bomb::900030001
+Brick Wall-plate::900090016
+Brick::900090003
+Broken Lantern::900120006
+Broken Watch::900120018
+Burnable Resin::900050002
+Chilled Fluid::900120005
+Clay::900080002
+Coal::900070002
+Copper Ingot::900090004
+Copper Mining Hammer::900000003
+Copper Ore::900070003
+Cord::900120003
+Cotton Sheet::900090017
+Crag Vitalis::900120017
+Damp Linen::900110005
+Dazzling Ore::900130001
+Durable Bone::900120010
+Durable Cloth::900120009
+Earth Vitalis::900120015
+Fast Minecart::900040006
+Fine Lumber::900050003
+Fine Ore::900130002
+Fireworks::900090008
+Flame of Life::900120019
+Floor Tiles::900090013
+Floorboard::900090014
+Flower::900060003
+Forager Box::900010004
+Gale Vitalis::900120016
+Glass Window::900090015
+Glowing Stone::900120007
+Gunpowder::900080001
+Hildamite::900030003
+Hook::900120011
+Iron Felling Ax::900010003
+Iron Furnace::900020002
+Iron Ingot::900090005
+Iron Ore::900070004
+Ivy::900060002
+Ladder::900040002
+Lantern::900040004
+Level Board::900110009
+Lightning Rod::900110008
+Lumber::900050001
+Magic Bomb::900100002
+Magic Gunpowder::900100001
+Medicine::900090011
+Minecart::900040005
+New Formula Bomb::900030002
+Nopaew Doll::900110015
+Old Felling Ax::900010001
+Old Mining Hammer::900000001
+Planks::900120004
+Poet's Harp::900090001
+Poor Ore::900130003
+Prisma Ore::900100003
+Quartz Sand::900080003
+Rainbow Illusion Stone::900100004
+Raw Cotton::900060001
+Red Iron Furnace::900020003
+Red Iron Ingot::900090009
+Red Iron Ore::900070005
+Red Stone::900120013
+Rope::900040001
+Safety Hat with Light::900000005
+Shovel Blade::900120001
+Simple Bed::900110016
+Simple Shelf::900110018
+Simple Table::900110017
+Small Screw::900120020
+Soft Wood::900120012
+Steel Ingot::900090006
+Steel Mining Hammer::900000004
+Steel Wheel::900090007
+Sticky Fluid::900120008
+Stone Felling Ax::900010002
+Stone Furnace::900020001
+Stone Mining Hammer::900000002
+Stone::900070001
+String::900090002
+Sylvia's Flower::900060004
+Thunderbolt Ore::900110007
+Torch::900040003
+Unblessed Boulder::900110004
+Unblessed Rock::900110003
+Wet Silk::900110006
+Wind Vitalis::900120014
+Wooden Stick::900120002
+Wooden Wall-plate::900090012

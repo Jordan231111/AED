@@ -43,3 +43,4 @@
  900000003 -- time mine items
  245000014 -- light and shadow for character
  492000001 -- Myrical Manor/Hero of the Hidden Blade
+ 900100001 -- time mine items
