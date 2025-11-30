@@ -15,7 +15,7 @@
  242030017 -- Treatisies, opus, tomes
  209000202 -- Bolts, Gear, Screws like Gold Gear, Diamond Drill -- added 23 items
  776000002 -- more Harpoon bogus?
- 2008000152 -- similar to 2136000149 or 2132000202 unsure which event/sidestory items though
+ 2008000152 -- all of the sidekick items https://anothereden.wiki/w/Sidekick_Equipment
  874000021 -- does have master fishing rod. (very interesting prob would saved time leveling the fish rod to level 30...)
  875000030 -- fishing Reel upgrades like master reel V lol...
  243000028 -- will corrupt world if have more than 1 or any modifications to any item here (restore mp and hp item food)

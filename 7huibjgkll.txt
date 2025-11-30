@@ -34,7 +34,6 @@ Medium Class Scroll::246000002
 
 
 
-
 White Key::564000101
 Red Key::564000003
 Bold Pulse Key::564002001
@@ -42,9 +41,11 @@ Green Key::564000001
 Cat Express Ticket::564003001
 
 
+
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
+Abyssal Devotee Starchart::242011014
 Abyssal Devotee Tome::242030112
 Adept Fencer Tome::242020202
 Admiral Starchart::242012018
@@ -54,6 +55,8 @@ Agent Tome::242030401
 Aima-Arravones Tome::242030410
 Alchemist Tome::242020011
 Allcosmos Starchart::242010000
+Alphecca Starchart::242010019
+Alphecca Tome::242030049
 Amaranth Starchart::242010013
 Amaranth Tome::242030045
 Amazon Tome::242020301
@@ -69,11 +72,15 @@ Apostle Tome::242020705
 Aqua Goddess Treatise::242030014
 Aqua Ruler Starchart::242010006
 Aqua Ruler Tome::242030001
+Arachne Starchart::242010018
+Arachne Tome::242030048
 Arc Knight Starchart::242011006
 Arc Knight Tome::242030101
 Arcana Codex::242030614
 Archaeologist Starchart::242017007
 Archaeologist Treatise::242030721
+Arcturus Starchart::242014011
+Arcturus Tome::242030425
 Areadbhar Treatise::242030411
 Areth's Diamond Tome::242031401
 Aristocrat Treatise::242030418
@@ -81,6 +88,8 @@ Armiger Tome::242030501
 Assassin's Fist Tome::242020600
 Asura Tome::242020200
 Athena Codex::242030417
+Atlas Starchart::242013008
+Atlas Tome::242030327
 Avenger Tome::242020703
 Avesta Treatise::242030121
 Bard Tome::242020501
@@ -131,6 +140,8 @@ Detective Starchart::242011010
 Detective Tome::242030133
 Devotroid Treatise::242030519
 Dicé Opus::242030125
+Dionysus Starchart::242010020
+Dionysus Treatise::242030050
 Divinator Tome::242030009
 Divine Paladin Treatise::242030109
 Diviner Tome::242020005
@@ -190,6 +201,7 @@ Gjallarhorn Treatise::242030022
 Gladiator Tome::242030300
 Goddess of Destiny Tome::242031402
 Golden Flower Cat Tome::242030310
+Grand General Tome::242030135
 Gratinel Psalm::242030703
 Gray Hound Tome::242030609
 Griffin Lance Tome::242020400
@@ -222,6 +234,7 @@ Jinni Opus::242030037
 Jiutian Xuannu Starchart::242016002
 Jiutian Xuannu Treatise::242030618
 Jorurihime Treatise::242030221
+Judgment Starchart::242010021
 Judgment Tome::242030011
 Juggernaut Tome::242030205
 Juno Treatise::242030713
@@ -275,6 +288,8 @@ Murmur Script::242000001
 Muse Opus::242030718
 Muse Starchart::242017002
 Mystic Tome::242020003
+Naivete Starchart::242015016
+Naivete Treatise::242030527
 Narukami Starchart::242012011
 Narukami Tome::242030224
 Negotiator Starchart::242017003
@@ -301,6 +316,7 @@ Oraculum Tome::242030128
 Orator Tome::242020704
 Orco-Figlia Treatise::242030211
 Orpheus Opus::242030036
+Paladin Starchart::242011013
 Paladin Tome::242030100
 Patriarch Tome::242020700
 Persephone Opus::242030415
@@ -352,7 +368,9 @@ Sniper Tome::242020500
 Soul Bringer Tome::242030013
 Soul Keeper Treatise::242030312
 Sovereign Psalm::242030105
+Sovereign Starchart::242011012
 Starlight Treatise::242030203
+Steropes Starchart::242010022
 Storied Fighter Starchart::242019002
 Stormbreaker Tome::242030604
 Striker Tome::242020602
@@ -376,6 +394,7 @@ Tentamare Treatise::242030304
 Thanatos Opus::242030317
 The Renewed Starchart::242010005
 Thorny Woman Record::242030517
+Titan Starchart::242016007
 Titan Tome::242030600
 Titania Treatise::242030017
 Transporter Treatise::242030311
@@ -384,6 +403,8 @@ Ukanomitama Opus::242030421
 Ullr Starchart::242015001
 Ullr Tome::242030521
 Undertaker Tome::242020012
+Unut Codex::242030326
+Unut Starchart::242013007
 Utsutahime Tome::242030509
 Vanagandr Starchart::242012016
 Vanagandr Treatise::242030228
@@ -410,6 +431,10 @@ Yaobikuni Tome::242030720
 Yasomagatsuhi Treatise::242030210
 Ymir Treatise::242030420
 Yuda Opus::242030219
+Étoile Starchart::242012023
+Étoile Treatise::242030232
+
+
 
 
 Active Magic Elements::205000031

@@ -1,431 +1,391 @@
-Magic Rewind Clock Hand::2008000324
-Magic Rewind Clock Hand::2008000329
-Single-Point Booster::2008000315
-Single-Point Booster::2008000312
-Single-Point Booster::2008000319
-Power Crystal::2008000278
-Wisdom Orb::2008000304
-Magic Flow Staff::2008000350
-Wisdom Orb::2008000308
-Laika Charm (Yellow)::2008000387
-Magic Flow Staff::2008000349
-Power Crystal::2008000279
-Laika Charm (Yellow)::2008000392
-Laika Charm (Blue)::2008000365
-Distorted Amulet::2008000427
-Magic Flow Staff::2008000343
-Laika Charm (Red)::2008000379
-Laika Charm (Blue)::2008000368
-Recovery Stone::2008000364
-Distorted Amulet::2008000428
-Distorted Amulet::2008000424
-Warding Pendant::2008000414
-Warding Pendant::2008000416
-Distorted Amulet::2008000422
-Warding Pendant::2008000410
-Warding Pendant::2008000415
-Critical Orb::2008000407
-Recovery Stone::2008000357
-Critical Orb::2008000409
-Critical Orb::2008000401
-Distorted Amulet::2008000423
-Critical Orb::2008000399
-Distorted Amulet::2008000426
-Laika Charm (Red)::2008000384
-Warding Pendant::2008000420
-Laika Charm (Red)::2008000381
-Laika Charm (Yellow)::2008000394
-Critical Orb::2008000408
-Laika Charm (Yellow)::2008000391
-Distorted Amulet::2008000425
-Single-Point Booster::2008000310
-Distorted Amulet::2008000421
-Recovery Stone::2008000358
-Distorted Amulet::2008000431
-Distorted Amulet::2008000429
-Critical Orb::2008000403
-Warding Pendant::2008000418
-Recovery Stone::2008000359
-Warding Pendant::2008000417
-Laika Charm (Blue)::2008000373
-Warding Pendant::2008000419
-Power Crystal::2008000280
-Magic Flow Staff::2008000351
-Laika Charm (Blue)::2008000375
-Laika Charm (Red)::2008000377
-Laika Charm (Red)::2008000386
-Buoyancy Shield::2008000339
-Laika Charm (Yellow)::2008000396
-Buoyancy Shield::2008000338
-Buoyancy Shield::2008000337
-Laika Charm (Yellow)::2008000388
-Laika Charm (Blue)::2008000370
-Laika Charm (Red)::2008000383
-Laika Charm (Blue)::2008000374
-Warding Pendant::2008000411
-Recovery Stone::2008000356
-Critical Orb::2008000406
-Laika Charm (Red)::2008000385
-Critical Orb::2008000405
-Recovery Stone::2008000360
-Critical Orb::2008000404
-Laika Charm (Red)::2008000376
-Recovery Stone::2008000362
-Warding Pendant::2008000413
-Laika Charm (Yellow)::2008000393
-Magic Rewind Clock Hand::2008000331
-Laika Charm (Red)::2008000380
-Wisdom Orb::2008000306
-Laika Charm (Blue)::2008000372
-Laika Charm (Red)::2008000378
-Laika Charm (Blue)::2008000366
-Laika Charm (Red)::2008000382
-Critical Orb::2008000402
-Distorted Amulet::2008000430
-Tamamo Bell::2008000398
-Buoyancy Shield::2008000335
-Laika Charm (Yellow)::2008000389
-Critical Orb::2008000400
-Magic Flow Staff::2008000348
-Recovery Stone::2008000361
-Warding Pendant::2008000412
-Laika Charm (Blue)::2008000371
-Recovery Stone::2008000354
-Laika Charm (Yellow)::2008000395
-Magic Rewind Clock Hand::2008000327
-Magic Rewind Clock Hand::2008000325
-Recovery Stone::2008000355
-Laika Charm (Yellow)::2008000390
-Laika Charm (Blue)::2008000367
-Laika Charm (Yellow)::2008000397
-Magic Rewind Clock Hand::2008000326
-Magic Rewind Clock Hand::2008000330
-Magic Rewind Clock Hand::2008000321
-Power Crystal::2008000282
-Magic Flow Staff::2008000345
-Magic Flow Staff::2008000353
-Recovery Stone::2008000363
-Single-Point Booster::2008000314
-Magic Rewind Clock Hand::2008000328
-Buoyancy Shield::2008000332
-Laika Charm (Blue)::2008000369
-Buoyancy Shield::2008000333
-Buoyancy Shield::2008000341
-Buoyancy Shield::2008000342
-Magic Flow Staff::2008000346
-Buoyancy Shield::2008000336
-Magic Flow Staff::2008000344
-Magic Flow Staff::2008000347
-Crystalline Claws::2008000241
-Magic Flow Staff::2008000352
-Buoyancy Shield::2008000340
-Vitality Orb::2008000288
-Weaklumite::2008000225
-Wisdom Orb::2008000300
-Crystal Bat::2008000256
-Vitality Orb::2008000289
-Vitality Orb::2008000291
-Magia Crystal::2008000270
-Vitality Orb::2008000295
-Vitality Orb::2008000290
-Crystal Bat::2008000265
-Sea Rattle::2008000181
-Wisdom Orb::2008000302
-Weaklumite::2008000229
-Vitality Orb::2008000296
-Wisdom Orb::2008000309
-Wisdom Orb::2008000303
-Crystal Bat::2008000264
-Healing Jewel::2008000252
-Single-Point Booster::2008000313
-Magia Crystal::2008000268
-Crystal Bat::2008000260
-Vitality Orb::2008000294
-Crystalline Claws::2008000242
-Wisdom Orb::2008000299
-Crystalline Claws::2008000239
-Single-Point Booster::2008000317
-Magia Crystal::2008000274
-Power Crystal::2008000277
-Power Crystal::2008000281
-Magia Crystal::2008000272
-Wisdom Orb::2008000301
-Power Crystal::2008000286
-Single-Point Booster::2008000311
-Single-Point Booster::2008000318
-Wisdom Orb::2008000305
-Magia Crystal::2008000275
-Wisdom Orb::2008000307
-Magia Crystal::2008000271
-Power Crystal::2008000285
-Crystal Bat::2008000259
-Vitality Orb::2008000292
-Power Crystal::2008000287
-Healing Jewel::2008000246
-Vitality Orb::2008000297
-Magia Crystal::2008000276
-Weaklumite::2008000223
-Weaklumite::2008000224
-Prickle Ball::2008000173
-Crystalline Claws::2008000237
-Weaklumite::2008000227
-Healing Jewel::2008000254
-Darkshade Necklace::2008000201
-Healing Jewel::2008000247
-Prickle Ball::2008000167
-Magia Crystal::2008000267
-Pandora's Can::2008000117
-Prickle Ball::2008000166
-Stun Baton::2008000165
-Armored Gauntlet::2008000152
-Weaklumite::2008000226
-Prismblade Necklace::2008000210
-Crystalline Claws::2008000236
-Crystal Bat::2008000255
-Healing Jewel::2008000249
-Crystalline Claws::2008000233
-Crystalline Claws::2008000238
-Prismblade Necklace::2008000220
-Vitality Orb::2008000298
-Power Crystal::2008000283
-Weaklumite::2008000230
-Weaklumite::2008000232
-Crystalline Claws::2008000240
-Weaklumite::2008000222
-Crystalline Claws::2008000235
-Weaklumite::2008000231
-Prismblade Necklace::2008000211
-Crystalline Claws::2008000243
-Healing Jewel::2008000251
-Prismblade Necklace::2008000215
-Prickle Ball::2008000175
-Crystalline Claws::2008000234
-Darkshade Necklace::2008000208
-Sea Rattle::2008000185
-Prismblade Necklace::2008000218
-Healing Jewel::2008000248
-Armored Gauntlet::2008000151
-Crystal Bat::2008000263
-Healing Jewel::2008000253
-Weaklumite::2008000228
-Prismblade Necklace::2008000219
-Healing Jewel::2008000250
-Dragon Exile's Stole::2008000221
-Healing Jewel::2008000244
-Stun Baton::2008000157
-Prismblade Necklace::2008000217
-Healing Jewel::2008000245
-Darkshade Necklace::2008000205
-Darkshade Necklace::2008000207
-Prickle Ball::2008000170
-Darkshade Necklace::2008000209
-Sea Rattle::2008000187
-Darkshade Necklace::2008000203
-Prismblade Necklace::2008000213
-Sea Rattle::2008000183
-Crystal Bat::2008000262
-Stun Baton::2008000160
-Thundercrack Necklace::2008000197
-Prickle Ball::2008000171
-Thundercrack Necklace::2008000196
-Prismblade Necklace::2008000214
-Darkshade Necklace::2008000206
-Prickle Ball::2008000176
-Crystal Bat::2008000258
-Darkshade Necklace::2008000200
-Prismblade Necklace::2008000212
-Thundercrack Necklace::2008000198
-Sky Amulet::2008000089
-Sea Rattle::2008000178
-Sea Rattle::2008000184
-Darkshade Necklace::2008000199
-Armored Gauntlet::2008000153
-Armored Handlance::2008000139
-Stun Baton::2008000163
-Vitality Orb::2008000293
-Thundercrack Necklace::2008000193
-Thundercrack Necklace::2008000189
-Sea Rattle::2008000179
-Sea Rattle::2008000186
-Prickle Ball::2008000169
-Armored Handlance::2008000137
-Thundercrack Necklace::2008000195
-Darkshade Necklace::2008000204
-Thundercrack Necklace::2008000188
-Armored Gauntlet::2008000154
-Armored Gauntlet::2008000145
-Sea Rattle::2008000177
-Thundercrack Necklace::2008000190
-Sea Rattle::2008000180
-Prickle Ball::2008000174
-Darkshade Necklace::2008000202
-Thundercrack Necklace::2008000192
-Thundercrack Necklace::2008000191
-Prismblade Necklace::2008000216
-Armored Handlance::2008000143
-Sea Rattle::2008000182
-Crystal Bat::2008000261
-Stun Baton::2008000155
-Thundercrack Necklace::2008000194
-Armored Gauntlet::2008000146
-Sky Amulet::2008000091
-Stun Baton::2008000162
-Armored Handlance::2008000133
-Armored Handlance::2008000138
-Armored Claw::2008000122
-Pandora's Can::2008000113
-Armored Claw::2008000126
-Pandora's Can::2008000118
-Pandora's Can::2008000119
-Stun Baton::2008000158
-Crystal Bat::2008000257
-Armored Claw::2008000129
-Wavelet Shell::2008000038
-Armored Gauntlet::2008000147
-Soothing Bell::2008000100
-Armored Gauntlet::2008000149
-Armored Handlance::2008000135
-Soothing Bell::2008000102
-Armored Gauntlet::2008000144
-Stun Baton::2008000161
-Sky Amulet::2008000096
-Pandora's Can::2008000116
-Magia Crystal::2008000266
-Pandora's Can::2008000120
-Power Crystal::2008000284
-Stun Baton::2008000164
-Stun Baton::2008000159
-Soothing Bell::2008000106
-Armored Claw::2008000124
-Armored Handlance::2008000141
-Prickle Ball::2008000168
-Magia Crystal::2008000269
-Armored Handlance::2008000140
-Soothing Bell::2008000107
-Armored Claw::2008000132
-Armored Claw::2008000125
-Soothing Bell::2008000110
-Armored Handlance::2008000136
-Sky Amulet::2008000094
-Soothing Bell::2008000104
-Armored Gauntlet::2008000148
-Armored Handlance::2008000134
-Stun Baton::2008000156
-Armored Gauntlet::2008000150
-Wavelet Shell::2008000035
-Prickle Ball::2008000172
-Armored Claw::2008000123
-Armored Claw::2008000128
-Magia Crystal::2008000273
-Armored Claw::2008000131
-Pandora's Can::2008000114
-Time Sprout::2008000063
-Loire's Pocket Watch::2008000045
-Crag Amulet::2008000082
-Time Sprout::2008000059
-Storm Amulet::2008000074
-Armored Handlance::2008000142
-Storm Amulet::2008000077
-Time Sprout::2008000062
-Armored Claw::2008000127
-Crag Amulet::2008000086
-Armored Claw::2008000130
-Sky Amulet::2008000092
-Wavelet Shell::2008000037
-Soothing Bell::2008000108
-Storm Amulet::2008000072
-Sky Amulet::2008000090
-Time Sprout::2008000066
-Soothing Bell::2008000109
-Crag Amulet::2008000087
-Bleeding Edge::2008000015
-Pandora's Can::2008000111
-Pandora's Can::2008000115
-Poison Needle::2008000027
-Storm Amulet::2008000075
-Sky Amulet::2008000093
-Crag Amulet::2008000084
-Crag Amulet::2008000080
-Time Sprout::2008000064
-Crag Amulet::2008000088
-Loire's Pocket Watch::2008000050
-Crag Amulet::2008000085
-Pandora's Can::2008000121
-Soothing Bell::2008000103
-Time Sprout::2008000065
-Soothing Bell::2008000105
-Pandora's Can::2008000112
-Wavelet Shell::2008000043
-Crag Amulet::2008000083
-Time Sprout::2008000060
-Storm Amulet::2008000067
-Sky Amulet::2008000095
-Time Sprout::2008000058
-Soothing Bell::2008000101
-Loire's Pocket Watch::2008000047
-Crag Amulet::2008000079
-Storm Amulet::2008000068
-Sky Amulet::2008000099
-Sky Amulet::2008000097
-Sky Amulet::2008000098
-Loire's Pocket Watch::2008000051
-Time Sprout::2008000061
-Storm Amulet::2008000071
-Knuckles::2008000006
-Wavelet Shell::2008000042
-Knuckles::2008000011
-Bleeding Edge::2008000016
-Time Sprout::2008000056
-Bleeding Edge::2008000019
-Bleeding Edge::2008000017
-Wavelet Shell::2008000036
-Loire's Pocket Watch::2008000048
-Bleeding Edge::2008000018
-Poison Needle::2008000026
-Bleeding Edge::2008000012
-Bleeding Edge::2008000021
-Knuckles::2008000010
-Wavelet Shell::2008000044
-Loire's Pocket Watch::2008000054
-Knuckles::2008000004
-Poison Needle::2008000023
-Poison Needle::2008000033
-Storm Amulet::2008000076
-Bleeding Edge::2008000022
-Time Sprout::2008000057
-Poison Needle::2008000032
-Loire's Pocket Watch::2008000046
-Poison Needle::2008000029
-Knuckles::2008000003
-Storm Amulet::2008000070
-Bleeding Edge::2008000013
-Loire's Pocket Watch::2008000053
-Poison Needle::2008000024
-Poison Needle::2008000030
-Wavelet Shell::2008000034
-Wavelet Shell::2008000041
-Wavelet Shell::2008000040
-Bleeding Edge::2008000020
-Knuckles::2008000008
-Bleeding Edge::2008000014
-Crag Amulet::2008000081
-Crag Amulet::2008000078
-Storm Amulet::2008000069
-Poison Needle::2008000025
-Wavelet Shell::2008000039
-Storm Amulet::2008000073
-Poison Needle::2008000031
-Knuckles::2008000009
-Knuckles::2008000002
-Knuckles::2008000007
-Loire's Pocket Watch::2008000055
-Knuckles::2008000001
-Knuckles::2008000005
-Poison Needle::2008000028
-Loire's Pocket Watch::2008000052
-Loire's Pocket Watch::2008000049
-Buoyancy Shield::2008000334
-Magic Rewind Clock Hand::2008000323
-Magic Rewind Clock Hand::2008000322
-Single-Point Booster::2008000320
-Single-Point Booster::2008000316
+Last Haven Treatise::242030622
+Red Scorpio Opus::242030613
+Summer Tome::242031404
+Curse Seeker Treatise::242030707
+Lovebird Treatise::242030616
+Briar Rose Opus::242030719
+Felis Circulus Treatise::242030611
+Goddess of Destiny Tome::242031402
+Tea Maiden Treatise::242030709
+Sanctus Tome::242030708
+Jiutian Xuannu Treatise::242030618
+Phantom Thief Treatise::242030615
+Ereshkigal Codex::242030715
+Negotiator Tome::242030700
+Kelkale Codex::242030120
+Areth's Diamond Tome::242031401
+Harmonia Treatise::242030416
+Gratinel Psalm::242030703
+???::242031501
+Felis Lord Opus::242030620
+Mal'akh Tome::242030701
+Boyne Lord Tome::242030706
+Enforcer Opus::242030617
+Holy Sword Record::242030222
+Lucifer Codex::242030712
+Isaiah Tome::242030508
+Maverick Treatise::242030612
+Ame-no-Uzume Opus::242030525
+Blazing Hero Treatise::242030619
+Armiger Tome::242030501
+Persephone Opus::242030415
+Juno Treatise::242030713
+Titan Tome::242030600
+Anomaly Debris Tome::242030621
+Enma Tome::242030711
+Rose Unseen Treatise::242030714
+Archaeologist Treatise::242030721
+Djinn Tome::242030705
+Arcturus Tome::242030425
+Kommandeur Tome::242030702
+Atlas Tome::242030327
+Empress Tome::242030601
+Dionysus Treatise::242030050
+Hastantiqua Treatise::242030407
+Kingpin Tome::242030408
+Yuda Opus::242030219
+Holy Sentinel Codex::242030423
+Minstrel Tome::242030500
+Blanc Meneur Treatise::242030503
+Mellow Diva Treatise::242030507
+Devotroid Treatise::242030519
+Magister Tome::242030403
+Sirenaria Tome::242030512
+Golden Flower Cat Tome::242030310
+Crimson Ray Treatise::242030405
+Thanatos Opus::242030317
+Chernobog Opus::242030313
+Wenefica Tome::242030522
+Ame-no-Murakumo Codex::242030226
+Hecatoncheires Codex::242030610
+Stormbreaker Tome::242030604
+Butterfly Warrior Treatise::242030402
+Epoch Maker Treatise::242030523
+Ullr Tome::242030521
+Athena Codex::242030417
+Ninetails Fox Tome::242030504
+Grand General Tome::242030135
+Thorny Woman Record::242030517
+Dual Persona Tome::242030506
+Miyabinokami Opus::242030419
+Lila Blitz Tome::242030306
+Utsutahime Tome::242030509
+Proud Beast Treatise::242030607
+Blacksmith Psalm::242030710
+Oberon Treatise::242030422
+Pluma Diana Treatise::242030513
+Citrinitas Tome::242030515
+Gray Hound Tome::242030609
+Resif Opus::242030514
+Susanoo Treatise::242030216
+Covert Agent Treatise::242030307
+Polyhymniā Treatise::242030520
+Galeforce Tome::242030602
+Voleur Opus::242030526
+Vanagandr Treatise::242030228
+Silken Wisp Treatise::242030510
+Ukanomitama Opus::242030421
+Ameretat Tome::242030305
+Shadow Lord Tome::242030605
+Shinatsuhime Codex::242030511
+Brawler Psalm::242030603
+Okaminokami Treatise::242030516
+Erato Treatise::242030518
+Melodist Psalm::242030502
+Aristocrat Treatise::242030418
+Lovely Chef Tome::242030606
+Areadbhar Treatise::242030411
+Brionac Tome::242030404
+Gladiator Tome::242030300
+Marksman Tome::242020502
+Ometeotl Treatise::242030218
+Étoile Treatise::242030232
+Negotiator Starchart::242017003
+Inspector Tome::242030302
+Eurydice Tome::242030322
+Magna Rex Treatise::242030505
+Arc Knight Tome::242030101
+Griffin Lance Tome::242020400
+Wolfskin Treatise::242030324
+Takuhatachiji Opus::242030225
+Hrungnir Tome::242030414
+Master Fencer Tome::242020203
+Dragon Ruler Tome::242030406
+Phalanx Tome::242020402
+Amaranth Starchart::242010013
+Sweet Lady Treatise::242030325
+Soul Keeper Treatise::242030312
+Sukunahikona Tome::242030321
+Draco Nodus Treatise::242030413
+Bûcheron Treatise::242030314
+Prophet Treatise::242030047
+Rakshasa Tome::242020201
+Unut Codex::242030326
+Mikahayahi Treatise::242030209
+Walkure Tome::242030315
+Avesta Treatise::242030121
+Lazuli Medea Tome::242030412
+Dragoon Tome::242030400
+Sigrdrifa Treatise::242030320
+Battler Tome::242020304
+Libitina Treatise::242030309
+Ymir Treatise::242030420
+Hihayahi Tome::242030231
+Nekomata Avatar Codex::242030524
+Daikokuten Opus::242030134
+Demon Reaper Tome::242030308
+Octofighter Tome::242030301
+Lumberjack Psalm::242030318
+Orco-Figlia Treatise::242030211
+Sword Master Tome::242020102
+Transporter Treatise::242030311
+Futsunomitama Codex::242030230
+Erinys Codex::242030319
+Sakuya-bime Treatise::242030424
+Sacrament Codex::242030127
+Fireside Cat Treatise::242030316
+Jorurihime Treatise::242030221
+Abyss Liberator Treatise::242030117
+Yasomagatsuhi Treatise::242030210
+Watatsumi Tome::242030208
+Sarashinahime Treatise::242030213
+Agent Tome::242030401
+Juggernaut Tome::242030205
+Fenrir Tome::242030223
+Slayer Tome::242030217
+Dragon Bearer Psalms::242030102
+Kagutsuchi Tome::242030200
+Mercenary Tome::242020702
+Nekogami Treatise::242030220
+Tentamare Treatise::242030304
+Aima-Arravones Tome::242030410
+Princess Psalm::242030103
+Eris Treatise::242030130
+Sun Goddess Tome::242030201
+Dragon Reaper Tome::242030323
+Murasame Tome::242030204
+Bladesaint Tome::242030129
+High Priestess Treatise::242030012
+Grim Reaper Tome::242030303
+Abyssal Devotee Tome::242030112
+Carmilla Tome::242030033
+Eternal Swordsman Record::242030115
+Bête Théâtrale Opus::242030131
+Crimson Knight Tome::242030108
+Paladin Tome::242030100
+Oraculum Tome::242030128
+Brave Storm Psalm::242030207
+Dicé Opus::242030125
+Narukami Tome::242030224
+Sky Sprite Treatise::242030106
+Sunrise Treatise::242030206
+Oracle Tome::242030004
+Brunhild Treatise::242030107
+Yaobikuni Tome::242030720
+Justitia Codex::242030118
+Starlight Treatise::242030203
+String Puller Tome::242030214
+Admiral Tome::242030202
+Arcana Codex::242030614
+Migl Aspida Treatise::242030409
+Okuninushi Treatise::242030046
+Patriarch Tome::242020700
+Indra Tome::242030212
+Dark Knight Tome::242020101
+Libette Tome::242030021
+Elven Knight Tome::242020104
+Bête Théâtrale Starchart::242011007
+Alphecca Tome::242030049
+Sovereign Psalm::242030105
+Grimoire Tome::242030110
+Hypnotist Treatise::242030006
+Taiyi Zhenren Tome::242030040
+Holy Warrior Tome::242020100
+Titania Treatise::242030017
+Sayorihime Treatise::242030024
+Legendary Swordsman Record::242030215
+Hihayahi Starchart::242012022
+Divine Paladin Treatise::242030109
+Fortuna Treatise::242030019
+Geomancer Tome::242030000
+Medea Treatise::242030035
+Camena Treatise::242030132
+Jinni Opus::242030037
+Reviver Treatise::242030044
+Adept Fencer Tome::242020202
+Miracle Worker Treatise::242030030
+Nirvana Tome::242030043
+Bishop Tome::242020701
+Högni Treatise::242030041
+Blazing Sword Record::242030123
+Raven Tengu Tome::242030042
+Flare Knight Treatise::242030119
+Nemesis Tome::242030122
+Ring-Guided Starchart::242019001
+Cthulhu Codex::242030025
+Flame Lord Tome::242030003
+Divinator Tome::242030009
+Berserker Tome::242020302
+Empress Crowe Record::242030116
+Amazon Tome::242020301
+Mailed Sheep Tome::242030126
+Seele Gnade Treatise::242030020
+Bard Tome::242020501
+Gjallarhorn Treatise::242030022
+Fraulein Opus::242030124
+Remittetur Treatise::242030018
+Amaranth Tome::242030045
+Omoikane Opus::242030029
+Völva Treatise::242030031
+Angelic Record::242030032
+Orpheus Opus::242030036
+Orator Tome::242020704
+Felis Lord Starchart::242016004
+Judgment Tome::242030011
+Sniper Tome::242020500
+Archaeologist Starchart::242017007
+Mystic Tome::242020003
+Drago Mirage Tome::242030027
+Chevalier Tome::242020403
+Elementalist Tome::242020009
+Beauty Police Treatise::242030111
+Exalted Maiden Psalm::242030023
+Hierophant Tome::242030002
+Yaobikuni Starchart::242017006
+Aqua Ruler Tome::242030001
+Sakuya-bime Starchart::242014008
+Blazing Hero Starchart::242016003
+Detective Tome::242030133
+Alchemist Tome::242020011
+Slayer Starchart::242012013
+Channeler Tome::242020010
+Admiral Starchart::242012018
+Mighty Maiden Tome::242020007
+Lord of Spirits Record::242030114
+Voleur Starchart::242015015
+Venus Treatise::242030038
+Warrior Tome::242020300
+Wizard Tome::242020004
+Nekomata Av. Starchart::242015013
+Anomaly Debris Starchart::242016005
+Maestro Tome::242020604
+Avenger Tome::242020703
+Mal'akh Starchart::242017005
+Vanagandr Starchart::242012016
+Wenefica Starchart::242015011
+Flare Witch Psalm::242030015
+Medium Tome::242020006
+Libero Tome::242030028
+Forerunner Tome::242020401
+Warlock Tome::242020002
+Asura Tome::242020200
+Cybele Treatise::242030016
+Summer Starchart::242019003
+Protector Tome::242030008
+Undertaker Tome::242020012
+Rune Knight Tome::242020103
+Muse Starchart::242017002
+Bladesaint Starchart::242011004
+Wu-Shu Tome::242020601
+Cursed Bride Treatise::242030007
+Storied Fighter Starchart::242019002
+Soul Bringer Tome::242030013
+Rebel Starchart::242014003
+Dragon Exile Starchart::242014005
+Chronoandreios Starchart::242011009
+Wolfskin Starchart::242013004
+Ame-no-Totsuka Starchart::242012021
+The Renewed Starchart::242010005
+Skadi Tome::242030026
+Okuninushi Starchart::242010014
+Epoch Maker Starchart::242015012
+White Knight Tome::242030104
+Kagutsuchi Starchart::242012015
+Izanagi Starchart::242012017
+Diviner Tome::242020005
+Dragon Reaper Starchart::242013003
+Atlas Starchart::242013008
+Unut Starchart::242013007
+Sacrament Starchart::242011003
+Sukunahikona Starchart::242013001
+Druid Tome::242020001
+Minerva Treatise::242030113
+Briar Rose Starchart::242017004
+Narukami Starchart::242012011
+Agent Starchart::242014010
+Eurydice Starchart::242013002
+Ullr Starchart::242015001
+Brionac Starchart::242014009
+Ame-no-Uzume Starchart::242015014
+Arc Knight Starchart::242011006
+Enforcer Starchart::242016001
+Prthivi Starchart::242017001
+Inspector Starchart::242013005
+Dragon Ruler Starchart::242014004
+Hermes Tome::242030039
+Holy Sentinel Starchart::242014006
+Era Blaster Tome::242020008
+Aqua Ruler Starchart::242010006
+Vanguard Tome::242020303
+Lapin Tome::242030005
+Arcturus Starchart::242014011
+Titan Starchart::242016007
+Naivete Starchart::242015016
+Oracle Starchart::242010008
+Dionysus Starchart::242010020
+Hermes Starchart::242010001
+Raven Tengu Starchart::242010007
+Étoile Starchart::242012023
+Takuhatachiji Starchart::242012012
+Arachne Tome::242030048
+Reviver Starchart::242010011
+Murasame Starchart::242012001
+Högni Starchart::242010004
+Apostle Tome::242020705
+Geomancer Starchart::242010012
+Detective Starchart::242011010
+Troubadour Tome::242020503
+Dragoon Starchart::242014001
+Arachne Starchart::242010018
+Aqua Goddess Treatise::242030014
+Xeno-Legion Starchart::242010002
+Prayer Script::242000002
+A.Murakumo Starchart::242012014
+Striker Tome::242020602
+Assassin's Fist Tome::242020600
+Nirvana Starchart::242010009
+Camena Starchart::242011008
+Daikokuten Starchart::242011011
+Oberon Starchart::242014002
+Futsunomitama Starchart::242012020
+Allcosmos Starchart::242010000
+Last Haven Starchart::242016006
+Dragon Bearer Starchart::242011001
+Paladin Starchart::242011013
+Chant Script::242000003
+Lapin Starchart::242010015
+Drago Mirage Starchart::242010010
+Magister Starchart::242014007
+Judgment Starchart::242010021
+Sovereign Starchart::242011012
+Taiyi Zhenren Starchart::242010003
+Prophet Starchart::242010016
+Jiutian Xuannu Starchart::242016002
+Sweet Lady Starchart::242013006
+Murmur Script::242000001
+Eris Starchart::242011005
+Xeno-Legion Psalm::242030010
+Hierophant Starchart::242010017
+Alphecca Starchart::242010019
+Monk Tome::242020603
+Dáinsleif Tome::242030034
+Steropes Starchart::242010022
+Oraculum Starchart::242011002
+Ring-Guided Tome::242031403
+Muse Opus::242030718
+Prthivi Treatise::242030717
+Dream Digger Tome::242030716
+Naivete Treatise::242030527
+Shining Shadow Treatise::242030608
+Punishment Treatise::242030704
+Abyssal Devotee Starchart::242011014
