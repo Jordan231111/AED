@@ -45,3 +45,4 @@
  492000001 -- Myrical Manor/Hero of the Hidden Blade
  900100001 -- time mine items
  2080000602 -- An Ode to Origin storyline
+ 2061003002 -- Some of the newer badges like spd +50, and full resistance to some debuffs
