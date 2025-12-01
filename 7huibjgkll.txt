@@ -11942,3 +11942,19 @@ Volgar Iron::2078000213
 White Petal::2078000014
 Yasmin Flower::2078000013
 Yellow Petal::2078000016
+
+
+
+
+
+Alabastro Asterorb::2076000008
+Albali Asterorb::2076000003
+Amberoc Asterorb::2076000010
+Capelliter Asterob::2076000007
+Cornelian Asterorb::2076000002
+Ivorine Asterorb::2076000004
+Moon Asterorb::2076000001
+Onyxia Asterorb::2076000009
+Rottenyx Asterorb::2076000006
+Verdigris Asterorb::2076000005
+

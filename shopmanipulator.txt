@@ -1,130 +1,20 @@
-Word: Suspicious Shard            ||             Index 1 at address 71A2A1CE00 Value: 0
-Word: Astra Iron Ore            ||             Index 2 at address 71A2D27C50 Value: 0
-Word: Mystical Stone            ||             Index 3 at address 71A2D285F0 Value: 0
-Word: Astwuh Bark            ||             Index 4 at address 71A2D28800 Value: 0
-Word: Marbled Sootrock            ||             Index 5 at address 71A2D28960 Value: 0
-Word: Astra Ore            ||             Index 6 at address 71A2D28A10 Value: 0
-Word: Smooth Pawm Wood            ||             Index 7 at address 71A2D28CD0 Value: 0
-Word: Blinding Halo            ||             Index 8 at address 71A2D28D80 Value: 0
-Word: Marbled Coal            ||             Index 9 at address 71A2D28EE0 Value: 0
-Word: Astra Shard Cluster            ||             Index 10 at address 71A2D29250 Value: 0
-Word: Flower Petal            ||             Index 11 at address 71A2D62FB0 Value: 0
-Word: Black Petal            ||             Index 12 at address 71A2D63F80 Value: 0
-Word: Hard Pawm Wood            ||             Index 13 at address 71A2D65370 Value: 0
-Word: Geolas Bloom            ||             Index 14 at address 71A2D66B80 Value: 0
-Word: Quality Marbled Coal            ||             Index 15 at address 71A2D67890 Value: 0
-Word: Sootrock Coal            ||             Index 16 at address 71A2D67B50 Value: 0
-Word: Pawm Heartwood            ||             Index 17 at address 71A2D67D60 Value: 0
-Word: Red Petal            ||             Index 18 at address 71A2D68230 Value: 0
-Word: Blue Petal            ||             Index 19 at address 71A2D68440 Value: 0
-Word: White Petal            ||             Index 20 at address 71A2D68650 Value: 0
-Word: Selenite Cluster            ||             Index 21 at address 71A2D68A70 Value: 0
-Word: Azeztsalite Cluster            ||             Index 22 at address 71A2D68B20 Value: 0
-Word: Green Petal            ||             Index 23 at address 71A2D694C0 Value: 0
-Word: Yasmin Flower            ||             Index 24 at address 71A2D69830 Value: 0
-Word: Azeztsalite Fragment            ||             Index 25 at address 71A2D69990 Value: 0
-Word: Marbled Quartz            ||             Index 26 at address 71A2D69A40 Value: 0
-Word: Sturdy Vine            ||             Index 27 at address 71A2D69C50 Value: 0
-Word: Astra Pyroxene            ||             Index 28 at address 71A2D69D00 Value: 0
-Word: Volgar Iron            ||             Index 29 at address 71A2D69FC0 Value: 0
-Word: Astra Shard Cluster            ||             Index 30 at address 71A2D6A1D0 Value: 0
-Word: Quarry SR Test            ||             Index 31 at address 71A2D6A330 Value: 0
-Word: Fibrous Scale            ||             Index 32 at address 71A2D6A490 Value: 0
-Word: Plant SR Test            ||             Index 33 at address 71A2D6A540 Value: 0
-Word: Nice Fibrous Scale            ||             Index 34 at address 71A2D6A6A0 Value: 0
-Word: Lustrous Petal            ||             Index 35 at address 71A2D6A750 Value: 0
-Word: Selenite Fragment            ||             Index 36 at address 71A2D6A800 Value: 0
-Word: Hard Astwuh Wood            ||             Index 37 at address 71A2D6AAC0 Value: 0
-Word: Pristine Fangclaw            ||             Index 38 at address 71A2D6AB70 Value: 0
-Word: Soft Astwuh Wood            ||             Index 39 at address 71A2D6AC20 Value: 0
-Word: Astra Amberine            ||             Index 40 at address 71A2D6AEE0 Value: 0
-Word: Cracked Fangclaw            ||             Index 41 at address 71A2D6AF90 Value: 0
-Word: Rainbow Pawm Wood            ||             Index 42 at address 71A2D6B0F0 Value: 0
-Word: Suspicious Axe Bit            ||             Index 43 at address 71A2D6B1A0 Value: 0
-Word: Astra Cotton            ||             Index 44 at address 71A2D6B300 Value: 0
-Word: Quality Sootrock Coal            ||             Index 45 at address 71A2D6B3B0 Value: 0
-Word: Remulia Iron Ore            ||             Index 46 at address 71A2D6B460 Value: 0
-Word: Astra Shard Cluster            ||             Index 47 at address 71A2D6B5C0 Value: 0
-Word: Remulia Ore            ||             Index 48 at address 71A2D6B670 Value: 0
-Word: Astwuh Latex            ||             Index 49 at address 71A2D6B720 Value: 0
-Word: Smooth Astwuh Wood            ||             Index 50 at address 71A2D6B7D0 Value: 0
-Word: Tree SR Test            ||             Index 51 at address 71A2D6BA90 Value: 0
-Word: Bewitching Halo            ||             Index 52 at address 71A2D6BB40 Value: 0
-Word: Pawm Latex            ||             Index 53 at address 71A2D6BBF0 Value: 0
-Word: Rainbow Petal            ||             Index 54 at address 71A2D6BCA0 Value: 0
-Word: Remulia Amberine            ||             Index 55 at address 71A2D6BE00 Value: 0
-Word: Astra Hemp            ||             Index 56 at address 71A2D6BF60 Value: 0
-Word: Remulia Rainbow Ore            ||             Index 57 at address 71A2D6C170 Value: 0
-Word: Vell Iron            ||             Index 58 at address 71A2D6C2D0 Value: 0
-Word: Yellow Petal            ||             Index 59 at address 71A2D6C380 Value: 0
-Word: Soft Pawm Wood            ||             Index 60 at address 71A2D6C640 Value: 0
-Word: Astra Resin            ||             Index 61 at address 71A2D6C7A0 Value: 0
-Word: Remulia Resin            ||             Index 62 at address 71A2D6CD20 Value: 0
-Word: Pawm Bark            ||             Index 63 at address 71A2D6D350 Value: 0
-Word: Remulia Pyroxene            ||             Index 64 at address 71A2D6DE50 Value: 0
-Word: Strong Vine            ||             Index 65 at address 71A2D848A0 Value: 0
-Found value within range at address: 71638EBC8C, Value: 2078000311, Initial Address: 71A2A1CE00, Index: 1
-Found value within range at address: 71638EAECC, Value: 2078000204, Initial Address: 71A2D27C50, Index: 2
-Found value within range at address: 71638EABAC, Value: 2078000208, Initial Address: 71A2D285F0, Index: 3
-Found value within range at address: 71638EAB0C, Value: 2078000104, Initial Address: 71A2D28800, Index: 4
-Found value within range at address: 71638EACEC, Value: 2078000210, Initial Address: 71A2D28960, Index: 5
-Found value within range at address: 71638EA3DC, Value: 2078000203, Initial Address: 71A2D28A10, Index: 6
-Found value within range at address: 71638EA8DC, Value: 2078000111, Initial Address: 71A2D28CD0, Index: 7
-Found value within range at address: 71638EB87C, Value: 2078000307, Initial Address: 71A2D28D80, Index: 8
-Found value within range at address: 71638EAE2C, Value: 2078000206, Initial Address: 71A2D28EE0, Index: 9
-Found value within range at address: 71638EB2DC, Value: 2078000209, Initial Address: 71A2D29250, Index: 10
-Found value within range at address: 71638E952C, Value: 2078000002, Initial Address: 71A2D62FB0, Index: 11
-Found value within range at address: 71638EA79C, Value: 2078000015, Initial Address: 71A2D63F80, Index: 12
-Found value within range at address: 71638EA83C, Value: 2078000110, Initial Address: 71A2D65370, Index: 13
-Found value within range at address: 71638EB0AC, Value: 2078000004, Initial Address: 71A2D66B80, Index: 14
-Found value within range at address: 71638EA9CC, Value: 2078000207, Initial Address: 71A2D67890, Index: 15
-Found value within range at address: 71638EB28C, Value: 2078000211, Initial Address: 71A2D67B50, Index: 16
-Found value within range at address: 71638EAA6C, Value: 2078000113, Initial Address: 71A2D67D60, Index: 17
-Found value within range at address: 71638EABFC, Value: 2078000007, Initial Address: 71A2D68230, Index: 18
-Found value within range at address: 71638EA51C, Value: 2078000008, Initial Address: 71A2D68440, Index: 19
-Found value within range at address: 71638EAFBC, Value: 2078000014, Initial Address: 71A2D68650, Index: 20
-Found value within range at address: 71638EBB9C, Value: 2078000310, Initial Address: 71A2D68A70, Index: 21
-Found value within range at address: 71638EA92C, Value: 2078000302, Initial Address: 71A2D68B20, Index: 22
-Found value within range at address: 71638EAF6C, Value: 2078000009, Initial Address: 71A2D694C0, Index: 23
-Found value within range at address: 71638EADDC, Value: 2078000013, Initial Address: 71A2D69830, Index: 24
-Found value within range at address: 71638EAC9C, Value: 2078000301, Initial Address: 71A2D69990, Index: 25
-Found value within range at address: 71638EA97C, Value: 2078000201, Initial Address: 71A2D69A40, Index: 26
-Found value within range at address: 71638E984C, Value: 2078000001, Initial Address: 71A2D69C50, Index: 27
-Found value within range at address: 71638EA6AC, Value: 2078000205, Initial Address: 71A2D69D00, Index: 28
-Found value within range at address: 71638EA88C, Value: 2078000213, Initial Address: 71A2D69FC0, Index: 29
-Found value within range at address: 71638EB14C, Value: 2078000106, Initial Address: 71A2D6A1D0, Index: 30
-Found value within range at address: 71638EBEBC, Value: 2078000902, Initial Address: 71A2D6A330, Index: 31
-Found value within range at address: 71638EC0EC, Value: 2078000305, Initial Address: 71A2D6A490, Index: 32
-Found value within range at address: 71638EB50C, Value: 2078000900, Initial Address: 71A2D6A540, Index: 33
-Found value within range at address: 71638EB73C, Value: 2078000306, Initial Address: 71A2D6A6A0, Index: 34
-Found value within range at address: 71638EA74C, Value: 2078000011, Initial Address: 71A2D6A750, Index: 35
-Found value within range at address: 71638EB55C, Value: 2078000309, Initial Address: 71A2D6A800, Index: 36
-Found value within range at address: 71638EAC4C, Value: 2078000102, Initial Address: 71A2D6AAC0, Index: 37
-Found value within range at address: 71638EB00C, Value: 2078000304, Initial Address: 71A2D6AB70, Index: 38
-Found value within range at address: 71638EB23C, Value: 2078000101, Initial Address: 71A2D6AC20, Index: 39
-Found value within range at address: 71638EAE7C, Value: 2078000005, Initial Address: 71A2D6AEE0, Index: 40
-Found value within range at address: 71638EA65C, Value: 2078000303, Initial Address: 71A2D6AF90, Index: 41
-Found value within range at address: 71638EB05C, Value: 2078000114, Initial Address: 71A2D6B0F0, Index: 42
-Found value within range at address: 71638EB8CC, Value: 2078000312, Initial Address: 71A2D6B1A0, Index: 43
-Found value within range at address: 71638EAABC, Value: 2078000003, Initial Address: 71A2D6B300, Index: 44
-Found value within range at address: 71638EAA1C, Value: 2078000214, Initial Address: 71A2D6B3B0, Index: 45
-Found value within range at address: 71638EA5BC, Value: 2078000215, Initial Address: 71A2D6B460, Index: 46
-Found value within range at address: 71638EA56C, Value: 2078000006, Initial Address: 71A2D6B5C0, Index: 47
-Found value within range at address: 71638EA7EC, Value: 2078000212, Initial Address: 71A2D6B670, Index: 48
-Found value within range at address: 71638EA6FC, Value: 2078000107, Initial Address: 71A2D6B720, Index: 49
-Found value within range at address: 71638EB1EC, Value: 2078000103, Initial Address: 71A2D6B7D0, Index: 50
-Found value within range at address: 71638EBC3C, Value: 2078000901, Initial Address: 71A2D6BA90, Index: 51
-Found value within range at address: 71638EC2CC, Value: 2078000308, Initial Address: 71A2D6BB40, Index: 52
-Found value within range at address: 71638EB32C, Value: 2078000112, Initial Address: 71A2D6BBF0, Index: 53
-Found value within range at address: 71638EB37C, Value: 2078000017, Initial Address: 71A2D6BCA0, Index: 54
-Found value within range at address: 71638EAD8C, Value: 2078000018, Initial Address: 71A2D6BE00, Index: 55
-Found value within range at address: 71638EAD3C, Value: 2078000012, Initial Address: 71A2D6BF60, Index: 56
-Found value within range at address: 71638EA4CC, Value: 2078000216, Initial Address: 71A2D6C170, Index: 57
-Found value within range at address: 71638EB19C, Value: 2078000202, Initial Address: 71A2D6C2D0, Index: 58
-Found value within range at address: 71638EA38C, Value: 2078000016, Initial Address: 71A2D6C380, Index: 59
-Found value within range at address: 71638EAF1C, Value: 2078000109, Initial Address: 71A2D6C640, Index: 60
-Found value within range at address: 71638EA47C, Value: 2078000105, Initial Address: 71A2D6C7A0, Index: 61
-Found value within range at address: 71638EAB5C, Value: 2078000115, Initial Address: 71A2D6CD20, Index: 62
-Found value within range at address: 71638EA42C, Value: 2078000108, Initial Address: 71A2D6D350, Index: 63
-Found value within range at address: 71638EB0FC, Value: 2078000217, Initial Address: 71A2D6DE50, Index: 64
-Found value within range at address: 71638EA60C, Value: 2078000010, Initial Address: 71A2D848A0, Index: 65
+Found value within range at address: 7C407A320C, Value: 2076000004, Initial Address: 7C7FC59F30, Index: 1
+Found value within range at address: 7C407A343C, Value: 2076000005, Initial Address: 7C7FC59FE0, Index: 2
+Found value within range at address: 7C407A339C, Value: 2076000006, Initial Address: 7C7FC5A560, Index: 3
+Found value within range at address: 7C407A32FC, Value: 2076000009, Initial Address: 7C7FC5A770, Index: 4
+Found value within range at address: 7C407A33EC, Value: 2076000002, Initial Address: 7C7FC5ADA0, Index: 5
+Found value within range at address: 7C407A316C, Value: 2076000008, Initial Address: 7C7FC5AE50, Index: 6
+Found value within range at address: 7C407A31BC, Value: 2076000003, Initial Address: 7C7FC5AFB0, Index: 7
+Found value within range at address: 7C407A3CAC, Value: 2076000010, Initial Address: 7C7FC5B7F0, Index: 8
+Found value within range at address: 7C407A370C, Value: 2076000001, Initial Address: 7C7FC5C190, Index: 9
+Found value within range at address: 7C407A393C, Value: 2076000007, Initial Address: 7C7FC5EFA0, Index: 10
+Word: Ivorine Asterorb            ||             Index 1 at address 7C7FC59F30 Value: 0
+Word: Verdigris Asterorb            ||             Index 2 at address 7C7FC59FE0 Value: 0
+Word: Rottenyx Asterorb            ||             Index 3 at address 7C7FC5A560 Value: 0
+Word: Onyxia Asterorb            ||             Index 4 at address 7C7FC5A770 Value: 0
+Word: Cornelian Asterorb            ||             Index 5 at address 7C7FC5ADA0 Value: 0
+Word: Alabastro Asterorb            ||             Index 6 at address 7C7FC5AE50 Value: 0
+Word: Albali Asterorb            ||             Index 7 at address 7C7FC5AFB0 Value: 0
+Word: Amberoc Asterorb            ||             Index 8 at address 7C7FC5B7F0 Value: 0
+Word: Moon Asterorb            ||             Index 9 at address 7C7FC5C190 Value: 0
+Word: Capelliter Asterob            ||             Index 10 at address 7C7FC5EFA0 Value: 0

@@ -1,65 +1,10 @@
-Suspicious Shard::2078000311
-Astra Iron Ore::2078000204
-Mystical Stone::2078000208
-Astwuh Bark::2078000104
-Marbled Sootrock::2078000210
-Astra Ore::2078000203
-Smooth Pawm Wood::2078000111
-Blinding Halo::2078000307
-Marbled Coal::2078000206
-Astra Shard Cluster::2078000209
-Flower Petal::2078000002
-Black Petal::2078000015
-Hard Pawm Wood::2078000110
-Geolas Bloom::2078000004
-Quality Marbled Coal::2078000207
-Sootrock Coal::2078000211
-Pawm Heartwood::2078000113
-Red Petal::2078000007
-Blue Petal::2078000008
-White Petal::2078000014
-Selenite Cluster::2078000310
-Azeztsalite Cluster::2078000302
-Green Petal::2078000009
-Yasmin Flower::2078000013
-Azeztsalite Fragment::2078000301
-Marbled Quartz::2078000201
-Sturdy Vine::2078000001
-Astra Pyroxene::2078000205
-Volgar Iron::2078000213
-Astra Shard Cluster::2078000106
-Quarry SR Test::2078000902
-Fibrous Scale::2078000305
-Plant SR Test::2078000900
-Nice Fibrous Scale::2078000306
-Lustrous Petal::2078000011
-Selenite Fragment::2078000309
-Hard Astwuh Wood::2078000102
-Pristine Fangclaw::2078000304
-Soft Astwuh Wood::2078000101
-Astra Amberine::2078000005
-Cracked Fangclaw::2078000303
-Rainbow Pawm Wood::2078000114
-Suspicious Axe Bit::2078000312
-Astra Cotton::2078000003
-Quality Sootrock Coal::2078000214
-Remulia Iron Ore::2078000215
-Astra Shard Cluster::2078000006
-Remulia Ore::2078000212
-Astwuh Latex::2078000107
-Smooth Astwuh Wood::2078000103
-Tree SR Test::2078000901
-Bewitching Halo::2078000308
-Pawm Latex::2078000112
-Rainbow Petal::2078000017
-Remulia Amberine::2078000018
-Astra Hemp::2078000012
-Remulia Rainbow Ore::2078000216
-Vell Iron::2078000202
-Yellow Petal::2078000016
-Soft Pawm Wood::2078000109
-Astra Resin::2078000105
-Remulia Resin::2078000115
-Pawm Bark::2078000108
-Remulia Pyroxene::2078000217
-Strong Vine::2078000010
+Ivorine Asterorb::2076000004
+Verdigris Asterorb::2076000005
+Rottenyx Asterorb::2076000006
+Onyxia Asterorb::2076000009
+Cornelian Asterorb::2076000002
+Alabastro Asterorb::2076000008
+Albali Asterorb::2076000003
+Amberoc Asterorb::2076000010
+Moon Asterorb::2076000001
+Capelliter Asterob::2076000007
