@@ -1,302 +1,130 @@
-Found value within range at address: 71638E87BC, Value: 2061007011, Initial Address: 71A2D658F0, Index: 1
-Found value within range at address: 71638E8CBC, Value: 2061007014, Initial Address: 71A2D675D0, Index: 2
-Found value within range at address: 71638E9EDC, Value: 2061008009, Initial Address: 71A2D68700, Index: 3
-Found value within range at address: 71638E821C, Value: 2061004010, Initial Address: 71A2D69AF0, Index: 4
-Found value within range at address: 71638E943C, Value: 2061008010, Initial Address: 71A2D69BA0, Index: 5
-Found value within range at address: 71638E92FC, Value: 2061007008, Initial Address: 71A2D69F10, Index: 6
-Found value within range at address: 71638E95CC, Value: 2061008007, Initial Address: 71A2D6A070, Index: 7
-Found value within range at address: 71638E9A2C, Value: 2061008002, Initial Address: 71A2D6A280, Index: 8
-Found value within range at address: 71638E880C, Value: 2061007001, Initial Address: 71A2D6A3E0, Index: 9
-Found value within range at address: 71638E961C, Value: 2061008001, Initial Address: 71A2D6A8B0, Index: 10
-Found value within range at address: 71638E9ACC, Value: 2061008006, Initial Address: 71A2D6AD80, Index: 11
-Found value within range at address: 71638E853C, Value: 2061006011, Initial Address: 71A2D6C010, Index: 12
-Found value within range at address: 71638E781C, Value: 2061004005, Initial Address: 71A2D6C0C0, Index: 13
-Found value within range at address: 71638E9C5C, Value: 2061008003, Initial Address: 71A2D6C430, Index: 14
-Found value within range at address: 71638E939C, Value: 2061008008, Initial Address: 71A2D6C4E0, Index: 15
-Found value within range at address: 71638E8B7C, Value: 2061006015, Initial Address: 71A2D6C900, Index: 16
-Found value within range at address: 71638E8E9C, Value: 2061007002, Initial Address: 71A2D6C9B0, Index: 17
-Found value within range at address: 71638E83AC, Value: 2061007007, Initial Address: 71A2D6CBC0, Index: 18
-Found value within range at address: 71638E85DC, Value: 2061007003, Initial Address: 71A2D6CDD0, Index: 19
-Found value within range at address: 71638E83FC, Value: 2061006013, Initial Address: 71A2D6CE80, Index: 20
-Found value within range at address: 71638E867C, Value: 2061007009, Initial Address: 71A2D6CF30, Index: 21
-Found value within range at address: 71638E920C, Value: 2061007019, Initial Address: 71A2D6CFE0, Index: 22
-Found value within range at address: 71638E91BC, Value: 2061006008, Initial Address: 71A2D6D090, Index: 23
-Found value within range at address: 71638E8A3C, Value: 2061007010, Initial Address: 71A2D6D400, Index: 24
-Found value within range at address: 71638E82BC, Value: 2061004007, Initial Address: 71A2D6D560, Index: 25
-Found value within range at address: 71638E8FDC, Value: 2061007020, Initial Address: 71A2D6D6C0, Index: 26
-Found value within range at address: 71638E8BCC, Value: 2061007015, Initial Address: 71A2D6D770, Index: 27
-Found value within range at address: 71638E911C, Value: 2061007005, Initial Address: 71A2D6D820, Index: 28
-Found value within range at address: 71638E902C, Value: 2061006007, Initial Address: 71A2D6DA30, Index: 29
-Found value within range at address: 71638E84EC, Value: 2061006018, Initial Address: 71A2D6DCF0, Index: 30
-Found value within range at address: 71638E6DCC, Value: 2061002003, Initial Address: 71A2D6DDA0, Index: 31
-Found value within range at address: 71638E8F8C, Value: 2061006019, Initial Address: 71A2D6DF00, Index: 32
-Found value within range at address: 71638E8C1C, Value: 2061007017, Initial Address: 71A2D6DFB0, Index: 33
-Found value within range at address: 71638E885C, Value: 2061007013, Initial Address: 71A2D6E060, Index: 34
-Found value within range at address: 71638E9CAC, Value: 2061008004, Initial Address: 71A2D6E110, Index: 35
-Found value within range at address: 71638E849C, Value: 2061005018, Initial Address: 71A2D6E270, Index: 36
-Found value within range at address: 71638E76DC, Value: 2061003015, Initial Address: 71A2D6E3D0, Index: 37
-Found value within range at address: 71638E844C, Value: 2061005015, Initial Address: 71A2D6E480, Index: 38
-Found value within range at address: 71638E8D5C, Value: 2061005020, Initial Address: 71A2D6E5E0, Index: 39
-Found value within range at address: 71638E916C, Value: 2061006006, Initial Address: 71A2D6E690, Index: 40
-Found value within range at address: 71638E88AC, Value: 2061007018, Initial Address: 71A2D6E740, Index: 41
-Found value within range at address: 71638E7B3C, Value: 2061004008, Initial Address: 71A2D6E7F0, Index: 42
-Found value within range at address: 71638E8B2C, Value: 2061007006, Initial Address: 71A2D6E8A0, Index: 43
-Found value within range at address: 71638E862C, Value: 2061006001, Initial Address: 71A2D6EA00, Index: 44
-Found value within range at address: 71638E808C, Value: 2061004006, Initial Address: 71A2D6EAB0, Index: 45
-Found value within range at address: 71638E92AC, Value: 2061006017, Initial Address: 71A2D6EC10, Index: 46
-Found value within range at address: 71638E8D0C, Value: 2061006004, Initial Address: 71A2D6ECC0, Index: 47
-Found value within range at address: 71638E86CC, Value: 2061006005, Initial Address: 71A2D6ED70, Index: 48
-Found value within range at address: 71638E6E1C, Value: 2061001003, Initial Address: 71A2D6EE20, Index: 49
-Found value within range at address: 71638E88FC, Value: 2061006010, Initial Address: 71A2D6EF80, Index: 50
-Found value within range at address: 71638E6F0C, Value: 2061000001, Initial Address: 71A2D6F0E0, Index: 51
-Found value within range at address: 71638E8F3C, Value: 2061007012, Initial Address: 71A2D6F190, Index: 52
-Found value within range at address: 71638E8ADC, Value: 2061006020, Initial Address: 71A2D6F240, Index: 53
-Found value within range at address: 71638E75EC, Value: 2061004019, Initial Address: 71A2D6F2F0, Index: 54
-Found value within range at address: 71638E8EEC, Value: 2061007004, Initial Address: 71A2D6F450, Index: 55
-Found value within range at address: 71638E90CC, Value: 2061006002, Initial Address: 71A2D6F500, Index: 56
-Found value within range at address: 71638E646C, Value: 2061001009, Initial Address: 71A2D6F660, Index: 57
-Found value within range at address: 71638E7FEC, Value: 2061004013, Initial Address: 71A2D6F710, Index: 58
-Found value within range at address: 71638E871C, Value: 2061006014, Initial Address: 71A2D6F870, Index: 59
-Found value within range at address: 71638E67DC, Value: 2061001008, Initial Address: 71A2D6F920, Index: 60
-Found value within range at address: 71638E74AC, Value: 2061005005, Initial Address: 71A2D6F9D0, Index: 61
-Found value within range at address: 71638E7C7C, Value: 2061004020, Initial Address: 71A2D6FA80, Index: 62
-Found value within range at address: 71638E71DC, Value: 2061001020, Initial Address: 71A2D6FB30, Index: 63
-Found value within range at address: 71638E8A8C, Value: 2061007016, Initial Address: 71A2D6FD40, Index: 64
-Found value within range at address: 71638E7BDC, Value: 2061004002, Initial Address: 71A2D6FDF0, Index: 65
-Found value within range at address: 71638E835C, Value: 2061006003, Initial Address: 71A2D6FEA0, Index: 66
-Found value within range at address: 71638E925C, Value: 2061005019, Initial Address: 71A2D6FF50, Index: 67
-Found value within range at address: 71638E759C, Value: 2061003004, Initial Address: 71A2D70000, Index: 68
-Found value within range at address: 71638E6D2C, Value: 2061002011, Initial Address: 71A2D700B0, Index: 69
-Found value within range at address: 71638E664C, Value: 2061002004, Initial Address: 71A2D70210, Index: 70
-Found value within range at address: 71638E8DFC, Value: 2061006012, Initial Address: 71A2D702C0, Index: 71
-Found value within range at address: 71638E8DAC, Value: 2061005011, Initial Address: 71A2D70420, Index: 72
-Found value within range at address: 71638E98EC, Value: 2061008005, Initial Address: 71A2D704D0, Index: 73
-Found value within range at address: 71638E876C, Value: 2061006016, Initial Address: 71A2D70580, Index: 74
-Found value within range at address: 71638E7D6C, Value: 2061003014, Initial Address: 71A2D70630, Index: 75
-Found value within range at address: 71638E74FC, Value: 2061003013, Initial Address: 71A2D706E0, Index: 76
-Found value within range at address: 71638E79FC, Value: 2061003007, Initial Address: 71A2D70840, Index: 77
-Found value within range at address: 71638E650C, Value: 2061001007, Initial Address: 71A2D708F0, Index: 78
-Found value within range at address: 71638E6BEC, Value: 2061002007, Initial Address: 71A2D709A0, Index: 79
-Found value within range at address: 71638E786C, Value: 2061003020, Initial Address: 71A2D70A50, Index: 80
-Found value within range at address: 71638E678C, Value: 2061002010, Initial Address: 71A2D70B00, Index: 81
-Found value within range at address: 71638E637C, Value: 2061001001, Initial Address: 71A2D70C60, Index: 82
-Found value within range at address: 71638E7B8C, Value: 2061004014, Initial Address: 71A2D70D10, Index: 83
-Found value within range at address: 71638E78BC, Value: 2061003010, Initial Address: 71A2D70DC0, Index: 84
-Found value within range at address: 71638E745C, Value: 2061005006, Initial Address: 71A2D70F20, Index: 85
-Found value within range at address: 71638E63CC, Value: 2061001010, Initial Address: 71A2D71080, Index: 86
-Found value within range at address: 71638E7EAC, Value: 2061005002, Initial Address: 71A2D71130, Index: 87
-Found value within range at address: 71638E772C, Value: 2061003011, Initial Address: 71A2D711E0, Index: 88
-Found value within range at address: 71638E7AEC, Value: 2061003002, Initial Address: 71A2D71340, Index: 89
-Found value within range at address: 71638E691C, Value: 2061001012, Initial Address: 71A2D713F0, Index: 90
-Found value within range at address: 71638E7CCC, Value: 2061004016, Initial Address: 71A2D714A0, Index: 91
-Found value within range at address: 71638E7A9C, Value: 2061004017, Initial Address: 71A2D71550, Index: 92
-Found value within range at address: 71638E763C, Value: 2061003016, Initial Address: 71A2D716B0, Index: 93
-Found value within range at address: 71638E6D7C, Value: 2061001017, Initial Address: 71A2D71760, Index: 94
-Found value within range at address: 71638E736C, Value: 2061004009, Initial Address: 71A2D71810, Index: 95
-Found value within range at address: 71638E7A4C, Value: 2061003008, Initial Address: 71A2D71970, Index: 96
-Found value within range at address: 71638E8C6C, Value: 2061005016, Initial Address: 71A2D71AD0, Index: 97
-Found value within range at address: 71638E62DC, Value: 2061002013, Initial Address: 71A2D71B80, Index: 98
-Found value within range at address: 71638E79AC, Value: 2061003001, Initial Address: 71A2D71C30, Index: 99
-Found value within range at address: 71638E64BC, Value: 2061001002, Initial Address: 71A2D71CE0, Index: 100
-Found value within range at address: 71638E812C, Value: 2061003005, Initial Address: 71A2D71E40, Index: 101
-Found value within range at address: 71638E7F4C, Value: 2061002020, Initial Address: 71A2D71EF0, Index: 102
-Found value within range at address: 71638E817C, Value: 2061004004, Initial Address: 71A2D71FA0, Index: 103
-Found value within range at address: 71638E6CDC, Value: 2061002002, Initial Address: 71A2D72100, Index: 104
-Found value within range at address: 71638E81CC, Value: 2061003019, Initial Address: 71A2D721B0, Index: 105
-Found value within range at address: 71638E7E5C, Value: 2061004011, Initial Address: 71A2D72310, Index: 106
-Found value within range at address: 71638E7DBC, Value: 2061003003, Initial Address: 71A2D725D0, Index: 107
-Found value within range at address: 71638E754C, Value: 2061002017, Initial Address: 71A2D72890, Index: 108
-Found value within range at address: 71638E682C, Value: 2061002015, Initial Address: 71A2D729F0, Index: 109
-Found value within range at address: 71638E907C, Value: 2061005012, Initial Address: 71A2D72AA0, Index: 110
-Found value within range at address: 71638E70EC, Value: 2061001004, Initial Address: 71A2D72C00, Index: 111
-Found value within range at address: 71638E6AFC, Value: 2061001019, Initial Address: 71A2D72EC0, Index: 112
-Found value within range at address: 71638E7EFC, Value: 2061004003, Initial Address: 71A2D72F70, Index: 113
-Found value within range at address: 71638E722C, Value: 2061001016, Initial Address: 71A2D730D0, Index: 114
-Found value within range at address: 71638E72CC, Value: 2061002019, Initial Address: 71A2D73180, Index: 115
-Found value within range at address: 71638E669C, Value: 2061002016, Initial Address: 71A2D73230, Index: 116
-Found value within range at address: 71638E696C, Value: 2061002006, Initial Address: 71A2D73440, Index: 117
-Found value within range at address: 71638E713C, Value: 2061002001, Initial Address: 71A2D735A0, Index: 118
-Found value within range at address: 71638E858C, Value: 2061005013, Initial Address: 71A2D737B0, Index: 119
-Found value within range at address: 71638E80DC, Value: 2061005001, Initial Address: 71A2D73860, Index: 120
-Found value within range at address: 71638E68CC, Value: 2061001005, Initial Address: 71A2D73A70, Index: 121
-Found value within range at address: 71638E795C, Value: 2061004015, Initial Address: 71A2D73BD0, Index: 122
-Found value within range at address: 71638E6EBC, Value: 2061001014, Initial Address: 71A2D73C80, Index: 123
-Found value within range at address: 71638E7C2C, Value: 2061003009, Initial Address: 71A2D73DE0, Index: 124
-Found value within range at address: 71638E7E0C, Value: 2061003012, Initial Address: 71A2D73E90, Index: 125
-Found value within range at address: 71638E740C, Value: 2061005003, Initial Address: 71A2D73F40, Index: 126
-Found value within range at address: 71638E8E4C, Value: 2061006009, Initial Address: 71A2D740A0, Index: 127
-Found value within range at address: 71638E768C, Value: 2061002018, Initial Address: 71A2D74150, Index: 128
-Found value within range at address: 71638E899C, Value: 2061005009, Initial Address: 71A2D74200, Index: 129
-Found value within range at address: 71638E655C, Value: 2061001018, Initial Address: 71A2D74360, Index: 130
-Found value within range at address: 71638E7D1C, Value: 2061003018, Initial Address: 71A2D74570, Index: 131
-Found value within range at address: 71638E704C, Value: 2061001013, Initial Address: 71A2D74620, Index: 132
-Found value within range at address: 71638E6B4C, Value: 2061001015, Initial Address: 71A2D746D0, Index: 133
-Found value within range at address: 71638E73BC, Value: 2061003006, Initial Address: 71A2D74830, Index: 134
-Found value within range at address: 71638E709C, Value: 2061002012, Initial Address: 71A2D74AF0, Index: 135
-Found value within range at address: 71638E6AAC, Value: 2061002005, Initial Address: 71A2D74BA0, Index: 136
-Found value within range at address: 71638E6B9C, Value: 2061002008, Initial Address: 71A2D74C50, Index: 137
-Found value within range at address: 71638E777C, Value: 2061005007, Initial Address: 71A2D75120, Index: 138
-Found value within range at address: 71638E7F9C, Value: 2061004001, Initial Address: 71A2D751D0, Index: 139
-Found value within range at address: 71638E673C, Value: 2061001011, Initial Address: 71A2D75280, Index: 140
-Found value within range at address: 71638E790C, Value: 2061003017, Initial Address: 71A2D75490, Index: 141
-Found value within range at address: 71638E894C, Value: 2061005014, Initial Address: 71A2D76040, Index: 142
-Found value within range at address: 71638E826C, Value: 2061005008, Initial Address: 71A2D76250, Index: 143
-Found value within range at address: 71638E6C8C, Value: 2061002009, Initial Address: 71A2D76E00, Index: 144
-Found value within range at address: 71638E65AC, Value: 2061001006, Initial Address: 71A2D76F60, Index: 145
-Found value within range at address: 71638E803C, Value: 2061004018, Initial Address: 71A2D77010, Index: 146
-Found value within range at address: 71638E77CC, Value: 2061005004, Initial Address: 71A2D777A0, Index: 147
-Found value within range at address: 71638E6FFC, Value: 2061002014, Initial Address: 71A2D77D20, Index: 148
-Found value within range at address: 71638E89EC, Value: 2061005010, Initial Address: 71A2D795E0, Index: 149
-Found value within range at address: 71638E731C, Value: 2061004012, Initial Address: 71A2D7B000, Index: 150
-Found value within range at address: 71638E830C, Value: 2061005017, Initial Address: 71A2D84110, Index: 151
-Word: PWR +10            ||             Index 1 at address 71A2D658F0 Value: 3
-Word: HP +300            ||             Index 2 at address 71A2D675D0 Value: 0
-Word: SPD +10            ||             Index 3 at address 71A2D68700 Value: 0
-Word: INT +15            ||             Index 4 at address 71A2D69AF0 Value: 1
-Word: Individual EXP +20%            ||             Index 5 at address 71A2D69BA0 Value: 0
-Word: SPD +15            ||             Index 6 at address 71A2D69F10 Value: 0
-Word: SPD +10            ||             Index 7 at address 71A2D6A070 Value: 0
-Word: INT +20            ||             Index 8 at address 71A2D6A280 Value: 0
-Word: PWR +20            ||             Index 9 at address 71A2D6A3E0 Value: 0
-Word: PWR +20            ||             Index 10 at address 71A2D6A8B0 Value: 0
-Word: INT +20            ||             Index 11 at address 71A2D6AD80 Value: 0
-Word: HP Debuff Resistance +75%            ||             Index 12 at address 71A2D6C010 Value: 1
-Word: INT +20            ||             Index 13 at address 71A2D6C0C0 Value: 0
-Word: PWR +20            ||             Index 14 at address 71A2D6C430 Value: 0
-Word: SPD +10            ||             Index 15 at address 71A2D6C4E0 Value: 0
-Word: INT +10            ||             Index 16 at address 71A2D6C900 Value: 2
-Word: INT +20            ||             Index 17 at address 71A2D6C9B0 Value: 0
-Word: INT +15            ||             Index 18 at address 71A2D6CBC0 Value: 0
-Word: SPD +20            ||             Index 19 at address 71A2D6CDD0 Value: 0
-Word: SPD Debuff Resistance +75%            ||             Index 20 at address 71A2D6CE80 Value: 0
-Word: HP +400            ||             Index 21 at address 71A2D6CF30 Value: 2
-Word: Individual EXP +30%            ||             Index 22 at address 71A2D6CFE0 Value: 0
-Word: SPD Debuff Resistance +90%            ||             Index 23 at address 71A2D6D090 Value: 2
-Word: MP +30            ||             Index 24 at address 71A2D6D400 Value: 0
-Word: MP Debuff Resistance +90%            ||             Index 25 at address 71A2D6D560 Value: 0
-Word: Obtained Git+            ||             Index 26 at address 71A2D6D6C0 Value: 1
-Word: MP +20            ||             Index 27 at address 71A2D6D770 Value: 0
-Word: MP +50            ||             Index 28 at address 71A2D6D820 Value: 0
-Word: MP Debuff Resistance +90%            ||             Index 29 at address 71A2D6DA30 Value: 1
-Word: Bind Resistance +100%            ||             Index 30 at address 71A2D6DCF0 Value: 1
-Word: HP +2,000            ||             Index 31 at address 71A2D6DDA0 Value: 0
-Word: Rage Resistance +100%            ||             Index 32 at address 71A2D6DF00 Value: 0
-Word: LCK +20            ||             Index 33 at address 71A2D6DFB0 Value: 0
-Word: SPD +10            ||             Index 34 at address 71A2D6E060 Value: 0
-Word: INT +20            ||             Index 35 at address 71A2D6E110 Value: 0
-Word: Poison Resistance +100%            ||             Index 36 at address 71A2D6E270 Value: 1
-Word: MP Consumption -15%            ||             Index 37 at address 71A2D6E3D0 Value: 0
-Word: INT +10            ||             Index 38 at address 71A2D6E480 Value: 0
-Word: Restore Skill Effect+            ||             Index 39 at address 71A2D6E5E0 Value: 1
-Word: HP Debuff Resistance +90%            ||             Index 40 at address 71A2D6E690 Value: 0
-Word: SPR +20            ||             Index 41 at address 71A2D6E740 Value: 4
-Word: PWR/INT Debuff Resistance +90%            ||             Index 42 at address 71A2D6E7F0 Value: 0
-Word: PWR +15            ||             Index 43 at address 71A2D6E8A0 Value: 0
-Word: HP Debuff Resistance +100%            ||             Index 44 at address 71A2D6EA00 Value: 1
-Word: HP Debuff Resistance +90%            ||             Index 45 at address 71A2D6EAB0 Value: 0
-Word: Non-type Attack +10%            ||             Index 46 at address 71A2D6EC10 Value: 1
-Word: PWR +20            ||             Index 47 at address 71A2D6ECC0 Value: 0
-Word: INT +20            ||             Index 48 at address 71A2D6ED70 Value: 0
-Word: Magic Critical Rate +150%            ||             Index 49 at address 71A2D6EE20 Value: 0
-Word: INT +15            ||             Index 50 at address 71A2D6EF80 Value: 0
-Word: Reclaim Talegem            ||             Index 51 at address 71A2D6F0E0 Value: 2
-Word: INT +10            ||             Index 52 at address 71A2D6F190 Value: 0
-Word: When Reserve MP Restore +100%            ||             Index 53 at address 71A2D6F240 Value: 0
-Word: Magic Critical Rate +50%            ||             Index 54 at address 71A2D6F2F0 Value: 0
-Word: HP +500            ||             Index 55 at address 71A2D6F450 Value: 0
-Word: MP Debuff Resistance +100%            ||             Index 56 at address 71A2D6F500 Value: 0
-Word: MP +100            ||             Index 57 at address 71A2D6F660 Value: 0
-Word: PWR/INT Debuff Resistance +75%            ||             Index 58 at address 71A2D6F710 Value: 1
-Word: PWR +10            ||             Index 59 at address 71A2D6F870 Value: 0
-Word: Magic Critical Rate +100%            ||             Index 60 at address 71A2D6F920 Value: 0
-Word: INT +20            ||             Index 61 at address 71A2D6F9D0 Value: 0
-Word: Confusion Resistance +100%            ||             Index 62 at address 71A2D6FA80 Value: 2
-Word: Absorb Inflicted Dmg.            ||             Index 63 at address 71A2D6FB30 Value: 5
-Word: END +20            ||             Index 64 at address 71A2D6FD40 Value: 0
-Word: MP Debuff Resistance +100%            ||             Index 65 at address 71A2D6FDF0 Value: 0
-Word: SPD Debuff Resistance +100%            ||             Index 66 at address 71A2D6FEA0 Value: 0
-Word: Pain Resistance +100%            ||             Index 67 at address 71A2D6FF50 Value: 1
-Word: MP +150            ||             Index 68 at address 71A2D70000 Value: 0
-Word: Type Attack +20%            ||             Index 69 at address 71A2D700B0 Value: 4
-Word: Critical Rate +150%            ||             Index 70 at address 71A2D70210 Value: 1
-Word: MP Debuff Resistance +75%            ||             Index 71 at address 71A2D702C0 Value: 1
-Word: Physical Debuff Resistance +75%            ||             Index 72 at address 71A2D70420 Value: 1
-Word: PWR +20            ||             Index 73 at address 71A2D704D0 Value: 0
-Word: Type Attack +10%            ||             Index 74 at address 71A2D70580 Value: 0
-Word: MP +80            ||             Index 75 at address 71A2D70630 Value: 0
-Word: HP +1,000            ||             Index 76 at address 71A2D706E0 Value: 2
-Word: SPD +40            ||             Index 77 at address 71A2D70840 Value: 1
-Word: Critical Rate +100%            ||             Index 78 at address 71A2D708F0 Value: 0
-Word: SPD +40            ||             Index 79 at address 71A2D709A0 Value: 1
-Word: Reduce Type Res. on Attack            ||             Index 80 at address 71A2D70A50 Value: 3
-Word: Magic Critical Rate +100%            ||             Index 81 at address 71A2D70B00 Value: 0
-Word: Type Attack +50%            ||             Index 82 at address 71A2D70C60 Value: 0
-Word: PWR +10            ||             Index 83 at address 71A2D70D10 Value: 1
-Word: MP Consumption -20%            ||             Index 84 at address 71A2D70DC0 Value: 0
-Word: Physical Debuff Resistance +90%            ||             Index 85 at address 71A2D70F20 Value: 0
-Word: Continual MP Regen (20)            ||             Index 86 at address 71A2D71080 Value: 0
-Word: Magic Debuff Resistance +100%            ||             Index 87 at address 71A2D71130 Value: 0
-Word: Type Attack +20%            ||             Index 88 at address 71A2D711E0 Value: 1
-Word: SPD +50            ||             Index 89 at address 71A2D71340 Value: 0
-Word: Critical Rate +80%            ||             Index 90 at address 71A2D713F0 Value: 1
-Word: Type Attack +10%            ||             Index 91 at address 71A2D714A0 Value: 0
-Word: Non-type Attack +10%            ||             Index 92 at address 71A2D71550 Value: 1
-Word: Non-type Attack +50%            ||             Index 93 at address 71A2D716B0 Value: 0
-Word: Non-type Attack +50%            ||             Index 94 at address 71A2D71760 Value: 0
-Word: PWR +15            ||             Index 95 at address 71A2D71810 Value: 0
-Word: HP +1,500            ||             Index 96 at address 71A2D71970 Value: 0
-Word: Type Attack +10%            ||             Index 97 at address 71A2D71AD0 Value: 1
-Word: HP +1,000            ||             Index 98 at address 71A2D71B80 Value: 1
-Word: Type Attack +50%            ||             Index 99 at address 71A2D71C30 Value: 0
-Word: Critical Rate +150%            ||             Index 100 at address 71A2D71CE0 Value: 0
-Word: MP Consumption -30%            ||             Index 101 at address 71A2D71E40 Value: 0
-Word: Nine Lives            ||             Index 102 at address 71A2D71EF0 Value: 1
-Word: PWR +20            ||             Index 103 at address 71A2D71FA0 Value: 0
-Word: SPD +50            ||             Index 104 at address 71A2D72100 Value: 0
-Word: Reduce Mag. Res. on Attack            ||             Index 105 at address 71A2D721B0 Value: 0
-Word: HP Debuff Resistance +75%            ||             Index 106 at address 71A2D72310 Value: 1
-Word: HP +2,000            ||             Index 107 at address 71A2D725D0 Value: 0
-Word: PWR -25% on Attack            ||             Index 108 at address 71A2D72890 Value: 0
-Word: Magic Critical Rate +80%            ||             Index 109 at address 71A2D729F0 Value: 2
-Word: Magic Debuff Resistance +75%            ||             Index 110 at address 71A2D72AA0 Value: 2
-Word: MP +150            ||             Index 111 at address 71A2D72C00 Value: 0
-Word: Nine Lives            ||             Index 112 at address 71A2D72EC0 Value: 2
-Word: PWR/INT Debuff Resistance +100%            ||             Index 113 at address 71A2D72F70 Value: 0
-Word: Damage +30% When Max HP            ||             Index 114 at address 71A2D730D0 Value: 1
-Word: SPD -50% on Attack            ||             Index 115 at address 71A2D73180 Value: 0
-Word: Non-type Attack +50%            ||             Index 116 at address 71A2D73230 Value: 1
-Word: Type Attack +30%            ||             Index 117 at address 71A2D73440 Value: 0
-Word: Type Attack +50%            ||             Index 118 at address 71A2D735A0 Value: 0
-Word: Type Debuff Resistance +75%            ||             Index 119 at address 71A2D737B0 Value: 1
-Word: Physical Debuff Resistance +100%            ||             Index 120 at address 71A2D73860 Value: 1
-Word: Continual MP Regen (30)            ||             Index 121 at address 71A2D73A70 Value: 0
-Word: INT +10            ||             Index 122 at address 71A2D73BD0 Value: 1
-Word: MP +70            ||             Index 123 at address 71A2D73C80 Value: 0
-Word: MP +100            ||             Index 124 at address 71A2D73DE0 Value: 0
-Word: SPD +30            ||             Index 125 at address 71A2D73E90 Value: 2
-Word: Type Debuff Resistance +100%            ||             Index 126 at address 71A2D73F40 Value: 0
-Word: PWR +15            ||             Index 127 at address 71A2D740A0 Value: 1
-Word: INT -25% on Attack            ||             Index 128 at address 71A2D74150 Value: 0
-Word: PWR +15            ||             Index 129 at address 71A2D74200 Value: 1
-Word: Dmg. +50% when HP <= 50%            ||             Index 130 at address 71A2D74360 Value: 1
-Word: Reduce Phys. Res. on Attack            ||             Index 131 at address 71A2D74570 Value: 1
-Word: Magic Critical Rate +80%            ||             Index 132 at address 71A2D74620 Value: 0
-Word: Continual MP Regen (15)            ||             Index 133 at address 71A2D746D0 Value: 0
-Word: Type Attack +30%            ||             Index 134 at address 71A2D74830 Value: 0
-Word: SPD +30            ||             Index 135 at address 71A2D74AF0 Value: 0
-Word: Magic Critical Rate +150%            ||             Index 136 at address 71A2D74BA0 Value: 0
-Word: HP +1,500            ||             Index 137 at address 71A2D74C50 Value: 0
-Word: Magic Debuff Resistance +90%            ||             Index 138 at address 71A2D75120 Value: 1
-Word: HP Debuff Resistance +100%            ||             Index 139 at address 71A2D751D0 Value: 0
-Word: Type Attack +20%            ||             Index 140 at address 71A2D75280 Value: 0
-Word: Ambush Tactics            ||             Index 141 at address 71A2D75490 Value: 2
-Word: PWR +10            ||             Index 142 at address 71A2D76040 Value: 0
-Word: Type Debuff Resistance +90%            ||             Index 143 at address 71A2D76250 Value: 1
-Word: Critical Rate +100%            ||             Index 144 at address 71A2D76E00 Value: 0
-Word: Type Attack +30%            ||             Index 145 at address 71A2D76F60 Value: 0
-Word: Critical Rate +50%            ||             Index 146 at address 71A2D77010 Value: 1
-Word: PWR +20            ||             Index 147 at address 71A2D777A0 Value: 0
-Word: Critical Rate +80%            ||             Index 148 at address 71A2D77D20 Value: 1
-Word: INT +15            ||             Index 149 at address 71A2D795E0 Value: 0
-Word: MP Debuff Resistance +75%            ||             Index 150 at address 71A2D7B000 Value: 3
-Word: Non-type Attack +10%            ||             Index 151 at address 71A2D84110 Value: 1
+Word: Suspicious Shard            ||             Index 1 at address 71A2A1CE00 Value: 0
+Word: Astra Iron Ore            ||             Index 2 at address 71A2D27C50 Value: 0
+Word: Mystical Stone            ||             Index 3 at address 71A2D285F0 Value: 0
+Word: Astwuh Bark            ||             Index 4 at address 71A2D28800 Value: 0
+Word: Marbled Sootrock            ||             Index 5 at address 71A2D28960 Value: 0
+Word: Astra Ore            ||             Index 6 at address 71A2D28A10 Value: 0
+Word: Smooth Pawm Wood            ||             Index 7 at address 71A2D28CD0 Value: 0
+Word: Blinding Halo            ||             Index 8 at address 71A2D28D80 Value: 0
+Word: Marbled Coal            ||             Index 9 at address 71A2D28EE0 Value: 0
+Word: Astra Shard Cluster            ||             Index 10 at address 71A2D29250 Value: 0
+Word: Flower Petal            ||             Index 11 at address 71A2D62FB0 Value: 0
+Word: Black Petal            ||             Index 12 at address 71A2D63F80 Value: 0
+Word: Hard Pawm Wood            ||             Index 13 at address 71A2D65370 Value: 0
+Word: Geolas Bloom            ||             Index 14 at address 71A2D66B80 Value: 0
+Word: Quality Marbled Coal            ||             Index 15 at address 71A2D67890 Value: 0
+Word: Sootrock Coal            ||             Index 16 at address 71A2D67B50 Value: 0
+Word: Pawm Heartwood            ||             Index 17 at address 71A2D67D60 Value: 0
+Word: Red Petal            ||             Index 18 at address 71A2D68230 Value: 0
+Word: Blue Petal            ||             Index 19 at address 71A2D68440 Value: 0
+Word: White Petal            ||             Index 20 at address 71A2D68650 Value: 0
+Word: Selenite Cluster            ||             Index 21 at address 71A2D68A70 Value: 0
+Word: Azeztsalite Cluster            ||             Index 22 at address 71A2D68B20 Value: 0
+Word: Green Petal            ||             Index 23 at address 71A2D694C0 Value: 0
+Word: Yasmin Flower            ||             Index 24 at address 71A2D69830 Value: 0
+Word: Azeztsalite Fragment            ||             Index 25 at address 71A2D69990 Value: 0
+Word: Marbled Quartz            ||             Index 26 at address 71A2D69A40 Value: 0
+Word: Sturdy Vine            ||             Index 27 at address 71A2D69C50 Value: 0
+Word: Astra Pyroxene            ||             Index 28 at address 71A2D69D00 Value: 0
+Word: Volgar Iron            ||             Index 29 at address 71A2D69FC0 Value: 0
+Word: Astra Shard Cluster            ||             Index 30 at address 71A2D6A1D0 Value: 0
+Word: Quarry SR Test            ||             Index 31 at address 71A2D6A330 Value: 0
+Word: Fibrous Scale            ||             Index 32 at address 71A2D6A490 Value: 0
+Word: Plant SR Test            ||             Index 33 at address 71A2D6A540 Value: 0
+Word: Nice Fibrous Scale            ||             Index 34 at address 71A2D6A6A0 Value: 0
+Word: Lustrous Petal            ||             Index 35 at address 71A2D6A750 Value: 0
+Word: Selenite Fragment            ||             Index 36 at address 71A2D6A800 Value: 0
+Word: Hard Astwuh Wood            ||             Index 37 at address 71A2D6AAC0 Value: 0
+Word: Pristine Fangclaw            ||             Index 38 at address 71A2D6AB70 Value: 0
+Word: Soft Astwuh Wood            ||             Index 39 at address 71A2D6AC20 Value: 0
+Word: Astra Amberine            ||             Index 40 at address 71A2D6AEE0 Value: 0
+Word: Cracked Fangclaw            ||             Index 41 at address 71A2D6AF90 Value: 0
+Word: Rainbow Pawm Wood            ||             Index 42 at address 71A2D6B0F0 Value: 0
+Word: Suspicious Axe Bit            ||             Index 43 at address 71A2D6B1A0 Value: 0
+Word: Astra Cotton            ||             Index 44 at address 71A2D6B300 Value: 0
+Word: Quality Sootrock Coal            ||             Index 45 at address 71A2D6B3B0 Value: 0
+Word: Remulia Iron Ore            ||             Index 46 at address 71A2D6B460 Value: 0
+Word: Astra Shard Cluster            ||             Index 47 at address 71A2D6B5C0 Value: 0
+Word: Remulia Ore            ||             Index 48 at address 71A2D6B670 Value: 0
+Word: Astwuh Latex            ||             Index 49 at address 71A2D6B720 Value: 0
+Word: Smooth Astwuh Wood            ||             Index 50 at address 71A2D6B7D0 Value: 0
+Word: Tree SR Test            ||             Index 51 at address 71A2D6BA90 Value: 0
+Word: Bewitching Halo            ||             Index 52 at address 71A2D6BB40 Value: 0
+Word: Pawm Latex            ||             Index 53 at address 71A2D6BBF0 Value: 0
+Word: Rainbow Petal            ||             Index 54 at address 71A2D6BCA0 Value: 0
+Word: Remulia Amberine            ||             Index 55 at address 71A2D6BE00 Value: 0
+Word: Astra Hemp            ||             Index 56 at address 71A2D6BF60 Value: 0
+Word: Remulia Rainbow Ore            ||             Index 57 at address 71A2D6C170 Value: 0
+Word: Vell Iron            ||             Index 58 at address 71A2D6C2D0 Value: 0
+Word: Yellow Petal            ||             Index 59 at address 71A2D6C380 Value: 0
+Word: Soft Pawm Wood            ||             Index 60 at address 71A2D6C640 Value: 0
+Word: Astra Resin            ||             Index 61 at address 71A2D6C7A0 Value: 0
+Word: Remulia Resin            ||             Index 62 at address 71A2D6CD20 Value: 0
+Word: Pawm Bark            ||             Index 63 at address 71A2D6D350 Value: 0
+Word: Remulia Pyroxene            ||             Index 64 at address 71A2D6DE50 Value: 0
+Word: Strong Vine            ||             Index 65 at address 71A2D848A0 Value: 0
+Found value within range at address: 71638EBC8C, Value: 2078000311, Initial Address: 71A2A1CE00, Index: 1
+Found value within range at address: 71638EAECC, Value: 2078000204, Initial Address: 71A2D27C50, Index: 2
+Found value within range at address: 71638EABAC, Value: 2078000208, Initial Address: 71A2D285F0, Index: 3
+Found value within range at address: 71638EAB0C, Value: 2078000104, Initial Address: 71A2D28800, Index: 4
+Found value within range at address: 71638EACEC, Value: 2078000210, Initial Address: 71A2D28960, Index: 5
+Found value within range at address: 71638EA3DC, Value: 2078000203, Initial Address: 71A2D28A10, Index: 6
+Found value within range at address: 71638EA8DC, Value: 2078000111, Initial Address: 71A2D28CD0, Index: 7
+Found value within range at address: 71638EB87C, Value: 2078000307, Initial Address: 71A2D28D80, Index: 8
+Found value within range at address: 71638EAE2C, Value: 2078000206, Initial Address: 71A2D28EE0, Index: 9
+Found value within range at address: 71638EB2DC, Value: 2078000209, Initial Address: 71A2D29250, Index: 10
+Found value within range at address: 71638E952C, Value: 2078000002, Initial Address: 71A2D62FB0, Index: 11
+Found value within range at address: 71638EA79C, Value: 2078000015, Initial Address: 71A2D63F80, Index: 12
+Found value within range at address: 71638EA83C, Value: 2078000110, Initial Address: 71A2D65370, Index: 13
+Found value within range at address: 71638EB0AC, Value: 2078000004, Initial Address: 71A2D66B80, Index: 14
+Found value within range at address: 71638EA9CC, Value: 2078000207, Initial Address: 71A2D67890, Index: 15
+Found value within range at address: 71638EB28C, Value: 2078000211, Initial Address: 71A2D67B50, Index: 16
+Found value within range at address: 71638EAA6C, Value: 2078000113, Initial Address: 71A2D67D60, Index: 17
+Found value within range at address: 71638EABFC, Value: 2078000007, Initial Address: 71A2D68230, Index: 18
+Found value within range at address: 71638EA51C, Value: 2078000008, Initial Address: 71A2D68440, Index: 19
+Found value within range at address: 71638EAFBC, Value: 2078000014, Initial Address: 71A2D68650, Index: 20
+Found value within range at address: 71638EBB9C, Value: 2078000310, Initial Address: 71A2D68A70, Index: 21
+Found value within range at address: 71638EA92C, Value: 2078000302, Initial Address: 71A2D68B20, Index: 22
+Found value within range at address: 71638EAF6C, Value: 2078000009, Initial Address: 71A2D694C0, Index: 23
+Found value within range at address: 71638EADDC, Value: 2078000013, Initial Address: 71A2D69830, Index: 24
+Found value within range at address: 71638EAC9C, Value: 2078000301, Initial Address: 71A2D69990, Index: 25
+Found value within range at address: 71638EA97C, Value: 2078000201, Initial Address: 71A2D69A40, Index: 26
+Found value within range at address: 71638E984C, Value: 2078000001, Initial Address: 71A2D69C50, Index: 27
+Found value within range at address: 71638EA6AC, Value: 2078000205, Initial Address: 71A2D69D00, Index: 28
+Found value within range at address: 71638EA88C, Value: 2078000213, Initial Address: 71A2D69FC0, Index: 29
+Found value within range at address: 71638EB14C, Value: 2078000106, Initial Address: 71A2D6A1D0, Index: 30
+Found value within range at address: 71638EBEBC, Value: 2078000902, Initial Address: 71A2D6A330, Index: 31
+Found value within range at address: 71638EC0EC, Value: 2078000305, Initial Address: 71A2D6A490, Index: 32
+Found value within range at address: 71638EB50C, Value: 2078000900, Initial Address: 71A2D6A540, Index: 33
+Found value within range at address: 71638EB73C, Value: 2078000306, Initial Address: 71A2D6A6A0, Index: 34
+Found value within range at address: 71638EA74C, Value: 2078000011, Initial Address: 71A2D6A750, Index: 35
+Found value within range at address: 71638EB55C, Value: 2078000309, Initial Address: 71A2D6A800, Index: 36
+Found value within range at address: 71638EAC4C, Value: 2078000102, Initial Address: 71A2D6AAC0, Index: 37
+Found value within range at address: 71638EB00C, Value: 2078000304, Initial Address: 71A2D6AB70, Index: 38
+Found value within range at address: 71638EB23C, Value: 2078000101, Initial Address: 71A2D6AC20, Index: 39
+Found value within range at address: 71638EAE7C, Value: 2078000005, Initial Address: 71A2D6AEE0, Index: 40
+Found value within range at address: 71638EA65C, Value: 2078000303, Initial Address: 71A2D6AF90, Index: 41
+Found value within range at address: 71638EB05C, Value: 2078000114, Initial Address: 71A2D6B0F0, Index: 42
+Found value within range at address: 71638EB8CC, Value: 2078000312, Initial Address: 71A2D6B1A0, Index: 43
+Found value within range at address: 71638EAABC, Value: 2078000003, Initial Address: 71A2D6B300, Index: 44
+Found value within range at address: 71638EAA1C, Value: 2078000214, Initial Address: 71A2D6B3B0, Index: 45
+Found value within range at address: 71638EA5BC, Value: 2078000215, Initial Address: 71A2D6B460, Index: 46
+Found value within range at address: 71638EA56C, Value: 2078000006, Initial Address: 71A2D6B5C0, Index: 47
+Found value within range at address: 71638EA7EC, Value: 2078000212, Initial Address: 71A2D6B670, Index: 48
+Found value within range at address: 71638EA6FC, Value: 2078000107, Initial Address: 71A2D6B720, Index: 49
+Found value within range at address: 71638EB1EC, Value: 2078000103, Initial Address: 71A2D6B7D0, Index: 50
+Found value within range at address: 71638EBC3C, Value: 2078000901, Initial Address: 71A2D6BA90, Index: 51
+Found value within range at address: 71638EC2CC, Value: 2078000308, Initial Address: 71A2D6BB40, Index: 52
+Found value within range at address: 71638EB32C, Value: 2078000112, Initial Address: 71A2D6BBF0, Index: 53
+Found value within range at address: 71638EB37C, Value: 2078000017, Initial Address: 71A2D6BCA0, Index: 54
+Found value within range at address: 71638EAD8C, Value: 2078000018, Initial Address: 71A2D6BE00, Index: 55
+Found value within range at address: 71638EAD3C, Value: 2078000012, Initial Address: 71A2D6BF60, Index: 56
+Found value within range at address: 71638EA4CC, Value: 2078000216, Initial Address: 71A2D6C170, Index: 57
+Found value within range at address: 71638EB19C, Value: 2078000202, Initial Address: 71A2D6C2D0, Index: 58
+Found value within range at address: 71638EA38C, Value: 2078000016, Initial Address: 71A2D6C380, Index: 59
+Found value within range at address: 71638EAF1C, Value: 2078000109, Initial Address: 71A2D6C640, Index: 60
+Found value within range at address: 71638EA47C, Value: 2078000105, Initial Address: 71A2D6C7A0, Index: 61
+Found value within range at address: 71638EAB5C, Value: 2078000115, Initial Address: 71A2D6CD20, Index: 62
+Found value within range at address: 71638EA42C, Value: 2078000108, Initial Address: 71A2D6D350, Index: 63
+Found value within range at address: 71638EB0FC, Value: 2078000217, Initial Address: 71A2D6DE50, Index: 64
+Found value within range at address: 71638EA60C, Value: 2078000010, Initial Address: 71A2D848A0, Index: 65

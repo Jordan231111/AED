@@ -11873,3 +11873,72 @@ Wisdom Orb::2008000306
 Wisdom Orb::2008000307
 Wisdom Orb::2008000308
 Wisdom Orb::2008000309
+
+
+
+
+Astra Amberine::2078000005
+Astra Cotton::2078000003
+Astra Hemp::2078000012
+Astra Iron Ore::2078000204
+Astra Ore::2078000203
+Astra Pyroxene::2078000205
+Astra Resin::2078000105
+Astra Shard Cluster::2078000006
+Astra Shard Cluster::2078000106
+Astra Shard Cluster::2078000209
+Astwuh Bark::2078000104
+Astwuh Latex::2078000107
+Azeztsalite Cluster::2078000302
+Azeztsalite Fragment::2078000301
+Bewitching Halo::2078000308
+Black Petal::2078000015
+Blinding Halo::2078000307
+Blue Petal::2078000008
+Cracked Fangclaw::2078000303
+Fibrous Scale::2078000305
+Flower Petal::2078000002
+Geolas Bloom::2078000004
+Green Petal::2078000009
+Hard Astwuh Wood::2078000102
+Hard Pawm Wood::2078000110
+Lustrous Petal::2078000011
+Marbled Coal::2078000206
+Marbled Quartz::2078000201
+Marbled Sootrock::2078000210
+Mystical Stone::2078000208
+Nice Fibrous Scale::2078000306
+Pawm Bark::2078000108
+Pawm Heartwood::2078000113
+Pawm Latex::2078000112
+Plant SR Test::2078000900
+Pristine Fangclaw::2078000304
+Quality Marbled Coal::2078000207
+Quality Sootrock Coal::2078000214
+Quarry SR Test::2078000902
+Rainbow Pawm Wood::2078000114
+Rainbow Petal::2078000017
+Red Petal::2078000007
+Remulia Amberine::2078000018
+Remulia Iron Ore::2078000215
+Remulia Ore::2078000212
+Remulia Pyroxene::2078000217
+Remulia Rainbow Ore::2078000216
+Remulia Resin::2078000115
+Selenite Cluster::2078000310
+Selenite Fragment::2078000309
+Smooth Astwuh Wood::2078000103
+Smooth Pawm Wood::2078000111
+Soft Astwuh Wood::2078000101
+Soft Pawm Wood::2078000109
+Sootrock Coal::2078000211
+Strong Vine::2078000010
+Sturdy Vine::2078000001
+Suspicious Axe Bit::2078000312
+Suspicious Shard::2078000311
+Tree SR Test::2078000901
+Vell Iron::2078000202
+Volgar Iron::2078000213
+White Petal::2078000014
+Yasmin Flower::2078000013
+Yellow Petal::2078000016

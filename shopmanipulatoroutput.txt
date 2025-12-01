@@ -1,151 +1,65 @@
-PWR +10::2061007011
-HP +300::2061007014
-SPD +10::2061008009
-INT +15::2061004010
-Individual EXP +20%::2061008010
-SPD +15::2061007008
-SPD +10::2061008007
-INT +20::2061008002
-PWR +20::2061007001
-PWR +20::2061008001
-INT +20::2061008006
-HP Debuff Resistance +75%::2061006011
-INT +20::2061004005
-PWR +20::2061008003
-SPD +10::2061008008
-INT +10::2061006015
-INT +20::2061007002
-INT +15::2061007007
-SPD +20::2061007003
-SPD Debuff Resistance +75%::2061006013
-HP +400::2061007009
-Individual EXP +30%::2061007019
-SPD Debuff Resistance +90%::2061006008
-MP +30::2061007010
-MP Debuff Resistance +90%::2061004007
-Obtained Git+::2061007020
-MP +20::2061007015
-MP +50::2061007005
-MP Debuff Resistance +90%::2061006007
-Bind Resistance +100%::2061006018
-HP +2,000::2061002003
-Rage Resistance +100%::2061006019
-LCK +20::2061007017
-SPD +10::2061007013
-INT +20::2061008004
-Poison Resistance +100%::2061005018
-MP Consumption -15%::2061003015
-INT +10::2061005015
-Restore Skill Effect+::2061005020
-HP Debuff Resistance +90%::2061006006
-SPR +20::2061007018
-PWR/INT Debuff Resistance +90%::2061004008
-PWR +15::2061007006
-HP Debuff Resistance +100%::2061006001
-HP Debuff Resistance +90%::2061004006
-Non-type Attack +10%::2061006017
-PWR +20::2061006004
-INT +20::2061006005
-Magic Critical Rate +150%::2061001003
-INT +15::2061006010
-Reclaim Talegem::2061000001
-INT +10::2061007012
-When Reserve MP Restore +100%::2061006020
-Magic Critical Rate +50%::2061004019
-HP +500::2061007004
-MP Debuff Resistance +100%::2061006002
-MP +100::2061001009
-PWR/INT Debuff Resistance +75%::2061004013
-PWR +10::2061006014
-Magic Critical Rate +100%::2061001008
-INT +20::2061005005
-Confusion Resistance +100%::2061004020
-Absorb Inflicted Dmg.::2061001020
-END +20::2061007016
-MP Debuff Resistance +100%::2061004002
-SPD Debuff Resistance +100%::2061006003
-Pain Resistance +100%::2061005019
-MP +150::2061003004
-Type Attack +20%::2061002011
-Critical Rate +150%::2061002004
-MP Debuff Resistance +75%::2061006012
-Physical Debuff Resistance +75%::2061005011
-PWR +20::2061008005
-Type Attack +10%::2061006016
-MP +80::2061003014
-HP +1,000::2061003013
-SPD +40::2061003007
-Critical Rate +100%::2061001007
-SPD +40::2061002007
-Reduce Type Res. on Attack::2061003020
-Magic Critical Rate +100%::2061002010
-Type Attack +50%::2061001001
-PWR +10::2061004014
-MP Consumption -20%::2061003010
-Physical Debuff Resistance +90%::2061005006
-Continual MP Regen (20)::2061001010
-Magic Debuff Resistance +100%::2061005002
-Type Attack +20%::2061003011
-SPD +50::2061003002
-Critical Rate +80%::2061001012
-Type Attack +10%::2061004016
-Non-type Attack +10%::2061004017
-Non-type Attack +50%::2061003016
-Non-type Attack +50%::2061001017
-PWR +15::2061004009
-HP +1,500::2061003008
-Type Attack +10%::2061005016
-HP +1,000::2061002013
-Type Attack +50%::2061003001
-Critical Rate +150%::2061001002
-MP Consumption -30%::2061003005
-Nine Lives::2061002020
-PWR +20::2061004004
-SPD +50::2061002002
-Reduce Mag. Res. on Attack::2061003019
-HP Debuff Resistance +75%::2061004011
-HP +2,000::2061003003
-PWR -25% on Attack::2061002017
-Magic Critical Rate +80%::2061002015
-Magic Debuff Resistance +75%::2061005012
-MP +150::2061001004
-Nine Lives::2061001019
-PWR/INT Debuff Resistance +100%::2061004003
-Damage +30% When Max HP::2061001016
-SPD -50% on Attack::2061002019
-Non-type Attack +50%::2061002016
-Type Attack +30%::2061002006
-Type Attack +50%::2061002001
-Type Debuff Resistance +75%::2061005013
-Physical Debuff Resistance +100%::2061005001
-Continual MP Regen (30)::2061001005
-INT +10::2061004015
-MP +70::2061001014
-MP +100::2061003009
-SPD +30::2061003012
-Type Debuff Resistance +100%::2061005003
-PWR +15::2061006009
-INT -25% on Attack::2061002018
-PWR +15::2061005009
-Dmg. +50% when HP <= 50%::2061001018
-Reduce Phys. Res. on Attack::2061003018
-Magic Critical Rate +80%::2061001013
-Continual MP Regen (15)::2061001015
-Type Attack +30%::2061003006
-SPD +30::2061002012
-Magic Critical Rate +150%::2061002005
-HP +1,500::2061002008
-Magic Debuff Resistance +90%::2061005007
-HP Debuff Resistance +100%::2061004001
-Type Attack +20%::2061001011
-Ambush Tactics::2061003017
-PWR +10::2061005014
-Type Debuff Resistance +90%::2061005008
-Critical Rate +100%::2061002009
-Type Attack +30%::2061001006
-Critical Rate +50%::2061004018
-PWR +20::2061005004
-Critical Rate +80%::2061002014
-INT +15::2061005010
-MP Debuff Resistance +75%::2061004012
-Non-type Attack +10%::2061005017
+Suspicious Shard::2078000311
+Astra Iron Ore::2078000204
+Mystical Stone::2078000208
+Astwuh Bark::2078000104
+Marbled Sootrock::2078000210
+Astra Ore::2078000203
+Smooth Pawm Wood::2078000111
+Blinding Halo::2078000307
+Marbled Coal::2078000206
+Astra Shard Cluster::2078000209
+Flower Petal::2078000002
+Black Petal::2078000015
+Hard Pawm Wood::2078000110
+Geolas Bloom::2078000004
+Quality Marbled Coal::2078000207
+Sootrock Coal::2078000211
+Pawm Heartwood::2078000113
+Red Petal::2078000007
+Blue Petal::2078000008
+White Petal::2078000014
+Selenite Cluster::2078000310
+Azeztsalite Cluster::2078000302
+Green Petal::2078000009
+Yasmin Flower::2078000013
+Azeztsalite Fragment::2078000301
+Marbled Quartz::2078000201
+Sturdy Vine::2078000001
+Astra Pyroxene::2078000205
+Volgar Iron::2078000213
+Astra Shard Cluster::2078000106
+Quarry SR Test::2078000902
+Fibrous Scale::2078000305
+Plant SR Test::2078000900
+Nice Fibrous Scale::2078000306
+Lustrous Petal::2078000011
+Selenite Fragment::2078000309
+Hard Astwuh Wood::2078000102
+Pristine Fangclaw::2078000304
+Soft Astwuh Wood::2078000101
+Astra Amberine::2078000005
+Cracked Fangclaw::2078000303
+Rainbow Pawm Wood::2078000114
+Suspicious Axe Bit::2078000312
+Astra Cotton::2078000003
+Quality Sootrock Coal::2078000214
+Remulia Iron Ore::2078000215
+Astra Shard Cluster::2078000006
+Remulia Ore::2078000212
+Astwuh Latex::2078000107
+Smooth Astwuh Wood::2078000103
+Tree SR Test::2078000901
+Bewitching Halo::2078000308
+Pawm Latex::2078000112
+Rainbow Petal::2078000017
+Remulia Amberine::2078000018
+Astra Hemp::2078000012
+Remulia Rainbow Ore::2078000216
+Vell Iron::2078000202
+Yellow Petal::2078000016
+Soft Pawm Wood::2078000109
+Astra Resin::2078000105
+Remulia Resin::2078000115
+Pawm Bark::2078000108
+Remulia Pyroxene::2078000217
+Strong Vine::2078000010

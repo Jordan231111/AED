@@ -45,4 +45,5 @@
  492000001 -- Myrical Manor/Hero of the Hidden Blade
  900100001 -- time mine items
  2080000602 -- An Ode to Origin storyline
- 2061003002 -- Some of the newer badges like spd +50, and full resistance to some debuffs
+ 2061003002 -- Some of the newer stuff, looks like orbs. no idea whats it called but it gives spd +50, and full resistance to some debuffs
+ 2078000001 -- https://anothereden.wiki/w/An_Ode_to_Origin:_Act_1_-_The_Beastfolk,_%22Antimony%22#Material_Locations-0
