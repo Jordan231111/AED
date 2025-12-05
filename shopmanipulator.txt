@@ -1,20 +1,240 @@
-Found value within range at address: 7C407A320C, Value: 2076000004, Initial Address: 7C7FC59F30, Index: 1
-Found value within range at address: 7C407A343C, Value: 2076000005, Initial Address: 7C7FC59FE0, Index: 2
-Found value within range at address: 7C407A339C, Value: 2076000006, Initial Address: 7C7FC5A560, Index: 3
-Found value within range at address: 7C407A32FC, Value: 2076000009, Initial Address: 7C7FC5A770, Index: 4
-Found value within range at address: 7C407A33EC, Value: 2076000002, Initial Address: 7C7FC5ADA0, Index: 5
-Found value within range at address: 7C407A316C, Value: 2076000008, Initial Address: 7C7FC5AE50, Index: 6
-Found value within range at address: 7C407A31BC, Value: 2076000003, Initial Address: 7C7FC5AFB0, Index: 7
-Found value within range at address: 7C407A3CAC, Value: 2076000010, Initial Address: 7C7FC5B7F0, Index: 8
-Found value within range at address: 7C407A370C, Value: 2076000001, Initial Address: 7C7FC5C190, Index: 9
-Found value within range at address: 7C407A393C, Value: 2076000007, Initial Address: 7C7FC5EFA0, Index: 10
-Word: Ivorine Asterorb            ||             Index 1 at address 7C7FC59F30 Value: 0
-Word: Verdigris Asterorb            ||             Index 2 at address 7C7FC59FE0 Value: 0
-Word: Rottenyx Asterorb            ||             Index 3 at address 7C7FC5A560 Value: 0
-Word: Onyxia Asterorb            ||             Index 4 at address 7C7FC5A770 Value: 0
-Word: Cornelian Asterorb            ||             Index 5 at address 7C7FC5ADA0 Value: 0
-Word: Alabastro Asterorb            ||             Index 6 at address 7C7FC5AE50 Value: 0
-Word: Albali Asterorb            ||             Index 7 at address 7C7FC5AFB0 Value: 0
-Word: Amberoc Asterorb            ||             Index 8 at address 7C7FC5B7F0 Value: 0
-Word: Moon Asterorb            ||             Index 9 at address 7C7FC5C190 Value: 0
-Word: Capelliter Asterob            ||             Index 10 at address 7C7FC5EFA0 Value: 0
+Word: Decayed Thought Leaves            ||             Index 1 at address 734AB8CA30 Value: 2001500
+Word: Darkcore (S)            ||             Index 2 at address 734AF47B40 Value: 0
+Word: Black Pearls            ||             Index 3 at address 734AF48F30 Value: 50
+Word: Fated Star Fragment            ||             Index 4 at address 734AF498D0 Value: 1392
+Word: Cat Points (TBD)            ||             Index 5 at address 734AF56DF0 Value: 0
+Word: Dark Scale            ||             Index 6 at address 734AF5B8E0 Value: 0
+Word: Fish Medal            ||             Index 7 at address 734AF69640 Value: 0
+Word: Drake Water            ||             Index 8 at address 734AF6D630 Value: 0
+Word: Aqua Darkbone            ||             Index 9 at address 734AFA7E90 Value: 0
+Word: Dragondrop (L)            ||             Index 10 at address 734B031AB0 Value: 0
+Word: Dragontear (S)            ||             Index 11 at address 734B033A50 Value: 0
+Word: Flooded Bone            ||             Index 12 at address 734B036440 Value: 0
+Word: Whirl Drake Gem            ||             Index 13 at address 734B03C740 Value: 0
+Word: Blended Wisdom            ||             Index 14 at address 734B041020 Value: 0
+Word: Pale Scarlet Stone            ||             Index 15 at address 734B042830 Value: 0
+Word: Growth Star            ||             Index 16 at address 734B04B680 Value: 0
+Word: Fish Stones: Harpoon            ||             Index 17 at address 734B050B10 Value: 0
+Word: Equipment Medal            ||             Index 18 at address 734B0512A0 Value: 0
+Word: Purgatory Tab            ||             Index 19 at address 734B0521C0 Value: 0
+Word: Celestial Soul            ||             Index 20 at address 734B058570 Value: 0
+Word: Darkcore (L)            ||             Index 21 at address 734B05D5E0 Value: 0
+Word: Levin Fragment            ||             Index 22 at address 734B095BE0 Value: 0
+Word: PTL Record            ||             Index 23 at address 734B097B80 Value: 0
+Word: Platina Fragment            ||             Index 24 at address 734B098B50 Value: 0
+Word: BK-Bucks            ||             Index 25 at address 734B098CB0 Value: 0
+Word: Majestic Furball            ||             Index 26 at address 734B09F5E0 Value: 30
+Word: Quaked Stone            ||             Index 27 at address 734B0A03A0 Value: 0
+Word: Dig Medal            ||             Index 28 at address 734B0A16E0 Value: 100
+Word: Gabble            ||             Index 29 at address 734B0A7CA0 Value: 2
+Word: Promissory Note B            ||             Index 30 at address 734B0BBD00 Value: 0
+Word: Audience Point            ||             Index 31 at address 734B0C0AB0 Value: 0
+Word: Turbocharger            ||             Index 32 at address 734B0C1A80 Value: 0
+Word: Bearing            ||             Index 33 at address 734B0CD420 Value: 0
+Word: Miglancian Magic            ||             Index 34 at address 734B0EDF50 Value: 1070897
+Word: Git            ||             Index 35 at address 734B0F3490 Value: 990000826
+Word: Points            ||             Index 36 at address 734B0F7740 Value: 0
+Word: Chaos Fragments            ||             Index 37 at address 734B100B10 Value: 0
+Word: Allcosmos Fragment            ||             Index 38 at address 734B10A300 Value: 999979179
+Word: True Scarlet Stone Cumulative Counter            ||             Index 39 at address 734B10CCF0 Value: 0
+Word: Ethereal Dewdrop            ||             Index 40 at address 734B10ED40 Value: 0
+Word: Scratch            ||             Index 41 at address 734B1103F0 Value: 0
+Word: Dream Petals            ||             Index 42 at address 734B111730 Value: 478229
+Word: T. Black Pearls            ||             Index 43 at address 734B116220 Value: 0
+Word: Dark Residue            ||             Index 44 at address 734B11EFC0 Value: 0
+Word: Scores            ||             Index 45 at address 734B1212D0 Value: 0
+Word: Cocoon's Dream            ||             Index 46 at address 734B124920 Value: 0
+Word: Seeker Point            ||             Index 47 at address 734B12CB10 Value: 0
+Word: Regina            ||             Index 48 at address 734B131080 Value: 0
+Word: Arcana Flare            ||             Index 49 at address 734B146F20 Value: 0
+Word: Atlantis Pearls            ||             Index 50 at address 734B148B50 Value: 5063551
+Word: KOF Medal            ||             Index 51 at address 734B1523F0 Value: 0
+Word: Attendance            ||             Index 52 at address 734B157040 Value: 0
+Word: Sunstruck Alabaster            ||             Index 53 at address 734B15AAB0 Value: 0
+Word: Flare Darkscale            ||             Index 54 at address 734B15B240 Value: 0
+Word: Sea Carapace            ||             Index 55 at address 734B15F0D0 Value: 0
+Word: Scratch            ||             Index 56 at address 734B172790 Value: 0
+Word: IDAbits            ||             Index 57 at address 734B176BA0 Value: 0
+Word: Darkened Iron            ||             Index 58 at address 734B17BF80 Value: 0
+Word: Coins            ||             Index 59 at address 734B1818E0 Value: 0
+Word: Bearing            ||             Index 60 at address 734B18CBA0 Value: 0
+Word: Rust Color Stone            ||             Index 61 at address 734B18E250 Value: 0
+Word: Flamedrake Scale            ||             Index 62 at address 734B18F380 Value: 0
+Word: Deep Scarlet Stone            ||             Index 63 at address 734B192F50 Value: 0
+Word: Seven-Color Fragments            ||             Index 64 at address 734B1964F0 Value: 0
+Word: True Scarlet Stone            ||             Index 65 at address 734B19C1C0 Value: 0
+Word: Sapient Illusion            ||             Index 66 at address 734B1B2AB0 Value: 0
+Word: Drake Crystal            ||             Index 67 at address 734B1C6900 Value: 0
+Word: Sapient Illusion            ||             Index 68 at address 734B1C8F80 Value: 0
+Word: Rare Book Certificate            ||             Index 69 at address 734B1CABB0 Value: 0
+Word: Gust Darkgem            ||             Index 70 at address 734B1CD0D0 Value: 0
+Word: Fish Stones            ||             Index 71 at address 734B1CE8E0 Value: 8504
+Word: Dreamcolor Ink            ||             Index 72 at address 734B1D3D70 Value: 271470
+Word: Jewel            ||             Index 73 at address 734B1D52C0 Value: 0
+Word: Time Coin            ||             Index 74 at address 734B1D58F0 Value: 0
+Word: Time Spindle            ||             Index 75 at address 734B1D7AA0 Value: 0
+Word: Dragondrop (S)            ||             Index 76 at address 734B1DB1A0 Value: 0
+Word: Fighting Spirit            ||             Index 77 at address 734B1DCE80 Value: 0
+Word: Jade Fragments            ||             Index 78 at address 734B1ECC30 Value: 0
+Word: Cat Medal            ||             Index 79 at address 734B1ED5D0 Value: 0
+Word: Tsubura's Gems            ||             Index 80 at address 734B1F5B30 Value: 999348599
+Word: Blue Scale            ||             Index 81 at address 734B1F8470 Value: 0
+Word: Traveler's Log            ||             Index 82 at address 734B2092A0 Value: 0
+Word: Chronos Stone            ||             Index 83 at address 734B217840 Value: 0
+Word: Meow Coin            ||             Index 84 at address 734B21A4F0 Value: 10006
+Word: Ill-Omen Bone            ||             Index 85 at address 734B2224D0 Value: 0
+Word: Crimson Stone Amount            ||             Index 86 at address 734B222E70 Value: 0
+Word: Immaculate Fragments            ||             Index 87 at address 734B227960 Value: 0
+Word: Darkened Fang            ||             Index 88 at address 734B228A90 Value: 0
+Word: Astra Shard            ||             Index 89 at address 734B228B40 Value: 0
+Word: Gil            ||             Index 90 at address 734B2310A0 Value: 0
+Word: SAP            ||             Index 91 at address 734B24ED10 Value: 0
+Word: Sea Ice Scale            ||             Index 92 at address 734B2606F0 Value: 0
+Word: Dawn Fragments            ||             Index 93 at address 734B262110 Value: 0
+Word: Lazuline Stone            ||             Index 94 at address 734B2639D0 Value: 0
+Word: Sea Hardfin            ||             Index 95 at address 734B2648F0 Value: 0
+Word: Earth Darkstone            ||             Index 96 at address 734B26CB90 Value: 0
+Word: SigmaPay            ||             Index 97 at address 734B26FF20 Value: 0
+Word: Darkened Fur            ||             Index 98 at address 734B270970 Value: 0
+Word: Neverbright            ||             Index 99 at address 734B270FA0 Value: 0
+Word: Kamasu Points            ||             Index 100 at address 734B273620 Value: 8474609
+Word: KOF Medal            ||             Index 101 at address 734B4202B0 Value: 0
+Word: Thank You Stone            ||             Index 102 at address 734B468BE0 Value: 0
+Word: Recycling Point            ||             Index 103 at address 734B4707A0 Value: 90
+Word: Kamasu Points: Harpoon Fishing            ||             Index 104 at address 734B483570 Value: 0
+Word: Dragontear (L)            ||             Index 105 at address 734B4907D0 Value: 0
+Word: Honor Point            ||             Index 106 at address 734B495370 Value: 303150
+Word: ROC            ||             Index 107 at address 734B49AE30 Value: 0
+Word: Sea White Scale            ||             Index 108 at address 734B49B5C0 Value: 0
+Word: Scurvy Grass            ||             Index 109 at address 734B4ABD10 Value: 0
+Word: Ill-Omen Fur            ||             Index 110 at address 734B4AF6D0 Value: 0
+Word: Pale Scarlet Stone Amount            ||             Index 111 at address 734B4B6B00 Value: 0
+Word: Moonstruck Obsidian            ||             Index 112 at address 734B4B7C30 Value: 0
+Word: Light/Shadow Points            ||             Index 113 at address 734B4B8050 Value: 15
+Word: Time Layers Force            ||             Index 114 at address 734B4B8890 Value: 0
+Word: Drake Ore            ||             Index 115 at address 734B4BCA90 Value: 0
+Word: Bravery Manifest            ||             Index 116 at address 734B4BE6C0 Value: 10032509
+Word: Lazuline Stone Cumulative Counter            ||             Index 117 at address 734B4C7D50 Value: 0
+Word: Active Magic Elements            ||             Index 118 at address 734B4CA1C0 Value: 0
+Word: Rock Salt            ||             Index 119 at address 734B4CD340 Value: 0
+Word: Blazing Scale            ||             Index 120 at address 734B53CC00 Value: 0
+Found value within range at address: 730C1B0BEC, Value: 205000028, Initial Address: 734AB8CA30, Index: 1
+Found value within range at address: 730C1B2E4C, Value: 205000091, Initial Address: 734AF47B40, Index: 2
+Found value within range at address: 730C1B0F5C, Value: 205000013, Initial Address: 734AF48F30, Index: 3
+Found value within range at address: 730C1B262C, Value: 205000107, Initial Address: 734AF498D0, Index: 4
+Found value within range at address: 730C1B0FAC, Value: 205000021, Initial Address: 734AF56DF0, Index: 5
+Found value within range at address: 730C1B1CCC, Value: 205000081, Initial Address: 734AF5B8E0, Index: 6
+Found value within range at address: 730C1B10EC, Value: 205000002, Initial Address: 734AF69640, Index: 7
+Found value within range at address: 730C1B2B2C, Value: 205000088, Initial Address: 734AF6D630, Index: 8
+Found value within range at address: 730C1B15EC, Value: 205000066, Initial Address: 734AFA7E90, Index: 9
+Found value within range at address: 730C1B27BC, Value: 205000083, Initial Address: 734B031AB0, Index: 10
+Found value within range at address: 730C1B1EFC, Value: 205000063, Initial Address: 734B033A50, Index: 11
+Found value within range at address: 730C1B159C, Value: 205000070, Initial Address: 734B036440, Index: 12
+Found value within range at address: 730C1B1D6C, Value: 205000071, Initial Address: 734B03C740, Index: 13
+Found value within range at address: 730C1B271C, Value: 205000105, Initial Address: 734B041020, Index: 14
+Found value within range at address: 730C1B18BC, Value: 205000032, Initial Address: 734B042830, Index: 15
+Found value within range at address: 730C1B19FC, Value: 205000042, Initial Address: 734B04B680, Index: 16
+Found value within range at address: 730C1B168C, Value: 205000035, Initial Address: 734B050B10, Index: 17
+Found value within range at address: 730C1B0A0C, Value: 205000004, Initial Address: 734B0512A0, Index: 18
+Found value within range at address: 730C1B249C, Value: 205000041, Initial Address: 734B0521C0, Index: 19
+Found value within range at address: 730C1B172C, Value: 205000037, Initial Address: 734B058570, Index: 20
+Found value within range at address: 730C1B320C, Value: 205000092, Initial Address: 734B05D5E0, Index: 21
+Found value within range at address: 730C1B1A9C, Value: 205000048, Initial Address: 734B095BE0, Index: 22
+Found value within range at address: 730C1B29EC, Value: 205000098, Initial Address: 734B097B80, Index: 23
+Found value within range at address: 730C1B203C, Value: 205000049, Initial Address: 734B098B50, Index: 24
+Found value within range at address: 730C1B285C, Value: 205000114, Initial Address: 734B098CB0, Index: 25
+Found value within range at address: 730C1B2F8C, Value: 205000100, Initial Address: 734B09F5E0, Index: 26
+Found value within range at address: 730C1B20DC, Value: 205000072, Initial Address: 734B0A03A0, Index: 27
+Found value within range at address: 730C1B1B8C, Value: 205000043, Initial Address: 734B0A16E0, Index: 28
+Found value within range at address: 730C1B352C, Value: 205000108, Initial Address: 734B0A7CA0, Index: 29
+Found value within range at address: 730C1B302C, Value: 205000113, Initial Address: 734B0BBD00, Index: 30
+Found value within range at address: 730C1B0FFC, Value: 205000017, Initial Address: 734B0C0AB0, Index: 31
+Found value within range at address: 730C1B32FC, Value: 205000099, Initial Address: 734B0C1A80, Index: 32
+Found value within range at address: 730C1B1D1C, Value: 205000052, Initial Address: 734B0CD420, Index: 33
+Found value within range at address: 730C1B145C, Value: 205000007, Initial Address: 734B0EDF50, Index: 34
+Found value within range at address: 730C1B0CDC, Value: 205000001, Initial Address: 734B0F3490, Index: 35
+Found value within range at address: 730C1B2D5C, Value: 205000121, Initial Address: 734B0F7740, Index: 36
+Found value within range at address: 730C1B30CC, Value: 205000116, Initial Address: 734B100B10, Index: 37
+Found value within range at address: 730C1B23FC, Value: 205000079, Initial Address: 734B10A300, Index: 38
+Found value within range at address: 730C1B1E0C, Value: 205000059, Initial Address: 734B10CCF0, Index: 39
+Found value within range at address: 730C1B104C, Value: 205000023, Initial Address: 734B10ED40, Index: 40
+Found value within range at address: 730C1B1AEC, Value: 205000061, Initial Address: 734B1103F0, Index: 41
+Found value within range at address: 730C1B253C, Value: 205000055, Initial Address: 734B111730, Index: 42
+Found value within range at address: 730C1B24EC, Value: 205000038, Initial Address: 734B116220, Index: 43
+Found value within range at address: 730C1B073C, Value: 205000019, Initial Address: 734B11EFC0, Index: 44
+Found value within range at address: 730C1B0D7C, Value: 205000008, Initial Address: 734B1212D0, Index: 45
+Found value within range at address: 730C1B09BC, Value: 205000016, Initial Address: 734B124920, Index: 46
+Found value within range at address: 730C1B0E1C, Value: 205000025, Initial Address: 734B12CB10, Index: 47
+Found value within range at address: 730C1B325C, Value: 205000101, Initial Address: 734B131080, Index: 48
+Found value within range at address: 730C1B17CC, Value: 205000044, Initial Address: 734B146F20, Index: 49
+Found value within range at address: 730C1B0AAC, Value: 205000011, Initial Address: 734B148B50, Index: 50
+Found value within range at address: 730C1B2DFC, Value: 205000103, Initial Address: 734B1523F0, Index: 51
+Found value within range at address: 730C1B069C, Value: 205000018, Initial Address: 734B157040, Index: 52
+Found value within range at address: 730C1B26CC, Value: 205000109, Initial Address: 734B15AAB0, Index: 53
+Found value within range at address: 730C1B1C7C, Value: 205000065, Initial Address: 734B15B240, Index: 54
+Found value within range at address: 730C1B35CC, Value: 205000086, Initial Address: 734B15F0D0, Index: 55
+Found value within range at address: 730C1B221C, Value: 205000060, Initial Address: 734B172790, Index: 56
+Found value within range at address: 730C1B055C, Value: 205000022, Initial Address: 734B176BA0, Index: 57
+Found value within range at address: 730C1B307C, Value: 205000093, Initial Address: 734B17BF80, Index: 58
+Found value within range at address: 730C1B177C, Value: 205000077, Initial Address: 734B1818E0, Index: 59
+Found value within range at address: 730C1B1F4C, Value: 205000053, Initial Address: 734B18CBA0, Index: 60
+Found value within range at address: 730C1B226C, Value: 205000033, Initial Address: 734B18E250, Index: 61
+Found value within range at address: 730C1B1E5C, Value: 205000062, Initial Address: 734B18F380, Index: 62
+Found value within range at address: 730C1B163C, Value: 205000039, Initial Address: 734B192F50, Index: 63
+Found value within range at address: 730C1B16DC, Value: 205000051, Initial Address: 734B1964F0, Index: 64
+Found value within range at address: 730C1B1BDC, Value: 205000058, Initial Address: 734B19C1C0, Index: 65
+Found value within range at address: 730C1B1A4C, Value: 205000046, Initial Address: 734B1B2AB0, Index: 66
+Found value within range at address: 730C1B2BCC, Value: 205000090, Initial Address: 734B1C6900, Index: 67
+Found value within range at address: 730C1B244C, Value: 205000047, Initial Address: 734B1C8F80, Index: 68
+Found value within range at address: 730C1B087C, Value: 205000030, Initial Address: 734B1CABB0, Index: 69
+Found value within range at address: 730C1B1EAC, Value: 205000067, Initial Address: 734B1CD0D0, Index: 70
+Found value within range at address: 730C1B0C8C, Value: 205000010, Initial Address: 734B1CE8E0, Index: 71
+Found value within range at address: 730C1B0B4C, Value: 205000029, Initial Address: 734B1D3D70, Index: 72
+Found value within range at address: 730C1B2F3C, Value: 205000118, Initial Address: 734B1D52C0, Index: 73
+Found value within range at address: 730C1B1DBC, Value: 205000045, Initial Address: 734B1D58F0, Index: 74
+Found value within range at address: 730C1B217C, Value: 205000057, Initial Address: 734B1D7AA0, Index: 75
+Found value within range at address: 730C1B1C2C, Value: 205000082, Initial Address: 734B1DB1A0, Index: 76
+Found value within range at address: 730C1B33EC, Value: 205000102, Initial Address: 734B1DCE80, Index: 77
+Found value within range at address: 730C1B212C, Value: 205000050, Initial Address: 734B1ECC30, Index: 78
+Found value within range at address: 730C1B0A5C, Value: 205000003, Initial Address: 734B1ED5D0, Index: 79
+Found value within range at address: 730C1B0B9C, Value: 205000014, Initial Address: 734B1F5B30, Index: 80
+Found value within range at address: 730C1B195C, Value: 205000080, Initial Address: 734B1F8470, Index: 81
+Found value within range at address: 730C1B1FEC, Value: 205000073, Initial Address: 734B2092A0, Index: 82
+Found value within range at address: 730C1B0D2C, Value: 205000006, Initial Address: 734B217840, Index: 83
+Found value within range at address: 730C1B096C, Value: 205000026, Initial Address: 734B21A4F0, Index: 84
+Found value within range at address: 730C1B2EEC, Value: 205000096, Initial Address: 734B2224D0, Index: 85
+Found value within range at address: 730C1B190C, Value: 205000040, Initial Address: 734B222E70, Index: 86
+Found value within range at address: 730C1B1F9C, Value: 205000054, Initial Address: 734B227960, Index: 87
+Found value within range at address: 730C1B339C, Value: 205000095, Initial Address: 734B228A90, Index: 88
+Found value within range at address: 730C1B343C, Value: 205000115, Initial Address: 734B228B40, Index: 89
+Found value within range at address: 730C1B2E9C, Value: 205000117, Initial Address: 734B2310A0, Index: 90
+Found value within range at address: 730C1B2D0C, Value: 205000119, Initial Address: 734B24ED10, Index: 91
+Found value within range at address: 730C1B2A3C, Value: 205000084, Initial Address: 734B2606F0, Index: 92
+Found value within range at address: 730C1B22BC, Value: 205000056, Initial Address: 734B262110, Index: 93
+Found value within range at address: 730C1B311C, Value: 205000111, Initial Address: 734B2639D0, Index: 94
+Found value within range at address: 730C1B299C, Value: 205000087, Initial Address: 734B2648F0, Index: 95
+Found value within range at address: 730C1B19AC, Value: 205000068, Initial Address: 734B26CB90, Index: 96
+Found value within range at address: 730C1B208C, Value: 205000078, Initial Address: 734B26FF20, Index: 97
+Found value within range at address: 730C1B2CBC, Value: 205000094, Initial Address: 734B270970, Index: 98
+Found value within range at address: 730C1B258C, Value: 205000076, Initial Address: 734B270FA0, Index: 99
+Found value within range at address: 730C1B14FC, Value: 205000009, Initial Address: 734B273620, Index: 100
+Found value within range at address: 730C1B357C, Value: 205000104, Initial Address: 734B4202B0, Index: 101
+Found value within range at address: 730C1B13BC, Value: 205000015, Initial Address: 734B468BE0, Index: 102
+Found value within range at address: 730C1B05FC, Value: 205000012, Initial Address: 734B4707A0, Index: 103
+Found value within range at address: 730C1B181C, Value: 205000034, Initial Address: 734B483570, Index: 104
+Found value within range at address: 730C1B1B3C, Value: 205000064, Initial Address: 734B4907D0, Index: 105
+Found value within range at address: 730C1B05AC, Value: 205000005, Initial Address: 734B495370, Index: 106
+Found value within range at address: 730C1B109C, Value: 205000024, Initial Address: 734B49AE30, Index: 107
+Found value within range at address: 730C1B34DC, Value: 205000085, Initial Address: 734B49B5C0, Index: 108
+Found value within range at address: 730C1B235C, Value: 205000074, Initial Address: 734B4ABD10, Index: 109
+Found value within range at address: 730C1B294C, Value: 205000097, Initial Address: 734B4AF6D0, Index: 110
+Found value within range at address: 730C1B23AC, Value: 205000036, Initial Address: 734B4B6B00, Index: 111
+Found value within range at address: 730C1B276C, Value: 205000106, Initial Address: 734B4B7C30, Index: 112
+Found value within range at address: 730C1B154C, Value: 205000027, Initial Address: 734B4B8050, Index: 113
+Found value within range at address: 730C1B08CC, Value: 205000020, Initial Address: 734B4B8890, Index: 114
+Found value within range at address: 730C1B2A8C, Value: 205000089, Initial Address: 734B4BCA90, Index: 115
+Found value within range at address: 730C1B32AC, Value: 205000110, Initial Address: 734B4BE6C0, Index: 116
+Found value within range at address: 730C1B2C1C, Value: 205000112, Initial Address: 734B4C7D50, Index: 117
+Found value within range at address: 730C1B21CC, Value: 205000031, Initial Address: 734B4CA1C0, Index: 118
+Found value within range at address: 730C1B186C, Value: 205000075, Initial Address: 734B4CD340, Index: 119
+Found value within range at address: 730C1B230C, Value: 205000069, Initial Address: 734B53CC00, Index: 120

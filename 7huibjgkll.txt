@@ -441,9 +441,11 @@ Active Magic Elements::205000031
 Allcosmos Fragment::205000079
 Aqua Darkbone::205000066
 Arcana Flare::205000044
+Astra Shard::205000115
 Atlantis Pearls::205000011
 Attendance::205000018
 Audience Point::205000017
+BK-Bucks::205000114
 Bearing::205000052
 Bearing::205000053
 Black Pearls::205000013
@@ -454,6 +456,7 @@ Bravery Manifest::205000110
 Cat Medal::205000003
 Cat Points (TBD)::205000021
 Celestial Soul::205000037
+Chaos Fragments::205000116
 Chronos Stone::205000006
 Cocoon's Dream::205000016
 Coins::205000077
@@ -490,6 +493,7 @@ Flamedrake Scale::205000062
 Flare Darkscale::205000065
 Flooded Bone::205000070
 Gabble::205000108
+Gil::205000117
 Git::205000001
 Growth Star::205000042
 Gust Darkgem::205000067
@@ -499,6 +503,7 @@ Ill-Omen Bone::205000096
 Ill-Omen Fur::205000097
 Immaculate Fragments::205000054
 Jade Fragments::205000050
+Jewel::205000118
 KOF Medal::205000103
 KOF Medal::205000104
 Kamasu Points: Harpoon Fishing::205000034
@@ -516,6 +521,7 @@ PTL Record::205000098
 Pale Scarlet Stone Amount::205000036
 Pale Scarlet Stone::205000032
 Platina Fragment::205000049
+Points::205000121
 Promissory Note B::205000113
 Purgatory Tab::205000041
 Quaked Stone::205000072
@@ -525,6 +531,7 @@ Recycling Point::205000012
 Regina::205000101
 Rock Salt::205000075
 Rust Color Stone::205000033
+SAP::205000119
 Sapient Illusion::205000046
 Sapient Illusion::205000047
 Scores::205000008
