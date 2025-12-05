@@ -4,7 +4,6 @@ Prefixes (first 4 digits):
 1977 -- unknown category
 1994 -- unknown category
 1995 -- unknown category
-2050 -- currency items like git, and sidestory currency like black pearls
 2110 -- badges and a bunch of other weapons
 2170 -- badges and a bunch of other weapons
 2180 -- Timetwisted Maze Charms
@@ -182,9 +181,9 @@ Prefixes (first 4 digits):
 2142 -- unknown category
 
 Loaded 14052 unique-pointer values.
-Loaded 11840 manifest values.
+Loaded 11847 manifest values.
 
-Missing in manifest: 2212
+Missing in manifest: 2205
 177000161
 177000162
 177900183
@@ -437,13 +436,6 @@ Missing in manifest: 2212
 199570736
 199573696
 199577456
-205000114
-205000115
-205000116
-205000117
-205000118
-205000119
-205000121
 211000921
 211000922
 211000923

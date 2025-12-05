@@ -181,6 +181,7 @@ Eternal Swordsman Record::242030115
 Eurydice Starchart::242013002
 Eurydice Tome::242030322
 Exalted Maiden Psalm::242030023
+Faraway Fantasy Starchart::242019004
 Felis Circulus Treatise::242030611
 Felis Lord Opus::242030620
 Felis Lord Starchart::242016004
@@ -201,6 +202,7 @@ Gjallarhorn Treatise::242030022
 Gladiator Tome::242030300
 Goddess of Destiny Tome::242031402
 Golden Flower Cat Tome::242030310
+Grand General Starchart::242011015
 Grand General Tome::242030135
 Gratinel Psalm::242030703
 Gray Hound Tome::242030609
@@ -355,6 +357,7 @@ Sarashinahime Treatise::242030213
 Sayorihime Treatise::242030024
 Seele Gnade Treatise::242030020
 Shadow Lord Tome::242030605
+Shashthi Treatise::242030051
 Shinatsuhime Codex::242030511
 Shining Shadow Treatise::242030608
 Sigrdrifa Treatise::242030320
