@@ -42,6 +42,7 @@ Cat Express Ticket::564003001
 
 
 
+
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -84,6 +85,7 @@ Arcturus Tome::242030425
 Areadbhar Treatise::242030411
 Areth's Diamond Tome::242031401
 Aristocrat Treatise::242030418
+Armiger Starchart::242015017
 Armiger Tome::242030501
 Assassin's Fist Tome::242020600
 Asura Tome::242020200
@@ -192,6 +194,8 @@ Flare Knight Treatise::242030119
 Flare Witch Psalm::242030015
 Forerunner Tome::242020401
 Fortuna Treatise::242030019
+Fragarach Codex::242030136
+Fragarach Starchart::242011016
 Fraulein Opus::242030124
 Futsunomitama Codex::242030230
 Futsunomitama Starchart::242012020
@@ -357,6 +361,7 @@ Sarashinahime Treatise::242030213
 Sayorihime Treatise::242030024
 Seele Gnade Treatise::242030020
 Shadow Lord Tome::242030605
+Shashthi Starchart::242010023
 Shashthi Treatise::242030051
 Shinatsuhime Codex::242030511
 Shining Shadow Treatise::242030608
