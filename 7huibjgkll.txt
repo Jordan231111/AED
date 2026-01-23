@@ -43,6 +43,7 @@ Cat Express Ticket::564003001
 
 
 
+
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -95,6 +96,8 @@ Atlas Tome::242030327
 Avenger Tome::242020703
 Avesta Treatise::242030121
 Bard Tome::242020501
+Bastet Starchart::242016008
+Bastet Tome::242030623
 Battler Tome::242020304
 Beauty Police Treatise::242030111
 Berserker Tome::242020302
@@ -120,6 +123,7 @@ Bête Théâtrale Starchart::242011007
 Bûcheron Treatise::242030314
 Camena Starchart::242011008
 Camena Treatise::242030132
+Carmilla Starchart::242010024
 Carmilla Tome::242030033
 Channeler Tome::242020010
 Chant Script::242000003
@@ -395,6 +399,8 @@ Sweet Lady Treatise::242030325
 Sword Master Tome::242020102
 Taiyi Zhenren Starchart::242010003
 Taiyi Zhenren Tome::242030040
+Takeminakata Starchart::242015018
+Takeminakata Treatise::242030528
 Takuhatachiji Opus::242030225
 Takuhatachiji Starchart::242012012
 Tea Maiden Treatise::242030709
