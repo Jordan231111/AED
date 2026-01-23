@@ -10592,459 +10592,1068 @@ Woodcutter's Fragment::177900002
 
 
 
-Okashiume Bonsai::565000235
-Defeat the Jewel Vessel!::565000079
-Ferry Petals::565000447
-Dragon Action - Deep Dive::565000413
-SPD+ (M)::565000563
-Cat Ema::565000022
-Make it day Item::565000353
-Dragon Action - Swim::565000409
-Dragon Action - Claws::565000426
-Embedded Ladder::565000092
-Pro Toto Watch::565000119
-Water Type Attack+ (S)::565000668
-Lever (Left)::565000226
-Witch's Tears::565000446
-Craftsman's Hammer::565000269
-Space Stabilizer++::565000457
-Mission Book::565000177
-Slumberlotus Leaf::565000107
-2B Key::565000044
-Potential+ (Kyo)::565000557
-Dragon Action - Claws::565000389
-T. Dragontear Weapon - Ranged::565000370
-Shovel::565000278
-Water Release::565000039
-Strength+ When Critical::565000464
-Fire Release::565000038
-MAX MODE Extend (L)::565000465
-Dragon Action - Flames::565000402
-Water type::565000252
-Toto Watch::565000118
-Dragon Action - Swim::565000429
-Defeat the Large White Lie Bug!::565000073
-Critical Rate+ (M)::565000565
-Large Crystal::565000449
-Mission Book::565000181
-Funereal Melody::565000014
-Battery (B)::565000671
-Defeat the Captured One!::565000068
-Ironwall Circle::565000194
-Toto Crystal::565000120
-Ancient Forest's Fragment::565000031
-Defeat the Jewel Princess!::565000082
-Gathering Orb::565000098
-Handy Fan::565000110
-Mission Book::565000160
-Cat Book::565000239
-Smashy Hammer::565000015
-Discount Ticket::565000140
-Mission Book::565000163
-2A Key::565000043
-Defeat the Avidya Bug!::565000080
-Mimi Incense::565000114
-Crystal of Fall Leaves::565000024
-Silence's Scent::565000020
-Forest Wall-painting::565000034
-Teleportant Core::565000018
-Genesis Dogu::565000093
-Firehater Boots::565000019
-Moonlight Fragment::565000023
-Defeat the Captured One!::565000078
-Junk::565000021
-Slothfiend's Bile::565000016
-Binding Power::565000037
-3C Key::565000042
-Defeat The Rejected!::565000071
-2E Key::565000045
-Toto's Sabre::565000108
-Monster Femur::565000029
-Colors of the Moon::565000026
-Mission Book::565000166
-Superior Dogu::565000030
-Defeat The Rejected!::565000081
-Wind Release::565000040
-Colors of the Snow::565000028
-Mountain Wall-painting::565000035
-Wonderspark::565000013
 1C Key::565000046
-Turbo Handy Fan::565000111
-Snow-white Ice Stone::565000025
-7D Key::565000051
-Earth Release::565000041
-Colors of the Fall Leaves::565000027
-6D Key::565000049
-Ironwall Circle::565000193
-Raw Materials::565000086
-Swift Orb::565000096
-Standard Pass::565000116
-Attack Orb::565000094
-Defeat the Jewel Queen!::565000074
-8A Key::565000052
-Underworld Bill Hook::565000091
-Unlock everything on the map::565000100
-Aged Mushroom::565000089
-Sea-drift::565000084
-Oilcan::565000059
-Whirling Tides' Fragment::565000033
-Altered Ore::565000054
-Mission Book::565000151
-Mountaintop's Fragment::565000032
-Decoration Tray 2::565000243
-Defeat the Jewel Eye!::565000077
-Souvenir Pass::565000135
-Tranquil Orb::565000097
-Mimi Incense Deluxe::565000115
-Dragontear Weapon - Smashing::565000373
-T. Toto's Sabre::565000109
-Aharetake Bonsai::565000234
-Mission Book::565000153
-Fireworks Bomb::565000113
-Treasure Key::565000136
-Magic Key::565000099
-Defeat the White Lie Bug!::565000076
-Mission Book::565000154
-T. Dragontear Weapon - Edged::565000372
-8E Key::565000053
-Dragon Action - Wind::565000387
-Second Sight Orb::565000143
-Make it day Item::565000355
-Wind type::565000261
-Defeat the Jewel Eye!::565000067
-Prayer Mirror::565000090
-Mission Book::565000146
-Cleansing Holy Water::565000138
-Mission Book::565000169
 1E Key::565000047
-Mission Book::565000147
-Mission Book::565000156
-Rope::565000279
-Spare Battery::565000340
-Firework Explosive::565000112
-FnviteInfoConfirmItem::565000379
-Mission Book::565000170
-Dragontear Weapon - Piercing::565000334
-Mission Book::565000152
-Mission Book::565000159
-Defeat the Avidya Bug!::565000070
-Mission Book::565000158
-Mission Book::565000179
-Smoke Ball::565000139
-Mission Book::565000155
-Lever (Right)::565000227
-Vitality Orb::565000142
-Mission Book::565000173
-Plate::565000246
-Defense Orb::565000095
-InviteInfoConfirmItem::565000381
-Newlife Circle::565000197
-Thunder type::565000254
-Time Charm::565000137
-Mission Book::565000172
-Mission Book::565000191
-Defeat the Jewel Vessel!::565000069
-Mission Book::565000157
-Jamming Device::565000060
-Mission Book::565000164
-Valve Oil::565000268
-Godspeed Circle::565000195
-Cat Dogu::565000085
-Waning Orb::565000144
-Pictorial Key::565000017
-Mission Book::565000171
-Owl Bell::565000267
-Toto Medal::565000145
-Mission Book::565000192
-Ochoko::565000245
-Mission Book::565000168
-Mission Book::565000161
-Defeat the White Lie Bug!::565000066
-Mural Fragment::565000088
-Redtooth Circle::565000202
-Mission Book::565000182
-Grappling Hook::565000280
-Mission Book::565000178
-Defeat the Jewel Queen!::565000064
-Decoration Tray 3::565000244
-Dragontear Weapon - Piercing::565000367
-Lever (Forward)::565000228
-Mission Book::565000183
-Dragon Action - Dismount::565000405
-Mission Book::565000189
-Decoration Tray 1::565000242
-Newlife Circle::565000198
-Allwise Circle::565000200
-Roast Fish::565000241
-Primeval Blessing::565000214
-Mission Book::565000188
-Spirit Stone Fragment::565000055
-Wasting Circle::565000206
-Mission Book::565000185
-Redtooth Circle::565000201
-Suspicious Key::565000273
-Space Stabilizer::565000288
-Rabbit Book::565000237
-Tall Bottle::565000248
-Repair Module::565000270
-Dragontear Weapon - Ranged::565000377
-Dragon Action - Fire::565000408
-Small Seed::565000283
-Bird Book::565000238
-Lever (Down)::565000225
-Dragon Action - Claws::565000406
-T. Dragontear Weapon - Piercing::565000376
-Primeval Blessing::565000213
-Mission Book::565000184
-Fire type::565000251
-Hardshell Circle::565000208
-Miyabimatsu Bonsai::565000233
-Mission Book::565000190
-Gear::565000232
-Cyber Mononofu::565000393
-Lever (Back)::565000229
-Plagued Circle::565000212
-Make it night Item::565000360
+1G Key::565000048
+2A Key::565000043
+2B Key::565000044
+2E Key::565000045
+3C Key::565000042
+6D Key::565000049
+7C Key::565000050
+7D Key::565000051
+8A Key::565000052
+8E Key::565000053
+Aged Mushroom::565000089
+Aharetake Bonsai::565000234
+Air Scooter Key::565000695
+All Stats+::565000561
+All Stats+::565000661
 Allwise Circle::565000199
-Thunder type::565000262
-Wind type::565000253
-Bottle::565000296
-Auto Armor::565000314
-Wasting Circle::565000205
-Water type::565000260
-Space Stabilizer++::565000347
-Old Key::565000274
-Mission Book::565000176
-Nepeta::565000337
-Teapot::565000247
-Thunder type::565000258
-T. Dragontear Weapon - Piercing::565000368
-Golden Screw::565000264
-Time Stabilizer::565000291
-Revitalizer::565000294
-Mission Book::565000149
-Hardshell Circle::565000207
-Consumed Circle::565000209
-Katana::565000240
-Plagued Circle::565000211
-Godspeed Circle::565000196
-Toolbox::565000277
-Unlocking Memo::565000250
-Rusted Parts::565000263
-Light Seed::565000272
-Passcard (Yellow)::565000302
-Time Stabilizer++::565000293
-Short Hand::565000286
-Water type::565000256
-Wind type::565000257
-Space Stabilizer+::565000289
-Offering::565000057
-RoboGimmick2::565000322
-Mission Book::565000175
-Passcard (Red)::565000303
+Allwise Circle::565000200
+Altered Ore::565000054
+Ancient Forest's Fragment::565000031
 Ancient Tome::565000297
-Time Stabilizer++::565000350
-Chandelier Trap Lever::565000317
-Drinko Classic::565000305
-Ticket::565000266
-Cyber Rikishi::565000396
-Dragontear Weapon - Smashing::565000333
-T. Dragontear Weapon - Smashing::565000374
-Unstable Fragments::565000265
-Spiritguard Circle::565000203
-Old Helmet::565000295
-Make it day Item::565000359
-Hunter License::565000271
-Mission Book::565000180
-Time Stabilizer+::565000292
-Meteor Chunk::565000338
-Dragon Action - Fire::565000388
-Lantern::565000281
-Heat Trap Lever::565000316
 Archaeologist's Notebook::565000298
-Ladder::565000231
-Needle of Punctuality::565000311
-Dove of Purgation::565000312
-Fragrant Fluid::565000329
-Dragontear Weapon - Piercing::565000375
-Fire type::565000255
+Atonement Stone::565000685
+Attack Orb::565000094
+Attraction Map::565000134
+Auto Armor::565000314
+Auto Armor::565000325
+Axe Lv. 10::565001839
+Axe Lv. 10::565001840
+Axe Lv. 10::565001841
+Axe Lv. 10::565001842
+Axe Lv. 10::565001843
+Axe Lv. 10::565001844
+Axe Lv. 10::565001845
+Axe Lv. 10::565001846
+Axe Lv. 10::565001847
+Axe Lv. 10::565002260
+Axe Lv. 10::565002261
+Axe Lv. 10::565002262
+Axe Lv. 1::565000830
+Axe Lv. 1::565000831
+Axe Lv. 1::565000832
+Axe Lv. 1::565000833
+Axe Lv. 1::565000834
+Axe Lv. 1::565000835
+Axe Lv. 1::565000836
+Axe Lv. 1::565000837
+Axe Lv. 1::565000838
+Axe Lv. 1::565001851
+Axe Lv. 1::565001852
+Axe Lv. 2::565000850
+Axe Lv. 2::565000851
+Axe Lv. 2::565000852
+Axe Lv. 2::565000853
+Axe Lv. 2::565000854
+Axe Lv. 2::565000855
+Axe Lv. 2::565000856
+Axe Lv. 2::565000857
+Axe Lv. 2::565000858
+Axe Lv. 2::565001900
+Axe Lv. 2::565001901
+Axe Lv. 2::565001902
+Axe Lv. 3::565000870
+Axe Lv. 3::565000871
+Axe Lv. 3::565000872
+Axe Lv. 3::565000873
+Axe Lv. 3::565000874
+Axe Lv. 3::565000875
+Axe Lv. 3::565000876
+Axe Lv. 3::565000877
+Axe Lv. 3::565000878
+Axe Lv. 3::565001950
+Axe Lv. 3::565001951
+Axe Lv. 3::565001952
+Axe Lv. 4::565000879
+Axe Lv. 4::565000880
+Axe Lv. 4::565000881
+Axe Lv. 4::565000882
+Axe Lv. 4::565000883
+Axe Lv. 4::565000884
+Axe Lv. 4::565000885
+Axe Lv. 4::565000886
+Axe Lv. 4::565000887
+Axe Lv. 4::565002000
+Axe Lv. 4::565002001
+Axe Lv. 4::565002002
+Axe Lv. 5::565000888
+Axe Lv. 5::565000889
+Axe Lv. 5::565000890
+Axe Lv. 5::565000891
+Axe Lv. 5::565000892
+Axe Lv. 5::565000893
+Axe Lv. 5::565000894
+Axe Lv. 5::565000895
+Axe Lv. 5::565000896
+Axe Lv. 5::565002050
+Axe Lv. 5::565002051
+Axe Lv. 5::565002052
+Axe Lv. 6::565000897
+Axe Lv. 6::565000898
+Axe Lv. 6::565000899
+Axe Lv. 6::565000900
+Axe Lv. 6::565000901
+Axe Lv. 6::565000902
+Axe Lv. 6::565000903
+Axe Lv. 6::565000904
+Axe Lv. 6::565000905
+Axe Lv. 6::565002100
+Axe Lv. 6::565002101
+Axe Lv. 6::565002102
+Axe Lv. 7::565001812
+Axe Lv. 7::565001813
+Axe Lv. 7::565001814
+Axe Lv. 7::565001815
+Axe Lv. 7::565001816
+Axe Lv. 7::565001817
+Axe Lv. 7::565001818
+Axe Lv. 7::565001819
+Axe Lv. 7::565001820
+Axe Lv. 7::565002150
+Axe Lv. 7::565002151
+Axe Lv. 7::565002152
+Axe Lv. 8::565001821
+Axe Lv. 8::565001822
+Axe Lv. 8::565001823
+Axe Lv. 8::565001824
+Axe Lv. 8::565001825
+Axe Lv. 8::565001826
+Axe Lv. 8::565001827
+Axe Lv. 8::565001828
+Axe Lv. 8::565001829
+Axe Lv. 8::565002200
+Axe Lv. 8::565002201
+Axe Lv. 8::565002202
+Axe Lv. 9::565001830
+Axe Lv. 9::565001831
+Axe Lv. 9::565001832
+Axe Lv. 9::565001833
+Axe Lv. 9::565001834
+Axe Lv. 9::565001835
+Axe Lv. 9::565001836
+Axe Lv. 9::565001837
+Axe Lv. 9::565001838
+Axe Lv. 9::565002250
+Axe Lv. 9::565002251
+Axe Lv. 9::565002252
+Bad Security Blueprint::565001204
+Ballista::565000319
 Ballista::565000330
-RoboGimmick3::565000323
-Mission Book::565000165
-Make it day Item::565000357
-Chain::565000230
-Defeat the Dragger!::565000075
-Long Hand::565000287
-Make it night Item::565000354
-Make it night Item::565000362
-Potential+ (Mai)::565000558
-Passcard (Purple)::565000304
-Drinko Premium::565000306
-Pendulum of Deferral::565000310
-Mission Book::565000186
-Mission Book::565000187
-Make it night Item::565000356
-Dragon Action - Fly::565000385
-Hang Glider::565000282
-Kyatnap::565000336
-T. Dragontear Weapon - Smashing::565000366
-Shiny Seed::565000284
-Dragontear Weapon - Ranged::565000369
-Dragon Action - Gale::565000401
-Fuel Tank::565000344
-Compass Hand::565000313
-Crack Chip::565000342
-Dragontear Weapon - Smashing::565000365
-RoboGimmick1::565000321
-Dragontear Weapon - Edged::565000363
-Heat Trap Lever::565000327
-InviteInfoConfirmItem::565000380
-Mr. Onsa::565000395
-Dragontear Weapon - Edged::565000332
-Fragrant Fluid::565000318
-Passcard (Green)::565000301
-Cocoon of Order::565000307
-Chandelier Trap Lever::565000328
-Spike Floor Trap Lever::565000315
-Dragon Action - Swim::565000399
-Time Stabilizer+::565000349
-Washbasin::565000320
-Dragontear Weapon - Ranged::565000335
-Dragon Action - Fire::565000398
-Dragon Action - Fire::565000428
-Make it day Item::565000361
-InviteInfoConfirmItem::565000384
-Washbasin::565000331
-Dragon Action - Gale::565000421
-Magic Attack Damage+::565000463
-Dragon Action - Flames::565000422
-Magic Critical Rate+::565000462
-Dragon Action - Deep Dive::565000403
-Dragontear Weapon - Edged::565000371
-Dragon Action - Wind::565000427
-Dragon Action - Wind::565000397
-Pulsing Seed::565000285
-Dragon Action - Dismount::565000425
-Dragon Action - Flames::565000432
-Bug Repellent::565000675
-Spike Floor Trap Lever::565000326
-Dragon Action - Claws::565000416
-Dragon Action - Dismount::565000391
-Cyber Dragon::565000394
-Handy Rope::565000681
-Treasure Room Key::565000299
-InviteInfoConfirmItem::565000383
-Dragon Action - Deep Dive::565000433
-InviteInfoConfirmItem::565000382
-Dragon Action - Gale::565000411
-Make it night Item::565000352
+Battery (B)::565000671
 Battery (P)::565000673
-Witchy Hat::565000450
-Dragon Action - Sharp Claws::565000420
-T. Dragontear Weapon - Ranged::565000378
-Dragon Action - Wind::565000407
-Sharp Scythe::565000678
-Lacquered Plank::565000676
-Dragon Action - Fire::565000418
-SPD+ (S)::565000663
-Dragon Action - Sharp Claws::565000400
+Battery (R)::565000672
+Battlecore B::565000439
+Battlecore G::565000437
+Battlecore S::565000438
+Binding Power::565000037
+Bird Book::565000238
+Bottle::565000296
+Broomseed::565000445
+Bug Repellent::565000675
+Bug Repellent::565000679
+Bus Ticket::565000339
+Candlestick::565000236
+Capsule Cube::565000697
+Captain's Quarters Blueprint::565001205
+Cat Book::565000239
+Cat Deity's Beads::565000056
+Cat Dogu::565000085
+Cat Ema::565000022
+Cetie::565000689
+Chain::565000230
+Chandelier Trap Lever::565000317
+Chandelier Trap Lever::565000328
+Cleansing Holy Water::565000138
+Cocoon of Order::565000307
+Collect Fractal Seeds.::565000684
+Colors of the Fall Leaves::565000027
+Colors of the Moon::565000026
+Colors of the Snow::565000028
+Compact Calculator::565000434
+Compass Hand::565000313
+Consumed Circle::565000209
+Consumed Circle::565000210
+Crack Chip::565000342
+Crafting Recipe::565001150
+Crafting Recipe::565001151
+Crafting Recipe::565001152
+Crafting Recipe::565001153
+Crafting Recipe::565001154
+Crafting Recipe::565001155
+Crafting Recipe::565001156
+Crafting Recipe::565001157
+Crafting Recipe::565001158
+Crafting Recipe::565001159
+Crafting Recipe::565001160
+Crafting Recipe::565001161
+Crafting Recipe::565003800
+Crafting Recipe::565003801
+Crafting Recipe::565003802
+Crafting Recipe::565003803
+Crafting Recipe::565003804
+Crafting Recipe::565003805
+Crafting Recipe::565003806
+Crafting Recipe::565003807
+Crafting Recipe::565003808
+Crafting Recipe::565003809
+Crafting Recipe::565003810
+Crafting Recipe::565003811
+Craftsman's Hammer::565000269
+Critical Rate+ (L)::565000461
+Critical Rate+ (M)::565000565
+Critical Rate+ (S)::565000665
+Crystal of Fall Leaves::565000024
+Curved Sword Replica::565000451
+Cyber Dragon::565000394
+Cyber Mononofu::565000393
+Cyber Rikishi::565000396
+Decoration Tray 1::565000242
+Decoration Tray 2::565000243
+Decoration Tray 3::565000244
+Defeat The Rejected!::565000071
+Defeat The Rejected!::565000081
+Defeat the Avidya Bug!::565000070
+Defeat the Avidya Bug!::565000080
+Defeat the Captured One!::565000068
+Defeat the Captured One!::565000078
+Defeat the Dragger!::565000065
+Defeat the Dragger!::565000075
+Defeat the Jewel Eye!::565000067
+Defeat the Jewel Eye!::565000077
+Defeat the Jewel Princess!::565000072
+Defeat the Jewel Princess!::565000082
+Defeat the Jewel Queen!::565000064
+Defeat the Jewel Queen!::565000074
+Defeat the Jewel Vessel!::565000069
+Defeat the Jewel Vessel!::565000079
+Defeat the Large White Lie Bug!::565000073
+Defeat the Large White Lie Bug!::565000083
+Defeat the White Lie Bug!::565000066
+Defeat the White Lie Bug!::565000076
+Defense Orb::565000095
+Discount Ticket::565000140
+Dove of Purgation::565000312
+Dragon Action - Claws::565000389
+Dragon Action - Claws::565000392
+Dragon Action - Claws::565000406
+Dragon Action - Claws::565000416
+Dragon Action - Claws::565000426
+Dragon Action - Deep Dive::565000403
+Dragon Action - Deep Dive::565000413
+Dragon Action - Deep Dive::565000423
+Dragon Action - Deep Dive::565000433
+Dragon Action - Dismount::565000391
+Dragon Action - Dismount::565000405
 Dragon Action - Dismount::565000415
-Dragon Action - Ride::565000404
+Dragon Action - Dismount::565000425
+Dragon Action - Fire::565000388
+Dragon Action - Fire::565000398
+Dragon Action - Fire::565000408
+Dragon Action - Fire::565000418
+Dragon Action - Fire::565000428
+Dragon Action - Flames::565000402
 Dragon Action - Flames::565000412
+Dragon Action - Flames::565000422
+Dragon Action - Flames::565000432
+Dragon Action - Fly::565000385
+Dragon Action - Gale::565000401
+Dragon Action - Gale::565000411
+Dragon Action - Gale::565000421
+Dragon Action - Gale::565000431
+Dragon Action - Ride::565000390
+Dragon Action - Ride::565000404
 Dragon Action - Ride::565000414
 Dragon Action - Ride::565000424
-Battery (R)::565000672
-Dragon Action - Wind::565000417
-Time Stabilizer++::565000460
-Dragon Action - Swim::565000386
-Space Stabilizer+::565000346
+Dragon Action - Sharp Claws::565000400
+Dragon Action - Sharp Claws::565000410
+Dragon Action - Sharp Claws::565000420
 Dragon Action - Sharp Claws::565000430
-Dragon Action - Claws::565000392
-Space Stabilizer::565000345
-Dragon Action - Deep Dive::565000423
-Battlecore G::565000437
-MAX MODE Extend (M)::565000564
-Broomseed::565000445
-Kagurame's Sight::565000682
+Dragon Action - Swim::565000386
+Dragon Action - Swim::565000399
+Dragon Action - Swim::565000409
+Dragon Action - Swim::565000419
+Dragon Action - Swim::565000429
+Dragon Action - Wind::565000387
+Dragon Action - Wind::565000397
+Dragon Action - Wind::565000407
+Dragon Action - Wind::565000417
+Dragon Action - Wind::565000427
+Dragon Flag::565000454
+Dragontear Weapon - Edged::565000332
+Dragontear Weapon - Edged::565000363
+Dragontear Weapon - Edged::565000371
+Dragontear Weapon - Piercing::565000334
+Dragontear Weapon - Piercing::565000367
+Dragontear Weapon - Piercing::565000375
+Dragontear Weapon - Ranged::565000335
+Dragontear Weapon - Ranged::565000369
+Dragontear Weapon - Ranged::565000377
+Dragontear Weapon - Smashing::565000333
+Dragontear Weapon - Smashing::565000365
+Dragontear Weapon - Smashing::565000373
+Drinko Classic::565000305
+Drinko Premium::565000306
+Earth Release::565000041
+Earth Type Attack+ (M)::565000569
+Earth Type Attack+ (S)::565000669
+Edaxian Fragment::565000694
+Elecuum::565003250
+Elecuum::565003300
+Elecuum::565003301
+Elecuum::565003350
+Elecuum::565003400
+Elecuum::565003401
+Embedded Ladder::565000092
+Entry Pass::565000696
+Ferry Petals::565000447
+Fire Release::565000038
+Fire Type Attack+ (M)::565000567
+Fire Type Attack+ (S)::565000667
+Fire type::565000251
+Fire type::565000255
+Fire type::565000259
+Firehater Boots::565000019
+Firework Explosive::565000112
+Fireworks Bomb::565000113
+Forest Wall-painting::565000034
+Fractal Seeds::565000683
+Fragrant Fluid::565000318
+Fragrant Fluid::565000329
+Fuel Tank::565000344
+Funereal Melody::565000014
+Gate Key::565000698
+Gate Pass::565000448
+Gathering Orb::565000098
+Gear::565000232
+Genesis Dogu::565000093
+Godspeed Circle::565000195
+Godspeed Circle::565000196
+Golden Screw::565000264
+Grappling Hook::565000280
+Gravity Device Repair Kit::565000703
+Handy Fan::565000110
 Handy Rope::565000677
+Handy Rope::565000681
+Hang Glider::565000282
+Hardshell Circle::565000207
+Hardshell Circle::565000208
+Heat Trap Lever::565000316
+Heat Trap Lever::565000327
+High-Purity Glass::565000453
+Hunter License::565000271
+ID Card::565000063
+Industrial Cutter::565000061
+Inspect::565000712
+Investigators::565000691
+InviteInfoConfirmItem::565000379
+InviteInfoConfirmItem::565000380
+InviteInfoConfirmItem::565000381
+InviteInfoConfirmItem::565000382
+InviteInfoConfirmItem::565000383
+InviteInfoConfirmItem::565000384
+Ironwall Circle::565000193
+Ironwall Circle::565000194
+Jamming Device::565000060
+Junk::565000021
+Kagurame's Sight::565000682
+Katana::565000240
+Kyatnap::565000336
+Lacquered Plank::565000676
+Lacquered Plank::565000680
+Ladder::565000231
+Lantern::565000281
+Lantern::565000743
+Lantern::565000744
+Large Crystal::565000449
+Lazuline Plate::565000452
+Lever (Back)::565000229
+Lever (Down)::565000225
+Lever (Forward)::565000228
+Lever (Left)::565000226
+Lever (Right)::565000227
+Lever (Up)::565000224
+Light Orb::565000701
+Light Seed::565000272
+Linaria::565000688
+Live Concert Ticket::565000058
+Long Hand::565000287
+MAX MODE Extend (L)::565000465
+MAX MODE Extend (M)::565000564
 MAX MODE Extend (S)::565000664
+Magic Attack Damage+::565000463
+Magic Critical Rate+::565000462
+Magic Key::565000099
+Make it day Item::565000351
+Make it day Item::565000353
+Make it day Item::565000355
+Make it day Item::565000357
+Make it day Item::565000359
+Make it day Item::565000361
+Make it night Item::565000352
+Make it night Item::565000354
+Make it night Item::565000356
+Make it night Item::565000358
+Make it night Item::565000360
+Make it night Item::565000362
+Master Key::565000343
+Memo::565000713
+Mercy Keep Map::565000249
+Meteor Chunk::565000338
+Miasma Orb::565000714
+Mimi Incense Deluxe::565000115
+Mimi Incense::565000114
+Mini Cleaner::565000341
+Mission Book::565000146
+Mission Book::565000147
+Mission Book::565000148
+Mission Book::565000149
+Mission Book::565000150
+Mission Book::565000151
+Mission Book::565000152
+Mission Book::565000153
+Mission Book::565000154
+Mission Book::565000155
+Mission Book::565000156
+Mission Book::565000157
+Mission Book::565000158
+Mission Book::565000159
+Mission Book::565000160
+Mission Book::565000161
+Mission Book::565000162
+Mission Book::565000163
+Mission Book::565000164
+Mission Book::565000165
+Mission Book::565000166
+Mission Book::565000167
+Mission Book::565000168
+Mission Book::565000169
+Mission Book::565000170
+Mission Book::565000171
+Mission Book::565000172
+Mission Book::565000173
+Mission Book::565000174
+Mission Book::565000175
+Mission Book::565000176
+Mission Book::565000177
+Mission Book::565000178
+Mission Book::565000179
+Mission Book::565000180
+Mission Book::565000181
+Mission Book::565000182
+Mission Book::565000183
+Mission Book::565000184
+Mission Book::565000185
+Mission Book::565000186
+Mission Book::565000187
+Mission Book::565000188
+Mission Book::565000189
+Mission Book::565000190
+Mission Book::565000191
+Mission Book::565000192
+Mistaken Elevator Blueprint::565001206
+Miyabimatsu Bonsai::565000233
+Monster Femur::565000029
+Moonlight Fragment::565000023
+Motivashroom::565000300
+Mountain Wall-painting::565000035
+Mountaintop's Fragment::565000032
+Mr. Onsa::565000395
+Mural Fragment::565000088
+Needle of Punctuality::565000311
+Nepeta::565000337
+Newlife Circle::565000197
+Newlife Circle::565000198
+Notebook::565000686
+Notebook::565000710
+Nullon::565000435
+Nullon::565000436
+Observation Deck Blueprint::565001207
+Ochoko::565000245
+Offering::565000057
+Oilcan::565000059
+Okashiume Bonsai::565000235
+Old Helmet::565000295
+Old Key::565000274
+Owl Bell::565000267
+PWR+ (M)::565000562
+PWR+ (S)::565000662
+Passcard (Green)::565000301
+Passcard (Purple)::565000304
+Passcard (Red)::565000303
+Passcard (Yellow)::565000302
+Pause Investigation::565000711
+Pendulum of Deferral::565000310
+Pickaxe Lv. 10::565001427
+Pickaxe Lv. 10::565001428
+Pickaxe Lv. 10::565001429
+Pickaxe Lv. 10::565001430
+Pickaxe Lv. 10::565001431
+Pickaxe Lv. 10::565001432
+Pickaxe Lv. 10::565001433
+Pickaxe Lv. 10::565001434
+Pickaxe Lv. 10::565001435
+Pickaxe Lv. 10::565002710
+Pickaxe Lv. 10::565002711
+Pickaxe Lv. 10::565002712
+Pickaxe Lv. 10::565002831
+Pickaxe Lv. 10::565002832
+Pickaxe Lv. 10::565002833
+Pickaxe Lv. 10::565002834
+Pickaxe Lv. 10::565002835
+Pickaxe Lv. 10::565002836
+Pickaxe Lv. 10::565002837
+Pickaxe Lv. 10::565002838
+Pickaxe Lv. 10::565002839
+Pickaxe Lv. 10::565002858
+Pickaxe Lv. 10::565002859
+Pickaxe Lv. 10::565002909
+Pickaxe Lv. 1::565000910
+Pickaxe Lv. 1::565000911
+Pickaxe Lv. 1::565000912
+Pickaxe Lv. 1::565000913
+Pickaxe Lv. 1::565000914
+Pickaxe Lv. 1::565000915
+Pickaxe Lv. 1::565000916
+Pickaxe Lv. 1::565000917
+Pickaxe Lv. 1::565000918
+Pickaxe Lv. 1::565002300
+Pickaxe Lv. 1::565002301
+Pickaxe Lv. 1::565002302
+Pickaxe Lv. 1::565002600
+Pickaxe Lv. 1::565002750
+Pickaxe Lv. 1::565002751
+Pickaxe Lv. 1::565002752
+Pickaxe Lv. 1::565002753
+Pickaxe Lv. 1::565002754
+Pickaxe Lv. 1::565002755
+Pickaxe Lv. 1::565002756
+Pickaxe Lv. 1::565002757
+Pickaxe Lv. 1::565002758
+Pickaxe Lv. 1::565002840
+Pickaxe Lv. 1::565002841
+Pickaxe Lv. 1::565002900
+Pickaxe Lv. 2::565000930
+Pickaxe Lv. 2::565000931
+Pickaxe Lv. 2::565000932
+Pickaxe Lv. 2::565000933
+Pickaxe Lv. 2::565000934
+Pickaxe Lv. 2::565000935
+Pickaxe Lv. 2::565000936
+Pickaxe Lv. 2::565000937
+Pickaxe Lv. 2::565000938
+Pickaxe Lv. 2::565002350
+Pickaxe Lv. 2::565002351
+Pickaxe Lv. 2::565002352
+Pickaxe Lv. 2::565002759
+Pickaxe Lv. 2::565002760
+Pickaxe Lv. 2::565002761
+Pickaxe Lv. 2::565002762
+Pickaxe Lv. 2::565002763
+Pickaxe Lv. 2::565002764
+Pickaxe Lv. 2::565002765
+Pickaxe Lv. 2::565002766
+Pickaxe Lv. 2::565002767
+Pickaxe Lv. 2::565002842
+Pickaxe Lv. 2::565002843
+Pickaxe Lv. 2::565002901
+Pickaxe Lv. 3::565000950
+Pickaxe Lv. 3::565000951
+Pickaxe Lv. 3::565000952
+Pickaxe Lv. 3::565000953
+Pickaxe Lv. 3::565000954
+Pickaxe Lv. 3::565000955
+Pickaxe Lv. 3::565000956
+Pickaxe Lv. 3::565000957
+Pickaxe Lv. 3::565000958
+Pickaxe Lv. 3::565002400
+Pickaxe Lv. 3::565002401
+Pickaxe Lv. 3::565002402
+Pickaxe Lv. 3::565002768
+Pickaxe Lv. 3::565002769
+Pickaxe Lv. 3::565002770
+Pickaxe Lv. 3::565002771
+Pickaxe Lv. 3::565002772
+Pickaxe Lv. 3::565002773
+Pickaxe Lv. 3::565002774
+Pickaxe Lv. 3::565002775
+Pickaxe Lv. 3::565002776
+Pickaxe Lv. 3::565002844
+Pickaxe Lv. 3::565002845
+Pickaxe Lv. 3::565002902
+Pickaxe Lv. 4::565000959
+Pickaxe Lv. 4::565000960
+Pickaxe Lv. 4::565000961
+Pickaxe Lv. 4::565000962
+Pickaxe Lv. 4::565000963
+Pickaxe Lv. 4::565000964
+Pickaxe Lv. 4::565000965
+Pickaxe Lv. 4::565000966
+Pickaxe Lv. 4::565000967
+Pickaxe Lv. 4::565002450
+Pickaxe Lv. 4::565002451
+Pickaxe Lv. 4::565002452
+Pickaxe Lv. 4::565002777
+Pickaxe Lv. 4::565002778
+Pickaxe Lv. 4::565002779
+Pickaxe Lv. 4::565002780
+Pickaxe Lv. 4::565002781
+Pickaxe Lv. 4::565002782
+Pickaxe Lv. 4::565002783
+Pickaxe Lv. 4::565002784
+Pickaxe Lv. 4::565002785
+Pickaxe Lv. 4::565002846
+Pickaxe Lv. 4::565002847
+Pickaxe Lv. 4::565002903
+Pickaxe Lv. 5::565000968
+Pickaxe Lv. 5::565000969
+Pickaxe Lv. 5::565000970
+Pickaxe Lv. 5::565000971
+Pickaxe Lv. 5::565000972
+Pickaxe Lv. 5::565000973
+Pickaxe Lv. 5::565000974
+Pickaxe Lv. 5::565000975
+Pickaxe Lv. 5::565000976
+Pickaxe Lv. 5::565002500
+Pickaxe Lv. 5::565002501
+Pickaxe Lv. 5::565002502
+Pickaxe Lv. 5::565002786
+Pickaxe Lv. 5::565002787
+Pickaxe Lv. 5::565002788
+Pickaxe Lv. 5::565002789
+Pickaxe Lv. 5::565002790
+Pickaxe Lv. 5::565002791
+Pickaxe Lv. 5::565002792
+Pickaxe Lv. 5::565002793
+Pickaxe Lv. 5::565002794
+Pickaxe Lv. 5::565002848
+Pickaxe Lv. 5::565002849
+Pickaxe Lv. 5::565002904
+Pickaxe Lv. 6::565000977
+Pickaxe Lv. 6::565000978
+Pickaxe Lv. 6::565000979
+Pickaxe Lv. 6::565000980
+Pickaxe Lv. 6::565000981
+Pickaxe Lv. 6::565000982
+Pickaxe Lv. 6::565000983
+Pickaxe Lv. 6::565000984
+Pickaxe Lv. 6::565000985
+Pickaxe Lv. 6::565002550
+Pickaxe Lv. 6::565002551
+Pickaxe Lv. 6::565002552
+Pickaxe Lv. 6::565002795
+Pickaxe Lv. 6::565002796
+Pickaxe Lv. 6::565002797
+Pickaxe Lv. 6::565002798
+Pickaxe Lv. 6::565002799
+Pickaxe Lv. 6::565002800
+Pickaxe Lv. 6::565002801
+Pickaxe Lv. 6::565002802
+Pickaxe Lv. 6::565002803
+Pickaxe Lv. 6::565002850
+Pickaxe Lv. 6::565002851
+Pickaxe Lv. 6::565002905
+Pickaxe Lv. 7::565001400
+Pickaxe Lv. 7::565001401
+Pickaxe Lv. 7::565001402
+Pickaxe Lv. 7::565001403
+Pickaxe Lv. 7::565001404
+Pickaxe Lv. 7::565001405
+Pickaxe Lv. 7::565001406
+Pickaxe Lv. 7::565001407
+Pickaxe Lv. 7::565001408
+Pickaxe Lv. 7::565002601
+Pickaxe Lv. 7::565002602
+Pickaxe Lv. 7::565002804
+Pickaxe Lv. 7::565002805
+Pickaxe Lv. 7::565002806
+Pickaxe Lv. 7::565002807
+Pickaxe Lv. 7::565002808
+Pickaxe Lv. 7::565002809
+Pickaxe Lv. 7::565002810
+Pickaxe Lv. 7::565002811
+Pickaxe Lv. 7::565002812
+Pickaxe Lv. 7::565002852
+Pickaxe Lv. 7::565002853
+Pickaxe Lv. 7::565002906
+Pickaxe Lv. 8::565001409
+Pickaxe Lv. 8::565001410
+Pickaxe Lv. 8::565001411
+Pickaxe Lv. 8::565001412
+Pickaxe Lv. 8::565001413
+Pickaxe Lv. 8::565001414
+Pickaxe Lv. 8::565001415
+Pickaxe Lv. 8::565001416
+Pickaxe Lv. 8::565001417
+Pickaxe Lv. 8::565002650
+Pickaxe Lv. 8::565002651
+Pickaxe Lv. 8::565002652
+Pickaxe Lv. 8::565002813
+Pickaxe Lv. 8::565002814
+Pickaxe Lv. 8::565002815
+Pickaxe Lv. 8::565002816
+Pickaxe Lv. 8::565002817
+Pickaxe Lv. 8::565002818
+Pickaxe Lv. 8::565002819
+Pickaxe Lv. 8::565002820
+Pickaxe Lv. 8::565002821
+Pickaxe Lv. 8::565002854
+Pickaxe Lv. 8::565002855
+Pickaxe Lv. 8::565002907
+Pickaxe Lv. 9::565001418
+Pickaxe Lv. 9::565001419
+Pickaxe Lv. 9::565001420
+Pickaxe Lv. 9::565001421
+Pickaxe Lv. 9::565001422
+Pickaxe Lv. 9::565001423
+Pickaxe Lv. 9::565001424
+Pickaxe Lv. 9::565001425
+Pickaxe Lv. 9::565001426
+Pickaxe Lv. 9::565002700
+Pickaxe Lv. 9::565002701
+Pickaxe Lv. 9::565002702
+Pickaxe Lv. 9::565002822
+Pickaxe Lv. 9::565002823
+Pickaxe Lv. 9::565002824
+Pickaxe Lv. 9::565002825
+Pickaxe Lv. 9::565002826
+Pickaxe Lv. 9::565002827
+Pickaxe Lv. 9::565002828
+Pickaxe Lv. 9::565002829
+Pickaxe Lv. 9::565002830
+Pickaxe Lv. 9::565002856
+Pickaxe Lv. 9::565002857
+Pickaxe Lv. 9::565002908
+Pictorial Key::565000017
+Plagued Circle::565000211
+Plagued Circle::565000212
+Plate::565000246
+Potential+ (Kula)::565000560
+Potential+ (Kyo)::565000557
+Potential+ (Mai)::565000558
+Potential+ (Terry)::565000559
+Prayer Mirror::565000090
+Premium Pass::565000117
+Primeval Blessing::565000213
+Primeval Blessing::565000214
+Pro Toto Watch::565000119
+Pulsing Seed::565000285
+Rabbit Book::565000237
+Rare Sample Mass::565000693
+Raw Materials::565000086
+Redtooth Circle::565000201
+Redtooth Circle::565000202
+Remulia Notes::565001200
+Renri::565000690
+Repair Kit Lv. 1::565001120
+Repair Kit Lv. 2::565001121
+Repair Kit Lv. 3::565001122
+Repair Kit Lv. 4::565001130
+Repair Kit Lv. 5::565001131
+Repair Kit::565001100
+Repair Kit::565001101
+Repair Kit::565001102
+Repair Kit::565001103
+Repair Kit::565001104
+Repair Kit::565001105
+Repair Kit::565001106
+Repair Kit::565001107
+Repair Kit::565001108
+Repair Kit::565001109
+Repair Kit::565001110
+Repair Kit::565001111
+Repair Kit::565003770
+Repair Kit::565003771
+Repair Kit::565003772
+Repair Kit::565003773
+Repair Kit::565003774
+Repair Kit::565003775
+Repair Kit::565003776
+Repair Kit::565003777
+Repair Kit::565003778
+Repair Kit::565003779
+Repair Kit::565003780
+Repair Kit::565003781
+Repair Module::565000270
+Replacement Parts::565000700
+Research Sample::565000692
+Restock Ticket::565000141
+Revitalizer::565000294
+Roast Fish::565000241
+RoboGimmick1::565000321
+RoboGimmick2::565000322
+RoboGimmick3::565000323
+Rope::565000279
+Rusted Parts::565000263
+SPD+ (M)::565000563
+SPD+ (S)::565000663
+Sea Wall-painting::565000036
+Sea-drift::565000084
+Second Sight Orb::565000143
+Security Pass A::565001203
+Security Pass B::565001202
+Security Pass C::565001201
+Sharp Scythe::565000674
+Sharp Scythe::565000678
+Shiny Seed::565000284
+Short Hand::565000286
+Shovel::565000278
+Sickle Lv. 10::565000493
+Sickle Lv. 10::565000494
+Sickle Lv. 10::565000495
+Sickle Lv. 10::565000496
+Sickle Lv. 10::565000497
+Sickle Lv. 10::565000498
+Sickle Lv. 10::565000499
+Sickle Lv. 10::565000500
+Sickle Lv. 10::565000501
+Sickle Lv. 10::565001803
+Sickle Lv. 10::565001810
+Sickle Lv. 10::565001811
+Sickle Lv. 1::565000750
+Sickle Lv. 1::565000751
+Sickle Lv. 1::565000752
+Sickle Lv. 1::565000753
+Sickle Lv. 1::565000754
+Sickle Lv. 1::565000755
+Sickle Lv. 1::565000756
+Sickle Lv. 1::565000757
+Sickle Lv. 1::565000758
+Sickle Lv. 1::565001500
+Sickle Lv. 1::565001501
+Sickle Lv. 1::565001502
+Sickle Lv. 2::565000770
+Sickle Lv. 2::565000771
+Sickle Lv. 2::565000772
+Sickle Lv. 2::565000773
+Sickle Lv. 2::565000774
+Sickle Lv. 2::565000775
+Sickle Lv. 2::565000776
+Sickle Lv. 2::565000777
+Sickle Lv. 2::565000778
+Sickle Lv. 2::565001510
+Sickle Lv. 2::565001511
+Sickle Lv. 2::565001512
+Sickle Lv. 3::565000790
+Sickle Lv. 3::565000791
+Sickle Lv. 3::565000792
+Sickle Lv. 3::565000793
+Sickle Lv. 3::565000794
+Sickle Lv. 3::565000795
+Sickle Lv. 3::565000796
+Sickle Lv. 3::565000797
+Sickle Lv. 3::565000798
+Sickle Lv. 3::565001520
+Sickle Lv. 3::565001521
+Sickle Lv. 3::565001522
+Sickle Lv. 4::565000799
+Sickle Lv. 4::565000800
+Sickle Lv. 4::565000801
+Sickle Lv. 4::565000802
+Sickle Lv. 4::565000803
+Sickle Lv. 4::565000804
+Sickle Lv. 4::565000805
+Sickle Lv. 4::565000806
+Sickle Lv. 4::565000807
+Sickle Lv. 4::565001530
+Sickle Lv. 4::565001531
+Sickle Lv. 4::565001532
+Sickle Lv. 5::565000808
+Sickle Lv. 5::565000809
+Sickle Lv. 5::565000810
+Sickle Lv. 5::565000811
+Sickle Lv. 5::565000812
+Sickle Lv. 5::565000813
+Sickle Lv. 5::565000814
+Sickle Lv. 5::565000815
+Sickle Lv. 5::565000816
+Sickle Lv. 5::565001600
+Sickle Lv. 5::565001601
+Sickle Lv. 5::565001602
+Sickle Lv. 6::565000817
+Sickle Lv. 6::565000818
+Sickle Lv. 6::565000819
+Sickle Lv. 6::565000820
+Sickle Lv. 6::565000821
+Sickle Lv. 6::565000822
+Sickle Lv. 6::565000823
+Sickle Lv. 6::565000824
+Sickle Lv. 6::565000825
+Sickle Lv. 6::565001650
+Sickle Lv. 6::565001651
+Sickle Lv. 6::565001652
+Sickle Lv. 7::565000466
+Sickle Lv. 7::565000467
+Sickle Lv. 7::565000468
+Sickle Lv. 7::565000469
+Sickle Lv. 7::565000470
+Sickle Lv. 7::565000471
+Sickle Lv. 7::565000472
+Sickle Lv. 7::565000473
+Sickle Lv. 7::565000474
+Sickle Lv. 7::565001700
+Sickle Lv. 7::565001701
+Sickle Lv. 7::565001702
+Sickle Lv. 8::565000475
+Sickle Lv. 8::565000476
+Sickle Lv. 8::565000477
+Sickle Lv. 8::565000478
+Sickle Lv. 8::565000479
+Sickle Lv. 8::565000480
+Sickle Lv. 8::565000481
+Sickle Lv. 8::565000482
+Sickle Lv. 8::565000483
+Sickle Lv. 8::565001750
+Sickle Lv. 8::565001751
+Sickle Lv. 8::565001752
+Sickle Lv. 9::565000484
+Sickle Lv. 9::565000485
+Sickle Lv. 9::565000486
+Sickle Lv. 9::565000487
+Sickle Lv. 9::565000488
+Sickle Lv. 9::565000489
+Sickle Lv. 9::565000490
+Sickle Lv. 9::565000491
+Sickle Lv. 9::565000492
+Sickle Lv. 9::565001800
+Sickle Lv. 9::565001801
+Sickle Lv. 9::565001802
+Silence's Scent::565000020
+Slothfiend's Bile::565000016
+Slumberlotus Leaf::565000107
+Small Bomb::565000062
+Small Seed::565000283
+Smashy Hammer::565000015
+Smoke Ball::565000139
+Snow-white Ice Stone::565000025
+Soul Jewel::565000087
+Souvenir Pass::565000135
+Space Stabilizer++::565000290
+Space Stabilizer++::565000347
+Space Stabilizer++::565000457
+Space Stabilizer++::565000706
+Space Stabilizer+::565000289
+Space Stabilizer+::565000346
+Space Stabilizer+::565000456
+Space Stabilizer+::565000705
+Space Stabilizer::565000288
+Space Stabilizer::565000345
+Space Stabilizer::565000455
+Space Stabilizer::565000704
+Spare Battery::565000340
+Spike Floor Trap Lever::565000315
+Spike Floor Trap Lever::565000326
+Spirit Stone Fragment::565000055
+Spiritguard Circle::565000203
+Spiritguard Circle::565000204
+Standard Pass::565000116
+Strength+ When Critical::565000464
+Superior Dogu::565000030
+Suspicious Key::565000273
+Swift Orb::565000096
+T. Dragontear Weapon - Edged::565000364
+T. Dragontear Weapon - Edged::565000372
+T. Dragontear Weapon - Piercing::565000368
+T. Dragontear Weapon - Piercing::565000376
+T. Dragontear Weapon - Ranged::565000370
+T. Dragontear Weapon - Ranged::565000378
+T. Dragontear Weapon - Smashing::565000366
+T. Dragontear Weapon - Smashing::565000374
+T. Toto's Sabre::565000109
+Tall Bottle::565000248
+Teapot::565000247
+Teleportant Core::565000018
+Thunder type::565000254
+Thunder type::565000258
+Thunder type::565000262
+Ticket::565000266
+Time Bean::565000702
+Time Charm::565000137
+Time Piercer::565000687
+Time Stabilizer++::565000293
+Time Stabilizer++::565000350
+Time Stabilizer++::565000460
+Time Stabilizer++::565000709
+Time Stabilizer+::565000292
+Time Stabilizer+::565000349
+Time Stabilizer+::565000459
+Time Stabilizer+::565000708
+Time Stabilizer::565000291
+Time Stabilizer::565000348
+Time Stabilizer::565000458
+Time Stabilizer::565000707
+Toolbox::565000277
+Toto Crystal::565000120
+Toto Medal::565000145
+Toto Watch::565000118
+Toto's Sabre::565000108
+Touchy-Feelinator::565000699
+Tranquil Orb::565000097
+Treasure Key::565000136
+Treasure Room Key::565000299
+Turbo Handy Fan::565000111
+Type Attack+ (M)::565000566
+Type Attack+ (S)::565000666
+Underworld Bill Hook::565000091
+Unlock everything on the map::565000100
+Unlocking Memo::565000250
+Unstable Fragments::565000265
+Valve Oil::565000268
+Vitality Orb::565000142
+WHISKER-5000::565003050
+WHISKER-5000::565003051
+WHISKER-5000::565003052
+WHISKER-5000::565003100
+WHISKER-5000::565003101
+WHISKER-5000::565003102
+Waning Orb::565000144
+Washbasin::565000320
+Washbasin::565000331
+Wasting Circle::565000205
+Wasting Circle::565000206
+Water Release::565000039
+Water Type Attack+ (M)::565000568
+Water Type Attack+ (S)::565000668
+Water type::565000252
+Water type::565000256
+Water type::565000260
+Whirling Tides' Fragment::565000033
+Whisker Mittens::565001850
+Whisker Mittens::565003150
+Whisker Mittens::565003151
+Whisker Mittens::565003152
+Whisker Mittens::565003153
+Whisker Mittens::565003154
+Whisker Mittens::565003155
+Whisker Mittens::565003156
+Whisker Mittens::565003157
+Whisker Mittens::565003158
+Whisker Mittens::565003159
+Whisker Mittens::565003160
+Whisker Mittens::565003161
+Whisker Mittens::565003200
+Whisker Mittens::565003201
+Whisker Mittens::565003202
+Whisker Mittens::565003203
+Whisker Mittens::565003204
+Whisker Mittens::565003205
+Whisker Mittens::565003206
+Whisker Mittens::565003207
+Whisker Mittens::565003208
+Whisker Mittens::565003209
+Whisker Mittens::565003210
+Whisker Mittens::565003211
+Wind Release::565000040
 Wind Type Attack+ (M)::565000570
 Wind Type Attack+ (S)::565000670
-Critical Rate+ (L)::565000461
-Space Stabilizer+::565000456
-Fractal Seeds::565000683
-PWR+ (M)::565000562
-Water Type Attack+ (M)::565000568
-Sharp Scythe::565000674
-Dragon Flag::565000454
-Space Stabilizer++::565000290
-Dragon Action - Ride::565000390
-Critical Rate+ (S)::565000665
-Compact Calculator::565000434
-Lacquered Plank::565000680
-Cat Deity's Beads::565000056
-ID Card::565000063
-Lazuline Plate::565000452
-PWR+ (S)::565000662
-Fire type::565000259
-Curved Sword Replica::565000451
-High-Purity Glass::565000453
-Bug Repellent::565000679
-Earth Type Attack+ (S)::565000669
-All Stats+::565000561
-Dragon Action - Sharp Claws::565000410
-Potential+ (Terry)::565000559
-Ballista::565000319
-Fire Type Attack+ (M)::565000567
-T. Dragontear Weapon - Edged::565000364
-Fire Type Attack+ (S)::565000667
-Time Stabilizer::565000348
-All Stats+::565000661
-Type Attack+ (S)::565000666
-Motivashroom::565000300
-Small Bomb::565000062
-1G Key::565000048
-Premium Pass::565000117
-Attraction Map::565000134
-Defeat the Jewel Princess!::565000072
-Mission Book::565000162
-Battlecore B::565000439
-Bus Ticket::565000339
-Make it night Item::565000358
-Mission Book::565000174
-Spiritguard Circle::565000204
-Restock Ticket::565000141
-Sea Wall-painting::565000036
-Soul Jewel::565000087
-Lever (Up)::565000224
-Type Attack+ (M)::565000566
-Consumed Circle::565000210
-Make it day Item::565000351
-Live Concert Ticket::565000058
-Nullon::565000435
-Time Stabilizer+::565000459
-Collect Fractal Seeds.::565000684
-Dragon Action - Swim::565000419
-Time Stabilizer::565000458
-Mission Book::565000167
-Mission Book::565000148
-Potential+ (Kula)::565000560
-Dragon Action - Gale::565000431
-Defeat the Large White Lie Bug!::565000083
-Nullon::565000436
-Master Key::565000343
-Gate Pass::565000448
-7C Key::565000050
-Battlecore S::565000438
-Industrial Cutter::565000061
-Mercy Keep Map::565000249
-Auto Armor::565000325
-Candlestick::565000236
-Earth Type Attack+ (M)::565000569
-Space Stabilizer::565000455
-Defeat the Dragger!::565000065
-Mini Cleaner::565000341
-Mission Book::565000150
+Wind type::565000253
+Wind type::565000257
+Wind type::565000261
+Witch's Tears::565000446
+Witchy Hat::565000450
+Wonderspark::565000013
 
 
 
