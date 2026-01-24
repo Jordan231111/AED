@@ -49,3 +49,4 @@
  2061003002 -- Some of the newer stuff called Weapon Manifestation Talegem it gives spd +50, and full resistance to some debuffs
  2078000001 -- https://anothereden.wiki/w/An_Ode_to_Origin:_Act_1_-_The_Beastfolk,_%22Antimony%22#Material_Locations-0
  2076000001 -- Asterorb
+ 2126000016 -- Memories of Another Sky/Chocobo Hot & Cold

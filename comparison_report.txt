@@ -1,5 +1,5 @@
 Prefixes (first 4 digits):
-1770 -- unknown category
+1770 -- whisper of time and gacha items but server sided
 1779 -- whisper of time and gacha items but server sided
 2050 -- currency items like git, and sidestory currency like black pearls
 2110 -- badges and a bunch of other weapons

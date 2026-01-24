@@ -12897,3 +12897,37 @@ Onyxia Asterorb::2076000009
 Rottenyx Asterorb::2076000006
 Verdigris Asterorb::2076000005
 
+
+
+
+
+Arid Lands::2126000006
+At an Offshore Archipelago::2126000106
+At the Base of the Mountain::2126000001
+At the Cold Lagoon::2126000009
+At the Fading Cape::2126000017
+At the Faraway Lagoon::2126000012
+At the Island on the Inner Sea::2126000020
+At the Landlocked Island::2126000008
+At the Quiet Lagoon::2126000007
+At the Windy Cape::2126000013
+By the Beach::2126000002
+By the Uncultivated Beach::2126000015
+Frozen Lands::2126000010
+Gazing at the Great Tree::2126000005
+In the North on the Mist Continent::2126000105
+In the Valley::2126000003
+Off the Coast of Fairy Island::2126000109
+Off the Coast of the Kuentis Peninsula::2126000107
+Off the Coast of the Lost Continent::2126000108
+Off the Coast of the Mist Continent::2126000110
+On an Island Closed Away::2126000019
+On the Forgotten Continent::2126000104
+On the Forgotten Plains::2126000016
+On the Green Island::2126000018
+On the Lonesome Sands::2126000004
+On the Lost Continent::2126000103
+On the Mist Continent::2126000101
+On the Open Seas::2126000014
+On the Outer Continent::2126000102
+On the Shaking Sands::2126000011
