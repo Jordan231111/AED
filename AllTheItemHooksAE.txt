@@ -8,6 +8,7 @@
  464001065 -- random items like enemy deck
  279002011 -- Account corruption if modify Alchemist items
  177900019 -- whisper of time and gacha items but server sided 
+ 177000016 -- whisper of time and gacha items but server sided
  295000031 -- auction items treasure items to get roc or seeker points
  565000569 -- some AD items like superior dogu ** updated 2-23-2025 453 items
  775000018 -- Harpoon Fishing
