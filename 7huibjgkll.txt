@@ -878,6 +878,7 @@ Arachne Proof::288300286
 Arc Knight Proof::288300019
 Arcana Proof::288300187
 Archaeologist Proof::288300275
+Archigós Orama::211040911
 Arcturus Proof::288300288
 Areadbhar Proof::288300106
 Areth's Diamond Proof::288300078
@@ -1004,6 +1005,7 @@ Barzel Keseph::211030471
 Bastard Sword II::211010102
 Bastard Sword III::211010103
 Bastard Sword::211010101
+Bastet Proof::288300295
 Battle Boots::2142000011
 Battleax II::211030062
 Battleax III::211030063
@@ -1424,6 +1426,17 @@ Cherry Blossom Shade::211020282
 Chronoandreios Proof::288300273
 Cinnabar Saber::211020201
 Citrinitas Proof::288300167
+Claro de Luna::211055001
+Claro de Luna::211055002
+Claro de Luna::211055003
+Claro de Luna::211055004
+Claro de Luna::211055005
+Claro de Luna::211055006
+Claro de Luna::211055007
+Claro de Luna::211055008
+Claro de Luna::211055009
+Claro de Luna::211055010
+Claro de Luna::211055011
 Claro de Luna::211059021
 Claro de Luna::211059022
 Claro de Luna::211059023
@@ -1577,6 +1590,8 @@ Crush Sword::211012051
 Crush Sword::211012061
 Crush Sword::211012071
 Crush Sword::211012081
+Crystal Attack Badge::281900144
+Crystal Attack Badge::281900151
 Crystal Blunt (Fists) Test::288020023
 Crystal Blunt (Ha.) Test::288020024
 Crystal Magic (Staff) Test::288020017
@@ -2086,6 +2101,7 @@ E. Armiger Proof::288304028
 E. Athena Proof::288304164
 E. Atlas Proof::288304283
 E. Avesta Proof::288304176
+E. Bastet Proof::288304297
 E. Beast Princess Proof::288304245
 E. Beauty Police Proof::288304082
 E. Black Mage Proof::288304291
@@ -2161,6 +2177,7 @@ E. Flame Lord Proof::288304012
 E. Flare Knight Proof::288304165
 E. Flare Witch Proof::288304071
 E. Fortuna Proof::288304105
+E. Fragarach Proof::288304296
 E. Fraulein Proof::288304190
 E. Front Runner Proof::288304102
 E. Futsunomitama Proof::288304270
@@ -2267,6 +2284,9 @@ E. Persephone Proof::288304148
 E. Phantom Thief Proof::288304193
 E. Pluma Diana Proof::288304146
 E. Polyhymniā Proof::288304210
+E. Power of Offense (C)::288015014
+E. Power of Offense (S)::288015013
+E. Power of Offense (T)::288015015
 E. Princess Proof::288304024
 E. Prophet Proof::288304279
 E. Protector Proof::288304036
@@ -2291,6 +2311,7 @@ E. Scholarking Proof::288304219
 E. Seele Gnade Proof::288304112
 E. Serene Player Proof::288304258
 E. Shadow Lord Proof::288304048
+E. Shashthi Proof::288304294
 E. Shinatsuhime Proof::288304124
 E. Shining Shadow Proof::288304067
 E. Sigrdrifa Proof::288304213
@@ -2312,6 +2333,7 @@ E. Sunrise Proof::288304037
 E. Susanoo Proof::288304113
 E. Sweet Lady Proof::288304277
 E. Taiyi Zhenren Proof::288304234
+E. Takeminakata Proof::288304295
 E. Takuhatachiji Proof::288304226
 E. Tea Maiden Proof::288304126
 E. Tentamare Proof::288304052
@@ -2423,6 +2445,8 @@ Earring: INT+ (S)::217038011
 Earring: Restore+ (S)::217038021
 Earring: Status Res.+ (S)::217038031
 Earring::217038001
+Earth Attack Badge::281900141
+Earth Attack Badge::281900148
 Earth Calamity Blunt (Fist)::288010115
 Earth Calamity Blunt (Ha.)::288010116
 Earth Calamity Magic (Staff)::288010109
@@ -2785,6 +2809,8 @@ Field Maker Ω::211990201
 Field Maker α::211990171
 Field Maker β::211990181
 Fire Attack Badge::281900050
+Fire Attack Badge::281900138
+Fire Attack Badge::281900145
 Fire Cut Lance II::211040092
 Fire Cut Lance III::211040093
 Fire Cut Lance::211040091
@@ -2867,6 +2893,7 @@ Fortuna Proof::288300107
 Fortune Bracelet::217020341
 Fortune Necklace::217030301
 Fortune Ring::217040331
+Fragarach Proof::288300294
 Fragility Pierce Badge::281900122
 Franciscan Ax II::211030072
 Franciscan Ax III::211030073
@@ -3452,6 +3479,7 @@ Innocence::211029052
 Inspector Proof::288300031
 Inventor King Badge::281900097
 Invite Badge::281900117
+Iphi's Gun::211090620
 Iron Ax::211030011
 Iron Bangle::217020011
 Iron Bow::211050011
@@ -3641,6 +3669,9 @@ Lepid Sword::211010951
 Libero Proof::288300155
 Libette Proof::288300115
 Libitina Proof::288300099
+Libra Ma'at::211060861
+Libra Ma'at::211060862
+Libra Ma'at::211060863
 Life Booster Badge::281900130
 Life Changer Bracelet::217020841
 Life Changer Necklace::217030781
@@ -4015,7 +4046,6 @@ Miaki's Lance::211040321
 Miaki's Lance::211040322
 Miaki's Staff::211000281
 Miaki's Staff::211000282
-Miaki's Sword::211010321
 Miaki's Sword::211010322
 Migl Aspida Proof::288300095
 Mikahayahi Proof::288300050
@@ -4056,6 +4086,8 @@ Miyu ES Lance::211090410
 Moebius Ring II::217040132
 Moebius Ring III::217040133
 Moebius Ring::217040131
+Moment Song Power (F)::288209002
+Moment Song Power::288209001
 Monarch Proof::288300143
 Moon Realm Brac.::217020441
 Moon Realm Necklace::217030401
@@ -4556,12 +4588,18 @@ Power Gloves Ⅱ::211060082
 Power Gloves::211060081
 Power Vest::2142000002
 Power of Absorption::288008009
+Power of Ailing Res.::288200112
+Power of All or Nothing::288006029
+Power of All or Nothing::288006030
+Power of All or Nothing::288006031
 Power of Awakening (Ax)::288017004
 Power of Awakening (Bow)::288017006
 Power of Awakening (Fists)::288017007
 Power of Awakening (Ha.)::288017008
+Power of Awakening (IDA Sch.)::288017009
 Power of Awakening (Kata.)::288017003
 Power of Awakening (Lan.)::288017005
+Power of Awakening (Lost Lab)::288017010
 Power of Awakening (Staff)::288017001
 Power of Awakening (Swo.)::288017002
 Power of Benefic (Ax)::288203006
@@ -4570,6 +4608,7 @@ Power of Benefic (Fists)::288203009
 Power of Benefic (Ha.)::288203010
 Power of Benefic (Kata.)::288203005
 Power of Benefic (Lan.)::288203007
+Power of Benefic (Lost Lab)::288203011
 Power of Benefic (Staff)::288203003
 Power of Benefic (Swo.)::288203004
 Power of Benefic::288203001
@@ -4741,6 +4780,7 @@ Power of Regen (Lan.)::288104075
 Power of Regen (Staff)::288104071
 Power of Regen (Swo.)::288104072
 Power of Regen::288104080
+Power of Savior (Lost Lab)::288107001
 Power of Shade::288012001
 Power of Shade::288012002
 Power of Shade::288012003
@@ -4841,6 +4881,9 @@ Prometerium::211070171
 Prometerium::211070172
 Proof of Vanquisher::288300192
 Prophet Proof::288300281
+Prosperous Necklace::217031221
+Prosperous Necklace::217031222
+Prosperous Necklace::217031223
 Protect Stance II::275221507
 Protect Stance::275211507
 Protection II::275321530
@@ -4930,6 +4973,7 @@ Redbound Staff::211000571
 Redbound Sword::211010721
 Reedlight Bangle::217020671
 Reflect Ring::2142000043
+Refuse the Apex Order Badge::281900137
 Regenerator Γ::211990951
 Regenerator Ω::211990961
 Regenerator α::211990931
@@ -5003,6 +5047,28 @@ Rock Slash III::211040053
 Rock Slash::211040051
 Roiling Rebel's Power::288004249
 Rose Unseen Proof::288300175
+Rose argentée::211005401
+Rose argentée::211005402
+Rose argentée::211005403
+Rose argentée::211005404
+Rose argentée::211005405
+Rose argentée::211005406
+Rose argentée::211005407
+Rose argentée::211005408
+Rose argentée::211005409
+Rose argentée::211005410
+Rose argentée::211005411
+Rose argentée::211009281
+Rose argentée::211009282
+Rose argentée::211009283
+Rose argentée::211009284
+Rose argentée::211009285
+Rose argentée::211009286
+Rose argentée::211009287
+Rose argentée::211009288
+Rose argentée::211009289
+Rose argentée::211009290
+Rose argentée::211009291
 Royal Bracelet::217020231
 Ruby Ring II::217040052
 Ruby Ring III::217040053
@@ -5261,6 +5327,8 @@ Serpent Tail::211069028
 Serpent Tail::211069029
 Serpent Tail::211069030
 Serpent Tail::211069031
+Shade Attack Badge::281900143
+Shade Attack Badge::281900150
 Shade Blunt (Fists) Test::288020015
 Shade Blunt (Ha.) Test::288020016
 Shade Curse Badge::281900119
@@ -5474,6 +5542,7 @@ Souleater Lance::211040571
 Souleater Lance::211040581
 Souleater Staff::211000531
 Souleater Staff::211000541
+Souleater Sword::211010321
 Souleater Sword::211010681
 Souleater Sword::211010691
 Sound Body (Ax)::288106018
@@ -5530,6 +5599,7 @@ Spell: Piercing Flash::288202018
 Spell: Raging Fire::288202012
 Spell: Roaring Bash St.::288202022
 Spell: Sacred Water::288202017
+Spell: Thundering Stance::288202023
 Spell: Torn Earth Stance::288202020
 Spell: Wind King Stance::288202019
 Spike Knuckle::211060201
@@ -5918,6 +5988,7 @@ T. Armiger Proof::288301028
 T. Athena Proof::288301166
 T. Atlas Proof::288301285
 T. Avesta Proof::288301178
+T. Bastet Proof::288301299
 T. Beast Princess Proof::288301247
 T. Beauty Police Proof::288301084
 T. Black Mage Proof::288301293
@@ -5993,6 +6064,7 @@ T. Flame Lord Proof::288301012
 T. Flare Knight Proof::288301167
 T. Flare Witch Proof::288301071
 T. Fortuna Proof::288301107
+T. Fragarach Proof::288301298
 T. Fraulein Proof::288301192
 T. Front Runner Proof::288301104
 T. Futsunomitama Proof::288301272
@@ -6123,6 +6195,7 @@ T. Scholarking Proof::288301221
 T. Seele Gnade Proof::288301114
 T. Serene Player Proof::288301260
 T. Shadow Lord Proof::288301048
+T. Shashthi Proof::288301296
 T. Shinatsuhime Proof::288301126
 T. Shining Shadow Proof::288301067
 T. Sigrdrifa Proof::288301215
@@ -6144,6 +6217,7 @@ T. Sunrise Proof::288301037
 T. Susanoo Proof::288301115
 T. Sweet Lady Proof::288301279
 T. Taiyi Zhenren Proof::288301236
+T. Takeminakata Proof::288301297
 T. Takuhatachiji Proof::288301228
 T. Tea Maiden Proof::288301128
 T. Tentamare Proof::288301052
@@ -6198,6 +6272,7 @@ Tail Links::211029091
 Tail Slasher::211030371
 Tail Slasher::211030372
 Taiyi Zhenren Proof::288300230
+Takeminakata Proof::288300293
 Takuhatachiji Proof::288300222
 Target Arm II::275321531
 Target Arm III::275331533
@@ -6256,6 +6331,8 @@ Thorny Embrace II::2138000156
 Thorny Woman Proof::288300182
 Thrill of Victory Badge::281900063
 Thunda Storm::298000117
+Thunder Attack Badge::281900142
+Thunder Attack Badge::281900149
 Thunder Blunt (Fists) Test::288020007
 Thunder Blunt (Ha.) Test::288020008
 Thunder Magic (Staff) Test::288020001
@@ -6468,6 +6545,7 @@ Vengeful Healer Γ::211990311
 Vengeful Healer Ω::211990321
 Vengeful Healer α::211990291
 Vengeful Healer β::211990301
+Vengeful Ring::217041351
 Venom Attack Γ::211990831
 Venom Attack Ω::211990841
 Venom Attack α::211990811
@@ -6556,6 +6634,8 @@ Walking Stick::211008001
 Walkure Proof::288300161
 War Machine Wave::288303010
 Watatsumi Proof::288300046
+Water Attack Badge::281900139
+Water Attack Badge::281900146
 Water Calamity Blunt (Fist)::288010315
 Water Calamity Blunt (Ha.)::288010316
 Water Calamity Magic (Staff)::288010309
@@ -6596,6 +6676,8 @@ Whale Whisker::211000961
 White Knight Proof::288300030
 White Silver Trident::211040421
 White Snow Proof::288300154
+Wind Attack Badge::281900140
+Wind Attack Badge::281900147
 Wind Calamity Blunt (Fist)::288010215
 Wind Calamity Blunt (Ha.)::288010216
 Wind Calamity Magic (Staff)::288010209

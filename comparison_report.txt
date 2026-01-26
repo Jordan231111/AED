@@ -1,8 +1,6 @@
 Prefixes (first 4 digits):
 1770 -- whisper of time and gacha items but server sided
 1779 -- whisper of time and gacha items but server sided
-2110 -- badges and a bunch of other weapons
-2170 -- badges and a bunch of other weapons
 2180 -- Timetwisted Maze Charms
 2210 -- most material items found in the world/mob drop material items
 2310 -- random ahh Ultra Salmon, neo meat, Super Crunch
@@ -12,12 +10,7 @@ Prefixes (first 4 digits):
 2430 -- will corrupt world if have more than 1 or any modifications to any item here (restore mp and hp item food)
 2470 -- MISC stuff like Grasta upgrade Ore, Gadaro Soil, Poison Res.+20 Seed, Darkness Res. Fertilizer, Funeral Cavern Soil, Sleep Res. Fertilizer, Stone Res. Fertilizer, Poison Res. Fertilizer, Confusion Res. Fertilizer, Talgana Mountain Soil, Last Stand Ore
 2790 -- Account corruption if modify Alchemist items
-2819 -- unknown category
 2820 -- unknown category
-2880 -- unknown category
-2881 -- unknown category
-2882 -- unknown category
-2883 -- unknown category
 2950 -- auction items treasure items to get roc or seeker points
 2970 -- light and shadow upgrade item?? (useless)
 4500 -- cat material items...
@@ -177,9 +170,9 @@ Prefixes (first 4 digits):
 2078 -- https://anothereden.wiki/w/An_Ode_to_Origin:_Act_1_-_The_Beastfolk,_%22Antimony%22#Material_Locations-0
 
 Loaded 14467 unique-pointer values.
-Loaded 12889 manifest values.
+Loaded 12971 manifest values.
 
-Missing in manifest: 1578
+Missing in manifest: 1496
 177000161
 177000162
 177000163
@@ -212,48 +205,6 @@ Missing in manifest: 1578
 177900196
 177900197
 177900198
-211005401
-211005402
-211005403
-211005404
-211005405
-211005406
-211005407
-211005408
-211005409
-211005410
-211005411
-211009281
-211009282
-211009283
-211009284
-211009285
-211009286
-211009287
-211009288
-211009289
-211009290
-211009291
-211040911
-211055001
-211055002
-211055003
-211055004
-211055005
-211055006
-211055007
-211055008
-211055009
-211055010
-211055011
-211060861
-211060862
-211060863
-211090620
-217031221
-217031222
-217031223
-217041351
 218000001
 218000002
 218000003
@@ -527,47 +478,7 @@ Missing in manifest: 1578
 279002159
 279002160
 279002161
-281900137
-281900138
-281900139
-281900140
-281900141
-281900142
-281900143
-281900144
-281900145
-281900146
-281900147
-281900148
-281900149
-281900150
-281900151
 282000001
-288006029
-288006030
-288006031
-288015013
-288015014
-288015015
-288017009
-288017010
-288107001
-288200112
-288202023
-288203011
-288209001
-288209002
-288300293
-288300294
-288300295
-288301296
-288301297
-288301298
-288301299
-288304294
-288304295
-288304296
-288304297
 295000001
 295000002
 295000003
