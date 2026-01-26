@@ -543,6 +543,7 @@ ROC::205000024
 Rare Book Certificate::205000030
 Recycling Point::205000012
 Regina::205000101
+Remulia Shard::205000120
 Rock Salt::205000075
 Rust Color Stone::205000033
 SAP::205000119
