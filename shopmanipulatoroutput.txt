@@ -1,30 +1,257 @@
-Off the Coast of Fairy Island::2126000109
-Off the Coast of the Kuentis Peninsula::2126000107
-At an Offshore Archipelago::2126000106
-Gazing at the Great Tree::2126000005
-At the Windy Cape::2126000013
-By the Beach::2126000002
-At the Island on the Inner Sea::2126000020
-At the Faraway Lagoon::2126000012
-At the Cold Lagoon::2126000009
-On the Forgotten Plains::2126000016
-Off the Coast of the Lost Continent::2126000108
-On the Lonesome Sands::2126000004
-At the Landlocked Island::2126000008
-At the Fading Cape::2126000017
-Arid Lands::2126000006
-On the Lost Continent::2126000103
-Frozen Lands::2126000010
-In the North on the Mist Continent::2126000105
-In the Valley::2126000003
-At the Base of the Mountain::2126000001
-On the Mist Continent::2126000101
-Off the Coast of the Mist Continent::2126000110
-On an Island Closed Away::2126000019
-On the Green Island::2126000018
-On the Shaking Sands::2126000011
-At the Quiet Lagoon::2126000007
-On the Forgotten Continent::2126000104
-By the Uncultivated Beach::2126000015
-On the Outer Continent::2126000102
-On the Open Seas::2126000014
+Monument Bell::2080000581
+Large Floating Sconce::2080000611
+Café Chair::2080000604
+Large Crystalline Mirror::2080000626
+Golden Walling::2080000607
+Passionate Fireworks::2080000592
+Floating Stone::2080000614
+Openwork Shelf::2080000615
+Cool Fireworks::2080000598
+Café Counter::2080000599
+Bottle Pillar::2080000617
+Luxurious Bed::2080000589
+Sootglass Glassware::2080000591
+Ancient White Rug::2080000624
+Small Perpetual Fountain::2080000612
+Golden Flooring::2080000608
+Large Electrified Stone::2080000622
+Crystalflower Decoration::2080000625
+Sconce::2080000609
+Crystalline Pillar::2080000623
+Wind Relerite::2080000253
+Souvenir Candy Bottle::2080000569
+Small Electrified Stone::2080000621
+Gondola Rope::2080000571
+Marbled Glass Tread::2080000597
+Floral Treasury Decor::2080000616
+Perpetual Fountain::2080000613
+Ancient Yellow Rug::2080000620
+Electric Lamppost::2080000619
+Pawm Flooring::2080000577
+Volgar Iron Ingot::2080000548
+Dried Flowers (Grace)::2080000574
+Slope Foundation::2080000576
+Pristine Sootglass::2080000547
+Gondola Pole::2080000572
+Modern Steel::2080000554
+Astra Steel::2080000557
+Café Shelf::2080000601
+Pawm Pillar::2080000549
+Quality Furniture Cloth::2080000561
+Tropical Roof Tile::2080000594
+Quality Villa Furniture::2080000566
+Small Aupa Plushie::2080000584
+Monument::2080000583
+Vell Iron Nail::2080000510
+Cookie Can::2080000568
+Glittering Yellow Dye::2080000562
+Monument Flowers::2080000580
+Sootrock Slab::2080000545
+Remulia Ingot::2080000551
+Astra Repair Material::2080000556
+Sootglass::2080000546
+Pawm Tread Material::2080000579
+Soft Pawm Lumber::2080000539
+Quality Dye Base::2080000560
+DX Sootglass Glassware::2080000590
+Sootrock Gravel::2080000544
+Ancient Steel::2080000555
+Thick Strong Rope::2080000530
+Villa Foundation::2080000567
+Slope::2080000575
+Monument Foundation::2080000582
+Shimmering Ingot::2080000553
+Astwuh Tread Material::2080000564
+Pawm Heartpillar::2080000550
+Villa Floral Arrangement::2080000565
+Café Table::2080000603
+Ancient Red Rug::2080000610
+Quality Dye::2080000559
+Gondola::2080000573
+Tropical Stone Wall::2080000595
+Remulia Rainbow Steel::2080000558
+Large Aupa Plushie::2080000585
+Dried Flowers (Fancy)::2080000593
+Café Floral Arrangement::2080000570
+Ancient Blue Rug::2080000618
+Café Parasol::2080000602
+Glittering White Dye::2080000563
+Café Barrel::2080000600
+Dried Flowers (Luster)::2080000586
+Raw Dye::2080000531
+Deluxe Astwuh Pillar::2080000507
+White Dye::2080000534
+Astwuh Walling::2080000505
+Ruins Floor Stone::2080000302
+Light Relecrystal::2080000257
+Ruins Wall Stone::2080000301
+Strong Cloth::2080000533
+Pawm Rubber::2080000528
+Broken Ashen Asterorb::2080000525
+Thatch Roof::2080000506
+Water Relecrystal::2080000244
+Shade Relerite::2080000255
+Condensed Pawm Resin::2080000542
+Broken Onyxian Asterorb::2080000526
+Deluxe Astwuh Walling::2080000508
+Deluxe Thatch Roof::2080000509
+Green Rug::2080000516
+Wind Relecrystal::2080000246
+Colt Duramen::2080000237
+Shadow Relecrystal::2080000258
+Crystal Relerite::2080000256
+Remulia Steel::2080000552
+Shadow Relerite::2080000260
+Astwuh Pillar::2080000504
+Furniture Hinge::2080000511
+Pristine Marbled Glass::2080000220
+Shade Relecrystal::2080000248
+Earth Relecrystal::2080000245
+Special Pawm Resin::2080000541
+Lovely Fireworks::2080000587
+Fire Relerite::2080000250
+Colt Resin::2080000239
+Strong String::2080000532
+Quality Original Gravel::2080000242
+Guardian Deity Material::2080000523
+Pawm Lumber::2080000537
+Thunder Relerite::2080000254
+Thunder Relecrystal::2080000247
+Broken Yellow Asterorb::2080000524
+Yellow Dye::2080000536
+Thin Strong Rope::2080000529
+Refined Pawm Sap::2080000540
+Colt Rubber::2080000240
+Mini Guardian Deity::2080000520
+Black Dye::2080000535
+Light Relerite::2080000259
+Marbled Glassware::2080000521
+Hard Pawm Lumber::2080000538
+Broken Amber Asterorb::2080000527
+DX Marbled Glassware::2080000522
+Soft Cloth::2080000205
+Marbled Glass::2080000219
+Energy Bottle::2080000103
+Vell Iron Plate::2080000218
+Original Cloth::2080000235
+Broken Abyssal Relic::2080000116
+Refined Colt Sap::2080000238
+Astra Polymer::2080000125
+Guardian of the Treasury::2080000135
+Original Gravel::2080000241
+Thunder Trap::2080000138
+Broken Azure Asterorb::2080000230
+Special Marbled Gravel::2080000221
+Water Relerite::2080000251
+Fire Relecrystal::2080000243
+Dye Ingredient::2080000203
+Broken Tray::2080000128
+Astwuh Rubber::2080000233
+Broken Reduction Pot::2080000140
+Chaos Dye::2080000234
+Green Dye::2080000208
+Sacred Scale::2080000133
+Vell Iron Ingot::2080000217
+Colt Hardwood::2080000236
+Earth Relerite::2080000252
+Sickle Lv. 10::2080000032
+Sabastone::2080000118
+Sacred Necklace::2080000132
+Special Iron Plate::2080000222
+Hard Astwuh Lumber::2080000210
+Astwuh Resin::2080000213
+Sacred Jewel::2080000131
+Crystal Relecrystal::2080000249
+Foundation::2080000518
+Axe Lv. 10::2080000034
+Marbled Gravel::2080000214
+Red Dye::2080000206
+Elecuum::2080000052
+Broken Talisman::2080000113
+Guardian's Body::2080000137
+Blue Dye::2080000207
+Broken Viridian Asterorb::2080000232
+Reinforcing Agent::2080000134
+Mysterious Device Part::2080000303
+Abyssal Coffin::2080000119
+Furniture Resin::2080000513
+Special Astwuh Resin::2080000223
+Floral Decoration::2080000519
+Thin Rope::2080000201
+Furniture Cloth::2080000512
+Sturdy String::2080000204
+Sickle Lv. 4::2080000016
+Axe Lv. 7::2080000027
+Ruins Slope::2080000121
+Repair Kit Lv. 6::2080000015
+Axe Lv. 5::2080000020
+Dragondola::2080000123
+Blue Energy Cube::2080000102
+Sickle Lv. 9::2080000031
+Green Energy Cube::2080000101
+Sickle Lv. 7::2080000025
+Ancient Talisman::2080000120
+Bridge Materials::2080000105
+Axe Lv. 4::2080000019
+Repair Kit Lv. 9::2080000039
+Broken Alabaster Asterorb::2080000231
+Repair Kit Lv. 2::2080000011
+Soft Astwuh Lumber::2080000211
+Repair Kit Lv. 3::2080000012
+Axe Lv. 1::2080000004
+Guardian's Core::2080000136
+Astwuh Torch::2080000107
+Broken Stonework Relic::2080000115
+Pickaxe Lv. 3::2080000009
+Repair Kit Lv. 10::2080000040
+Pickaxe Lv. 7::2080000029
+Whisker Mittens::2080000129
+Shining Perch::2080000126
+Repair Kit Lv. 7::2080000037
+Pickaxe Lv. 5::2080000023
+Pickaxe Lv. 9::2080000035
+Meowstet Family Statue::2080000117
+Large Broken Relic::2080000114
+Thick Rope::2080000202
+Broken Flaxen Asterorb::2080000229
+Mystery Tray::2080000127
+Sickle Lv. 5::2080000017
+Broken Green Cube (L)::2080000108
+Astwuh Lumber::2080000209
+Astwuh Ladder::2080000106
+Sickle Lv. 8::2080000026
+Broken Green Cube (S)::2080000109
+Broken Blue Cube (S)::2080000111
+Pickaxe Lv. 10::2080000036
+Preserved Pigment::2080000112
+Astra Weir::2080000122
+Axe Lv. 2::2080000005
+Pickaxe Lv. 2::2080000008
+Ritual Stone::2080000216
+Geolas Bloom Incense::2080000104
+Axe Lv. 8::2080000028
+Sickle Lv. 3::2080000003
+Sickle Lv. 1::2080000001
+Repair Kit Lv. 1::2080000010
+Repair Kit Lv. 4::2080000013
+Pickaxe Lv. 8::2080000030
+Repair Kit Lv. 8::2080000038
+Sickle Lv. 6::2080000018
+Sickle Lv. 2::2080000002
+Repair Wall::2080000124
+Elecuum::2080000051
+Repair Kit Lv. 5::2080000014
+Axe Lv. 9::2080000033
+Pickaxe Lv. 6::2080000024
+Pickaxe Lv. 1::2080000007
+Refined Astwuh Sap::2080000212
+Pink Pot::2080000141
+Axe Lv. 3::2080000006
+Marbled Slab::2080000215
+Pickaxe Lv. 4::2080000022
+Flame Trap::2080000139
+Axe Lv. 6::2080000021
+Broken Blue Cube (L)::2080000110
+Toolbox::2080000517
+Red Bed::2080000514
+Blue Bed::2080000515
