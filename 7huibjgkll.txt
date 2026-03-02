@@ -43,7 +43,6 @@ Cat Express Ticket::564003001
 
 
 
-
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -208,6 +207,7 @@ Geomancer Starchart::242010012
 Geomancer Tome::242030000
 Gjallarhorn Treatise::242030022
 Gladiator Tome::242030300
+Goddess of Dest. Starchart::242019005
 Goddess of Destiny Tome::242031402
 Golden Flower Cat Tome::242030310
 Grand General Starchart::242011015
@@ -219,6 +219,8 @@ Grim Reaper Tome::242030303
 Grimoire Tome::242030110
 Harmonia Treatise::242030416
 Hastantiqua Treatise::242030407
+Hathor Starchart::242015019
+Hathor Treatise::242030529
 Hecatoncheires Codex::242030610
 Hermes Starchart::242010001
 Hermes Tome::242030039
@@ -308,6 +310,7 @@ Nekogami Treatise::242030220
 Nekomata Av. Starchart::242015013
 Nekomata Avatar Codex::242030524
 Nemesis Tome::242030122
+Ninetails Fox Starchart::242015020
 Ninetails Fox Tome::242030504
 Nirvana Starchart::242010009
 Nirvana Tome::242030043
@@ -443,10 +446,13 @@ Xeno-Legion Starchart::242010002
 Yaobikuni Starchart::242017006
 Yaobikuni Tome::242030720
 Yasomagatsuhi Treatise::242030210
+Yin-Yang Cat Opus::242030052
+Yin-Yang Cat Starchart::242010025
 Ymir Treatise::242030420
 Yuda Opus::242030219
 Étoile Starchart::242012023
 Étoile Treatise::242030232
+
 
 
 
