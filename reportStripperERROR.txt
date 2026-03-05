@@ -1,522 +1,1614 @@
-Found value within range at initial address: 72D367E210, Value: undefined, Index: 4
-Found value within range at address: 729327316C, Value: 242010007, Initial Address: 72D367E210, Index: 4
-QVal: 986279116762736
+Found value within range at initial address: 74C8D21B90, Value: undefined, Index: 4039
+Found value within range at address: 74597022AC, Value: 288000104, Initial Address: 74C8D21B90, Index: 4039
+QVal: 986279772093353
 
 
 
-Found value within range at initial address: 72D36A3200, Value: undefined, Index: 15
-Found value within range at address: 729327352C, Value: 242011011, Initial Address: 72D36A3200, Index: 15
-QVal: 986279109984359
+Found value within range at initial address: 74C8D21DD0, Value: undefined, Index: 4041
+Found value within range at address: 745970446C, Value: 288001105, Initial Address: 74C8D21DD0, Index: 4041
+QVal: 986283097675435
 
 
 
-Found value within range at initial address: 72D36A4A10, Value: undefined, Index: 26
-Found value within range at address: 729327370C, Value: 242011004, Initial Address: 72D36A4A10, Index: 26
-QVal: 986279116762736
+Found value within range at initial address: 74C8D22250, Value: undefined, Index: 4045
+Found value within range at address: 745970487C, Value: 288001102, Initial Address: 74C8D22250, Index: 4045
+QVal: 986281640946032
 
 
 
-Found value within range at initial address: 72D36A5040, Value: undefined, Index: 30
-Found value within range at address: 729327505C, Value: 242020004, Initial Address: 72D36A5040, Index: 30
-QVal: 986279110010727
+Found value within range at initial address: 74C8D22490, Value: undefined, Index: 4047
+Found value within range at address: 745970315C, Value: 288001003, Initial Address: 74C8D22490, Index: 4047
+QVal: 986283365109950
 
 
 
-Found value within range at initial address: 72D36A5250, Value: undefined, Index: 32
-Found value within range at address: 7293272C1C, Value: 242011002, Initial Address: 72D36A5250, Index: 32
-QVal: 986279110010727
+Found value within range at initial address: 74C8D22D90, Value: undefined, Index: 4055
+Found value within range at address: 745970298C, Value: 288000005, Initial Address: 74C8D22D90, Index: 4055
+QVal: 986279821618323
 
 
 
-Found value within range at initial address: 72D36A5670, Value: undefined, Index: 36
-Found value within range at address: 7293273F7C, Value: 242014004, Initial Address: 72D36A5670, Index: 36
-QVal: 986279110010727
+Found value within range at initial address: 74C8D22FD0, Value: undefined, Index: 4057
+Found value within range at address: 7459702CFC, Value: 288000006, Initial Address: 74C8D22FD0, Index: 4057
+QVal: 986279817537827
 
 
 
-Found value within range at initial address: 72D36A6010, Value: undefined, Index: 48
-Found value within range at address: 729327401C, Value: 242012015, Initial Address: 72D36A6010, Index: 48
-QVal: 986279110010727
+Found value within range at initial address: 74C8D230F0, Value: undefined, Index: 4058
+Found value within range at address: 7459702C5C, Value: 288000003, Initial Address: 74C8D230F0, Index: 4058
+QVal: 986279884519678
 
 
 
-Found value within range at initial address: 72D36A6430, Value: undefined, Index: 54
-Found value within range at address: 7293272E4C, Value: 242011008, Initial Address: 72D36A6430, Index: 54
-QVal: 986279116762736
+Found value within range at initial address: 74C8D23330, Value: undefined, Index: 4060
+Found value within range at address: 745970441C, Value: 288001103, Initial Address: 74C8D23330, Index: 4060
+QVal: 986283042017863
 
 
 
-Found value within range at initial address: 72D36A64E0, Value: undefined, Index: 55
-Found value within range at address: 729327474C, Value: 242012021, Initial Address: 72D36A64E0, Index: 55
-QVal: 986279109984359
+Found value within range at initial address: 74C8D23B10, Value: undefined, Index: 4067
+Found value within range at address: 745970310C, Value: 288001008, Initial Address: 74C8D23B10, Index: 4067
+QVal: 986280954160150
 
 
 
-Found value within range at initial address: 72D36A6BC0, Value: undefined, Index: 64
-Found value within range at address: 729327393C, Value: 242012018, Initial Address: 72D36A6BC0, Index: 64
-QVal: 986279109984359
+Found value within range at initial address: 74C8D23D50, Value: undefined, Index: 4069
+Found value within range at address: 74597034CC, Value: 288001002, Initial Address: 74C8D23D50, Index: 4069
+QVal: 986283015366542
 
 
 
-Found value within range at initial address: 72D36A6DD0, Value: undefined, Index: 66
-Found value within range at address: 729327460C, Value: 242014007, Initial Address: 72D36A6DD0, Index: 66
-QVal: 986279110010734
+Found value within range at initial address: 74C8D24BF0, Value: undefined, Index: 4082
+Found value within range at address: 7459703ECC, Value: 288000108, Initial Address: 74C8D24BF0, Index: 4082
+QVal: 986283039455334
 
 
 
-Found value within range at initial address: 72D36A6FE0, Value: undefined, Index: 68
-Found value within range at address: 729327334C, Value: 242010013, Initial Address: 72D36A6FE0, Index: 68
-QVal: 986279116762736
+Found value within range at initial address: 74C8D24D10, Value: undefined, Index: 4083
+Found value within range at address: 74597038DC, Value: 288001101, Initial Address: 74C8D24D10, Index: 4083
+QVal: 1127019096281727
 
 
 
-Found value within range at initial address: 72D36A7AE0, Value: undefined, Index: 81
-Found value within range at address: 7293273CAC, Value: 242012014, Initial Address: 72D36A7AE0, Index: 81
-QVal: 986279116760943
+Found value within range at initial address: 74C8D25070, Value: undefined, Index: 4086
+Found value within range at address: 7459703C4C, Value: 288000107, Initial Address: 74C8D25070, Index: 4086
+QVal: 986280424123416
 
 
 
-Found value within range at initial address: 72D36A7C40, Value: undefined, Index: 83
-Found value within range at address: 7293272ADC, Value: 242010006, Initial Address: 72D36A7C40, Index: 83
-QVal: 986279109984359
+Found value within range at initial address: 74C8D25190, Value: undefined, Index: 4087
+Found value within range at address: 74597021BC, Value: 288000105, Initial Address: 74C8D25190, Index: 4087
+QVal: 1127016803336182
 
 
 
-Found value within range at initial address: 72D36A7CF0, Value: undefined, Index: 84
-Found value within range at address: 7293274BAC, Value: 242020602, Initial Address: 72D36A7CF0, Index: 84
-QVal: 986279116500581
+Found value within range at initial address: 74C8D252B0, Value: undefined, Index: 4088
+Found value within range at address: 745970419C, Value: 288001109, Initial Address: 74C8D252B0, Index: 4088
+QVal: 986279118354150
 
 
 
-Found value within range at initial address: 72D36A7DA0, Value: undefined, Index: 85
-Found value within range at address: 729327663C, Value: 242030021, Initial Address: 72D36A7DA0, Index: 85
-QVal: 986279116500581
+Found value within range at initial address: 74C8D25BB0, Value: undefined, Index: 4096
+Found value within range at address: 74597059FC, Value: 288002007, Initial Address: 74C8D25BB0, Index: 4096
+QVal: 986283177297828
 
 
 
-Found value within range at initial address: 72D36A83D0, Value: undefined, Index: 94
-Found value within range at address: 72932743DC, Value: 242013003, Initial Address: 72D36A83D0, Index: 94
-QVal: 986279109984359
+Found value within range at initial address: 74C8D25DF0, Value: undefined, Index: 4098
+Found value within range at address: 7459705E0C, Value: 288002105, Initial Address: 74C8D25DF0, Index: 4098
+QVal: 986280291665380
 
 
 
-Found value within range at initial address: 72D36A8690, Value: undefined, Index: 98
-Found value within range at address: 72932754BC, Value: 242019001, Initial Address: 72D36A8690, Index: 98
-QVal: 986279109984355
+Found value within range at initial address: 74C8D25F10, Value: undefined, Index: 4099
+Found value within range at address: 7459706E9C, Value: 288003003, Initial Address: 74C8D25F10, Index: 4099
+QVal: 986283081428325
 
 
 
-Found value within range at initial address: 72D36A8740, Value: undefined, Index: 99
-Found value within range at address: 729327348C, Value: 242010020, Initial Address: 72D36A8740, Index: 99
-QVal: 986279116760943
+Found value within range at initial address: 74C8D26030, Value: undefined, Index: 4100
+Found value within range at address: 745970513C, Value: 288002006, Initial Address: 74C8D26030, Index: 4100
+QVal: 986280751804391
 
 
 
-Found value within range at initial address: 72D36A8950, Value: undefined, Index: 102
-Found value within range at address: 729327573C, Value: 242017004, Initial Address: 72D36A8950, Index: 102
-QVal: 986279110010727
+Found value within range at initial address: 74C8D26150, Value: undefined, Index: 4101
+Found value within range at address: 745970572C, Value: 288002202, Initial Address: 74C8D26150, Index: 4101
+QVal: 986283342539472
 
 
 
-Found value within range at initial address: 72D36A8ED0, Value: undefined, Index: 110
-Found value within range at address: 72932741FC, Value: 242014011, Initial Address: 72D36A8ED0, Index: 110
-QVal: 986279110009710
+Found value within range at initial address: 74C8D26270, Value: undefined, Index: 4102
+Found value within range at address: 745970482C, Value: 288001203, Initial Address: 74C8D26270, Index: 4102
+QVal: 986282728388801
 
 
 
-Found value within range at initial address: 72D36A95B0, Value: undefined, Index: 120
-Found value within range at address: 72932750FC, Value: 242020601, Initial Address: 72D36A95B0, Index: 120
-QVal: 986279110010734
+Found value within range at initial address: 74C8D26390, Value: undefined, Index: 4103
+Found value within range at address: 74597063FC, Value: 288003002, Initial Address: 74C8D26390, Index: 4103
+QVal: 986279141700078
 
 
 
-Found value within range at initial address: 72D36A97C0, Value: undefined, Index: 123
-Found value within range at address: 7293275C8C, Value: 242030004, Initial Address: 72D36A97C0, Index: 123
-QVal: 986279116760943
+Found value within range at initial address: 74C8D264B0, Value: undefined, Index: 4104
+Found value within range at address: 74597057CC, Value: 288002005, Initial Address: 74C8D264B0, Index: 4104
+QVal: 986279221469615
 
 
 
-Found value within range at initial address: 72D36A9870, Value: undefined, Index: 124
-Found value within range at address: 7293272F3C, Value: 242011005, Initial Address: 72D36A9870, Index: 124
-QVal: 986279110010734
+Found value within range at initial address: 74C8D265D0, Value: undefined, Index: 4105
+Found value within range at address: 745970603C, Value: 288002204, Initial Address: 74C8D265D0, Index: 4105
+QVal: 986282918560919
 
 
 
-Found value within range at initial address: 72D36A9920, Value: undefined, Index: 125
-Found value within range at address: 729327677C, Value: 242030031, Initial Address: 72D36A9920, Index: 125
-QVal: 986279110010727
+Found value within range at initial address: 74C8D26C90, Value: undefined, Index: 4111
+Found value within range at address: 745970685C, Value: 288003005, Initial Address: 74C8D26C90, Index: 4111
+QVal: 986281406452243
 
 
 
-Found value within range at initial address: 72D36A99D0, Value: undefined, Index: 126
-Found value within range at address: 7293276A9C, Value: 242030101, Initial Address: 72D36A99D0, Index: 126
-QVal: 986279110010734
+Found value within range at initial address: 74C8D27110, Value: undefined, Index: 4115
+Found value within range at address: 7459706B7C, Value: 288003007, Initial Address: 74C8D27110, Index: 4115
+QVal: 986281409878245
 
 
 
-Found value within range at initial address: 72D36A9BE0, Value: undefined, Index: 129
-Found value within range at address: 729327613C, Value: 242030022, Initial Address: 72D36A9BE0, Index: 129
-QVal: 986279109984359
+Found value within range at initial address: 74C8D27230, Value: undefined, Index: 4116
+Found value within range at address: 74597045FC, Value: 288001205, Initial Address: 74C8D27230, Index: 4116
+QVal: 986283146976688
 
 
 
-Found value within range at initial address: 72D36A9D40, Value: undefined, Index: 131
-Found value within range at address: 72932773AC, Value: 242030122, Initial Address: 72D36A9D40, Index: 131
-QVal: 986279116760943
+Found value within range at initial address: 74C8D27470, Value: undefined, Index: 4118
+Found value within range at address: 745970469C, Value: 288001202, Initial Address: 74C8D27470, Index: 4118
+QVal: 986282227306772
 
 
 
-Found value within range at initial address: 72D36AA0B0, Value: undefined, Index: 135
-Found value within range at address: 729327654C, Value: 242030003, Initial Address: 72D36AA0B0, Index: 135
-QVal: 986279110010727
+Found value within range at initial address: 74C8D276B0, Value: undefined, Index: 4120
+Found value within range at address: 7459705F4C, Value: 288002107, Initial Address: 74C8D276B0, Index: 4120
+QVal: 1127017926490787
 
 
 
-Found value within range at initial address: 72D36AA4D0, Value: undefined, Index: 141
-Found value within range at address: 7293275E6C, Value: 242030016, Initial Address: 72D36AA4D0, Index: 141
-QVal: 986279110010727
+Found value within range at initial address: 74C8D277D0, Value: undefined, Index: 4121
+Found value within range at address: 74597056DC, Value: 288002201, Initial Address: 74C8D277D0, Index: 4121
+QVal: 986283095606982
 
 
 
-Found value within range at initial address: 72D36AA630, Value: undefined, Index: 143
-Found value within range at address: 7293273ACC, Value: 242014006, Initial Address: 72D36AA630, Index: 143
-QVal: 986279110010727
+Found value within range at initial address: 74C8D27A10, Value: undefined, Index: 4123
+Found value within range at address: 7459706D5C, Value: 288002210, Initial Address: 74C8D27A10, Index: 4123
+QVal: 986279109984372
 
 
 
-Found value within range at initial address: 72D36AAA50, Value: undefined, Index: 149
-Found value within range at address: 7293275B4C, Value: 242030023, Initial Address: 72D36AAA50, Index: 149
-QVal: 986279110010727
+Found value within range at initial address: 74C8D27B30, Value: undefined, Index: 4124
+Found value within range at address: 74597052CC, Value: 288002104, Initial Address: 74C8D27B30, Index: 4124
+QVal: 986280786412137
 
 
 
-Found value within range at initial address: 72D36AAB00, Value: undefined, Index: 150
-Found value within range at address: 729327523C, Value: 242020703, Initial Address: 72D36AAB00, Index: 150
-QVal: 986279116762736
+Found value within range at initial address: 74C8D27C50, Value: undefined, Index: 4125
+Found value within range at address: 745970595C, Value: 288002101, Initial Address: 74C8D27C50, Index: 4125
+QVal: 986280168780434
 
 
 
-Found value within range at initial address: 72D36AAFD0, Value: undefined, Index: 156
-Found value within range at address: 729327622C, Value: 242030012, Initial Address: 72D36AAFD0, Index: 156
-QVal: 986279109984359
+Found value within range at initial address: 74C8D27D70, Value: undefined, Index: 4126
+Found value within range at address: 74597041EC, Value: 288001107, Initial Address: 74C8D27D70, Index: 4126
+QVal: 986280851523387
 
 
 
-Found value within range at initial address: 72D36AB340, Value: undefined, Index: 161
-Found value within range at address: 7293275EBC, Value: 242030010, Initial Address: 72D36AB340, Index: 161
-QVal: 986279116500581
+Found value within range at initial address: 74C8D28670, Value: undefined, Index: 4134
+Found value within range at address: 7459704AAC, Value: 288001210, Initial Address: 74C8D28670, Index: 4134
+QVal: 986279109984314
 
 
 
-Found value within range at initial address: 72D36AB3F0, Value: undefined, Index: 162
-Found value within range at address: 729327771C, Value: 242030105, Initial Address: 72D36AB3F0, Index: 162
-QVal: 986279109984359
+Found value within range at initial address: 74C8D288B0, Value: undefined, Index: 4136
+Found value within range at address: 7459705B3C, Value: 288002008, Initial Address: 74C8D288B0, Index: 4136
+QVal: 986279231837214
 
 
 
-Found value within range at initial address: 72D36AC1B0, Value: undefined, Index: 182
-Found value within range at address: 729327659C, Value: 242030028, Initial Address: 72D36AC1B0, Index: 182
-QVal: 986279116762736
+Found value within range at initial address: 74C8D28AF0, Value: undefined, Index: 4138
+Found value within range at address: 745970630C, Value: 288002211, Initial Address: 74C8D28AF0, Index: 4138
+QVal: 986279109984315
 
 
 
-Found value within range at initial address: 72D36AC470, Value: undefined, Index: 186
-Found value within range at address: 729327541C, Value: 242020702, Initial Address: 72D36AC470, Index: 186
-QVal: 986279109984359
+Found value within range at initial address: 74C8D28C10, Value: undefined, Index: 4139
+Found value within range at address: 7459704D7C, Value: 288001207, Initial Address: 74C8D28C10, Index: 4139
+QVal: 986280001743553
 
 
 
-Found value within range at initial address: 72D36AC7E0, Value: undefined, Index: 191
-Found value within range at address: 7293277E9C, Value: 242030213, Initial Address: 72D36AC7E0, Index: 191
-QVal: 986279116762736
+Found value within range at initial address: 74C8D28D30, Value: undefined, Index: 4140
+Found value within range at address: 74597091EC, Value: 288004108, Initial Address: 74C8D28D30, Index: 4140
+QVal: 1127020676359755
 
 
 
-Found value within range at initial address: 72D36ACB50, Value: undefined, Index: 196
-Found value within range at address: 72932767CC, Value: 242030020, Initial Address: 72D36ACB50, Index: 196
-QVal: 986279110010727
+Found value within range at initial address: 74C8D29090, Value: undefined, Index: 4143
+Found value within range at address: 745970987C, Value: 288004213, Initial Address: 74C8D29090, Index: 4143
+QVal: 986280316815159
 
 
 
-Found value within range at initial address: 72D36ACD60, Value: undefined, Index: 199
-Found value within range at address: 7293273BBC, Value: 242016004, Initial Address: 72D36ACD60, Index: 199
-QVal: 986279110010734
+Found value within range at initial address: 74C8D292D0, Value: undefined, Index: 4145
+Found value within range at address: 745970879C, Value: 288004104, Initial Address: 74C8D292D0, Index: 4145
+QVal: 986281296088117
 
 
 
-Found value within range at initial address: 72D36AD0D0, Value: undefined, Index: 204
-Found value within range at address: 72932749CC, Value: 242020403, Initial Address: 72D36AD0D0, Index: 204
-QVal: 986279116762736
+Found value within range at initial address: 74C8D29510, Value: undefined, Index: 4147
+Found value within range at address: 7459706F3C, Value: 288003103, Initial Address: 74C8D29510, Index: 4147
+QVal: 986281712838083
 
 
 
-Found value within range at initial address: 72D36AD4F0, Value: undefined, Index: 210
-Found value within range at address: 72932764FC, Value: 242030026, Initial Address: 72D36AD4F0, Index: 210
-QVal: 986279116760943
+Found value within range at initial address: 74C8D29630, Value: undefined, Index: 4148
+Found value within range at address: 7459708D8C, Value: 288004105, Initial Address: 74C8D29630, Index: 4148
+QVal: 986279386286032
 
 
 
-Found value within range at initial address: 72D36AD700, Value: undefined, Index: 213
-Found value within range at address: 729327686C, Value: 242030042, Initial Address: 72D36AD700, Index: 213
-QVal: 986279116762736
+Found value within range at initial address: 74C8D29870, Value: undefined, Index: 4150
+Found value within range at address: 7459708E2C, Value: 288004103, Initial Address: 74C8D29870, Index: 4150
+QVal: 986281497761407
 
 
 
-Found value within range at initial address: 72D36ADD30, Value: undefined, Index: 221
-Found value within range at address: 729327785C, Value: 242030208, Initial Address: 72D36ADD30, Index: 221
-QVal: 986279116760943
+Found value within range at initial address: 74C8D29AB0, Value: undefined, Index: 4152
+Found value within range at address: 745970757C, Value: 288003209, Initial Address: 74C8D29AB0, Index: 4152
+QVal: 986281132597578
 
 
 
-Found value within range at initial address: 72D36ADDE0, Value: undefined, Index: 222
-Found value within range at address: 7293276C2C, Value: 242030136, Initial Address: 72D36ADDE0, Index: 222
-QVal: 986279110010734
+Found value within range at initial address: 74C8D29CF0, Value: undefined, Index: 4154
+Found value within range at address: 745970842C, Value: 288004210, Initial Address: 74C8D29CF0, Index: 4154
+QVal: 986280984480582
 
 
 
-Found value within range at initial address: 72D36AE0A0, Value: undefined, Index: 226
-Found value within range at address: 729327825C, Value: 242030223, Initial Address: 72D36AE0A0, Index: 226
-QVal: 986279116760943
+Found value within range at initial address: 74C8D29E10, Value: undefined, Index: 4155
+Found value within range at address: 74597074DC, Value: 288003109, Initial Address: 74C8D29E10, Index: 4155
+QVal: 986279729364640
 
 
 
-Found value within range at initial address: 72D36AE360, Value: undefined, Index: 230
-Found value within range at address: 72932780CC, Value: 242030323, Initial Address: 72D36AE360, Index: 230
-QVal: 986279116762736
+Found value within range at initial address: 74C8D2A4D0, Value: undefined, Index: 4161
+Found value within range at address: 745970897C, Value: 288004101, Initial Address: 74C8D2A4D0, Index: 4161
+QVal: 986280635233801
 
 
 
-Found value within range at initial address: 72D36AE620, Value: undefined, Index: 234
-Found value within range at address: 72932788EC, Value: 242030222, Initial Address: 72D36AE620, Index: 234
-QVal: 986279110010727
+Found value within range at initial address: 74C8D2A830, Value: undefined, Index: 4164
+Found value within range at address: 74597085BC, Value: 288004208, Initial Address: 74C8D2A830, Index: 4164
+QVal: 986280940684441
 
 
 
-Found value within range at initial address: 72D36AE780, Value: undefined, Index: 236
-Found value within range at address: 7293277F3C, Value: 242030308, Initial Address: 72D36AE780, Index: 236
-QVal: 986279116760943
+Found value within range at initial address: 74C8D2AEF0, Value: undefined, Index: 4170
+Found value within range at address: 745970699C, Value: 288003106, Initial Address: 74C8D2AEF0, Index: 4170
+QVal: 986282764098919
 
 
 
-Found value within range at initial address: 72D36AEAF0, Value: undefined, Index: 241
-Found value within range at address: 729327703C, Value: 242030127, Initial Address: 72D36AEAF0, Index: 241
-QVal: 986279109984359
+Found value within range at initial address: 74C8D2B010, Value: undefined, Index: 4171
+Found value within range at address: 745970905C, Value: 288004209, Initial Address: 74C8D2B010, Index: 4171
+QVal: 986281455297409
 
 
 
-Found value within range at initial address: 72D36AEF10, Value: undefined, Index: 247
-Found value within range at address: 729327717C, Value: 242030123, Initial Address: 72D36AEF10, Index: 247
-QVal: 986279109984359
+Found value within range at initial address: 74C8D2B250, Value: undefined, Index: 4173
+Found value within range at address: 74597086AC, Value: 288004109, Initial Address: 74C8D2B250, Index: 4173
+QVal: 986282501622641
 
 
 
-Found value within range at initial address: 72D36AFA10, Value: undefined, Index: 262
-Found value within range at address: 7293274D8C, Value: 242020008, Initial Address: 72D36AFA10, Index: 262
-QVal: 986279116762736
+Found value within range at initial address: 74C8D2B370, Value: undefined, Index: 4174
+Found value within range at address: 745970766C, Value: 288003210, Initial Address: 74C8D2B370, Index: 4174
+QVal: 986279109984314
 
 
 
-Found value within range at initial address: 72D36AFB70, Value: undefined, Index: 264
-Found value within range at address: 72932784DC, Value: 242030306, Initial Address: 72D36AFB70, Index: 264
-QVal: 986279116760943
+Found value within range at initial address: 74C8D2B6D0, Value: undefined, Index: 4177
+Found value within range at address: 7459707B6C, Value: 288003201, Initial Address: 74C8D2B6D0, Index: 4177
+QVal: 986281428771960
 
 
 
-Found value within range at initial address: 72D36AFCD0, Value: undefined, Index: 266
-Found value within range at address: 72932771CC, Value: 242030203, Initial Address: 72D36AFCD0, Index: 266
-QVal: 986279110010734
+Found value within range at initial address: 74C8D2B7F0, Value: undefined, Index: 4178
+Found value within range at address: 7459707F2C, Value: 288003205, Initial Address: 74C8D2B7F0, Index: 4178
+QVal: 986280894554769
 
 
 
-Found value within range at initial address: 72D36AFE30, Value: undefined, Index: 268
-Found value within range at address: 729327834C, Value: 242030218, Initial Address: 72D36AFE30, Index: 268
-QVal: 986279110010727
+Found value within range at initial address: 74C8D2BA30, Value: undefined, Index: 4180
+Found value within range at address: 745970770C, Value: 288004004, Initial Address: 74C8D2BA30, Index: 4180
+QVal: 986283145576458
 
 
 
-Found value within range at initial address: 72D36B0040, Value: undefined, Index: 271
-Found value within range at address: 729327794C, Value: 242030324, Initial Address: 72D36B0040, Index: 271
-QVal: 986279116760943
+Found value within range at initial address: 74C8D2BC70, Value: undefined, Index: 4182
+Found value within range at address: 7459706A8C, Value: 288003008, Initial Address: 74C8D2BC70, Index: 4182
+QVal: 1127019233524128
 
 
 
-Found value within range at initial address: 72D36B05C0, Value: undefined, Index: 279
-Found value within range at address: 729327929C, Value: 242030414, Initial Address: 72D36B05C0, Index: 279
-QVal: 986279109984359
+Found value within range at initial address: 74C8D2BD90, Value: undefined, Index: 4183
+Found value within range at address: 74597072FC, Value: 288003212, Initial Address: 74C8D2BD90, Index: 4183
+QVal: 986281309199616
 
 
 
-Found value within range at initial address: 72D36B0720, Value: undefined, Index: 281
-Found value within range at address: 7293277C1C, Value: 242030404, Initial Address: 72D36B0720, Index: 281
-QVal: 986279109984359
+Found value within range at initial address: 74C8D2BFD0, Value: undefined, Index: 4185
+Found value within range at address: 7459707CAC, Value: 288004005, Initial Address: 74C8D2BFD0, Index: 4185
+QVal: 986282514282619
 
 
 
-Found value within range at initial address: 72D36B12D0, Value: undefined, Index: 297
-Found value within range at address: 729327992C, Value: 242030504, Initial Address: 72D36B12D0, Index: 297
-QVal: 986279109984359
+Found value within range at initial address: 74C8D2C570, Value: undefined, Index: 4190
+Found value within range at address: 7459706F8C, Value: 288003108, Initial Address: 74C8D2C570, Index: 4190
+QVal: 986282965279919
 
 
 
-Found value within range at initial address: 72D36B1430, Value: undefined, Index: 299
-Found value within range at address: 729327956C, Value: 242030418, Initial Address: 72D36B1430, Index: 299
-QVal: 986279116500581
+Found value within range at initial address: 74C8D2C690, Value: undefined, Index: 4191
+Found value within range at address: 74597079DC, Value: 288003208, Initial Address: 74C8D2C690, Index: 4191
+QVal: 986282829517188
 
 
 
-Found value within range at initial address: 72D36B17A0, Value: undefined, Index: 304
-Found value within range at address: 7293278E3C, Value: 242030422, Initial Address: 72D36B17A0, Index: 304
-QVal: 986279116762736
+Found value within range at initial address: 74C8D2CE70, Value: undefined, Index: 4198
+Found value within range at address: 7459709D7C, Value: 288004216, Initial Address: 74C8D2CE70, Index: 4198
+QVal: 986281374039069
 
 
 
-Found value within range at initial address: 72D36B1C70, Value: undefined, Index: 310
-Found value within range at address: 7293277FDC, Value: 242030316, Initial Address: 72D36B1C70, Index: 310
-QVal: 986279109984359
+Found value within range at initial address: 74C8D2D530, Value: undefined, Index: 4204
+Found value within range at address: 745970932C, Value: 288004219, Initial Address: 74C8D2D530, Index: 4204
+QVal: 986280250806171
 
 
 
-Found value within range at initial address: 72D36B1F30, Value: undefined, Index: 314
-Found value within range at address: 72932787FC, Value: 242030301, Initial Address: 72D36B1F30, Index: 314
-QVal: 986279116500581
+Found value within range at initial address: 74C8D2D650, Value: undefined, Index: 4205
+Found value within range at address: 745970AD6C, Value: 288005006, Initial Address: 74C8D2D650, Index: 4205
+QVal: 986281124821181
 
 
 
-Found value within range at initial address: 72D36B2560, Value: undefined, Index: 322
-Found value within range at address: 7293278E8C, Value: 242030518, Initial Address: 72D36B2560, Index: 322
-QVal: 986279116760943
+Found value within range at initial address: 74C8D2E850, Value: undefined, Index: 4221
+Found value within range at address: 74597097DC, Value: 288004229, Initial Address: 74C8D2E850, Index: 4221
+QVal: 986282109942817
 
 
 
-Found value within range at initial address: 72D36B2CF0, Value: undefined, Index: 332
-Found value within range at address: 7293278CAC, Value: 242030510, Initial Address: 72D36B2CF0, Index: 332
-QVal: 986279116762736
+Found value within range at initial address: 74C8D2EBB0, Value: undefined, Index: 4224
+Found value within range at address: 745970AF4C, Value: 288004250, Initial Address: 74C8D2EBB0, Index: 4224
+QVal: 1127016598339644
 
 
 
-Found value within range at initial address: 72D36B2DA0, Value: undefined, Index: 333
-Found value within range at address: 729327406C, Value: 242015015, Initial Address: 72D36B2DA0, Index: 333
-QVal: 986279110010727
+Found value within range at initial address: 74C8D2ECD0, Value: undefined, Index: 4225
+Found value within range at address: 745970A6DC, Value: 288004243, Initial Address: 74C8D2ECD0, Index: 4225
+QVal: 986279109984315
 
 
 
-Found value within range at initial address: 72D36B2FB0, Value: undefined, Index: 336
-Found value within range at address: 7293279BFC, Value: 242030711, Initial Address: 72D36B2FB0, Index: 336
-QVal: 986279116762736
+Found value within range at initial address: 74C8D2F390, Value: undefined, Index: 4231
+Found value within range at address: 745970A81C, Value: 288004235, Initial Address: 74C8D2F390, Index: 4231
+QVal: 986280819986755
 
 
 
-Found value within range at initial address: 72D36B33D0, Value: undefined, Index: 340
-Found value within range at address: 7293278BBC, Value: 242030517, Initial Address: 72D36B33D0, Index: 340
-QVal: 986279116760943
+Found value within range at initial address: 74C8D2F930, Value: undefined, Index: 4236
+Found value within range at address: 745970964C, Value: 288004223, Initial Address: 74C8D2F930, Index: 4236
+QVal: 986281597695910
 
 
 
-Found value within range at initial address: 72D36B38A0, Value: undefined, Index: 347
-Found value within range at address: 729327988C, Value: 242030602, Initial Address: 72D36B38A0, Index: 347
-QVal: 986279109984359
+Found value within range at initial address: 74C8D2FB70, Value: undefined, Index: 4238
+Found value within range at address: 7459709AAC, Value: 288004227, Initial Address: 74C8D2FB70, Index: 4238
+QVal: 986282576432437
 
 
 
-Found value within range at initial address: 72D36B3AB0, Value: undefined, Index: 349
-Found value within range at address: 72932790BC, Value: 242030509, Initial Address: 72D36B3AB0, Index: 349
-QVal: 986279116500581
+Found value within range at initial address: 74C8D2FC90, Value: undefined, Index: 4239
+Found value within range at address: 7459709EBC, Value: 288004228, Initial Address: 74C8D2FC90, Index: 4239
+QVal: 986280445925341
 
 
 
-Found value within range at initial address: 72D36B3D70, Value: undefined, Index: 353
-Found value within range at address: 7293278ACC, Value: 242030525, Initial Address: 72D36B3D70, Index: 353
-QVal: 986279109984355
+Found value within range at initial address: 74C8D2FED0, Value: undefined, Index: 4241
+Found value within range at address: 745970B17C, Value: 288004249, Initial Address: 74C8D2FED0, Index: 4241
+QVal: 1127016598339700
 
 
 
-Found value within range at initial address: 72D36B4030, Value: undefined, Index: 357
-Found value within range at address: 729327A23C, Value: 242030622, Initial Address: 72D36B4030, Index: 357
-QVal: 986279109984359
+Found value within range at initial address: 74C8D32BD0, Value: undefined, Index: 4281
+Found value within range at address: 745970E46C, Value: 288008002, Initial Address: 74C8D32BD0, Index: 4281
+QVal: 986281179641743
 
 
 
-Found value within range at initial address: 72D36B42F0, Value: undefined, Index: 360
-Found value within range at address: 72932798DC, Value: 242030522, Initial Address: 72D36B42F0, Index: 360
-QVal: 986279109984359
+Found value within range at initial address: 74C8D33290, Value: undefined, Index: 4287
+Found value within range at address: 745970DC4C, Value: 288006031, Initial Address: 74C8D33290, Index: 4287
+QVal: 986282786001408
 
 
 
-Found value within range at initial address: 72D36B43A0, Value: undefined, Index: 361
-Found value within range at address: 72932789DC, Value: 242030516, Initial Address: 72D36B43A0, Index: 361
-QVal: 986279116760943
+Found value within range at initial address: 74C8D33830, Value: undefined, Index: 4292
+Found value within range at address: 745970F13C, Value: 288008006, Initial Address: 74C8D33830, Index: 4292
+QVal: 986279212683155
 
 
 
-Found value within range at initial address: 72D36B45B0, Value: undefined, Index: 364
-Found value within range at address: 729327938C, Value: 242030508, Initial Address: 72D36B45B0, Index: 364
-QVal: 986279109984359
+Found value within range at initial address: 74C8D33B90, Value: undefined, Index: 4295
+Found value within range at address: 745970E78C, Value: 288008005, Initial Address: 74C8D33B90, Index: 4295
+QVal: 986279188946879
 
 
 
-Found value within range at initial address: 72D36B4B30, Value: undefined, Index: 369
-Found value within range at address: 729327A28C, Value: 242030719, Initial Address: 72D36B4B30, Index: 369
-QVal: 986279109984359
+Found value within range at initial address: 74C8D33CB0, Value: undefined, Index: 4296
+Found value within range at address: 745970ED2C, Value: 288008001, Initial Address: 74C8D33CB0, Index: 4296
+QVal: 1127017196466041
 
 
 
-Found value within range at initial address: 72D36B4DF0, Value: undefined, Index: 370
-Found value within range at address: 729327A3CC, Value: 242030611, Initial Address: 72D36B4DF0, Index: 370
-QVal: 986279110010727
+Found value within range at initial address: 74C8D34A30, Value: undefined, Index: 4308
+Found value within range at address: 745970F04C, Value: 288008004, Initial Address: 74C8D34A30, Index: 4308
+QVal: 1127018941522666
 
 
 
-Found value within range at initial address: 72D36B5840, Value: undefined, Index: 376
-Found value within range at address: 72932791FC, Value: 242030600, Initial Address: 72D36B5840, Index: 376
-QVal: 986279116760943
+Found value within range at initial address: 74C8D34FD0, Value: undefined, Index: 4313
+Found value within range at address: 745970E96C, Value: 288008007, Initial Address: 74C8D34FD0, Index: 4313
+QVal: 986283315966943
 
 
 
-Found value within range at initial address: 72D36B5E70, Value: undefined, Index: 381
-Found value within range at address: 729327A96C, Value: 242030704, Initial Address: 72D36B5E70, Index: 381
-QVal: 986279110009710
+Found value within range at initial address: 74C8D35690, Value: undefined, Index: 4319
+Found value within range at address: 745970F1DC, Value: 288008003, Initial Address: 74C8D35690, Index: 4319
+QVal: 986282596656041
 
 
 
-Found value within range at initial address: 72D36B5FD0, Value: undefined, Index: 382
-Found value within range at address: 7293277A3C, Value: 242030303, Initial Address: 72D36B5FD0, Index: 382
-QVal: 986279109984359
+Found value within range at initial address: 74C8D36F50, Value: undefined, Index: 4341
+Found value within range at address: 745970F40C, Value: 288009104, Initial Address: 74C8D36F50, Index: 4341
+QVal: 986282429929944
 
 
 
-Found value within range at initial address: 72D36B6290, Value: undefined, Index: 384
-Found value within range at address: 729327A50C, Value: 242030717, Initial Address: 72D36B6290, Index: 384
-QVal: 986279110010727
+Found value within range at initial address: 74C8D374F0, Value: undefined, Index: 4346
+Found value within range at address: 745970E5AC, Value: 288009009, Initial Address: 74C8D374F0, Index: 4346
+QVal: 986282172617872
 
 
 
-Found value within range at initial address: 72D36B6340, Value: undefined, Index: 385
-Found value within range at address: 729327A6EC, Value: 242030721, Initial Address: 72D36B6340, Index: 385
-QVal: 986279110010734
+Found value within range at initial address: 74C8D37610, Value: undefined, Index: 4347
+Found value within range at address: 745971017C, Value: 288009114, Initial Address: 74C8D37610, Index: 4347
+QVal: 986282879113339
 
 
 
-Found value within range at initial address: 72D36B6600, Value: undefined, Index: 387
-Found value within range at address: 7293278A7C, Value: 242030524, Initial Address: 72D36B6600, Index: 387
-QVal: 986279116760943
+Found value within range at initial address: 74C8D37DF0, Value: undefined, Index: 4354
+Found value within range at address: 745971116C, Value: 288010103, Initial Address: 74C8D37DF0, Index: 4354
+QVal: 986279109984314
 
 
 
-Found value within range at initial address: 72D36B68C0, Value: undefined, Index: 388
-Found value within range at address: 729327A5AC, Value: 242030702, Initial Address: 72D36B68C0, Index: 388
-QVal: 986279116500581
+Found value within range at initial address: 74C8D38270, Value: undefined, Index: 4358
+Found value within range at address: 74597105DC, Value: 288010105, Initial Address: 74C8D38270, Index: 4358
+QVal: 1127016598339641
 
 
 
-Found value within range at initial address: 72D36BA960, Value: undefined, Index: 393
-Found value within range at address: 7293272DFC, Value: 242000003, Initial Address: 72D36BA960, Index: 393
-QVal: 986279116762736
+Found value within range at initial address: 74C8D38C90, Value: undefined, Index: 4367
+Found value within range at address: 7459710DFC, Value: 288010102, Initial Address: 74C8D38C90, Index: 4367
+QVal: 986279109984313
 
 
 
-Found value within range at initial address: 72D36BDCF0, Value: undefined, Index: 395
-Found value within range at address: 7293274ABC, Value: 242017006, Initial Address: 72D36BDCF0, Index: 395
-QVal: 986279110010734
+Found value within range at initial address: 74C8D39590, Value: undefined, Index: 4375
+Found value within range at address: 7459711DEC, Value: 288010305, Initial Address: 74C8D39590, Index: 4375
+QVal: 986279109984313
+
+
+
+Found value within range at initial address: 74C8D396B0, Value: undefined, Index: 4376
+Found value within range at address: 7459712DDC, Value: 288011002, Initial Address: 74C8D396B0, Index: 4376
+QVal: 986280655709167
+
+
+
+Found value within range at initial address: 74C8D39A10, Value: undefined, Index: 4379
+Found value within range at address: 7459711E8C, Value: 288010302, Initial Address: 74C8D39A10, Index: 4379
+QVal: 986279109984313
+
+
+
+Found value within range at initial address: 74C8D39D70, Value: undefined, Index: 4382
+Found value within range at address: 7459710C1C, Value: 288010203, Initial Address: 74C8D39D70, Index: 4382
+QVal: 986279109984313
+
+
+
+Found value within range at initial address: 74C8D3A310, Value: undefined, Index: 4387
+Found value within range at address: 7459711A7C, Value: 288010307, Initial Address: 74C8D3A310, Index: 4387
+QVal: 986279109984313
+
+
+
+Found value within range at initial address: 74C8D3AAF0, Value: undefined, Index: 4394
+Found value within range at address: 745971152C, Value: 288010308, Initial Address: 74C8D3AAF0, Index: 4394
+QVal: 1127016598339642
+
+
+
+Found value within range at initial address: 74C8D3AF70, Value: undefined, Index: 4398
+Found value within range at address: 745971134C, Value: 288010107, Initial Address: 74C8D3AF70, Index: 4398
+QVal: 986279109984313
+
+
+
+Found value within range at initial address: 74C8D3B2D0, Value: undefined, Index: 4401
+Found value within range at address: 7459712B5C, Value: 288011005, Initial Address: 74C8D3B2D0, Index: 4401
+QVal: 986283336185249
+
+
+
+Found value within range at initial address: 74C8D3BE10, Value: undefined, Index: 4411
+Found value within range at address: 74597104EC, Value: 288010108, Initial Address: 74C8D3BE10, Index: 4411
+QVal: 1127016598339642
+
+
+
+Found value within range at initial address: 74C8D3C050, Value: undefined, Index: 4413
+Found value within range at address: 745971143C, Value: 288010208, Initial Address: 74C8D3C050, Index: 4413
+QVal: 1127016598339641
+
+
+
+Found value within range at initial address: 74C8D3C3B0, Value: undefined, Index: 4416
+Found value within range at address: 7459711C5C, Value: 288010303, Initial Address: 74C8D3C3B0, Index: 4416
+QVal: 986279109984314
+
+
+
+Found value within range at initial address: 74C8D3CEF0, Value: undefined, Index: 4426
+Found value within range at address: 74597127EC, Value: 288011110, Initial Address: 74C8D3CEF0, Index: 4426
+QVal: 986282417624832
+
+
+
+Found value within range at initial address: 74C8D3D130, Value: undefined, Index: 4428
+Found value within range at address: 7459712E2C, Value: 288011107, Initial Address: 74C8D3D130, Index: 4428
+QVal: 986282637080709
+
+
+
+Found value within range at initial address: 74C8D3D250, Value: undefined, Index: 4429
+Found value within range at address: 745971364C, Value: 288012110, Initial Address: 74C8D3D250, Index: 4429
+QVal: 986279109984315
+
+
+
+Found value within range at initial address: 74C8D3D370, Value: undefined, Index: 4430
+Found value within range at address: 7459714D6C, Value: 288013009, Initial Address: 74C8D3D370, Index: 4430
+QVal: 986279792859428
+
+
+
+Found value within range at initial address: 74C8D3D490, Value: undefined, Index: 4431
+Found value within range at address: 745971265C, Value: 288012001, Initial Address: 74C8D3D490, Index: 4431
+QVal: 986279183292558
+
+
+
+Found value within range at initial address: 74C8D3DA30, Value: undefined, Index: 4436
+Found value within range at address: 74597124CC, Value: 288011112, Initial Address: 74C8D3DA30, Index: 4436
+QVal: 986279117614697
+
+
+
+Found value within range at initial address: 74C8D3DB50, Value: undefined, Index: 4437
+Found value within range at address: 74597144FC, Value: 288013008, Initial Address: 74C8D3DB50, Index: 4437
+QVal: 986281979038744
+
+
+
+Found value within range at initial address: 74C8D3E0F0, Value: undefined, Index: 4442
+Found value within range at address: 745971346C, Value: 288011104, Initial Address: 74C8D3E0F0, Index: 4442
+QVal: 986282907403803
+
+
+
+Found value within range at initial address: 74C8D3E330, Value: undefined, Index: 4444
+Found value within range at address: 74597138CC, Value: 288012103, Initial Address: 74C8D3E330, Index: 4444
+QVal: 986281655053018
+
+
+
+Found value within range at initial address: 74C8D3E450, Value: undefined, Index: 4445
+Found value within range at address: 745971490C, Value: 288013107, Initial Address: 74C8D3E450, Index: 4445
+QVal: 986280654240894
+
+
+
+Found value within range at initial address: 74C8D3E8D0, Value: undefined, Index: 4449
+Found value within range at address: 74597130AC, Value: 288011103, Initial Address: 74C8D3E8D0, Index: 4449
+QVal: 1127020051621670
+
+
+
+Found value within range at initial address: 74C8D3E9F0, Value: undefined, Index: 4450
+Found value within range at address: 74597152BC, Value: 288013102, Initial Address: 74C8D3E9F0, Index: 4450
+QVal: 986282053149200
+
+
+
+Found value within range at initial address: 74C8D3EB10, Value: undefined, Index: 4451
+Found value within range at address: 7459713AFC, Value: 288012101, Initial Address: 74C8D3EB10, Index: 4451
+QVal: 1127020740144511
+
+
+
+Found value within range at initial address: 74C8D3EC30, Value: undefined, Index: 4452
+Found value within range at address: 745971292C, Value: 288011105, Initial Address: 74C8D3EC30, Index: 4452
+QVal: 986283082816850
+
+
+
+Found value within range at initial address: 74C8D3ED50, Value: undefined, Index: 4453
+Found value within range at address: 745971445C, Value: 288012112, Initial Address: 74C8D3ED50, Index: 4453
+QVal: 986279109984372
+
+
+
+Found value within range at initial address: 74C8D3EF90, Value: undefined, Index: 4455
+Found value within range at address: 745971300C, Value: 288011101, Initial Address: 74C8D3EF90, Index: 4455
+QVal: 1127019677614590
+
+
+
+Found value within range at initial address: 74C8D3F0B0, Value: undefined, Index: 4456
+Found value within range at address: 7459714F9C, Value: 288013106, Initial Address: 74C8D3F0B0, Index: 4456
+QVal: 986282972519619
+
+
+
+Found value within range at initial address: 74C8D3F530, Value: undefined, Index: 4460
+Found value within range at address: 74597144AC, Value: 288012102, Initial Address: 74C8D3F530, Index: 4460
+QVal: 986281071363480
+
+
+
+Found value within range at initial address: 74C8D3FAD0, Value: undefined, Index: 4465
+Found value within range at address: 745971382C, Value: 288012005, Initial Address: 74C8D3FAD0, Index: 4465
+QVal: 986281819928496
+
+
+
+Found value within range at initial address: 74C8D3FBF0, Value: undefined, Index: 4466
+Found value within range at address: 7459714A9C, Value: 288013006, Initial Address: 74C8D3FBF0, Index: 4466
+QVal: 986280298539212
+
+
+
+Found value within range at initial address: 74C8D3FE30, Value: undefined, Index: 4468
+Found value within range at address: 745971512C, Value: 288013101, Initial Address: 74C8D3FE30, Index: 4468
+QVal: 986282437757372
+
+
+
+Found value within range at initial address: 74C8D3FF50, Value: undefined, Index: 4469
+Found value within range at address: 74597140EC, Value: 288013002, Initial Address: 74C8D3FF50, Index: 4469
+QVal: 986279604906594
+
+
+
+Found value within range at initial address: 74C8D40070, Value: undefined, Index: 4470
+Found value within range at address: 745971431C, Value: 288012007, Initial Address: 74C8D40070, Index: 4470
+QVal: 986279840881396
+
+
+
+Found value within range at initial address: 74C8D402B0, Value: undefined, Index: 4472
+Found value within range at address: 74597129CC, Value: 288011109, Initial Address: 74C8D402B0, Index: 4472
+QVal: 986282932848101
+
+
+
+Found value within range at initial address: 74C8D403D0, Value: undefined, Index: 4473
+Found value within range at address: 745971409C, Value: 288013001, Initial Address: 74C8D403D0, Index: 4473
+QVal: 986279825968729
+
+
+
+Found value within range at initial address: 74C8D404F0, Value: undefined, Index: 4474
+Found value within range at address: 745971486C, Value: 288013013, Initial Address: 74C8D404F0, Index: 4474
+QVal: 1127016605970025
+
+
+
+Found value within range at initial address: 74C8D40A90, Value: undefined, Index: 4479
+Found value within range at address: 745971698C, Value: 288020008, Initial Address: 74C8D40A90, Index: 4479
+QVal: 986279109984372
+
+
+
+Found value within range at initial address: 74C8D40BB0, Value: undefined, Index: 4480
+Found value within range at address: 745971661C, Value: 288020016, Initial Address: 74C8D40BB0, Index: 4480
+QVal: 986279109984316
+
+
+
+Found value within range at initial address: 74C8D40DF0, Value: undefined, Index: 4482
+Found value within range at address: 745971643C, Value: 288015008, Initial Address: 74C8D40DF0, Index: 4482
+QVal: 986281064921552
+
+
+
+Found value within range at initial address: 74C8D41030, Value: undefined, Index: 4484
+Found value within range at address: 74597172EC, Value: 288020004, Initial Address: 74C8D41030, Index: 4484
+QVal: 986279109984314
+
+
+
+Found value within range at initial address: 74C8D41150, Value: undefined, Index: 4485
+Found value within range at address: 74597174CC, Value: 288020001, Initial Address: 74C8D41150, Index: 4485
+QVal: 986279117615973
+
+
+
+Found value within range at initial address: 74C8D41390, Value: undefined, Index: 4487
+Found value within range at address: 745971652C, Value: 288015015, Initial Address: 74C8D41390, Index: 4487
+QVal: 986281570290298
+
+
+
+Found value within range at initial address: 74C8D416F0, Value: undefined, Index: 4490
+Found value within range at address: 7459715E4C, Value: 288015009, Initial Address: 74C8D416F0, Index: 4490
+QVal: 986279110968557
+
+
+
+Found value within range at initial address: 74C8D41930, Value: undefined, Index: 4492
+Found value within range at address: 745971616C, Value: 288015006, Initial Address: 74C8D41930, Index: 4492
+QVal: 986281864668701
+
+
+
+Found value within range at initial address: 74C8D41B70, Value: undefined, Index: 4494
+Found value within range at address: 7459716F2C, Value: 288020006, Initial Address: 74C8D41B70, Index: 4494
+QVal: 986279109984315
+
+
+
+Found value within range at initial address: 74C8D41C90, Value: undefined, Index: 4495
+Found value within range at address: 74597157BC, Value: 288015005, Initial Address: 74C8D41C90, Index: 4495
+QVal: 986280049763376
+
+
+
+Found value within range at initial address: 74C8D41FF0, Value: undefined, Index: 4498
+Found value within range at address: 74597160CC, Value: 288015014, Initial Address: 74C8D41FF0, Index: 4498
+QVal: 986282925952725
+
+
+
+Found value within range at initial address: 74C8D42230, Value: undefined, Index: 4500
+Found value within range at address: 745971571C, Value: 288015013, Initial Address: 74C8D42230, Index: 4500
+QVal: 986280465329526
+
+
+
+Found value within range at initial address: 74C8D42A10, Value: undefined, Index: 4507
+Found value within range at address: 7459716A2C, Value: 288020011, Initial Address: 74C8D42A10, Index: 4507
+QVal: 986279109984316
+
+
+
+Found value within range at initial address: 74C8D42C50, Value: undefined, Index: 4509
+Found value within range at address: 74597169DC, Value: 288020015, Initial Address: 74C8D42C50, Index: 4509
+QVal: 986279109984315
+
+
+
+Found value within range at initial address: 74C8D42D70, Value: undefined, Index: 4510
+Found value within range at address: 7459715EEC, Value: 288015002, Initial Address: 74C8D42D70, Index: 4510
+QVal: 986280720475167
+
+
+
+Found value within range at initial address: 74C8D42E90, Value: undefined, Index: 4511
+Found value within range at address: 745971693C, Value: 288020017, Initial Address: 74C8D42E90, Index: 4511
+QVal: 986279117615973
+
+
+
+Found value within range at initial address: 74C8D43430, Value: undefined, Index: 4516
+Found value within range at address: 7459715B7C, Value: 288015010, Initial Address: 74C8D43430, Index: 4516
+QVal: 986282269012865
+
+
+
+Found value within range at initial address: 74C8D43790, Value: undefined, Index: 4519
+Found value within range at address: 7459716C0C, Value: 288020009, Initial Address: 74C8D43790, Index: 4519
+QVal: 986279109984372
+
+
+
+Found value within range at initial address: 74C8D43AF0, Value: undefined, Index: 4522
+Found value within range at address: 7459716F7C, Value: 288020014, Initial Address: 74C8D43AF0, Index: 4522
+QVal: 1127016598339641
+
+
+
+Found value within range at initial address: 74C8D43C10, Value: undefined, Index: 4523
+Found value within range at address: 7459716E8C, Value: 288020003, Initial Address: 74C8D43C10, Index: 4523
+QVal: 986279109984372
+
+
+
+Found value within range at initial address: 74C8D43D30, Value: undefined, Index: 4524
+Found value within range at address: 74597161BC, Value: 288016001, Initial Address: 74C8D43D30, Index: 4524
+QVal: 986280270597601
+
+
+
+Found value within range at initial address: 74C8D43E50, Value: undefined, Index: 4525
+Found value within range at address: 74597149FC, Value: 288013108, Initial Address: 74C8D43E50, Index: 4525
+QVal: 986279462326098
+
+
+
+Found value within range at initial address: 74C8D44090, Value: undefined, Index: 4527
+Found value within range at address: 74597165CC, Value: 288020010, Initial Address: 74C8D44090, Index: 4527
+QVal: 986279109984315
+
+
+
+Found value within range at initial address: 74C8D442D0, Value: undefined, Index: 4529
+Found value within range at address: 745971710C, Value: 288020013, Initial Address: 74C8D442D0, Index: 4529
+QVal: 986279109984315
+
+
+
+Found value within range at initial address: 74C8D443F0, Value: undefined, Index: 4530
+Found value within range at address: 745971701C, Value: 288020024, Initial Address: 74C8D443F0, Index: 4530
+QVal: 986279109984372
+
+
+
+Found value within range at initial address: 74C8D44510, Value: undefined, Index: 4531
+Found value within range at address: 74597175BC, Value: 288100102, Initial Address: 74C8D44510, Index: 4531
+QVal: 986279889704657
+
+
+
+Found value within range at initial address: 74C8D44630, Value: undefined, Index: 4532
+Found value within range at address: 7459716D4C, Value: 288020019, Initial Address: 74C8D44630, Index: 4532
+QVal: 986279109984372
+
+
+
+Found value within range at initial address: 74C8D44750, Value: undefined, Index: 4533
+Found value within range at address: 745971747C, Value: 288100004, Initial Address: 74C8D44750, Index: 4533
+QVal: 986281650234455
+
+
+
+Found value within range at initial address: 74C8D44870, Value: undefined, Index: 4534
+Found value within range at address: 7459716C5C, Value: 288020022, Initial Address: 74C8D44870, Index: 4534
+QVal: 986279109984315
+
+
+
+Found value within range at initial address: 74C8D44990, Value: undefined, Index: 4535
+Found value within range at address: 745971689C, Value: 288100011, Initial Address: 74C8D44990, Index: 4535
+QVal: 986280733049861
+
+
+
+Found value within range at initial address: 74C8D45710, Value: undefined, Index: 4547
+Found value within range at address: 745971779C, Value: 288100104, Initial Address: 74C8D45710, Index: 4547
+QVal: 986280971389890
+
+
+
+Found value within range at initial address: 74C8D45B90, Value: undefined, Index: 4551
+Found value within range at address: 7459717E2C, Value: 288100101, Initial Address: 74C8D45B90, Index: 4551
+QVal: 986280441432440
+
+
+
+Found value within range at initial address: 74C8D46010, Value: undefined, Index: 4555
+Found value within range at address: 745971706C, Value: 288020020, Initial Address: 74C8D46010, Index: 4555
+QVal: 986279109984314
+
+
+
+Found value within range at initial address: 74C8D46130, Value: undefined, Index: 4556
+Found value within range at address: 74597184BC, Value: 288100051, Initial Address: 74C8D46130, Index: 4556
+QVal: 986281092389692
+
+
+
+Found value within range at initial address: 74C8D46490, Value: undefined, Index: 4559
+Found value within range at address: 745971751C, Value: 288100013, Initial Address: 74C8D46490, Index: 4559
+QVal: 986282796480866
+
+
+
+Found value within range at initial address: 74C8D465B0, Value: undefined, Index: 4560
+Found value within range at address: 745971823C, Value: 288100032, Initial Address: 74C8D465B0, Index: 4560
+QVal: 986282637576281
+
+
+
+Found value within range at initial address: 74C8D467F0, Value: undefined, Index: 4562
+Found value within range at address: 74597177EC, Value: 288100111, Initial Address: 74C8D467F0, Index: 4562
+QVal: 986281152191149
+
+
+
+Found value within range at initial address: 74C8D46910, Value: undefined, Index: 4563
+Found value within range at address: 7459717B0C, Value: 288100042, Initial Address: 74C8D46910, Index: 4563
+QVal: 986280436492609
+
+
+
+Found value within range at initial address: 74C8D46A30, Value: undefined, Index: 4564
+Found value within range at address: 745971841C, Value: 288100033, Initial Address: 74C8D46A30, Index: 4564
+QVal: 986282118691952
+
+
+
+Found value within range at initial address: 74C8D46B50, Value: undefined, Index: 4565
+Found value within range at address: 7459717ECC, Value: 288100034, Initial Address: 74C8D46B50, Index: 4565
+QVal: 986281697535077
+
+
+
+Found value within range at initial address: 74C8D46C70, Value: undefined, Index: 4566
+Found value within range at address: 7459716A7C, Value: 288100014, Initial Address: 74C8D46C70, Index: 4566
+QVal: 986280898635470
+
+
+
+Found value within range at initial address: 74C8D477B0, Value: undefined, Index: 4576
+Found value within range at address: 745971788C, Value: 288100064, Initial Address: 74C8D477B0, Index: 4576
+QVal: 986280375609513
+
+
+
+Found value within range at initial address: 74C8D47B10, Value: undefined, Index: 4579
+Found value within range at address: 7459717FBC, Value: 288100053, Initial Address: 74C8D47B10, Index: 4579
+QVal: 986281608465640
+
+
+
+Found value within range at initial address: 74C8D480B0, Value: undefined, Index: 4584
+Found value within range at address: 745971A9EC, Value: 288101043, Initial Address: 74C8D480B0, Index: 4584
+QVal: 986279887127997
+
+
+
+Found value within range at initial address: 74C8D481D0, Value: undefined, Index: 4585
+Found value within range at address: 7459718D2C, Value: 288100163, Initial Address: 74C8D481D0, Index: 4585
+QVal: 986283044729552
+
+
+
+Found value within range at initial address: 74C8D482F0, Value: undefined, Index: 4586
+Found value within range at address: 745971A35C, Value: 288101004, Initial Address: 74C8D482F0, Index: 4586
+QVal: 986282728385330
+
+
+
+Found value within range at initial address: 74C8D48410, Value: undefined, Index: 4587
+Found value within range at address: 745971873C, Value: 288100161, Initial Address: 74C8D48410, Index: 4587
+QVal: 986280301475025
+
+
+
+Found value within range at initial address: 74C8D48650, Value: undefined, Index: 4589
+Found value within range at address: 7459719F4C, Value: 288100201, Initial Address: 74C8D48650, Index: 4589
+QVal: 986281115853980
+
+
+
+Found value within range at initial address: 74C8D48AD0, Value: undefined, Index: 4593
+Found value within range at address: 745971995C, Value: 288101011, Initial Address: 74C8D48AD0, Index: 4593
+QVal: 986280302965384
+
+
+
+Found value within range at initial address: 74C8D48D10, Value: undefined, Index: 4595
+Found value within range at address: 745971913C, Value: 288100134, Initial Address: 74C8D48D10, Index: 4595
+QVal: 986280583463700
+
+
+
+Found value within range at initial address: 74C8D493D0, Value: undefined, Index: 4601
+Found value within range at address: 745971A12C, Value: 288100251, Initial Address: 74C8D493D0, Index: 4601
+QVal: 1127019501726208
+
+
+
+Found value within range at initial address: 74C8D49610, Value: undefined, Index: 4603
+Found value within range at address: 7459719EAC, Value: 288101031, Initial Address: 74C8D49610, Index: 4603
+QVal: 986283322229506
+
+
+
+Found value within range at initial address: 74C8D49850, Value: undefined, Index: 4605
+Found value within range at address: 745971882C, Value: 288100132, Initial Address: 74C8D49850, Index: 4605
+QVal: 986281179080863
+
+
+
+Found value within range at initial address: 74C8D49970, Value: undefined, Index: 4606
+Found value within range at address: 745971A58C, Value: 288101012, Initial Address: 74C8D49970, Index: 4606
+QVal: 986279363416037
+
+
+
+Found value within range at initial address: 74C8D49DF0, Value: undefined, Index: 4610
+Found value within range at address: 745971A08C, Value: 288101013, Initial Address: 74C8D49DF0, Index: 4610
+QVal: 986281940528063
+
+
+
+Found value within range at initial address: 74C8D49F10, Value: undefined, Index: 4611
+Found value within range at address: 7459718FAC, Value: 288100143, Initial Address: 74C8D49F10, Index: 4611
+QVal: 986281990433880
+
+
+
+Found value within range at initial address: 74C8D4A030, Value: undefined, Index: 4612
+Found value within range at address: 7459719D1C, Value: 288101002, Initial Address: 74C8D4A030, Index: 4612
+QVal: 986283083227466
+
+
+
+Found value within range at initial address: 74C8D4A4B0, Value: undefined, Index: 4616
+Found value within range at address: 745971954C, Value: 288100144, Initial Address: 74C8D4A4B0, Index: 4616
+QVal: 986280035448913
+
+
+
+Found value within range at initial address: 74C8D4A5D0, Value: undefined, Index: 4617
+Found value within range at address: 745971977C, Value: 288101032, Initial Address: 74C8D4A5D0, Index: 4617
+QVal: 986280442650300
+
+
+
+Found value within range at initial address: 74C8D4A810, Value: undefined, Index: 4619
+Found value within range at address: 745971AADC, Value: 288101052, Initial Address: 74C8D4A810, Index: 4619
+QVal: 986283098009481
+
+
+
+Found value within range at initial address: 74C8D4AC90, Value: undefined, Index: 4623
+Found value within range at address: 745971A8FC, Value: 288101042, Initial Address: 74C8D4AC90, Index: 4623
+QVal: 986279821374063
+
+
+
+Found value within range at initial address: 74C8D4AED0, Value: undefined, Index: 4625
+Found value within range at address: 745971B61C, Value: 288101051, Initial Address: 74C8D4AED0, Index: 4625
+QVal: 986279612636922
+
+
+
+Found value within range at initial address: 74C8D4AFF0, Value: undefined, Index: 4626
+Found value within range at address: 74597194FC, Value: 288100151, Initial Address: 74C8D4AFF0, Index: 4626
+QVal: 986282710024244
+
+
+
+Found value within range at initial address: 74C8D4B590, Value: undefined, Index: 4631
+Found value within range at address: 7459719D6C, Value: 288101034, Initial Address: 74C8D4B590, Index: 4631
+QVal: 1127020548827225
+
+
+
+Found value within range at initial address: 74C8D4B6B0, Value: undefined, Index: 4632
+Found value within range at address: 745971927C, Value: 288100142, Initial Address: 74C8D4B6B0, Index: 4632
+QVal: 1127017069189036
+
+
+
+Found value within range at initial address: 74C8D4BD70, Value: undefined, Index: 4638
+Found value within range at address: 745971AE4C, Value: 288101103, Initial Address: 74C8D4BD70, Index: 4638
+QVal: 986281397167704
+
+
+
+Found value within range at initial address: 74C8D4BE90, Value: undefined, Index: 4639
+Found value within range at address: 745971C74C, Value: 288101231, Initial Address: 74C8D4BE90, Index: 4639
+QVal: 986280450734237
+
+
+
+Found value within range at initial address: 74C8D4C0D0, Value: undefined, Index: 4641
+Found value within range at address: 745971B11C, Value: 288101114, Initial Address: 74C8D4C0D0, Index: 4641
+QVal: 986283182042438
+
+
+
+Found value within range at initial address: 74C8D4C310, Value: undefined, Index: 4643
+Found value within range at address: 745971B2FC, Value: 288101113, Initial Address: 74C8D4C310, Index: 4643
+QVal: 986282150041947
+
+
+
+Found value within range at initial address: 74C8D4C550, Value: undefined, Index: 4645
+Found value within range at address: 745971AD5C, Value: 288101102, Initial Address: 74C8D4C550, Index: 4645
+QVal: 1127020249624735
+
+
+
+Found value within range at initial address: 74C8D4C8B0, Value: undefined, Index: 4648
+Found value within range at address: 745971C1AC, Value: 288101142, Initial Address: 74C8D4C8B0, Index: 4648
+QVal: 986282172218688
+
+
+
+Found value within range at initial address: 74C8D4C9D0, Value: undefined, Index: 4649
+Found value within range at address: 745971C24C, Value: 288101152, Initial Address: 74C8D4C9D0, Index: 4649
+QVal: 986279200836715
+
+
+
+Found value within range at initial address: 74C8D4CC10, Value: undefined, Index: 4651
+Found value within range at address: 745971AE9C, Value: 288101104, Initial Address: 74C8D4CC10, Index: 4651
+QVal: 1127019642247439
+
+
+
+Found value within range at initial address: 74C8D4D090, Value: undefined, Index: 4655
+Found value within range at address: 745971BA2C, Value: 288101162, Initial Address: 74C8D4D090, Index: 4655
+QVal: 986282930975635
+
+
+
+Found value within range at initial address: 74C8D4D2D0, Value: undefined, Index: 4657
+Found value within range at address: 745971B75C, Value: 288101164, Initial Address: 74C8D4D2D0, Index: 4657
+QVal: 986282910251001
+
+
+
+Found value within range at initial address: 74C8D4D3F0, Value: undefined, Index: 4658
+Found value within range at address: 745971B5CC, Value: 288101061, Initial Address: 74C8D4D3F0, Index: 4658
+QVal: 986281707095421
+
+
+
+Found value within range at initial address: 74C8D4D630, Value: undefined, Index: 4660
+Found value within range at address: 745971C5BC, Value: 288101153, Initial Address: 74C8D4D630, Index: 4660
+QVal: 986280768422897
+
+
+
+Found value within range at initial address: 74C8D4DBD0, Value: undefined, Index: 4665
+Found value within range at address: 745971BF7C, Value: 288101132, Initial Address: 74C8D4DBD0, Index: 4665
+QVal: 986283176418380
+
+
+
+Found value within range at initial address: 74C8D4DE10, Value: undefined, Index: 4667
+Found value within range at address: 745971B52C, Value: 288101064, Initial Address: 74C8D4DE10, Index: 4667
+QVal: 1127019038432439
+
+
+
+Found value within range at initial address: 74C8D4DF30, Value: undefined, Index: 4668
+Found value within range at address: 745971B9DC, Value: 288101161, Initial Address: 74C8D4DF30, Index: 4668
+QVal: 986279178744076
+
+
+
+Found value within range at initial address: 74C8D4E290, Value: undefined, Index: 4671
+Found value within range at address: 745971C10C, Value: 288101163, Initial Address: 74C8D4E290, Index: 4671
+QVal: 986280929992824
+
+
+
+Found value within range at initial address: 74C8D4E4D0, Value: undefined, Index: 4673
+Found value within range at address: 745971AA3C, Value: 288101112, Initial Address: 74C8D4E4D0, Index: 4673
+QVal: 986280640409558
+
+
+
+Found value within range at initial address: 74C8D4E830, Value: undefined, Index: 4676
+Found value within range at address: 745971C6AC, Value: 288101143, Initial Address: 74C8D4E830, Index: 4676
+QVal: 986281662839617
+
+
+
+Found value within range at initial address: 74C8D4F130, Value: undefined, Index: 4684
+Found value within range at address: 745971BCAC, Value: 288101133, Initial Address: 74C8D4F130, Index: 4684
+QVal: 986282137563585
+
+
+
+Found value within range at initial address: 74C8D4F490, Value: undefined, Index: 4687
+Found value within range at address: 745971EBDC, Value: 288106010, Initial Address: 74C8D4F490, Index: 4687
+QVal: 986280661019055
+
+
+
+Found value within range at initial address: 74C8D4F5B0, Value: undefined, Index: 4688
+Found value within range at address: 745971DAAC, Value: 288106002, Initial Address: 74C8D4F5B0, Index: 4688
+QVal: 986282311531328
+
+
+
+Found value within range at initial address: 74C8D4F6D0, Value: undefined, Index: 4689
+Found value within range at address: 745971EAEC, Value: 288106018, Initial Address: 74C8D4F6D0, Index: 4689
+QVal: 986281297117730
+
+
+
+Found value within range at initial address: 74C8D4F7F0, Value: undefined, Index: 4690
+Found value within range at address: 745971DF5C, Value: 288105078, Initial Address: 74C8D4F7F0, Index: 4690
+QVal: 986280846324899
+
+
+
+Found value within range at initial address: 74C8D4FFD0, Value: undefined, Index: 4697
+Found value within range at address: 745971E68C, Value: 288104075, Initial Address: 74C8D4FFD0, Index: 4697
+QVal: 986279604154670
+
+
+
+Found value within range at initial address: 74C8D50330, Value: undefined, Index: 4700
+Found value within range at address: 745971F1CC, Value: 288106014, Initial Address: 74C8D50330, Index: 4700
+QVal: 986279123362283
+
+
+
+Found value within range at initial address: 74C8D507B0, Value: undefined, Index: 4704
+Found value within range at address: 745971F5DC, Value: 288106016, Initial Address: 74C8D507B0, Index: 4704
+QVal: 986279899356658
+
+
+
+Found value within range at initial address: 74C8D508D0, Value: undefined, Index: 4705
+Found value within range at address: 745971EFEC, Value: 288106017, Initial Address: 74C8D508D0, Index: 4705
+QVal: 986280799070362
+
+
+
+Found value within range at initial address: 74C8D50C30, Value: undefined, Index: 4708
+Found value within range at address: 745971E77C, Value: 288106007, Initial Address: 74C8D50C30, Index: 4708
+QVal: 986279298621334
+
+
+
+Found value within range at initial address: 74C8D50F90, Value: undefined, Index: 4711
+Found value within range at address: 745971E86C, Value: 288106009, Initial Address: 74C8D50F90, Index: 4711
+QVal: 1127018655655991
+
+
+
+Found value within range at initial address: 74C8D511D0, Value: undefined, Index: 4713
+Found value within range at address: 745971DCDC, Value: 288105074, Initial Address: 74C8D511D0, Index: 4713
+QVal: 986281985838335
+
+
+
+Found value within range at initial address: 74C8D512F0, Value: undefined, Index: 4714
+Found value within range at address: 745971CFBC, Value: 288103101, Initial Address: 74C8D512F0, Index: 4714
+QVal: 986283344601673
+
+
+
+Found value within range at initial address: 74C8D51410, Value: undefined, Index: 4715
+Found value within range at address: 745971DE6C, Value: 288106005, Initial Address: 74C8D51410, Index: 4715
+QVal: 1127017080401541
+
+
+
+Found value within range at initial address: 74C8D51650, Value: undefined, Index: 4717
+Found value within range at address: 745971D9BC, Value: 288104076, Initial Address: 74C8D51650, Index: 4717
+QVal: 986282331450695
+
+
+
+Found value within range at initial address: 74C8D51770, Value: undefined, Index: 4718
+Found value within range at address: 745971D8CC, Value: 288105079, Initial Address: 74C8D51770, Index: 4718
+QVal: 986281021527287
+
+
+
+Found value within range at initial address: 74C8D51890, Value: undefined, Index: 4719
+Found value within range at address: 745971CE2C, Value: 288103111, Initial Address: 74C8D51890, Index: 4719
+QVal: 986283283400104
+
+
+
+Found value within range at initial address: 74C8D51AD0, Value: undefined, Index: 4721
+Found value within range at address: 745971F62C, Value: 288106006, Initial Address: 74C8D51AD0, Index: 4721
+QVal: 986282912023301
+
+
+
+Found value within range at initial address: 74C8D51D10, Value: undefined, Index: 4723
+Found value within range at address: 745971C83C, Value: 288103081, Initial Address: 74C8D51D10, Index: 4723
+QVal: 986281184295416
+
+
+
+Found value within range at initial address: 74C8D51E30, Value: undefined, Index: 4724
+Found value within range at address: 745971E31C, Value: 288105075, Initial Address: 74C8D51E30, Index: 4724
+QVal: 986281677919186
+
+
+
+Found value within range at initial address: 74C8D51F50, Value: undefined, Index: 4725
+Found value within range at address: 745971E13C, Value: 288104073, Initial Address: 74C8D51F50, Index: 4725
+QVal: 986279420890752
+
+
+
+Found value within range at initial address: 74C8D52070, Value: undefined, Index: 4726
+Found value within range at address: 745971E40C, Value: 288104081, Initial Address: 74C8D52070, Index: 4726
+QVal: 986282744593867
+
+
+
+Found value within range at initial address: 74C8D52190, Value: undefined, Index: 4727
+Found value within range at address: 745971DC3C, Value: 288104072, Initial Address: 74C8D52190, Index: 4727
+QVal: 1127016599350801
+
+
+
+Found value within range at initial address: 74C8D52730, Value: undefined, Index: 4732
+Found value within range at address: 745971F44C, Value: 288106021, Initial Address: 74C8D52730, Index: 4732
+QVal: 1127017634727356
+
+
+
+Found value within range at initial address: 74C8D52850, Value: undefined, Index: 4733
+Found value within range at address: 745971DA0C, Value: 288105071, Initial Address: 74C8D52850, Index: 4733
+QVal: 986281471840438
+
+
+
+Found value within range at initial address: 74C8D52CD0, Value: undefined, Index: 4737
+Found value within range at address: 745971D73C, Value: 288105072, Initial Address: 74C8D52CD0, Index: 4737
+QVal: 986279954405156
+
+
+
+Found value within range at initial address: 74C8D535D0, Value: undefined, Index: 4745
+Found value within range at address: 745971FE4C, Value: 288200017, Initial Address: 74C8D535D0, Index: 4745
+QVal: 1127018050410976
+
+
+
+Found value within range at initial address: 74C8D53B70, Value: undefined, Index: 4750
+Found value within range at address: 745971F76C, Value: 288106024, Initial Address: 74C8D53B70, Index: 4750
+QVal: 986281480101295
+
+
+
+Found value within range at initial address: 74C8D53DB0, Value: undefined, Index: 4752
+Found value within range at address: 745971EB3C, Value: 288106031, Initial Address: 74C8D53DB0, Index: 4752
+QVal: 986283233023685
+
+
+
+Found value within range at initial address: 74C8D53FF0, Value: undefined, Index: 4754
+Found value within range at address: 7459720E8C, Value: 288200027, Initial Address: 74C8D53FF0, Index: 4754
+QVal: 986279705123523
+
+
+
+Found value within range at initial address: 74C8D54230, Value: undefined, Index: 4756
+Found value within range at address: 745971EE5C, Value: 288106022, Initial Address: 74C8D54230, Index: 4756
+QVal: 1127020157709934
+
+
+
+Found value within range at initial address: 74C8D54590, Value: undefined, Index: 4759
+Found value within range at address: 74597202FC, Value: 288200008, Initial Address: 74C8D54590, Index: 4759
+QVal: 986281028666881
+
+
+
+Found value within range at initial address: 74C8D547D0, Value: undefined, Index: 4761
+Found value within range at address: 745972052C, Value: 288200005, Initial Address: 74C8D547D0, Index: 4761
+QVal: 986282337763796
+
+
+
+Found value within range at initial address: 74C8D54B30, Value: undefined, Index: 4764
+Found value within range at address: 745971F8AC, Value: 288200003, Initial Address: 74C8D54B30, Index: 4764
+QVal: 986282431132879
+
+
+
+Found value within range at initial address: 74C8D558B0, Value: undefined, Index: 4776
+Found value within range at address: 745971EB8C, Value: 288106025, Initial Address: 74C8D558B0, Index: 4776
+QVal: 986281886153810
+
+
+
+Found value within range at initial address: 74C8D559D0, Value: undefined, Index: 4777
+Found value within range at address: 745971FB7C, Value: 288200007, Initial Address: 74C8D559D0, Index: 4777
+QVal: 986282673676503
+
+
+
+Found value within range at initial address: 74C8D55AF0, Value: undefined, Index: 4778
+Found value within range at address: 745971F08C, Value: 288106032, Initial Address: 74C8D55AF0, Index: 4778
+QVal: 986279109984313
+
+
+
+Found value within range at initial address: 74C8D56750, Value: undefined, Index: 4789
+Found value within range at address: 745971EE0C, Value: 288106029, Initial Address: 74C8D56750, Index: 4789
+QVal: 986281020653204
+
+
+
+Found value within range at initial address: 74C8D57170, Value: undefined, Index: 4798
+Found value within range at address: 7459721E7C, Value: 288200055, Initial Address: 74C8D57170, Index: 4798
+QVal: 986283015915342
+
+
+
+Found value within range at initial address: 74C8D57830, Value: undefined, Index: 4804
+Found value within range at address: 745972219C, Value: 288200053, Initial Address: 74C8D57830, Index: 4804
+QVal: 986282919951362
+
+
+
+Found value within range at initial address: 74C8D57EF0, Value: undefined, Index: 4810
+Found value within range at address: 7459721BFC, Value: 288200054, Initial Address: 74C8D57EF0, Index: 4810
+QVal: 986279784426841
+
+
+
+Found value within range at initial address: 74C8D58910, Value: undefined, Index: 4819
+Found value within range at address: 74597212EC, Value: 288200040, Initial Address: 74C8D58910, Index: 4819
+QVal: 986279833518140
+
+
+
+Found value within range at initial address: 74C8D58C70, Value: undefined, Index: 4822
+Found value within range at address: 74597230EC, Value: 288200075, Initial Address: 74C8D58C70, Index: 4822
+QVal: 986279404061872
+
+
+
+Found value within range at initial address: 74C8D59690, Value: undefined, Index: 4831
+Found value within range at address: 74597220AC, Value: 288200056, Initial Address: 74C8D59690, Index: 4831
+QVal: 986281491056950
+
+
+
+Found value within range at initial address: 74C8D59F90, Value: undefined, Index: 4839
+Found value within range at address: 7459722AAC, Value: 288200074, Initial Address: 74C8D59F90, Index: 4839
+QVal: 986283324525833
+
+
+
+Found value within range at initial address: 74C8D5A0B0, Value: undefined, Index: 4840
+Found value within range at address: 7459720BBC, Value: 288200039, Initial Address: 74C8D5A0B0, Index: 4840
+QVal: 986279682415375
+
+
+
+Found value within range at initial address: 74C8D5A410, Value: undefined, Index: 4843
+Found value within range at address: 7459724E9C, Value: 288202007, Initial Address: 74C8D5A410, Index: 4843
+QVal: 986283147261668
+
+
+
+Found value within range at initial address: 74C8D5A770, Value: undefined, Index: 4846
+Found value within range at address: 74597258EC, Value: 288200112, Initial Address: 74C8D5A770, Index: 4846
+QVal: 986283306609635
+
+
+
+Found value within range at initial address: 74C8D5A890, Value: undefined, Index: 4847
+Found value within range at address: 745972507C, Value: 288201106, Initial Address: 74C8D5A890, Index: 4847
+QVal: 986282871456744
+
+
+
+Found value within range at initial address: 74C8D5A9B0, Value: undefined, Index: 4848
+Found value within range at address: 74597257AC, Value: 288202002, Initial Address: 74C8D5A9B0, Index: 4848
+QVal: 986279370622789
+
+
+
+Found value within range at initial address: 74C8D5AE30, Value: undefined, Index: 4852
+Found value within range at address: 7459724A8C, Value: 288201104, Initial Address: 74C8D5AE30, Index: 4852
+QVal: 1127020731060203
+
+
+
+Found value within range at initial address: 74C8D5B070, Value: undefined, Index: 4854
+Found value within range at address: 74597249EC, Value: 288202004, Initial Address: 74C8D5B070, Index: 4854
+QVal: 986280030447148
+
+
+
+Found value within range at initial address: 74C8D5B3D0, Value: undefined, Index: 4857
+Found value within range at address: 7459724DAC, Value: 288201003, Initial Address: 74C8D5B3D0, Index: 4857
+QVal: 1127019207140790
+
+
+
+Found value within range at initial address: 74C8D5B970, Value: undefined, Index: 4862
+Found value within range at address: 745972539C, Value: 288202010, Initial Address: 74C8D5B970, Index: 4862
+QVal: 986279928592473
+
+
+
+Found value within range at initial address: 74C8D5BBB0, Value: undefined, Index: 4864
+Found value within range at address: 7459725ACC, Value: 288202016, Initial Address: 74C8D5BBB0, Index: 4864
+QVal: 986279520328140
+
+
+
+Found value within range at initial address: 74C8D5C930, Value: undefined, Index: 4876
+Found value within range at address: 7459724E4C, Value: 288202009, Initial Address: 74C8D5C930, Index: 4876
+QVal: 986282365941111
+
+
+
+Found value within range at initial address: 74C8D5CB70, Value: undefined, Index: 4878
+Found value within range at address: 7459724D5C, Value: 288202006, Initial Address: 74C8D5CB70, Index: 4878
+QVal: 986282917269789
+
+
+
+Found value within range at initial address: 74C8D5D230, Value: undefined, Index: 4884
+Found value within range at address: 7459725A7C, Value: 288202014, Initial Address: 74C8D5D230, Index: 4884
+QVal: 986281281732012
+
+
+
+Found value within range at initial address: 74C8D5D470, Value: undefined, Index: 4886
+Found value within range at address: 7459724CBC, Value: 288201002, Initial Address: 74C8D5D470, Index: 4886
+QVal: 986280561269617
+
+
+
+Found value within range at initial address: 74C8D5D7D0, Value: undefined, Index: 4889
+Found value within range at address: 7459724B7C, Value: 288201105, Initial Address: 74C8D5D7D0, Index: 4889
+QVal: 986280105551866
+
+
+
+Found value within range at initial address: 74C8D5DC50, Value: undefined, Index: 4893
+Found value within range at address: 74597252FC, Value: 288202008, Initial Address: 74C8D5DC50, Index: 4893
+QVal: 986282288968151
+
+
+
+Found value within range at initial address: 74C8D5F870, Value: undefined, Index: 4918
+Found value within range at address: 745972714C, Value: 288207002, Initial Address: 74C8D5F870, Index: 4918
+QVal: 986280968628658
+
+
+
+Found value within range at initial address: 74C8D60B90, Value: undefined, Index: 4935
+Found value within range at address: 7459726A1C, Value: 288209001, Initial Address: 74C8D60B90, Index: 4935
+QVal: 986279461756297
 
 
 
