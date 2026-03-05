@@ -1,22 +1,31 @@
 Prefixes (first 4 digits):
 1770 -- whisper of time and gacha items but server sided
 1779 -- whisper of time and gacha items but server sided
+2110 -- badges and a bunch of other weapons
 2180 -- Timetwisted Maze Charms
 2210 -- most material items found in the world/mob drop material items
 2310 -- random ahh Ultra Salmon, neo meat, Super Crunch
 2320 -- Item names: Rolly-rolly (Index 1 at address 79835EC120 Value: 0), Catnip (Index 2 at address 7983DE9760 Value: 0), Squeaky EX (Index 3 at address 7983DEC6A0 Value: 0)
 2350 -- random opus ticket, treatisies ticket, or codexes ticket (i think unavilable in current state of the game)
 2419 -- DANGER key items like story keys and also some items and misc keystuff all which are DANGEROUS
+2420 -- Treatisies, opus, tomes
 2430 -- will corrupt world if have more than 1 or any modifications to any item here (restore mp and hp item food)
 2470 -- MISC stuff like Grasta upgrade Ore, Gadaro Soil, Poison Res.+20 Seed, Darkness Res. Fertilizer, Funeral Cavern Soil, Sleep Res. Fertilizer, Stone Res. Fertilizer, Poison Res. Fertilizer, Confusion Res. Fertilizer, Talgana Mountain Soil, Last Stand Ore
 2790 -- Account corruption if modify Alchemist items
+2811 -- unknown category
+2812 -- unknown category
+2815 -- unknown category
+2817 -- unknown category
+2819 -- unknown category
 2820 -- unknown category
+2883 -- unknown category
 2950 -- auction items treasure items to get roc or seeker points
 2970 -- light and shadow upgrade item?? (useless)
 4500 -- cat material items...
 4520 -- cat shop items mostly using meow coin
 4640 -- random items like enemy deck
 5640 -- dungeon key items (Another Dungeon)
+5650 -- some AD items like superior dogu ** updated 2-23-2025 453 items
 7730 -- harpoon bait items??
 7740 -- harpoon type shi like proof of harpoon power
 7750 -- Harpoon Fishing
@@ -36,6 +45,7 @@ Prefixes (first 4 digits):
 8293 -- unknown category
 8294 -- unknown category
 8295 -- unknown category
+8297 -- unknown category
 8300 -- unknown category
 8421 -- unknown category
 8451 -- unknown category
@@ -45,9 +55,9 @@ Prefixes (first 4 digits):
 8459 -- unknown category
 8460 -- unknown category
 8463 -- unknown category
+8464 -- unknown category
 8467 -- unknown category
 8468 -- unknown category
-8533 -- unknown category
 8588 -- unknown category
 8620 -- unknown category
 8622 -- unknown category
@@ -55,6 +65,7 @@ Prefixes (first 4 digits):
 8626 -- unknown category
 8628 -- unknown category
 8631 -- unknown category
+8632 -- unknown category
 8635 -- unknown category
 8730 -- fishing bait
 8740 -- does have master fishing rod. (very interesting prob would saved time leveling the fish rod to level 30...)
@@ -68,6 +79,7 @@ Prefixes (first 4 digits):
 8793 -- unknown category
 8796 -- unknown category
 8799 -- unknown category
+8800 -- unknown category
 8803 -- unknown category
 8923 -- unknown category
 8924 -- unknown category
@@ -81,12 +93,14 @@ Prefixes (first 4 digits):
 8961 -- unknown category
 8964 -- unknown category
 8966 -- unknown category
+8968 -- unknown category
 8971 -- unknown category
 9123 -- unknown category
 9126 -- unknown category
 9128 -- unknown category
 9132 -- unknown category
 9134 -- unknown category
+9135 -- unknown category
 9139 -- unknown category
 9289 -- unknown category
 9291 -- unknown category
@@ -94,6 +108,7 @@ Prefixes (first 4 digits):
 9296 -- unknown category
 9299 -- unknown category
 9302 -- unknown category
+9303 -- unknown category
 9307 -- unknown category
 9427 -- unknown category
 9459 -- unknown category
@@ -101,13 +116,16 @@ Prefixes (first 4 digits):
 9464 -- unknown category
 9467 -- unknown category
 9470 -- unknown category
+9471 -- unknown category
 9474 -- unknown category
 9626 -- unknown category
 9629 -- unknown category
 9632 -- unknown category
 9635 -- unknown category
 9637 -- unknown category
+9639 -- unknown category
 9642 -- unknown category
+1104 -- unknown category
 1597 -- unknown category
 1627 -- unknown category
 1633 -- unknown category
@@ -169,10 +187,10 @@ Prefixes (first 4 digits):
 2076 -- Asterorb
 2078 -- https://anothereden.wiki/w/An_Ode_to_Origin:_Act_1_-_The_Beastfolk,_%22Antimony%22#Material_Locations-0
 
-Loaded 14467 unique-pointer values.
-Loaded 12971 manifest values.
+Loaded 14579 unique-pointer values.
+Loaded 12977 manifest values.
 
-Missing in manifest: 1496
+Missing in manifest: 1602
 177000161
 177000162
 177000163
@@ -189,6 +207,13 @@ Missing in manifest: 1496
 177000174
 177000175
 177000176
+177000177
+177000178
+177000179
+177000180
+177000181
+177000182
+177000183
 177900183
 177900184
 177900185
@@ -205,6 +230,57 @@ Missing in manifest: 1496
 177900196
 177900197
 177900198
+177900199
+177900200
+177900201
+177900202
+177900203
+177900204
+177900205
+211000452
+211010582
+211011081
+211011091
+211011101
+211020482
+211025101
+211025102
+211025103
+211025104
+211025105
+211025106
+211025107
+211025108
+211025109
+211025110
+211025111
+211029201
+211029202
+211029203
+211029204
+211029205
+211029206
+211029207
+211029208
+211029209
+211029210
+211029211
+211030452
+211040482
+211050452
+211055101
+211055102
+211055103
+211055104
+211055105
+211055106
+211055107
+211055108
+211055109
+211055110
+211055111
+211060442
+211070482
 218000001
 218000002
 218000003
@@ -262,6 +338,7 @@ Missing in manifest: 1496
 218001080
 218001081
 221004255
+221004256
 221008279
 221009168
 221009169
@@ -297,6 +374,10 @@ Missing in manifest: 1496
 241900819
 241900820
 241900821
+241900822
+242012024
+242014012
+242030426
 243000001
 243000002
 243000003
@@ -478,7 +559,33 @@ Missing in manifest: 1496
 279002159
 279002160
 279002161
+281100060
+281140340
+281140540
+281140640
+281150450
+281200060
+281240340
+281240540
+281240640
+281250450
+281550650
+281710147
+281710849
+281900152
+281900153
 282000001
+288300296
+288300297
+288300298
+288301300
+288301301
+288301302
+288301303
+288304298
+288304299
+288304300
+288304301
 295000001
 295000002
 295000003
@@ -659,6 +766,7 @@ Missing in manifest: 1496
 452010067
 452010068
 452010069
+452010070
 452020001
 452020002
 452020003
@@ -778,6 +886,7 @@ Missing in manifest: 1496
 452050074
 452050075
 452050076
+452050077
 452060001
 452060002
 452060003
@@ -854,6 +963,7 @@ Missing in manifest: 1496
 452060076
 452060077
 452060078
+452060079
 464000001
 464000002
 464000003
@@ -989,6 +1099,7 @@ Missing in manifest: 1496
 564000002
 564000004
 564001001
+565001124
 773000001
 773000002
 773000003
@@ -1084,8 +1195,12 @@ Missing in manifest: 1496
 808676969
 808678505
 808739701
+808741223
 808742505
+808744041
 808804149
+808805237
+808808041
 812606049
 825319779
 825320804
@@ -1101,6 +1216,7 @@ Missing in manifest: 1496
 829318519
 829451615
 829581665
+829711209
 830039415
 842102137
 842103156
@@ -1116,10 +1232,10 @@ Missing in manifest: 1496
 845903713
 846095735
 846358881
+846488425
 846750053
 846750066
 846816631
-853359848
 858874741
 862021484
 862024820
@@ -1130,6 +1246,7 @@ Missing in manifest: 1496
 862680929
 862872951
 863136097
+863265641
 863527269
 863527282
 863593847
@@ -1252,6 +1369,7 @@ Missing in manifest: 1496
 879324021
 879650167
 879913313
+880042857
 880371063
 892366690
 892430695
@@ -1276,6 +1394,7 @@ Missing in manifest: 1496
 896427383
 896689524
 896690529
+896820073
 897148279
 912353132
 912356468
@@ -1283,6 +1402,7 @@ Missing in manifest: 1496
 912878453
 913204599
 913467745
+913597289
 913925495
 928985443
 928985449
@@ -1294,6 +1414,7 @@ Missing in manifest: 1496
 929655669
 929981815
 930244961
+930374505
 930702711
 942762343
 942764660
@@ -1304,6 +1425,7 @@ Missing in manifest: 1496
 946432885
 946759031
 947022177
+947151721
 947479927
 962684780
 962688116
@@ -1311,7 +1433,9 @@ Missing in manifest: 1496
 963210101
 963536247
 963799393
+963928937
 964257143
+1104395544
 1597137266
 1597140591
 1627416933
