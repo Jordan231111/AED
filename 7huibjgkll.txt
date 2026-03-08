@@ -237,6 +237,7 @@ Hrungnir Tome::242030414
 Hypnotist Treatise::242030006
 Högni Starchart::242010004
 Högni Treatise::242030041
+Indra Starchart::242012024
 Indra Tome::242030212
 Inspector Starchart::242013005
 Inspector Tome::242030302
@@ -341,6 +342,8 @@ Prayer Script::242000002
 Princess Psalm::242030103
 Prophet Starchart::242010016
 Prophet Treatise::242030047
+Proserpina Starchart::242014012
+Proserpina Treatise::242030426
 Protector Tome::242030008
 Proud Beast Treatise::242030607
 Prthivi Starchart::242017001
