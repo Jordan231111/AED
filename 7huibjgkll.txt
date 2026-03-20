@@ -311,6 +311,8 @@ Nekogami Treatise::242030220
 Nekomata Av. Starchart::242015013
 Nekomata Avatar Codex::242030524
 Nemesis Tome::242030122
+Nightmare Opus::242030053
+Nightmare Starchart::242010027
 Ninetails Fox Starchart::242015020
 Ninetails Fox Tome::242030504
 Nirvana Starchart::242010009
@@ -388,6 +390,7 @@ Soul Keeper Treatise::242030312
 Sovereign Psalm::242030105
 Sovereign Starchart::242011012
 Starlight Treatise::242030203
+Starry-Eyed Girl Starchart::242010026
 Steropes Starchart::242010022
 Storied Fighter Starchart::242019002
 Stormbreaker Tome::242030604

@@ -1,824 +1,830 @@
-Word: Citrinitas Tome            ||             Index 1 at address 7A9A6AFDE0 Value: 126
-Word: Okaminokami Treatise            ||             Index 2 at address 7A9A6B0200 Value: 103
-Word: Dream Digger Tome            ||             Index 3 at address 7A9A6B0780 Value: 124
-Word: Resif Opus            ||             Index 4 at address 7A9A6B0C50 Value: 99
-Word: Bastet Tome            ||             Index 5 at address 7A9A6B1120 Value: 0
-Word: Gray Hound Tome            ||             Index 6 at address 7A9A6B11D0 Value: 99
-Word: Sanctus Tome            ||             Index 7 at address 7A9A6B2720 Value: 100
-Word: Remittetur Treatise            ||             Index 8 at address 7A9A6B2930 Value: 105
-Word: Blanc Meneur Treatise            ||             Index 9 at address 7A9A6B4090 Value: 102
-Word: Enma Tome            ||             Index 10 at address 7A9A6B4350 Value: 122
-Word: Maverick Treatise            ||             Index 11 at address 7A9A6B5ED0 Value: 108
-Word: Polyhymniā Treatise            ||             Index 12 at address 7A9A6B6710 Value: 101
-Word: Nekomata Avatar Codex            ||             Index 13 at address 7A9A6B67C0 Value: 112
-Word: Negotiator Tome            ||             Index 14 at address 7A9A6B69D0 Value: 100
-Word: Persephone Opus            ||             Index 15 at address 7A9A6B6D40 Value: 100
-Word: Gratinel Psalm            ||             Index 16 at address 7A9A6B6DF0 Value: 129
-Word: Takeminakata Treatise            ||             Index 17 at address 7A9A6B74D0 Value: 97
-Word: Harmonia Treatise            ||             Index 18 at address 7A9A6B7DC0 Value: 100
-Word: Lovely Chef Tome            ||             Index 19 at address 7A9A6B88C0 Value: 122
-Word: Lucifer Codex            ||             Index 20 at address 7A9A6B8970 Value: 99
-Word: Pluma Diana Treatise            ||             Index 21 at address 7A9A6B8A20 Value: 102
-Word: Voleur Opus            ||             Index 22 at address 7A9A6B9050 Value: 25
-Word: Galeforce Tome            ||             Index 23 at address 7A9A6B9100 Value: 99
-Word: Djinn Tome            ||             Index 24 at address 7A9A6B9470 Value: 100
-Word: Red Scorpio Opus            ||             Index 25 at address 7A9A6B95D0 Value: 101
-Word: Blazing Hero Treatise            ||             Index 26 at address 7A9A6B9890 Value: 100
-Word: Stormbreaker Tome            ||             Index 27 at address 7A9A6B9D60 Value: 99
-Word: Hathor Treatise            ||             Index 28 at address 7A9A6B9E10 Value: 2
-Word: Shadow Lord Tome            ||             Index 29 at address 7A9A6B9EC0 Value: 107
-Word: Kommandeur Tome            ||             Index 30 at address 7A9A6BA4F0 Value: 174
-Word: Shining Shadow Treatise            ||             Index 31 at address 7A9A6BA650 Value: 103
-Word: Ame-no-Uzume Opus            ||             Index 32 at address 7A9A6BA700 Value: 48
-Word: Melodist Psalm            ||             Index 33 at address 7A9A6BA860 Value: 75
-Word: Brawler Psalm            ||             Index 34 at address 7A9A6BAB20 Value: 110
-Word: Areth's Diamond Tome            ||             Index 35 at address 7A9A6BABD0 Value: 100
-Word: Rose Unseen Treatise            ||             Index 36 at address 7A9A6BADE0 Value: 106
-Word: Punishment Treatise            ||             Index 37 at address 7A9A6BAE90 Value: 104
-Word: Ring-Guided Tome            ||             Index 38 at address 7A9A6BAF40 Value: 100
-Word: Curse Seeker Treatise            ||             Index 39 at address 7A9A6BB150 Value: 104
-Word: Proud Beast Treatise            ||             Index 40 at address 7A9A6BB200 Value: 105
-Word: Angelic Record            ||             Index 41 at address 7A9A6BB2B0 Value: 99
-Word: Ukanomitama Opus            ||             Index 42 at address 7A9A6BB4C0 Value: 102
-Word: ???            ||             Index 43 at address 7A9A6BB570 Value: 0
-Word: Last Haven Treatise            ||             Index 44 at address 7A9A6BB620 Value: 85
-Word: Archaeologist Treatise            ||             Index 45 at address 7A9A6BB780 Value: 103
-Word: Summer Tome            ||             Index 46 at address 7A9A6BB830 Value: 100
-Word: Felis Circulus Treatise            ||             Index 47 at address 7A9A6BB8E0 Value: 100
-Word: Tea Maiden Treatise            ||             Index 48 at address 7A9A6BB990 Value: 110
-Word: Phantom Thief Treatise            ||             Index 49 at address 7A9A6BBAF0 Value: 99
-Word: Empress Tome            ||             Index 50 at address 7A9A6BBBA0 Value: 165
-Word: Mal'akh Tome            ||             Index 51 at address 7A9A6BBF10 Value: 109
-Word: Shashthi Starchart            ||             Index 52 at address 7A9A6BC070 Value: 0
-Word: Muse Opus            ||             Index 53 at address 7A9A6BC120 Value: 97
-Word: Prthivi Treatise            ||             Index 54 at address 7A9A6BC280 Value: 104
-Word: Yaobikuni Tome            ||             Index 55 at address 7A9A6BC330 Value: 79
-Word: Briar Rose Opus            ||             Index 56 at address 7A9A6BC490 Value: 102
-Word: Boyne Lord Tome            ||             Index 57 at address 7A9A6BC540 Value: 99
-Word: Jiutian Xuannu Treatise            ||             Index 58 at address 7A9A6BC750 Value: 106
-Word: Arcana Codex            ||             Index 59 at address 7A9A6BC800 Value: 107
-Word: Enforcer Opus            ||             Index 60 at address 7A9A6BCA10 Value: 107
-Word: Thorny Woman Record            ||             Index 61 at address 7A9A6BCAC0 Value: 99
-Word: Dragon Reaper Starchart            ||             Index 62 at address 7A9A6BCCD0 Value: 100
-Word: Goddess of Destiny Tome            ||             Index 63 at address 7A9A6BCEE0 Value: 100
-Word: Sigrdrifa Treatise            ||             Index 64 at address 7A9A6BCF90 Value: 107
-Word: Miyabinokami Opus            ||             Index 65 at address 7A9A6BD040 Value: 106
-Word: Transporter Treatise            ||             Index 66 at address 7A9A6BD0F0 Value: 106
-Word: Anomaly Debris Tome            ||             Index 67 at address 7A9A6BD1A0 Value: 55
-Word: Naivete Treatise            ||             Index 68 at address 7A9A6BD300 Value: 361
-Word: Ullr Tome            ||             Index 69 at address 7A9A6BD3B0 Value: 106
-Word: Demon Reaper Tome            ||             Index 70 at address 7A9A6BD460 Value: 100
-Word: Erato Treatise            ||             Index 71 at address 7A9A6BD510 Value: 107
-Word: Dual Persona Tome            ||             Index 72 at address 7A9A6BD5C0 Value: 120
-Word: Ninetails Fox Tome            ||             Index 73 at address 7A9A6BD670 Value: 108
-Word: Sakuya-bime Treatise            ||             Index 74 at address 7A9A6BD720 Value: 52
-Word: Oberon Treatise            ||             Index 75 at address 7A9A6BD7D0 Value: 101
-Word: Lovebird Treatise            ||             Index 76 at address 7A9A6BD880 Value: 104
-Word: Aristocrat Treatise            ||             Index 77 at address 7A9A6BD930 Value: 102
-Word: Jorurihime Treatise            ||             Index 78 at address 7A9A6BDA90 Value: 110
-Word: Magna Rex Treatise            ||             Index 79 at address 7A9A6BDB40 Value: 103
-Word: Rune Knight Tome            ||             Index 80 at address 7A9A6BDBF0 Value: 105
-Word: Holy Sentinel Codex            ||             Index 81 at address 7A9A6BDCA0 Value: 104
-Word: Utsutahime Tome            ||             Index 82 at address 7A9A6BDD50 Value: 102
-Word: Dragon Ruler Tome            ||             Index 83 at address 7A9A6BDEB0 Value: 118
-Word: Athena Codex            ||             Index 84 at address 7A9A6BDF60 Value: 101
-Word: Ereshkigal Codex            ||             Index 85 at address 7A9A6BE010 Value: 103
-Word: Hastantiqua Treatise            ||             Index 86 at address 7A9A6BE170 Value: 103
-Word: Epoch Maker Treatise            ||             Index 87 at address 7A9A6BE220 Value: 103
-Word: Silken Wisp Treatise            ||             Index 88 at address 7A9A6BE2D0 Value: 101
-Word: Minstrel Tome            ||             Index 89 at address 7A9A6BE380 Value: 119
-Word: Hecatoncheires Codex            ||             Index 90 at address 7A9A6BE430 Value: 101
-Word: Proserpina Treatise            ||             Index 91 at address 7A9A6BE4E0 Value: 0
-Word: Ymir Treatise            ||             Index 92 at address 7A9A6BE590 Value: 211
-Word: Felis Lord Opus            ||             Index 93 at address 7A9A6BE6F0 Value: 102
-Word: Fireside Cat Treatise            ||             Index 94 at address 7A9A6BE7A0 Value: 100
-Word: Areadbhar Treatise            ||             Index 95 at address 7A9A6BE850 Value: 107
-Word: Juno Treatise            ||             Index 96 at address 7A9A6BE900 Value: 103
-Word: Medium Tome            ||             Index 97 at address 7A9A6BE9B0 Value: 100
-Word: Thanatos Opus            ||             Index 98 at address 7A9A6BEA60 Value: 103
-Word: Arcturus Tome            ||             Index 99 at address 7A9A6BEB10 Value: 7
-Word: Draco Nodus Treatise            ||             Index 100 at address 7A9A6BEBC0 Value: 101
-Word: Devotroid Treatise            ||             Index 101 at address 7A9A6BEC70 Value: 100
-Word: Blacksmith Psalm            ||             Index 102 at address 7A9A6BEE80 Value: 70
-Word: Migl Aspida Treatise            ||             Index 103 at address 7A9A6BEFE0 Value: 111
-Word: Armiger Tome            ||             Index 104 at address 7A9A6BF140 Value: 163
-Word: Sirenaria Tome            ||             Index 105 at address 7A9A6BF1F0 Value: 107
-Word: Magister Tome            ||             Index 106 at address 7A9A6BF2A0 Value: 100
-Word: Mercenary Tome            ||             Index 107 at address 7A9A6BF400 Value: 102
-Word: Watatsumi Tome            ||             Index 108 at address 7A9A6BF4B0 Value: 100
-Word: Crimson Ray Treatise            ||             Index 109 at address 7A9A6BF560 Value: 102
-Word: Slayer Tome            ||             Index 110 at address 7A9A6BF610 Value: 157
-Word: Sukunahikona Tome            ||             Index 111 at address 7A9A6BF6C0 Value: 120
-Word: Empress Crowe Record            ||             Index 112 at address 7A9A6BF770 Value: 100
-Word: Holy Sword Record            ||             Index 113 at address 7A9A6BF820 Value: 99
-Word: Takuhatachiji Opus            ||             Index 114 at address 7A9A6BF8D0 Value: 99
-Word: Grand General Tome            ||             Index 115 at address 7A9A6BF980 Value: 0
-Word: Grim Reaper Tome            ||             Index 116 at address 7A9A6BFA30 Value: 99
-Word: Camena Treatise            ||             Index 117 at address 7A9A6BFAE0 Value: 109
-Word: Murasame Tome            ||             Index 118 at address 7A9A6BFB90 Value: 104
-Word: Bûcheron Treatise            ||             Index 119 at address 7A9A6BFC40 Value: 103
-Word: Justitia Codex            ||             Index 120 at address 7A9A6BFCF0 Value: 101
-Word: Sun Goddess Tome            ||             Index 121 at address 7A9A6BFDA0 Value: 105
-Word: Legendary Swordsman Record            ||             Index 122 at address 7A9A6BFE50 Value: 100
-Word: Tentamare Treatise            ||             Index 123 at address 7A9A6BFFB0 Value: 105
-Word: Mellow Diva Treatise            ||             Index 124 at address 7A9A6C0060 Value: 101
-Word: Fragarach Codex            ||             Index 125 at address 7A9A6C0110 Value: 2
-Word: Inspector Tome            ||             Index 126 at address 7A9A6C01C0 Value: 112
-Word: Golden Flower Cat Tome            ||             Index 127 at address 7A9A6C0270 Value: 108
-Word: Brave Storm Psalm            ||             Index 128 at address 7A9A6C0320 Value: 137
-Word: Shinatsuhime Codex            ||             Index 129 at address 7A9A6C03D0 Value: 105
-Word: Erinys Codex            ||             Index 130 at address 7A9A6C0480 Value: 103
-Word: Indra Tome            ||             Index 131 at address 7A9A6C05E0 Value: 10
-Word: Isaiah Tome            ||             Index 132 at address 7A9A6C0690 Value: 121
-Word: Sarashinahime Treatise            ||             Index 133 at address 7A9A6C0740 Value: 106
-Word: Crimson Knight Tome            ||             Index 134 at address 7A9A6C08A0 Value: 1
-Word: Sunrise Treatise            ||             Index 135 at address 7A9A6C0950 Value: 102
-Word: Wenefica Tome            ||             Index 136 at address 7A9A6C0A00 Value: 107
-Word: String Puller Tome            ||             Index 137 at address 7A9A6C0AB0 Value: 99
-Word: Octofighter Tome            ||             Index 138 at address 7A9A6C0B60 Value: 120
-Word: Unut Codex            ||             Index 139 at address 7A9A6C0C10 Value: 95
-Word: Lazuli Medea Tome            ||             Index 140 at address 7A9A6C0CC0 Value: 116
-Word: Forerunner Tome            ||             Index 141 at address 7A9A6C0D70 Value: 107
-Word: Lumberjack Psalm            ||             Index 142 at address 7A9A6C0E20 Value: 70
-Word: Mikahayahi Treatise            ||             Index 143 at address 7A9A6C0ED0 Value: 103
-Word: Futsunomitama Codex            ||             Index 144 at address 7A9A6C0F80 Value: 85
-Word: Hihayahi Tome            ||             Index 145 at address 7A9A6C1030 Value: 0
-Word: Kingpin Tome            ||             Index 146 at address 7A9A6C1190 Value: 100
-Word: Libitina Treatise            ||             Index 147 at address 7A9A6C1240 Value: 108
-Word: Walkure Tome            ||             Index 148 at address 7A9A6C12F0 Value: 104
-Word: Ame-no-Murakumo Codex            ||             Index 149 at address 7A9A6C1450 Value: 102
-Word: Grimoire Tome            ||             Index 150 at address 7A9A6C1500 Value: 100
-Word: Narukami Tome            ||             Index 151 at address 7A9A6C1660 Value: 121
-Word: Minerva Treatise            ||             Index 152 at address 7A9A6C17C0 Value: 198
-Word: Eternal Swordsman Record            ||             Index 153 at address 7A9A6C1870 Value: 100
-Word: Nemesis Tome            ||             Index 154 at address 7A9A6C1920 Value: 99
-Word: Goddess of Dest. Starchart            ||             Index 155 at address 7A9A6C19D0 Value: 0
-Word: Monk Tome            ||             Index 156 at address 7A9A6C1A80 Value: 104
-Word: Flame Lord Tome            ||             Index 157 at address 7A9A6C1B30 Value: 109
-Word: Princess Psalm            ||             Index 158 at address 7A9A6C1BE0 Value: 75
-Word: Soul Keeper Treatise            ||             Index 159 at address 7A9A6C1C90 Value: 110
-Word: Abyss Liberator Treatise            ||             Index 160 at address 7A9A6C1D40 Value: 99
-Word: Arc Knight Tome            ||             Index 161 at address 7A9A6C1DF0 Value: 100
-Word: Oracle Tome            ||             Index 162 at address 7A9A6C1EA0 Value: 116
-Word: Jinni Opus            ||             Index 163 at address 7A9A6C1F50 Value: 109
-Word: Divine Paladin Treatise            ||             Index 164 at address 7A9A6C2000 Value: 99
-Word: Flare Knight Treatise            ||             Index 165 at address 7A9A6C20B0 Value: 103
-Word: Sky Sprite Treatise            ||             Index 166 at address 7A9A6C2160 Value: 99
-Word: Gladiator Tome            ||             Index 167 at address 7A9A6C2210 Value: 100
-Word: Juggernaut Tome            ||             Index 168 at address 7A9A6C22C0 Value: 100
-Word: Striker Tome            ||             Index 169 at address 7A9A6C2370 Value: 100
-Word: Sacrament Codex            ||             Index 170 at address 7A9A6C2420 Value: 99
-Word: Fraulein Opus            ||             Index 171 at address 7A9A6C24D0 Value: 107
-Word: Lila Blitz Tome            ||             Index 172 at address 7A9A6C2580 Value: 100
-Word: Yin-Yang Cat Opus            ||             Index 173 at address 7A9A6C2630 Value: 97
-Word: Sweet Lady Treatise            ||             Index 174 at address 7A9A6C26E0 Value: 95
-Word: Hermes Tome            ||             Index 175 at address 7A9A6C2790 Value: 128
-Word: Bête Théâtrale Opus            ||             Index 176 at address 7A9A6C2840 Value: 58
-Word: Aima-Arravones Tome            ||             Index 177 at address 7A9A6C28F0 Value: 118
-Word: Admiral Tome            ||             Index 178 at address 7A9A6C29A0 Value: 121
-Word: Titan Tome            ||             Index 179 at address 7A9A6C2A50 Value: 105
-Word: Sovereign Psalm            ||             Index 180 at address 7A9A6C2B00 Value: 124
-Word: Beauty Police Treatise            ||             Index 181 at address 7A9A6C2BB0 Value: 102
-Word: Susanoo Treatise            ||             Index 182 at address 7A9A6C2C60 Value: 104
-Word: Okuninushi Treatise            ||             Index 183 at address 7A9A6C2D10 Value: 52
-Word: Reviver Treatise            ||             Index 184 at address 7A9A6C2DC0 Value: 97
-Word: Mighty Maiden Tome            ||             Index 185 at address 7A9A6C2E70 Value: 115
-Word: High Priestess Treatise            ||             Index 186 at address 7A9A6C2F20 Value: 100
-Word: Hrungnir Tome            ||             Index 187 at address 7A9A6C2FD0 Value: 119
-Word: Orpheus Opus            ||             Index 188 at address 7A9A6C3080 Value: 104
-Word: Alphecca Tome            ||             Index 189 at address 7A9A6C3130 Value: 111
-Word: Griffin Lance Tome            ||             Index 190 at address 7A9A6C31E0 Value: 101
-Word: Covert Agent Treatise            ||             Index 191 at address 7A9A6C3290 Value: 101
-Word: Yuda Opus            ||             Index 192 at address 7A9A6C3340 Value: 105
-Word: Carmilla Tome            ||             Index 193 at address 7A9A6C33F0 Value: 126
-Word: Troubadour Tome            ||             Index 194 at address 7A9A6C34A0 Value: 101
-Word: Mailed Sheep Tome            ||             Index 195 at address 7A9A6C3550 Value: 87
-Word: Shashthi Treatise            ||             Index 196 at address 7A9A6C3600 Value: 2
-Word: Avesta Treatise            ||             Index 197 at address 7A9A6C36B0 Value: 105
-Word: Dicé Opus            ||             Index 198 at address 7A9A6C3760 Value: 100
-Word: Geomancer Tome            ||             Index 199 at address 7A9A6C3810 Value: 115
-Word: Bladesaint Tome            ||             Index 200 at address 7A9A6C38C0 Value: 118
-Word: Yasomagatsuhi Treatise            ||             Index 201 at address 7A9A6C3970 Value: 101
-Word: Blazing Sword Record            ||             Index 202 at address 7A9A6C3A20 Value: 99
-Word: Völva Treatise            ||             Index 203 at address 7A9A6C3B80 Value: 108
-Word: Dragon Ruler Starchart            ||             Index 204 at address 7A9A6C3C30 Value: 102
-Word: Taiyi Zhenren Tome            ||             Index 205 at address 7A9A6C3CE0 Value: 182
-Word: Lord of Spirits Record            ||             Index 206 at address 7A9A6C3D90 Value: 100
-Word: Medea Treatise            ||             Index 207 at address 7A9A6C3E40 Value: 109
-Word: Detective Tome            ||             Index 208 at address 7A9A6C3EF0 Value: 65
-Word: Abyssal Devotee Tome            ||             Index 209 at address 7A9A6C3FA0 Value: 112
-Word: Prophet Treatise            ||             Index 210 at address 7A9A6C4050 Value: 95
-Word: Étoile Treatise            ||             Index 211 at address 7A9A6C4100 Value: 95
-Word: Ring-Guided Starchart            ||             Index 212 at address 7A9A6C41B0 Value: 100
-Word: Dragon Bearer Psalms            ||             Index 213 at address 7A9A6C4260 Value: 110
-Word: Flare Witch Psalm            ||             Index 214 at address 7A9A6C4310 Value: 100
-Word: Brionac Tome            ||             Index 215 at address 7A9A6C43C0 Value: 163
-Word: Titania Treatise            ||             Index 216 at address 7A9A6C4470 Value: 100
-Word: Kelkale Codex            ||             Index 217 at address 7A9A6C4520 Value: 101
-Word: Raven Tengu Tome            ||             Index 218 at address 7A9A6C45D0 Value: 109
-Word: Högni Treatise            ||             Index 219 at address 7A9A6C4680 Value: 109
-Word: Daikokuten Opus            ||             Index 220 at address 7A9A6C4730 Value: 109
-Word: Soul Bringer Tome            ||             Index 221 at address 7A9A6C47E0 Value: 99
-Word: Nirvana Tome            ||             Index 222 at address 7A9A6C4890 Value: 116
-Word: Cybele Treatise            ||             Index 223 at address 7A9A6C4940 Value: 111
-Word: Oraculum Tome            ||             Index 224 at address 7A9A6C49F0 Value: 110
-Word: Amaranth Tome            ||             Index 225 at address 7A9A6C4AA0 Value: 50
-Word: Omoikane Opus            ||             Index 226 at address 7A9A6C4B50 Value: 103
-Word: Chernobog Opus            ||             Index 227 at address 7A9A6C4C00 Value: 103
-Word: Brunhild Treatise            ||             Index 228 at address 7A9A6C4CB0 Value: 103
-Word: Divinator Tome            ||             Index 229 at address 7A9A6C4D60 Value: 114
-Word: Fenrir Tome            ||             Index 230 at address 7A9A6C4EC0 Value: 159
-Word: Starlight Treatise            ||             Index 231 at address 7A9A6C4F70 Value: 103
-Word: Orco-Figlia Treatise            ||             Index 232 at address 7A9A6C5020 Value: 104
-Word: Indra Starchart            ||             Index 233 at address 7A9A6C50D0 Value: 0
-Word: Berserker Tome            ||             Index 234 at address 7A9A6C5180 Value: 106
-Word: Libette Tome            ||             Index 235 at address 7A9A6C5230 Value: 159
-Word: White Knight Tome            ||             Index 236 at address 7A9A6C5390 Value: 99
-Word: Arachne Tome            ||             Index 237 at address 7A9A6C5440 Value: 2
-Word: Libero Tome            ||             Index 238 at address 7A9A6C54F0 Value: 100
-Word: Gjallarhorn Treatise            ||             Index 239 at address 7A9A6C55A0 Value: 100
-Word: Marksman Tome            ||             Index 240 at address 7A9A6C5650 Value: 100
-Word: Undertaker Tome            ||             Index 241 at address 7A9A6C5700 Value: 100
-Word: Nekogami Treatise            ||             Index 242 at address 7A9A6C57B0 Value: 108
-Word: Hypnotist Treatise            ||             Index 243 at address 7A9A6C5910 Value: 100
-Word: Briar Rose Starchart            ||             Index 244 at address 7A9A6C59C0 Value: 100
-Word: Aqua Ruler Tome            ||             Index 245 at address 7A9A6C5A70 Value: 160
-Word: Eurydice Tome            ||             Index 246 at address 7A9A6C5B20 Value: 100
-Word: Dáinsleif Tome            ||             Index 247 at address 7A9A6C5BD0 Value: 115
-Word: Aqua Goddess Treatise            ||             Index 248 at address 7A9A6C5D30 Value: 101
-Word: Adept Fencer Tome            ||             Index 249 at address 7A9A6C5DE0 Value: 100
-Word: Negotiator Starchart            ||             Index 250 at address 7A9A6C5E90 Value: 102
-Word: Fortuna Treatise            ||             Index 251 at address 7A9A6C5F40 Value: 102
-Word: Vanguard Tome            ||             Index 252 at address 7A9A6C5FF0 Value: 100
-Word: Asura Tome            ||             Index 253 at address 7A9A6C60A0 Value: 100
-Word: Bard Tome            ||             Index 254 at address 7A9A6C6150 Value: 111
-Word: Ometeotl Treatise            ||             Index 255 at address 7A9A6C6200 Value: 103
-Word: Wu-Shu Tome            ||             Index 256 at address 7A9A6C62B0 Value: 102
-Word: Miracle Worker Treatise            ||             Index 257 at address 7A9A6C6360 Value: 104
-Word: Channeler Tome            ||             Index 258 at address 7A9A6C6410 Value: 110
-Word: Skadi Tome            ||             Index 259 at address 7A9A6C6570 Value: 107
-Word: Era Blaster Tome            ||             Index 260 at address 7A9A6C6620 Value: 104
-Word: Kagutsuchi Tome            ||             Index 261 at address 7A9A6C66D0 Value: 100
-Word: Elven Knight Tome            ||             Index 262 at address 7A9A6C6780 Value: 105
-Word: Rakshasa Tome            ||             Index 263 at address 7A9A6C6830 Value: 102
-Word: Dark Knight Tome            ||             Index 264 at address 7A9A6C68E0 Value: 101
-Word: Wizard Tome            ||             Index 265 at address 7A9A6C6990 Value: 104
-Word: Drago Mirage Tome            ||             Index 266 at address 7A9A6C6A40 Value: 99
-Word: Bishop Tome            ||             Index 267 at address 7A9A6C6BA0 Value: 102
-Word: Paladin Tome            ||             Index 268 at address 7A9A6C6C50 Value: 99
-Word: Master Fencer Tome            ||             Index 269 at address 7A9A6C6D00 Value: 105
-Word: Avenger Tome            ||             Index 270 at address 7A9A6C6DB0 Value: 100
-Word: Patriarch Tome            ||             Index 271 at address 7A9A6C6E60 Value: 113
-Word: Elementalist Tome            ||             Index 272 at address 7A9A6C6F10 Value: 103
-Word: Assassin's Fist Tome            ||             Index 273 at address 7A9A6C6FC0 Value: 103
-Word: Mystic Tome            ||             Index 274 at address 7A9A6C7070 Value: 110
-Word: Exalted Maiden Psalm            ||             Index 275 at address 7A9A6C7120 Value: 110
-Word: Summer Starchart            ||             Index 276 at address 7A9A6C71D0 Value: 100
-Word: Amazon Tome            ||             Index 277 at address 7A9A6C7280 Value: 104
-Word: Maestro Tome            ||             Index 278 at address 7A9A6C7330 Value: 100
-Word: Chevalier Tome            ||             Index 279 at address 7A9A6C73E0 Value: 100
-Word: Sakuya-bime Starchart            ||             Index 280 at address 7A9A6C7490 Value: 0
-Word: Vanagandr Treatise            ||             Index 281 at address 7A9A6C7540 Value: 100
-Word: Eris Treatise            ||             Index 282 at address 7A9A6C75F0 Value: 103
-Word: Sword Master Tome            ||             Index 283 at address 7A9A6C76A0 Value: 101
-Word: Sayorihime Treatise            ||             Index 284 at address 7A9A6C78B0 Value: 101
-Word: Cthulhu Codex            ||             Index 285 at address 7A9A6C7960 Value: 103
-Word: Lapin Tome            ||             Index 286 at address 7A9A6C7A10 Value: 106
-Word: Ameretat Tome            ||             Index 287 at address 7A9A6C7AC0 Value: 100
-Word: Atlas Tome            ||             Index 288 at address 7A9A6C7B70 Value: 100
-Word: Judgment Tome            ||             Index 289 at address 7A9A6C7CD0 Value: 118
-Word: Xeno-Legion Psalm            ||             Index 290 at address 7A9A6C7D80 Value: 109
-Word: Apostle Tome            ||             Index 291 at address 7A9A6C7EE0 Value: 100
-Word: Warrior Tome            ||             Index 292 at address 7A9A6C7F90 Value: 102
-Word: Muse Starchart            ||             Index 293 at address 7A9A6C8040 Value: 100
-Word: Dragon Reaper Tome            ||             Index 294 at address 7A9A6C80F0 Value: 115
-Word: Battler Tome            ||             Index 295 at address 7A9A6C81A0 Value: 102
-Word: Jiutian Xuannu Starchart            ||             Index 296 at address 7A9A6C8250 Value: 100
-Word: Sweet Lady Starchart            ||             Index 297 at address 7A9A6C83B0 Value: 0
-Word: Alchemist Tome            ||             Index 298 at address 7A9A6C8460 Value: 118
-Word: Last Haven Starchart            ||             Index 299 at address 7A9A6C8510 Value: 0
-Word: Titan Starchart            ||             Index 300 at address 7A9A6C85C0 Value: 100
-Word: Brionac Starchart            ||             Index 301 at address 7A9A6C8720 Value: 2
-Word: Voleur Starchart            ||             Index 302 at address 7A9A6C87D0 Value: 0
-Word: Oberon Starchart            ||             Index 303 at address 7A9A6C8880 Value: 100
-Word: Prthivi Starchart            ||             Index 304 at address 7A9A6C8930 Value: 98
-Word: Inspector Starchart            ||             Index 305 at address 7A9A6C89E0 Value: 2
-Word: Blazing Hero Starchart            ||             Index 306 at address 7A9A6C8A90 Value: 100
-Word: Bladesaint Starchart            ||             Index 307 at address 7A9A6C8B40 Value: 100
-Word: Venus Treatise            ||             Index 308 at address 7A9A6C8BF0 Value: 102
-Word: Izanagi Starchart            ||             Index 309 at address 7A9A6C8CA0 Value: 63
-Word: Yaobikuni Starchart            ||             Index 310 at address 7A9A6C8D50 Value: 0
-Word: Takuhatachiji Starchart            ||             Index 311 at address 7A9A6C8EB0 Value: 97
-Word: Holy Warrior Tome            ||             Index 312 at address 7A9A6C8F60 Value: 100
-Word: Sniper Tome            ||             Index 313 at address 7A9A6C9010 Value: 109
-Word: Anomaly Debris Starchart            ||             Index 314 at address 7A9A6C90C0 Value: 0
-Word: Hathor Starchart            ||             Index 315 at address 7A9A6C9170 Value: 0
-Word: Dragoon Starchart            ||             Index 316 at address 7A9A6C9220 Value: 100
-Word: Eurydice Starchart            ||             Index 317 at address 7A9A6C92D0 Value: 100
-Word: Epoch Maker Starchart            ||             Index 318 at address 7A9A6C9380 Value: 100
-Word: Étoile Starchart            ||             Index 319 at address 7A9A6C9430 Value: 0
-Word: Murasame Starchart            ||             Index 320 at address 7A9A6C94E0 Value: 102
-Word: Magister Starchart            ||             Index 321 at address 7A9A6C9590 Value: 152
-Word: Takeminakata Starchart            ||             Index 322 at address 7A9A6C9640 Value: 0
-Word: Archaeologist Starchart            ||             Index 323 at address 7A9A6C96F0 Value: 0
-Word: Mal'akh Starchart            ||             Index 324 at address 7A9A6C9900 Value: 56
-Word: Agent Starchart            ||             Index 325 at address 7A9A6C99B0 Value: 2
-Word: Druid Tome            ||             Index 326 at address 7A9A6C9B10 Value: 114
-Word: Protector Tome            ||             Index 327 at address 7A9A6C9C70 Value: 126
-Word: Naivete Starchart            ||             Index 328 at address 7A9A6C9D20 Value: 0
-Word: Diviner Tome            ||             Index 329 at address 7A9A6C9DD0 Value: 114
-Word: Cursed Bride Treatise            ||             Index 330 at address 7A9A6C9F30 Value: 108
-Word: Storied Fighter Starchart            ||             Index 331 at address 7A9A6C9FE0 Value: 201
-Word: Arcturus Starchart            ||             Index 332 at address 7A9A6CA140 Value: 0
-Word: Phalanx Tome            ||             Index 333 at address 7A9A6CA1F0 Value: 101
-Word: Ame-no-Uzume Starchart            ||             Index 334 at address 7A9A6CA2A0 Value: 50
-Word: Hierophant Tome            ||             Index 335 at address 7A9A6CA350 Value: 100
-Word: Dionysus Treatise            ||             Index 336 at address 7A9A6CA400 Value: 350
-Word: Felis Lord Starchart            ||             Index 337 at address 7A9A6CA4B0 Value: 100
-Word: Nekomata Av. Starchart            ||             Index 338 at address 7A9A6CA560 Value: 100
-Word: Dragon Exile Starchart            ||             Index 339 at address 7A9A6CA6C0 Value: 100
-Word: Yin-Yang Cat Starchart            ||             Index 340 at address 7A9A6CA770 Value: 0
-Word: Carmilla Starchart            ||             Index 341 at address 7A9A6CA8D0 Value: 2
-Word: Geomancer Starchart            ||             Index 342 at address 7A9A6CA980 Value: 2
-Word: A.Murakumo Starchart            ||             Index 343 at address 7A9A6CAAE0 Value: 97
-Word: Högni Starchart            ||             Index 344 at address 7A9A6CAB90 Value: 98
-Word: Admiral Starchart            ||             Index 345 at address 7A9A6CADA0 Value: 102
-Word: Grand General Starchart            ||             Index 346 at address 7A9A6CAE50 Value: 0
-Word: Raven Tengu Starchart            ||             Index 347 at address 7A9A6CAFB0 Value: 100
-Word: Holy Sentinel Starchart            ||             Index 348 at address 7A9A6CB110 Value: 100
-Word: Seele Gnade Treatise            ||             Index 349 at address 7A9A6CB270 Value: 106
-Word: Camena Starchart            ||             Index 350 at address 7A9A6CB3D0 Value: 100
-Word: Lapin Starchart            ||             Index 351 at address 7A9A6CB480 Value: 52
-Word: Enforcer Starchart            ||             Index 352 at address 7A9A6CB530 Value: 97
-Word: Faraway Fantasy Starchart            ||             Index 353 at address 7A9A6CB5E0 Value: 0
-Word: Alphecca Starchart            ||             Index 354 at address 7A9A6CB690 Value: 0
-Word: Hermes Starchart            ||             Index 355 at address 7A9A6CB7F0 Value: 200
-Word: Aqua Ruler Starchart            ||             Index 356 at address 7A9A6CBB60 Value: 101
-Word: Taiyi Zhenren Starchart            ||             Index 357 at address 7A9A6CBC10 Value: 100
-Word: Chronoandreios Starchart            ||             Index 358 at address 7A9A6CBCC0 Value: 0
-Word: Bête Théâtrale Starchart            ||             Index 359 at address 7A9A6CBE20 Value: 0
-Word: Wolfskin Treatise            ||             Index 360 at address 7A9A6CBED0 Value: 101
-Word: Daikokuten Starchart            ||             Index 361 at address 7A9A6CC030 Value: 0
-Word: Armiger Starchart            ||             Index 362 at address 7A9A6CC190 Value: 2
-Word: Warlock Tome            ||             Index 363 at address 7A9A6CC450 Value: 109
-Word: Sukunahikona Starchart            ||             Index 364 at address 7A9A6CC500 Value: 100
-Word: Dragon Bearer Starchart            ||             Index 365 at address 7A9A6CC5B0 Value: 100
-Word: The Renewed Starchart            ||             Index 366 at address 7A9A6CC660 Value: 100
-Word: Fragarach Starchart            ||             Index 367 at address 7A9A6CC710 Value: 0
-Word: Xeno-Legion Starchart            ||             Index 368 at address 7A9A6CC870 Value: 100
-Word: Ninetails Fox Starchart            ||             Index 369 at address 7A9A6CC920 Value: 2
-Word: Allcosmos Starchart            ||             Index 370 at address 7A9A6CCC90 Value: 421099404
-Word: Judgment Starchart            ||             Index 371 at address 7A9A6CCEA0 Value: 255
-Word: Oraculum Starchart            ||             Index 372 at address 7A9A6CCF50 Value: 100
-Word: Arachne Starchart            ||             Index 373 at address 7A9A6CD0B0 Value: 0
-Word: Drago Mirage Starchart            ||             Index 374 at address 7A9A6CD160 Value: 2
-Word: Dionysus Starchart            ||             Index 375 at address 7A9A6CD2C0 Value: 0
-Word: Sovereign Starchart            ||             Index 376 at address 7A9A6CD4D0 Value: 0
-Word: Oracle Starchart            ||             Index 377 at address 7A9A6CD580 Value: 100
-Word: Amaranth Starchart            ||             Index 378 at address 7A9A6CD630 Value: 0
-Word: Chant Script             ||             Index 379 at address 7A9A6CDDC0 Value: 2104
-Word: Narukami Starchart            ||             Index 380 at address 7A9A6CDF20 Value: 100
-Word: Ame-no-Totsuka Starchart            ||             Index 381 at address 7A9A6CDFD0 Value: 0
-Word: Prophet Starchart            ||             Index 382 at address 7A9A6CE130 Value: 0
-Word: Unut Starchart            ||             Index 383 at address 7A9A6CE1E0 Value: 0
-Word: Reviver Starchart            ||             Index 384 at address 7A9A6CE3F0 Value: 0
-Word: Okuninushi Starchart            ||             Index 385 at address 7A9A6CE4A0 Value: 0
-Word: Sacrament Starchart            ||             Index 386 at address 7A9A6CE550 Value: 97
-Word: Bastet Starchart            ||             Index 387 at address 7A9A6CE760 Value: 0
-Word: Kagutsuchi Starchart            ||             Index 388 at address 7A9A6CE810 Value: 102
-Word: Steropes Starchart            ||             Index 389 at address 7A9A6CE970 Value: 0
-Word: Hierophant Starchart            ||             Index 390 at address 7A9A6CECE0 Value: 100
-Word: Rebel Starchart            ||             Index 391 at address 7A9A6CFB50 Value: 100
-Word: Vanagandr Starchart            ||             Index 392 at address 7A9A6CFD60 Value: 97
-Word: Futsunomitama Starchart            ||             Index 393 at address 7A9A6D00D0 Value: 100
-Word: Wenefica Starchart            ||             Index 394 at address 7A9A6D0230 Value: 100
-Word: Wolfskin Starchart            ||             Index 395 at address 7A9A6D0FF0 Value: 100
-Word: Abyssal Devotee Starchart            ||             Index 396 at address 7A9A6D12B0 Value: 255
-Word: Atlas Starchart            ||             Index 397 at address 7A9A6D1A40 Value: 0
-Word: Detective Starchart            ||             Index 398 at address 7A9A6D2EE0 Value: 96
-Word: Slayer Starchart            ||             Index 399 at address 7A9A6D30F0 Value: 102
-Word: Proserpina Starchart            ||             Index 400 at address 7A9A6D3300 Value: 0
-Word: Eris Starchart            ||             Index 401 at address 7A9A6D3BF0 Value: 97
-Word: Murmur Script            ||             Index 402 at address 7A9A6D3CA0 Value: 860834198
-Word: Prayer Script            ||             Index 403 at address 7A9A6D4010 Value: 670499744
-Word: Arc Knight Starchart            ||             Index 404 at address 7A9A6D4590 Value: 100
-Word: Orator Tome            ||             Index 405 at address 7A9A6D4BC0 Value: 100
-Word: Hihayahi Starchart            ||             Index 406 at address 7A9A6D4C70 Value: 0
-Word: Butterfly Warrior Treatise            ||             Index 407 at address 7A9A6D5DA0 Value: 103
-Word: Paladin Starchart            ||             Index 408 at address 7A9A6DE880 Value: 255
-Word: Nirvana Starchart            ||             Index 409 at address 7A9A6DF2D0 Value: 100
-Word: Ullr Starchart            ||             Index 410 at address 7A9A6DF4E0 Value: 100
-Word: Agent Tome            ||             Index 411 at address 7A9A6EBB90 Value: 112
-Word: Dragoon Tome            ||             Index 412 at address 7A9A7155C0 Value: 119
-Found value within range at address: 7A5B29090C, Value: 242030515, Initial Address: 7A9A6AFDE0, Index: 1
-Found value within range at address: 7A5B2904FC, Value: 242030516, Initial Address: 7A9A6B0200, Index: 2
-Found value within range at address: 7A5B29144C, Value: 242030716, Initial Address: 7A9A6B0780, Index: 3
-Found value within range at address: 7A5B29040C, Value: 242030514, Initial Address: 7A9A6B0C50, Index: 4
-Found value within range at address: 7A5B291C1C, Value: 242030623, Initial Address: 7A9A6B1120, Index: 5
-Found value within range at address: 7A5B29171C, Value: 242030609, Initial Address: 7A9A6B11D0, Index: 6
-Found value within range at address: 7A5B290DBC, Value: 242030708, Initial Address: 7A9A6B2720, Index: 7
-Found value within range at address: 7A5B28D34C, Value: 242030018, Initial Address: 7A9A6B2930, Index: 8
-Found value within range at address: 7A5B2905EC, Value: 242030503, Initial Address: 7A9A6B4090, Index: 9
-Found value within range at address: 7A5B290E5C, Value: 242030711, Initial Address: 7A9A6B4350, Index: 10
-Found value within range at address: 7A5B2916CC, Value: 242030612, Initial Address: 7A9A6B5ED0, Index: 11
-Found value within range at address: 7A5B28FE1C, Value: 242030520, Initial Address: 7A9A6B6710, Index: 12
-Found value within range at address: 7A5B2900EC, Value: 242030524, Initial Address: 7A9A6B67C0, Index: 13
-Found value within range at address: 7A5B29149C, Value: 242030700, Initial Address: 7A9A6B69D0, Index: 14
-Found value within range at address: 7A5B2909AC, Value: 242030415, Initial Address: 7A9A6B6D40, Index: 15
-Found value within range at address: 7A5B2911CC, Value: 242030703, Initial Address: 7A9A6B6DF0, Index: 16
-Found value within range at address: 7A5B290A9C, Value: 242030528, Initial Address: 7A9A6B74D0, Index: 17
-Found value within range at address: 7A5B28FC8C, Value: 242030416, Initial Address: 7A9A6B7DC0, Index: 18
-Found value within range at address: 7A5B29077C, Value: 242030606, Initial Address: 7A9A6B88C0, Index: 19
-Found value within range at address: 7A5B29167C, Value: 242030712, Initial Address: 7A9A6B8970, Index: 20
-Found value within range at address: 7A5B29086C, Value: 242030513, Initial Address: 7A9A6B8A20, Index: 21
-Found value within range at address: 7A5B2902CC, Value: 242030526, Initial Address: 7A9A6B9050, Index: 22
-Found value within range at address: 7A5B29054C, Value: 242030602, Initial Address: 7A9A6B9100, Index: 23
-Found value within range at address: 7A5B2917BC, Value: 242030705, Initial Address: 7A9A6B9470, Index: 24
-Found value within range at address: 7A5B290F4C, Value: 242030613, Initial Address: 7A9A6B95D0, Index: 25
-Found value within range at address: 7A5B2919EC, Value: 242030619, Initial Address: 7A9A6B9890, Index: 26
-Found value within range at address: 7A5B29068C, Value: 242030604, Initial Address: 7A9A6B9D60, Index: 27
-Found value within range at address: 7A5B29013C, Value: 242030529, Initial Address: 7A9A6B9E10, Index: 28
-Found value within range at address: 7A5B290A4C, Value: 242030605, Initial Address: 7A9A6B9EC0, Index: 29
-Found value within range at address: 7A5B2918FC, Value: 242030702, Initial Address: 7A9A6BA4F0, Index: 30
-Found value within range at address: 7A5B29153C, Value: 242030608, Initial Address: 7A9A6BA650, Index: 31
-Found value within range at address: 7A5B28FDCC, Value: 242030525, Initial Address: 7A9A6BA700, Index: 32
-Found value within range at address: 7A5B290B8C, Value: 242030502, Initial Address: 7A9A6BA860, Index: 33
-Found value within range at address: 7A5B2906DC, Value: 242030603, Initial Address: 7A9A6BAB20, Index: 34
-Found value within range at address: 7A5B2913FC, Value: 242031401, Initial Address: 7A9A6BABD0, Index: 35
-Found value within range at address: 7A5B291BCC, Value: 242030714, Initial Address: 7A9A6BADE0, Index: 36
-Found value within range at address: 7A5B2914EC, Value: 242030704, Initial Address: 7A9A6BAE90, Index: 37
-Found value within range at address: 7A5B291A8C, Value: 242031403, Initial Address: 7A9A6BAF40, Index: 38
-Found value within range at address: 7A5B29176C, Value: 242030707, Initial Address: 7A9A6BB150, Index: 39
-Found value within range at address: 7A5B29130C, Value: 242030607, Initial Address: 7A9A6BB200, Index: 40
-Found value within range at address: 7A5B28CBCC, Value: 242030032, Initial Address: 7A9A6BB2B0, Index: 41
-Found value within range at address: 7A5B29031C, Value: 242030421, Initial Address: 7A9A6BB4C0, Index: 42
-Found value within range at address: 7A5B29194C, Value: 242031501, Initial Address: 7A9A6BB570, Index: 43
-Found value within range at address: 7A5B290EFC, Value: 242030622, Initial Address: 7A9A6BB620, Index: 44
-Found value within range at address: 7A5B290E0C, Value: 242030721, Initial Address: 7A9A6BB780, Index: 45
-Found value within range at address: 7A5B290CCC, Value: 242031404, Initial Address: 7A9A6BB830, Index: 46
-Found value within range at address: 7A5B29135C, Value: 242030611, Initial Address: 7A9A6BB8E0, Index: 47
-Found value within range at address: 7A5B29117C, Value: 242030709, Initial Address: 7A9A6BB990, Index: 48
-Found value within range at address: 7A5B2912BC, Value: 242030615, Initial Address: 7A9A6BBAF0, Index: 49
-Found value within range at address: 7A5B2907CC, Value: 242030601, Initial Address: 7A9A6BBBA0, Index: 50
-Found value within range at address: 7A5B291CBC, Value: 242030701, Initial Address: 7A9A6BBF10, Index: 51
-Found value within range at address: 7A5B289B0C, Value: 242010023, Initial Address: 7A9A6BC070, Index: 52
-Found value within range at address: 7A5B29126C, Value: 242030718, Initial Address: 7A9A6BC120, Index: 53
-Found value within range at address: 7A5B291B7C, Value: 242030717, Initial Address: 7A9A6BC280, Index: 54
-Found value within range at address: 7A5B291C6C, Value: 242030720, Initial Address: 7A9A6BC330, Index: 55
-Found value within range at address: 7A5B29112C, Value: 242030719, Initial Address: 7A9A6BC490, Index: 56
-Found value within range at address: 7A5B291A3C, Value: 242030706, Initial Address: 7A9A6BC540, Index: 57
-Found value within range at address: 7A5B29185C, Value: 242030618, Initial Address: 7A9A6BC750, Index: 58
-Found value within range at address: 7A5B2913AC, Value: 242030614, Initial Address: 7A9A6BC800, Index: 59
-Found value within range at address: 7A5B29158C, Value: 242030617, Initial Address: 7A9A6BCA10, Index: 60
-Found value within range at address: 7A5B290BDC, Value: 242030517, Initial Address: 7A9A6BCAC0, Index: 61
-Found value within range at address: 7A5B28B0EC, Value: 242013003, Initial Address: 7A9A6BCCD0, Index: 62
-Found value within range at address: 7A5B290EAC, Value: 242031402, Initial Address: 7A9A6BCEE0, Index: 63
-Found value within range at address: 7A5B28EC9C, Value: 242030320, Initial Address: 7A9A6BCF90, Index: 64
-Found value within range at address: 7A5B29063C, Value: 242030419, Initial Address: 7A9A6BD040, Index: 65
-Found value within range at address: 7A5B28EE7C, Value: 242030311, Initial Address: 7A9A6BD0F0, Index: 66
-Found value within range at address: 7A5B291B2C, Value: 242030621, Initial Address: 7A9A6BD1A0, Index: 67
-Found value within range at address: 7A5B29036C, Value: 242030527, Initial Address: 7A9A6BD300, Index: 68
-Found value within range at address: 7A5B290B3C, Value: 242030521, Initial Address: 7A9A6BD3B0, Index: 69
-Found value within range at address: 7A5B28F50C, Value: 242030308, Initial Address: 7A9A6BD460, Index: 70
-Found value within range at address: 7A5B29022C, Value: 242030518, Initial Address: 7A9A6BD510, Index: 71
-Found value within range at address: 7A5B28FEBC, Value: 242030506, Initial Address: 7A9A6BD5C0, Index: 72
-Found value within range at address: 7A5B29009C, Value: 242030504, Initial Address: 7A9A6BD670, Index: 73
-Found value within range at address: 7A5B2904AC, Value: 242030424, Initial Address: 7A9A6BD720, Index: 74
-Found value within range at address: 7A5B29045C, Value: 242030422, Initial Address: 7A9A6BD7D0, Index: 75
-Found value within range at address: 7A5B29199C, Value: 242030616, Initial Address: 7A9A6BD880, Index: 76
-Found value within range at address: 7A5B29027C, Value: 242030418, Initial Address: 7A9A6BD930, Index: 77
-Found value within range at address: 7A5B28F64C, Value: 242030221, Initial Address: 7A9A6BDA90, Index: 78
-Found value within range at address: 7A5B29081C, Value: 242030505, Initial Address: 7A9A6BDB40, Index: 79
-Found value within range at address: 7A5B28C94C, Value: 242020103, Initial Address: 7A9A6BDBF0, Index: 80
-Found value within range at address: 7A5B28FF5C, Value: 242030423, Initial Address: 7A9A6BDCA0, Index: 81
-Found value within range at address: 7A5B29072C, Value: 242030509, Initial Address: 7A9A6BDD50, Index: 82
-Found value within range at address: 7A5B28EC4C, Value: 242030406, Initial Address: 7A9A6BDEB0, Index: 83
-Found value within range at address: 7A5B2908BC, Value: 242030417, Initial Address: 7A9A6BDF60, Index: 84
-Found value within range at address: 7A5B290FEC, Value: 242030715, Initial Address: 7A9A6BE010, Index: 85
-Found value within range at address: 7A5B28F4BC, Value: 242030407, Initial Address: 7A9A6BE170, Index: 86
-Found value within range at address: 7A5B290C7C, Value: 242030523, Initial Address: 7A9A6BE220, Index: 87
-Found value within range at address: 7A5B29095C, Value: 242030510, Initial Address: 7A9A6BE2D0, Index: 88
-Found value within range at address: 7A5B29018C, Value: 242030500, Initial Address: 7A9A6BE380, Index: 89
-Found value within range at address: 7A5B290D6C, Value: 242030610, Initial Address: 7A9A6BE430, Index: 90
-Found value within range at address: 7A5B28FD2C, Value: 242030426, Initial Address: 7A9A6BE4E0, Index: 91
-Found value within range at address: 7A5B28FE6C, Value: 242030420, Initial Address: 7A9A6BE590, Index: 92
-Found value within range at address: 7A5B2915DC, Value: 242030620, Initial Address: 7A9A6BE6F0, Index: 93
-Found value within range at address: 7A5B28EE2C, Value: 242030316, Initial Address: 7A9A6BE7A0, Index: 94
-Found value within range at address: 7A5B28F32C, Value: 242030411, Initial Address: 7A9A6BE850, Index: 95
-Found value within range at address: 7A5B29162C, Value: 242030713, Initial Address: 7A9A6BE900, Index: 96
-Found value within range at address: 7A5B28C1CC, Value: 242020006, Initial Address: 7A9A6BE9B0, Index: 97
-Found value within range at address: 7A5B28F78C, Value: 242030317, Initial Address: 7A9A6BEA60, Index: 98
-Found value within range at address: 7A5B2903BC, Value: 242030425, Initial Address: 7A9A6BEB10, Index: 99
-Found value within range at address: 7A5B290AEC, Value: 242030413, Initial Address: 7A9A6BEBC0, Index: 100
-Found value within range at address: 7A5B28FFAC, Value: 242030519, Initial Address: 7A9A6BEC70, Index: 101
-Found value within range at address: 7A5B29180C, Value: 242030710, Initial Address: 7A9A6BEE80, Index: 102
-Found value within range at address: 7A5B28F05C, Value: 242030409, Initial Address: 7A9A6BEFE0, Index: 103
-Found value within range at address: 7A5B290C2C, Value: 242030501, Initial Address: 7A9A6BF140, Index: 104
-Found value within range at address: 7A5B2901DC, Value: 242030512, Initial Address: 7A9A6BF1F0, Index: 105
-Found value within range at address: 7A5B28EECC, Value: 242030403, Initial Address: 7A9A6BF2A0, Index: 106
-Found value within range at address: 7A5B28BBDC, Value: 242020702, Initial Address: 7A9A6BF400, Index: 107
-Found value within range at address: 7A5B28E97C, Value: 242030208, Initial Address: 7A9A6BF4B0, Index: 108
-Found value within range at address: 7A5B28F69C, Value: 242030405, Initial Address: 7A9A6BF560, Index: 109
-Found value within range at address: 7A5B28E88C, Value: 242030217, Initial Address: 7A9A6BF610, Index: 110
-Found value within range at address: 7A5B28F5AC, Value: 242030321, Initial Address: 7A9A6BF6C0, Index: 111
-Found value within range at address: 7A5B28E06C, Value: 242030116, Initial Address: 7A9A6BF770, Index: 112
-Found value within range at address: 7A5B28F41C, Value: 242030222, Initial Address: 7A9A6BF820, Index: 113
-Found value within range at address: 7A5B28F9BC, Value: 242030225, Initial Address: 7A9A6BF8D0, Index: 114
-Found value within range at address: 7A5B28DE8C, Value: 242030135, Initial Address: 7A9A6BF980, Index: 115
-Found value within range at address: 7A5B28F19C, Value: 242030303, Initial Address: 7A9A6BFA30, Index: 116
-Found value within range at address: 7A5B28EBAC, Value: 242030132, Initial Address: 7A9A6BFAE0, Index: 117
-Found value within range at address: 7A5B28DE3C, Value: 242030204, Initial Address: 7A9A6BFB90, Index: 118
-Found value within range at address: 7A5B28F73C, Value: 242030314, Initial Address: 7A9A6BFC40, Index: 119
-Found value within range at address: 7A5B28E42C, Value: 242030118, Initial Address: 7A9A6BFCF0, Index: 120
-Found value within range at address: 7A5B28E2EC, Value: 242030201, Initial Address: 7A9A6BFDA0, Index: 121
-Found value within range at address: 7A5B28E38C, Value: 242030215, Initial Address: 7A9A6BFE50, Index: 122
-Found value within range at address: 7A5B28F46C, Value: 242030304, Initial Address: 7A9A6BFFB0, Index: 123
-Found value within range at address: 7A5B29004C, Value: 242030507, Initial Address: 7A9A6C0060, Index: 124
-Found value within range at address: 7A5B28E24C, Value: 242030136, Initial Address: 7A9A6C0110, Index: 125
-Found value within range at address: 7A5B28EF1C, Value: 242030302, Initial Address: 7A9A6C01C0, Index: 126
-Found value within range at address: 7A5B28F5FC, Value: 242030310, Initial Address: 7A9A6C0270, Index: 127
-Found value within range at address: 7A5B28E7EC, Value: 242030207, Initial Address: 7A9A6C0320, Index: 128
-Found value within range at address: 7A5B28FF0C, Value: 242030511, Initial Address: 7A9A6C03D0, Index: 129
-Found value within range at address: 7A5B28F82C, Value: 242030319, Initial Address: 7A9A6C0480, Index: 130
-Found value within range at address: 7A5B28DCFC, Value: 242030212, Initial Address: 7A9A6C05E0, Index: 131
-Found value within range at address: 7A5B28FD7C, Value: 242030508, Initial Address: 7A9A6C0690, Index: 132
-Found value within range at address: 7A5B28E1AC, Value: 242030213, Initial Address: 7A9A6C0740, Index: 133
-Found value within range at address: 7A5B28E51C, Value: 242030108, Initial Address: 7A9A6C08A0, Index: 134
-Found value within range at address: 7A5B28DD9C, Value: 242030206, Initial Address: 7A9A6C0950, Index: 135
-Found value within range at address: 7A5B2909FC, Value: 242030522, Initial Address: 7A9A6C0A00, Index: 136
-Found value within range at address: 7A5B28E8DC, Value: 242030214, Initial Address: 7A9A6C0AB0, Index: 137
-Found value within range at address: 7A5B28F8CC, Value: 242030301, Initial Address: 7A9A6C0B60, Index: 138
-Found value within range at address: 7A5B28EDDC, Value: 242030326, Initial Address: 7A9A6C0C10, Index: 139
-Found value within range at address: 7A5B29059C, Value: 242030412, Initial Address: 7A9A6C0CC0, Index: 140
-Found value within range at address: 7A5B28C71C, Value: 242020401, Initial Address: 7A9A6C0D70, Index: 141
-Found value within range at address: 7A5B28F91C, Value: 242030318, Initial Address: 7A9A6C0E20, Index: 142
-Found value within range at address: 7A5B28E60C, Value: 242030209, Initial Address: 7A9A6C0ED0, Index: 143
-Found value within range at address: 7A5B28F55C, Value: 242030230, Initial Address: 7A9A6C0F80, Index: 144
-Found value within range at address: 7A5B28F87C, Value: 242030231, Initial Address: 7A9A6C1030, Index: 145
-Found value within range at address: 7A5B28F28C, Value: 242030408, Initial Address: 7A9A6C1190, Index: 146
-Found value within range at address: 7A5B28ECEC, Value: 242030309, Initial Address: 7A9A6C1240, Index: 147
-Found value within range at address: 7A5B28ED3C, Value: 242030315, Initial Address: 7A9A6C12F0, Index: 148
-Found value within range at address: 7A5B28ED8C, Value: 242030226, Initial Address: 7A9A6C1450, Index: 149
-Found value within range at address: 7A5B28E79C, Value: 242030110, Initial Address: 7A9A6C1500, Index: 150
-Found value within range at address: 7A5B28F23C, Value: 242030224, Initial Address: 7A9A6C1660, Index: 151
-Found value within range at address: 7A5B28E92C, Value: 242030113, Initial Address: 7A9A6C17C0, Index: 152
-Found value within range at address: 7A5B28DC0C, Value: 242030115, Initial Address: 7A9A6C1870, Index: 153
-Found value within range at address: 7A5B28E0BC, Value: 242030122, Initial Address: 7A9A6C1920, Index: 154
-Found value within range at address: 7A5B28C30C, Value: 242019005, Initial Address: 7A9A6C19D0, Index: 155
-Found value within range at address: 7A5B28C99C, Value: 242020603, Initial Address: 7A9A6C1A80, Index: 156
-Found value within range at address: 7A5B28C26C, Value: 242030003, Initial Address: 7A9A6C1B30, Index: 157
-Found value within range at address: 7A5B28DA7C, Value: 242030103, Initial Address: 7A9A6C1BE0, Index: 158
-Found value within range at address: 7A5B28EF6C, Value: 242030312, Initial Address: 7A9A6C1C90, Index: 159
-Found value within range at address: 7A5B28E29C, Value: 242030117, Initial Address: 7A9A6C1D40, Index: 160
-Found value within range at address: 7A5B28CF8C, Value: 242030101, Initial Address: 7A9A6C1DF0, Index: 161
-Found value within range at address: 7A5B28C0DC, Value: 242030004, Initial Address: 7A9A6C1EA0, Index: 162
-Found value within range at address: 7A5B28D89C, Value: 242030037, Initial Address: 7A9A6C1F50, Index: 163
-Found value within range at address: 7A5B28E83C, Value: 242030109, Initial Address: 7A9A6C2000, Index: 164
-Found value within range at address: 7A5B28DDEC, Value: 242030119, Initial Address: 7A9A6C20B0, Index: 165
-Found value within range at address: 7A5B28E9CC, Value: 242030106, Initial Address: 7A9A6C2160, Index: 166
-Found value within range at address: 7A5B28F0FC, Value: 242030300, Initial Address: 7A9A6C2210, Index: 167
-Found value within range at address: 7A5B28E33C, Value: 242030205, Initial Address: 7A9A6C22C0, Index: 168
-Found value within range at address: 7A5B28C17C, Value: 242020602, Initial Address: 7A9A6C2370, Index: 169
-Found value within range at address: 7A5B28EBFC, Value: 242030127, Initial Address: 7A9A6C2420, Index: 170
-Found value within range at address: 7A5B28EABC, Value: 242030124, Initial Address: 7A9A6C24D0, Index: 171
-Found value within range at address: 7A5B28FA0C, Value: 242030306, Initial Address: 7A9A6C2580, Index: 172
-Found value within range at address: 7A5B28DB6C, Value: 242030052, Initial Address: 7A9A6C2630, Index: 173
-Found value within range at address: 7A5B28F96C, Value: 242030325, Initial Address: 7A9A6C26E0, Index: 174
-Found value within range at address: 7A5B28D93C, Value: 242030039, Initial Address: 7A9A6C2790, Index: 175
-Found value within range at address: 7A5B28E3DC, Value: 242030131, Initial Address: 7A9A6C2840, Index: 176
-Found value within range at address: 7A5B28FA5C, Value: 242030410, Initial Address: 7A9A6C28F0, Index: 177
-Found value within range at address: 7A5B28E1FC, Value: 242030202, Initial Address: 7A9A6C29A0, Index: 178
-Found value within range at address: 7A5B28FFFC, Value: 242030600, Initial Address: 7A9A6C2A50, Index: 179
-Found value within range at address: 7A5B28DEDC, Value: 242030105, Initial Address: 7A9A6C2B00, Index: 180
-Found value within range at address: 7A5B28DD4C, Value: 242030111, Initial Address: 7A9A6C2BB0, Index: 181
-Found value within range at address: 7A5B28E10C, Value: 242030216, Initial Address: 7A9A6C2C60, Index: 182
-Found value within range at address: 7A5B28D9DC, Value: 242030046, Initial Address: 7A9A6C2D10, Index: 183
-Found value within range at address: 7A5B28DA2C, Value: 242030044, Initial Address: 7A9A6C2DC0, Index: 184
-Found value within range at address: 7A5B28C35C, Value: 242020007, Initial Address: 7A9A6C2E70, Index: 185
-Found value within range at address: 7A5B28D0CC, Value: 242030012, Initial Address: 7A9A6C2F20, Index: 186
-Found value within range at address: 7A5B28FCDC, Value: 242030414, Initial Address: 7A9A6C2FD0, Index: 187
-Found value within range at address: 7A5B28D7AC, Value: 242030036, Initial Address: 7A9A6C3080, Index: 188
-Found value within range at address: 7A5B28D07C, Value: 242030049, Initial Address: 7A9A6C3130, Index: 189
-Found value within range at address: 7A5B28BC2C, Value: 242020400, Initial Address: 7A9A6C31E0, Index: 190
-Found value within range at address: 7A5B28F14C, Value: 242030307, Initial Address: 7A9A6C3290, Index: 191
-Found value within range at address: 7A5B28FBEC, Value: 242030219, Initial Address: 7A9A6C3340, Index: 192
-Found value within range at address: 7A5B28D7FC, Value: 242030033, Initial Address: 7A9A6C33F0, Index: 193
-Found value within range at address: 7A5B28C85C, Value: 242020503, Initial Address: 7A9A6C34A0, Index: 194
-Found value within range at address: 7A5B28E6FC, Value: 242030126, Initial Address: 7A9A6C3550, Index: 195
-Found value within range at address: 7A5B28CC6C, Value: 242030051, Initial Address: 7A9A6C3600, Index: 196
-Found value within range at address: 7A5B28EB0C, Value: 242030121, Initial Address: 7A9A6C36B0, Index: 197
-Found value within range at address: 7A5B28E5BC, Value: 242030125, Initial Address: 7A9A6C3760, Index: 198
-Found value within range at address: 7A5B28BE0C, Value: 242030000, Initial Address: 7A9A6C3810, Index: 199
-Found value within range at address: 7A5B28E65C, Value: 242030129, Initial Address: 7A9A6C38C0, Index: 200
-Found value within range at address: 7A5B28EA6C, Value: 242030210, Initial Address: 7A9A6C3970, Index: 201
-Found value within range at address: 7A5B28E47C, Value: 242030123, Initial Address: 7A9A6C3A20, Index: 202
-Found value within range at address: 7A5B28D39C, Value: 242030031, Initial Address: 7A9A6C3B80, Index: 203
-Found value within range at address: 7A5B28B09C, Value: 242014004, Initial Address: 7A9A6C3C30, Index: 204
-Found value within range at address: 7A5B28D8EC, Value: 242030040, Initial Address: 7A9A6C3CE0, Index: 205
-Found value within range at address: 7A5B28E4CC, Value: 242030114, Initial Address: 7A9A6C3D90, Index: 206
-Found value within range at address: 7A5B28CD5C, Value: 242030035, Initial Address: 7A9A6C3E40, Index: 207
-Found value within range at address: 7A5B28DF7C, Value: 242030133, Initial Address: 7A9A6C3EF0, Index: 208
-Found value within range at address: 7A5B28EB5C, Value: 242030112, Initial Address: 7A9A6C3FA0, Index: 209
-Found value within range at address: 7A5B28DB1C, Value: 242030047, Initial Address: 7A9A6C4050, Index: 210
-Found value within range at address: 7A5B28F3CC, Value: 242030232, Initial Address: 7A9A6C4100, Index: 211
-Found value within range at address: 7A5B28B22C, Value: 242019001, Initial Address: 7A9A6C41B0, Index: 212
-Found value within range at address: 7A5B28D43C, Value: 242030102, Initial Address: 7A9A6C4260, Index: 213
-Found value within range at address: 7A5B28D4DC, Value: 242030015, Initial Address: 7A9A6C4310, Index: 214
-Found value within range at address: 7A5B28EFBC, Value: 242030404, Initial Address: 7A9A6C43C0, Index: 215
-Found value within range at address: 7A5B28CDFC, Value: 242030017, Initial Address: 7A9A6C4470, Index: 216
-Found value within range at address: 7A5B28EA1C, Value: 242030120, Initial Address: 7A9A6C4520, Index: 217
-Found value within range at address: 7A5B28CFDC, Value: 242030042, Initial Address: 7A9A6C45D0, Index: 218
-Found value within range at address: 7A5B28D66C, Value: 242030041, Initial Address: 7A9A6C4680, Index: 219
-Found value within range at address: 7A5B28E6AC, Value: 242030134, Initial Address: 7A9A6C4730, Index: 220
-Found value within range at address: 7A5B28D52C, Value: 242030013, Initial Address: 7A9A6C47E0, Index: 221
-Found value within range at address: 7A5B28D61C, Value: 242030043, Initial Address: 7A9A6C4890, Index: 222
-Found value within range at address: 7A5B28D20C, Value: 242030016, Initial Address: 7A9A6C4940, Index: 223
-Found value within range at address: 7A5B28DF2C, Value: 242030128, Initial Address: 7A9A6C49F0, Index: 224
-Found value within range at address: 7A5B28D98C, Value: 242030045, Initial Address: 7A9A6C4AA0, Index: 225
-Found value within range at address: 7A5B28D16C, Value: 242030029, Initial Address: 7A9A6C4B50, Index: 226
-Found value within range at address: 7A5B28FB4C, Value: 242030313, Initial Address: 7A9A6C4C00, Index: 227
-Found value within range at address: 7A5B28E56C, Value: 242030107, Initial Address: 7A9A6C4CB0, Index: 228
-Found value within range at address: 7A5B28CEEC, Value: 242030009, Initial Address: 7A9A6C4D60, Index: 229
-Found value within range at address: 7A5B28F0AC, Value: 242030223, Initial Address: 7A9A6C4EC0, Index: 230
-Found value within range at address: 7A5B28E15C, Value: 242030203, Initial Address: 7A9A6C4F70, Index: 231
-Found value within range at address: 7A5B28E74C, Value: 242030211, Initial Address: 7A9A6C5020, Index: 232
-Found value within range at address: 7A5B28B18C, Value: 242012024, Initial Address: 7A9A6C50D0, Index: 233
-Found value within range at address: 7A5B28C9EC, Value: 242020302, Initial Address: 7A9A6C5180, Index: 234
-Found value within range at address: 7A5B28D1BC, Value: 242030021, Initial Address: 7A9A6C5230, Index: 235
-Found value within range at address: 7A5B28DC5C, Value: 242030104, Initial Address: 7A9A6C5390, Index: 236
-Found value within range at address: 7A5B28D70C, Value: 242030048, Initial Address: 7A9A6C5440, Index: 237
-Found value within range at address: 7A5B28D3EC, Value: 242030028, Initial Address: 7A9A6C54F0, Index: 238
-Found value within range at address: 7A5B28D48C, Value: 242030022, Initial Address: 7A9A6C55A0, Index: 239
-Found value within range at address: 7A5B28C3AC, Value: 242020502, Initial Address: 7A9A6C5650, Index: 240
-Found value within range at address: 7A5B28C03C, Value: 242020012, Initial Address: 7A9A6C5700, Index: 241
-Found value within range at address: 7A5B28FC3C, Value: 242030220, Initial Address: 7A9A6C57B0, Index: 242
-Found value within range at address: 7A5B28CCBC, Value: 242030006, Initial Address: 7A9A6C5910, Index: 243
-Found value within range at address: 7A5B28B54C, Value: 242017004, Initial Address: 7A9A6C59C0, Index: 244
-Found value within range at address: 7A5B28C8AC, Value: 242030001, Initial Address: 7A9A6C5A70, Index: 245
-Found value within range at address: 7A5B28F7DC, Value: 242030322, Initial Address: 7A9A6C5B20, Index: 246
-Found value within range at address: 7A5B28D25C, Value: 242030034, Initial Address: 7A9A6C5BD0, Index: 247
-Found value within range at address: 7A5B28D57C, Value: 242030014, Initial Address: 7A9A6C5D30, Index: 248
-Found value within range at address: 7A5B28BFEC, Value: 242020202, Initial Address: 7A9A6C5DE0, Index: 249
-Found value within range at address: 7A5B28B68C, Value: 242017003, Initial Address: 7A9A6C5E90, Index: 250
-Found value within range at address: 7A5B28D11C, Value: 242030019, Initial Address: 7A9A6C5F40, Index: 251
-Found value within range at address: 7A5B28C08C, Value: 242020303, Initial Address: 7A9A6C5FF0, Index: 252
-Found value within range at address: 7A5B28C21C, Value: 242020200, Initial Address: 7A9A6C60A0, Index: 253
-Found value within range at address: 7A5B28C8FC, Value: 242020501, Initial Address: 7A9A6C6150, Index: 254
-Found value within range at address: 7A5B28E01C, Value: 242030218, Initial Address: 7A9A6C6200, Index: 255
-Found value within range at address: 7A5B28C44C, Value: 242020601, Initial Address: 7A9A6C62B0, Index: 256
-Found value within range at address: 7A5B28CD0C, Value: 242030030, Initial Address: 7A9A6C6360, Index: 257
-Found value within range at address: 7A5B28C2BC, Value: 242020010, Initial Address: 7A9A6C6410, Index: 258
-Found value within range at address: 7A5B28D75C, Value: 242030026, Initial Address: 7A9A6C6570, Index: 259
-Found value within range at address: 7A5B28C3FC, Value: 242020008, Initial Address: 7A9A6C6620, Index: 260
-Found value within range at address: 7A5B28DFCC, Value: 242030200, Initial Address: 7A9A6C66D0, Index: 261
-Found value within range at address: 7A5B28BD6C, Value: 242020104, Initial Address: 7A9A6C6780, Index: 262
-Found value within range at address: 7A5B28C67C, Value: 242020201, Initial Address: 7A9A6C6830, Index: 263
-Found value within range at address: 7A5B28C80C, Value: 242020101, Initial Address: 7A9A6C68E0, Index: 264
-Found value within range at address: 7A5B28C6CC, Value: 242020004, Initial Address: 7A9A6C6990, Index: 265
-Found value within range at address: 7A5B28CC1C, Value: 242030027, Initial Address: 7A9A6C6A40, Index: 266
-Found value within range at address: 7A5B28C7BC, Value: 242020701, Initial Address: 7A9A6C6BA0, Index: 267
-Found value within range at address: 7A5B28D6BC, Value: 242030100, Initial Address: 7A9A6C6C50, Index: 268
-Found value within range at address: 7A5B28C53C, Value: 242020203, Initial Address: 7A9A6C6D00, Index: 269
-Found value within range at address: 7A5B28BCCC, Value: 242020703, Initial Address: 7A9A6C6DB0, Index: 270
-Found value within range at address: 7A5B28C5DC, Value: 242020700, Initial Address: 7A9A6C6E60, Index: 271
-Found value within range at address: 7A5B28C49C, Value: 242020009, Initial Address: 7A9A6C6F10, Index: 272
-Found value within range at address: 7A5B28BEFC, Value: 242020600, Initial Address: 7A9A6C6FC0, Index: 273
-Found value within range at address: 7A5B28CB2C, Value: 242020003, Initial Address: 7A9A6C7070, Index: 274
-Found value within range at address: 7A5B28D2FC, Value: 242030023, Initial Address: 7A9A6C7120, Index: 275
-Found value within range at address: 7A5B28B5EC, Value: 242019003, Initial Address: 7A9A6C71D0, Index: 276
-Found value within range at address: 7A5B28CA3C, Value: 242020301, Initial Address: 7A9A6C7280, Index: 277
-Found value within range at address: 7A5B28BD1C, Value: 242020604, Initial Address: 7A9A6C7330, Index: 278
-Found value within range at address: 7A5B28BDBC, Value: 242020403, Initial Address: 7A9A6C73E0, Index: 279
-Found value within range at address: 7A5B28AFAC, Value: 242014008, Initial Address: 7A9A6C7490, Index: 280
-Found value within range at address: 7A5B28FAAC, Value: 242030228, Initial Address: 7A9A6C7540, Index: 281
-Found value within range at address: 7A5B28DCAC, Value: 242030130, Initial Address: 7A9A6C75F0, Index: 282
-Found value within range at address: 7A5B28C12C, Value: 242020102, Initial Address: 7A9A6C76A0, Index: 283
-Found value within range at address: 7A5B28DBBC, Value: 242030024, Initial Address: 7A9A6C78B0, Index: 284
-Found value within range at address: 7A5B28CDAC, Value: 242030025, Initial Address: 7A9A6C7960, Index: 285
-Found value within range at address: 7A5B28D2AC, Value: 242030005, Initial Address: 7A9A6C7A10, Index: 286
-Found value within range at address: 7A5B28F00C, Value: 242030305, Initial Address: 7A9A6C7AC0, Index: 287
-Found value within range at address: 7A5B28F2DC, Value: 242030327, Initial Address: 7A9A6C7B70, Index: 288
-Found value within range at address: 7A5B28D02C, Value: 242030011, Initial Address: 7A9A6C7CD0, Index: 289
-Found value within range at address: 7A5B28CE4C, Value: 242030010, Initial Address: 7A9A6C7D80, Index: 290
-Found value within range at address: 7A5B28BF9C, Value: 242020705, Initial Address: 7A9A6C7EE0, Index: 291
-Found value within range at address: 7A5B28C58C, Value: 242020300, Initial Address: 7A9A6C7F90, Index: 292
-Found value within range at address: 7A5B28B31C, Value: 242017002, Initial Address: 7A9A6C8040, Index: 293
-Found value within range at address: 7A5B28F6EC, Value: 242030323, Initial Address: 7A9A6C80F0, Index: 294
-Found value within range at address: 7A5B28BE5C, Value: 242020304, Initial Address: 7A9A6C81A0, Index: 295
-Found value within range at address: 7A5B28B59C, Value: 242016002, Initial Address: 7A9A6C8250, Index: 296
-Found value within range at address: 7A5B28AEBC, Value: 242013006, Initial Address: 7A9A6C83B0, Index: 297
-Found value within range at address: 7A5B28BB8C, Value: 242020011, Initial Address: 7A9A6C8460, Index: 298
-Found value within range at address: 7A5B28ACDC, Value: 242016006, Initial Address: 7A9A6C8510, Index: 299
-Found value within range at address: 7A5B28AE1C, Value: 242016007, Initial Address: 7A9A6C85C0, Index: 300
-Found value within range at address: 7A5B28B81C, Value: 242014009, Initial Address: 7A9A6C8720, Index: 301
-Found value within range at address: 7A5B28B40C, Value: 242015015, Initial Address: 7A9A6C87D0, Index: 302
-Found value within range at address: 7A5B28B2CC, Value: 242014002, Initial Address: 7A9A6C8880, Index: 303
-Found value within range at address: 7A5B28AB9C, Value: 242017001, Initial Address: 7A9A6C8930, Index: 304
-Found value within range at address: 7A5B28B9FC, Value: 242013005, Initial Address: 7A9A6C89E0, Index: 305
-Found value within range at address: 7A5B28B9AC, Value: 242016003, Initial Address: 7A9A6C8A90, Index: 306
-Found value within range at address: 7A5B289C4C, Value: 242011004, Initial Address: 7A9A6C8B40, Index: 307
-Found value within range at address: 7A5B28D84C, Value: 242030038, Initial Address: 7A9A6C8BF0, Index: 308
-Found value within range at address: 7A5B289B5C, Value: 242012017, Initial Address: 7A9A6C8CA0, Index: 309
-Found value within range at address: 7A5B28BAEC, Value: 242017006, Initial Address: 7A9A6C8D50, Index: 310
-Found value within range at address: 7A5B289F6C, Value: 242012012, Initial Address: 7A9A6C8EB0, Index: 311
-Found value within range at address: 7A5B28BF4C, Value: 242020100, Initial Address: 7A9A6C8F60, Index: 312
-Found value within range at address: 7A5B28CA8C, Value: 242020500, Initial Address: 7A9A6C9010, Index: 313
-Found value within range at address: 7A5B28B77C, Value: 242016005, Initial Address: 7A9A6C90C0, Index: 314
-Found value within range at address: 7A5B28AFFC, Value: 242015019, Initial Address: 7A9A6C9170, Index: 315
-Found value within range at address: 7A5B28B45C, Value: 242014001, Initial Address: 7A9A6C9220, Index: 316
-Found value within range at address: 7A5B28B95C, Value: 242013002, Initial Address: 7A9A6C92D0, Index: 317
-Found value within range at address: 7A5B28BB3C, Value: 242015012, Initial Address: 7A9A6C9380, Index: 318
-Found value within range at address: 7A5B28AF5C, Value: 242012023, Initial Address: 7A9A6C9430, Index: 319
-Found value within range at address: 7A5B28A64C, Value: 242012001, Initial Address: 7A9A6C94E0, Index: 320
-Found value within range at address: 7A5B28AB4C, Value: 242014007, Initial Address: 7A9A6C9590, Index: 321
-Found value within range at address: 7A5B28B3BC, Value: 242015018, Initial Address: 7A9A6C9640, Index: 322
-Found value within range at address: 7A5B28B63C, Value: 242017007, Initial Address: 7A9A6C96F0, Index: 323
-Found value within range at address: 7A5B28B1DC, Value: 242017005, Initial Address: 7A9A6C9900, Index: 324
-Found value within range at address: 7A5B28B4FC, Value: 242014010, Initial Address: 7A9A6C99B0, Index: 325
-Found value within range at address: 7A5B28BEAC, Value: 242020001, Initial Address: 7A9A6C9B10, Index: 326
-Found value within range at address: 7A5B28CE9C, Value: 242030008, Initial Address: 7A9A6C9C70, Index: 327
-Found value within range at address: 7A5B28B8BC, Value: 242015016, Initial Address: 7A9A6C9D20, Index: 328
-Found value within range at address: 7A5B28CB7C, Value: 242020005, Initial Address: 7A9A6C9DD0, Index: 329
-Found value within range at address: 7A5B28D5CC, Value: 242030007, Initial Address: 7A9A6C9F30, Index: 330
-Found value within range at address: 7A5B28AC8C, Value: 242019002, Initial Address: 7A9A6C9FE0, Index: 331
-Found value within range at address: 7A5B28B27C, Value: 242014011, Initial Address: 7A9A6CA140, Index: 332
-Found value within range at address: 7A5B28C76C, Value: 242020402, Initial Address: 7A9A6CA1F0, Index: 333
-Found value within range at address: 7A5B28B04C, Value: 242015014, Initial Address: 7A9A6CA2A0, Index: 334
-Found value within range at address: 7A5B28C4EC, Value: 242030002, Initial Address: 7A9A6CA350, Index: 335
-Found value within range at address: 7A5B28CF3C, Value: 242030050, Initial Address: 7A9A6CA400, Index: 336
-Found value within range at address: 7A5B28ADCC, Value: 242016004, Initial Address: 7A9A6CA4B0, Index: 337
-Found value within range at address: 7A5B28AC3C, Value: 242015013, Initial Address: 7A9A6CA560, Index: 338
-Found value within range at address: 7A5B28B72C, Value: 242014005, Initial Address: 7A9A6CA6C0, Index: 339
-Found value within range at address: 7A5B28AA0C, Value: 242010025, Initial Address: 7A9A6CA770, Index: 340
-Found value within range at address: 7A5B28AAFC, Value: 242010024, Initial Address: 7A9A6CA8D0, Index: 341
-Found value within range at address: 7A5B28A73C, Value: 242010012, Initial Address: 7A9A6CA980, Index: 342
-Found value within range at address: 7A5B28A05C, Value: 242012014, Initial Address: 7A9A6CAAE0, Index: 343
-Found value within range at address: 7A5B28A1EC, Value: 242010004, Initial Address: 7A9A6CAB90, Index: 344
-Found value within range at address: 7A5B28A37C, Value: 242012018, Initial Address: 7A9A6CADA0, Index: 345
-Found value within range at address: 7A5B28A82C, Value: 242011015, Initial Address: 7A9A6CAE50, Index: 346
-Found value within range at address: 7A5B28A0AC, Value: 242010007, Initial Address: 7A9A6CAFB0, Index: 347
-Found value within range at address: 7A5B28ABEC, Value: 242014006, Initial Address: 7A9A6CB110, Index: 348
-Found value within range at address: 7A5B28DACC, Value: 242030020, Initial Address: 7A9A6CB270, Index: 349
-Found value within range at address: 7A5B28A6EC, Value: 242011008, Initial Address: 7A9A6CB3D0, Index: 350
-Found value within range at address: 7A5B28A55C, Value: 242010015, Initial Address: 7A9A6CB480, Index: 351
-Found value within range at address: 7A5B28B7CC, Value: 242016001, Initial Address: 7A9A6CB530, Index: 352
-Found value within range at address: 7A5B28C62C, Value: 242019004, Initial Address: 7A9A6CB5E0, Index: 353
-Found value within range at address: 7A5B28A14C, Value: 242010019, Initial Address: 7A9A6CB690, Index: 354
-Found value within range at address: 7A5B28A78C, Value: 242010001, Initial Address: 7A9A6CB7F0, Index: 355
-Found value within range at address: 7A5B289ECC, Value: 242010006, Initial Address: 7A9A6CBB60, Index: 356
-Found value within range at address: 7A5B289C9C, Value: 242010003, Initial Address: 7A9A6CBC10, Index: 357
-Found value within range at address: 7A5B28A87C, Value: 242011009, Initial Address: 7A9A6CBCC0, Index: 358
-Found value within range at address: 7A5B28A7DC, Value: 242011007, Initial Address: 7A9A6CBE20, Index: 359
-Found value within range at address: 7A5B28F37C, Value: 242030324, Initial Address: 7A9A6CBED0, Index: 360
-Found value within range at address: 7A5B28AAAC, Value: 242011011, Initial Address: 7A9A6CC030, Index: 361
-Found value within range at address: 7A5B28B86C, Value: 242015017, Initial Address: 7A9A6CC190, Index: 362
-Found value within range at address: 7A5B28BC7C, Value: 242020002, Initial Address: 7A9A6CC450, Index: 363
-Found value within range at address: 7A5B28B36C, Value: 242013001, Initial Address: 7A9A6CC500, Index: 364
-Found value within range at address: 7A5B289F1C, Value: 242011001, Initial Address: 7A9A6CC5B0, Index: 365
-Found value within range at address: 7A5B289BAC, Value: 242010005, Initial Address: 7A9A6CC660, Index: 366
-Found value within range at address: 7A5B28A00C, Value: 242011016, Initial Address: 7A9A6CC710, Index: 367
-Found value within range at address: 7A5B28992C, Value: 242010002, Initial Address: 7A9A6CC870, Index: 368
-Found value within range at address: 7A5B28AD7C, Value: 242015020, Initial Address: 7A9A6CC920, Index: 369
-Found value within range at address: 7A5B28A4BC, Value: 242010000, Initial Address: 7A9A6CCC90, Index: 370
-Found value within range at address: 7A5B289FBC, Value: 242010021, Initial Address: 7A9A6CCEA0, Index: 371
-Found value within range at address: 7A5B28A28C, Value: 242011002, Initial Address: 7A9A6CCF50, Index: 372
-Found value within range at address: 7A5B289BFC, Value: 242010018, Initial Address: 7A9A6CD0B0, Index: 373
-Found value within range at address: 7A5B289D8C, Value: 242010010, Initial Address: 7A9A6CD160, Index: 374
-Found value within range at address: 7A5B289E2C, Value: 242010020, Initial Address: 7A9A6CD2C0, Index: 375
-Found value within range at address: 7A5B289D3C, Value: 242011012, Initial Address: 7A9A6CD4D0, Index: 376
-Found value within range at address: 7A5B289CEC, Value: 242010008, Initial Address: 7A9A6CD580, Index: 377
-Found value within range at address: 7A5B28AA5C, Value: 242010013, Initial Address: 7A9A6CD630, Index: 378
-Found value within range at address: 7A5B2892EC, Value: 242000003, Initial Address: 7A9A6CDDC0, Index: 379
-Found value within range at address: 7A5B28A50C, Value: 242012011, Initial Address: 7A9A6CDF20, Index: 380
-Found value within range at address: 7A5B28A23C, Value: 242012021, Initial Address: 7A9A6CDFD0, Index: 381
-Found value within range at address: 7A5B28A19C, Value: 242010016, Initial Address: 7A9A6CE130, Index: 382
-Found value within range at address: 7A5B28B13C, Value: 242013007, Initial Address: 7A9A6CE1E0, Index: 383
-Found value within range at address: 7A5B28A9BC, Value: 242010011, Initial Address: 7A9A6CE3F0, Index: 384
-Found value within range at address: 7A5B28A3CC, Value: 242010014, Initial Address: 7A9A6CE4A0, Index: 385
-Found value within range at address: 7A5B28A91C, Value: 242011003, Initial Address: 7A9A6CE550, Index: 386
-Found value within range at address: 7A5B28B6DC, Value: 242016008, Initial Address: 7A9A6CE760, Index: 387
-Found value within range at address: 7A5B28A0FC, Value: 242012015, Initial Address: 7A9A6CE810, Index: 388
-Found value within range at address: 7A5B28A96C, Value: 242010022, Initial Address: 7A9A6CE970, Index: 389
-Found value within range at address: 7A5B28A69C, Value: 242010017, Initial Address: 7A9A6CECE0, Index: 390
-Found value within range at address: 7A5B28AD2C, Value: 242014003, Initial Address: 7A9A6CFB50, Index: 391
-Found value within range at address: 7A5B28A8CC, Value: 242012016, Initial Address: 7A9A6CFD60, Index: 392
-Found value within range at address: 7A5B28A5AC, Value: 242012020, Initial Address: 7A9A6D00D0, Index: 393
-Found value within range at address: 7A5B28BA9C, Value: 242015011, Initial Address: 7A9A6D0230, Index: 394
-Found value within range at address: 7A5B28AE6C, Value: 242013004, Initial Address: 7A9A6D0FF0, Index: 395
-Found value within range at address: 7A5B28A5FC, Value: 242011014, Initial Address: 7A9A6D12B0, Index: 396
-Found value within range at address: 7A5B28B90C, Value: 242013008, Initial Address: 7A9A6D1A40, Index: 397
-Found value within range at address: 7A5B28A32C, Value: 242011010, Initial Address: 7A9A6D2EE0, Index: 398
-Found value within range at address: 7A5B28A46C, Value: 242012013, Initial Address: 7A9A6D30F0, Index: 399
-Found value within range at address: 7A5B28B4AC, Value: 242014012, Initial Address: 7A9A6D3300, Index: 400
-Found value within range at address: 7A5B289E7C, Value: 242011005, Initial Address: 7A9A6D3BF0, Index: 401
-Found value within range at address: 7A5B2895BC, Value: 242000001, Initial Address: 7A9A6D3CA0, Index: 402
-Found value within range at address: 7A5B288CFC, Value: 242000002, Initial Address: 7A9A6D4010, Index: 403
-Found value within range at address: 7A5B28A2DC, Value: 242011006, Initial Address: 7A9A6D4590, Index: 404
-Found value within range at address: 7A5B28CADC, Value: 242020704, Initial Address: 7A9A6D4BC0, Index: 405
-Found value within range at address: 7A5B28AF0C, Value: 242012022, Initial Address: 7A9A6D4C70, Index: 406
-Found value within range at address: 7A5B28F1EC, Value: 242030402, Initial Address: 7A9A6D5DA0, Index: 407
-Found value within range at address: 7A5B289DDC, Value: 242011013, Initial Address: 7A9A6DE880, Index: 408
-Found value within range at address: 7A5B28A41C, Value: 242010009, Initial Address: 7A9A6DF2D0, Index: 409
-Found value within range at address: 7A5B28BA4C, Value: 242015001, Initial Address: 7A9A6DF4E0, Index: 410
-Found value within range at address: 7A5B28FB9C, Value: 242030401, Initial Address: 7A9A6EBB90, Index: 411
-Found value within range at address: 7A5B28FAFC, Value: 242030400, Initial Address: 7A9A7155C0, Index: 412
+Found value within range at address: 779D9C0B4C, Value: 242030410, Initial Address: 77DDA38340, Index: 1
+Found value within range at address: 779D9BF6FC, Value: 242030322, Initial Address: 77DDA6FC30, Index: 2
+Found value within range at address: 779D9BA79C, Value: 242011004, Initial Address: 77DDA715A0, Index: 3
+Found value within range at address: 779D9BEA7C, Value: 242030134, Initial Address: 77DDA72360, Index: 4
+Found value within range at address: 779D9BAABC, Value: 242011002, Initial Address: 77DDA76AE0, Index: 5
+Found value within range at address: 779D9BB0AC, Value: 242013004, Initial Address: 77DDA77C10, Index: 6
+Found value within range at address: 779D9BA6FC, Value: 242010010, Initial Address: 77DDA782F0, Index: 7
+Found value within range at address: 779D9BC72C, Value: 242020601, Initial Address: 77DDA78500, Index: 8
+Found value within range at address: 779D9BA01C, Value: 242010023, Initial Address: 77DDA785B0, Index: 9
+Found value within range at address: 779D9BB00C, Value: 242012001, Initial Address: 77DDA790B0, Index: 10
+Found value within range at address: 779D9BA65C, Value: 242010003, Initial Address: 77DDA79DC0, Index: 11
+Found value within range at address: 779D9BAB0C, Value: 242010018, Initial Address: 77DDA79FD0, Index: 12
+Found value within range at address: 779D9BA51C, Value: 242011007, Initial Address: 77DDA7A760, Index: 13
+Found value within range at address: 779D9B9EDC, Value: 242000001, Initial Address: 77DDA7A970, Index: 14
+Found value within range at address: 779D9BA97C, Value: 242010006, Initial Address: 77DDA7AAD0, Index: 15
+Found value within range at address: 779D9BB2DC, Value: 242014005, Initial Address: 77DDA7AB80, Index: 16
+Found value within range at address: 779D9BA47C, Value: 242010008, Initial Address: 77DDA7AC30, Index: 17
+Found value within range at address: 779D9C0D7C, Value: 242030612, Initial Address: 77DDA7ACE0, Index: 18
+Found value within range at address: 779D9BA7EC, Value: 242011011, Initial Address: 77DDA7AEF0, Index: 19
+Found value within range at address: 779D9B9B6C, Value: 242011009, Initial Address: 77DDA7AFA0, Index: 20
+Found value within range at address: 779D9BA74C, Value: 242010021, Initial Address: 77DDA7B100, Index: 21
+Found value within range at address: 779D9B9F2C, Value: 242010022, Initial Address: 77DDA7B3C0, Index: 22
+Found value within range at address: 779D9BAF1C, Value: 242014008, Initial Address: 77DDA7B470, Index: 23
+Found value within range at address: 779D9BAFBC, Value: 242014012, Initial Address: 77DDA7B520, Index: 24
+Found value within range at address: 779D9BA24C, Value: 242010024, Initial Address: 77DDA7B5D0, Index: 25
+Found value within range at address: 779D9BE11C, Value: 242030200, Initial Address: 77DDA7B730, Index: 26
+Found value within range at address: 779D9B9C0C, Value: 242011005, Initial Address: 77DDA7B890, Index: 27
+Found value within range at address: 779D9BAA6C, Value: 242000002, Initial Address: 77DDA7B940, Index: 28
+Found value within range at address: 779D9BA1FC, Value: 242010015, Initial Address: 77DDA7B9F0, Index: 29
+Found value within range at address: 779D9B9F7C, Value: 242010005, Initial Address: 77DDA7BC00, Index: 30
+Found value within range at address: 779D9B9D9C, Value: 242011003, Initial Address: 77DDA7BCB0, Index: 31
+Found value within range at address: 779D9BAB5C, Value: 242012011, Initial Address: 77DDA7BE10, Index: 32
+Found value within range at address: 779D9BABAC, Value: 242012012, Initial Address: 77DDA7C0D0, Index: 33
+Found value within range at address: 779D9BA60C, Value: 242010025, Initial Address: 77DDA7C2E0, Index: 34
+Found value within range at address: 779D9BA92C, Value: 242010007, Initial Address: 77DDA7C390, Index: 35
+Found value within range at address: 779D9B9C5C, Value: 242010001, Initial Address: 77DDA7C4F0, Index: 36
+Found value within range at address: 779D9BA88C, Value: 242010026, Initial Address: 77DDA7C5A0, Index: 37
+Found value within range at address: 779D9B9CAC, Value: 242010009, Initial Address: 77DDA7C650, Index: 38
+Found value within range at address: 779D9BA5BC, Value: 242010002, Initial Address: 77DDA7C860, Index: 39
+Found value within range at address: 779D9BA56C, Value: 242010004, Initial Address: 77DDA7C910, Index: 40
+Found value within range at address: 779D9BA4CC, Value: 242011010, Initial Address: 77DDA7CA70, Index: 41
+Found value within range at address: 779D9BA6AC, Value: 242010016, Initial Address: 77DDA7CB20, Index: 42
+Found value within range at address: 779D9BD08C, Value: 242020700, Initial Address: 77DDA7CC80, Index: 43
+Found value within range at address: 779D9BAE2C, Value: 242012022, Initial Address: 77DDA7CDE0, Index: 44
+Found value within range at address: 779D9B9E8C, Value: 242010020, Initial Address: 77DDA7CF40, Index: 45
+Found value within range at address: 779D9BB87C, Value: 242012014, Initial Address: 77DDA7CFF0, Index: 46
+Found value within range at address: 779D9BB96C, Value: 242014009, Initial Address: 77DDA7D0A0, Index: 47
+Found value within range at address: 779D9BA15C, Value: 242010027, Initial Address: 77DDA7D150, Index: 48
+Found value within range at address: 779D9BB3CC, Value: 242012024, Initial Address: 77DDA7D200, Index: 49
+Found value within range at address: 779D9BADDC, Value: 242014010, Initial Address: 77DDA7D2B0, Index: 50
+Found value within range at address: 779D9BBB4C, Value: 242011015, Initial Address: 77DDA7D360, Index: 51
+Found value within range at address: 779D9BAD3C, Value: 242015016, Initial Address: 77DDA7D410, Index: 52
+Found value within range at address: 779D9BD03C, Value: 242030027, Initial Address: 77DDA7D570, Index: 53
+Found value within range at address: 779D9BB1EC, Value: 242014006, Initial Address: 77DDA7D620, Index: 54
+Found value within range at address: 779D9BBD2C, Value: 242019003, Initial Address: 77DDA7D6D0, Index: 55
+Found value within range at address: 779D9BC1DC, Value: 242020011, Initial Address: 77DDA7D780, Index: 56
+Found value within range at address: 779D9BBA5C, Value: 242012015, Initial Address: 77DDA7D8E0, Index: 57
+Found value within range at address: 779D9BA33C, Value: 242010000, Initial Address: 77DDA7DA40, Index: 58
+Found value within range at address: 779D9BA10C, Value: 242011012, Initial Address: 77DDA7DAF0, Index: 59
+Found value within range at address: 779D9BD35C, Value: 242030011, Initial Address: 77DDA7DBA0, Index: 60
+Found value within range at address: 779D9BB0FC, Value: 242015017, Initial Address: 77DDA7DC50, Index: 61
+Found value within range at address: 779D9BBA0C, Value: 242011014, Initial Address: 77DDA7DD00, Index: 62
+Found value within range at address: 779D9B9CFC, Value: 242010017, Initial Address: 77DDA7DDB0, Index: 63
+Found value within range at address: 779D9BA29C, Value: 242011008, Initial Address: 77DDA7DE60, Index: 64
+Found value within range at address: 779D9BAECC, Value: 242012021, Initial Address: 77DDA7DF10, Index: 65
+Found value within range at address: 779D9BB19C, Value: 242011016, Initial Address: 77DDA7DFC0, Index: 66
+Found value within range at address: 779D9BA3DC, Value: 242010013, Initial Address: 77DDA7E070, Index: 67
+Found value within range at address: 779D9BB78C, Value: 242015012, Initial Address: 77DDA7E120, Index: 68
+Found value within range at address: 779D9B9D4C, Value: 242011001, Initial Address: 77DDA7E1D0, Index: 69
+Found value within range at address: 779D9BB50C, Value: 242014007, Initial Address: 77DDA7E280, Index: 70
+Found value within range at address: 779D9BB05C, Value: 242012023, Initial Address: 77DDA7E330, Index: 71
+Found value within range at address: 779D9BB32C, Value: 242012018, Initial Address: 77DDA7E3E0, Index: 72
+Found value within range at address: 779D9BB28C, Value: 242015015, Initial Address: 77DDA7E490, Index: 73
+Found value within range at address: 779D9BB7DC, Value: 242012017, Initial Address: 77DDA7E540, Index: 74
+Found value within range at address: 779D9BB23C, Value: 242014002, Initial Address: 77DDA7E5F0, Index: 75
+Found value within range at address: 779D9BB5FC, Value: 242013005, Initial Address: 77DDA7E6A0, Index: 76
+Found value within range at address: 779D9BC86C, Value: 242020103, Initial Address: 77DDA7E750, Index: 77
+Found value within range at address: 779D9BB73C, Value: 242012020, Initial Address: 77DDA7E800, Index: 78
+Found value within range at address: 779D9BB8CC, Value: 242013003, Initial Address: 77DDA7E8B0, Index: 79
+Found value within range at address: 779D9BCE0C, Value: 242030042, Initial Address: 77DDA7EA10, Index: 80
+Found value within range at address: 779D9BCA9C, Value: 242017005, Initial Address: 77DDA7EAC0, Index: 81
+Found value within range at address: 779D9BB91C, Value: 242012016, Initial Address: 77DDA7EB70, Index: 82
+Found value within range at address: 779D9B9FCC, Value: 242011013, Initial Address: 77DDA7EC20, Index: 83
+Found value within range at address: 779D9BB46C, Value: 242015014, Initial Address: 77DDA7ECD0, Index: 84
+Found value within range at address: 779D9BA8DC, Value: 242000003, Initial Address: 77DDA7ED80, Index: 85
+Found value within range at address: 779D9BB5AC, Value: 242014004, Initial Address: 77DDA7EE30, Index: 86
+Found value within range at address: 779D9C0D2C, Value: 242030610, Initial Address: 77DDA7EEE0, Index: 87
+Found value within range at address: 779D9BB9BC, Value: 242015011, Initial Address: 77DDA7EF90, Index: 88
+Found value within range at address: 779D9BCC2C, Value: 242020702, Initial Address: 77DDA7F0F0, Index: 89
+Found value within range at address: 779D9BF65C, Value: 242030212, Initial Address: 77DDA7F1A0, Index: 90
+Found value within range at address: 779D9BAD8C, Value: 242016003, Initial Address: 77DDA7F250, Index: 91
+Found value within range at address: 779D9BB41C, Value: 242016002, Initial Address: 77DDA7F300, Index: 92
+Found value within range at address: 779D9BC5EC, Value: 242020006, Initial Address: 77DDA7F3B0, Index: 93
+Found value within range at address: 779D9BC31C, Value: 242019002, Initial Address: 77DDA7F460, Index: 94
+Found value within range at address: 779D9BC0EC, Value: 242020004, Initial Address: 77DDA7F510, Index: 95
+Found value within range at address: 779D9BA42C, Value: 242010014, Initial Address: 77DDA7F5C0, Index: 96
+Found value within range at address: 779D9BB6EC, Value: 242014003, Initial Address: 77DDA7F670, Index: 97
+Found value within range at address: 779D9BF06C, Value: 242030309, Initial Address: 77DDA7F720, Index: 98
+Found value within range at address: 779D9BE61C, Value: 242030102, Initial Address: 77DDA7F7D0, Index: 99
+Found value within range at address: 779D9BCA4C, Value: 242020102, Initial Address: 77DDA7F930, Index: 100
+Found value within range at address: 779D9BC04C, Value: 242020002, Initial Address: 77DDA7F9E0, Index: 101
+Found value within range at address: 779D9BB14C, Value: 242016004, Initial Address: 77DDA7FA90, Index: 102
+Found value within range at address: 779D9BF51C, Value: 242030219, Initial Address: 77DDA7FB40, Index: 103
+Found value within range at address: 779D9BC77C, Value: 242017002, Initial Address: 77DDA7FBF0, Index: 104
+Found value within range at address: 779D9BA9CC, Value: 242011006, Initial Address: 77DDA7FD50, Index: 105
+Found value within range at address: 779D9BC09C, Value: 242020001, Initial Address: 77DDA7FE00, Index: 106
+Found value within range at address: 779D9BA83C, Value: 242010012, Initial Address: 77DDA7FEB0, Index: 107
+Found value within range at address: 779D9BCB3C, Value: 242017006, Initial Address: 77DDA7FF60, Index: 108
+Found value within range at address: 779D9BBCDC, Value: 242017003, Initial Address: 77DDA80010, Index: 109
+Found value within range at address: 779D9BAC9C, Value: 242013001, Initial Address: 77DDA800C0, Index: 110
+Found value within range at address: 779D9BBE1C, Value: 242017007, Initial Address: 77DDA80170, Index: 111
+Found value within range at address: 779D9BBDCC, Value: 242017004, Initial Address: 77DDA80220, Index: 112
+Found value within range at address: 779D9BBF0C, Value: 242020203, Initial Address: 77DDA802D0, Index: 113
+Found value within range at address: 779D9BB82C, Value: 242014001, Initial Address: 77DDA80380, Index: 114
+Found value within range at address: 779D9BB4BC, Value: 242015020, Initial Address: 77DDA80430, Index: 115
+Found value within range at address: 779D9BD44C, Value: 242030001, Initial Address: 77DDA804E0, Index: 116
+Found value within range at address: 779D9BBC3C, Value: 242020005, Initial Address: 77DDA80590, Index: 117
+Found value within range at address: 779D9BB37C, Value: 242013002, Initial Address: 77DDA80640, Index: 118
+Found value within range at address: 779D9BBAFC, Value: 242013008, Initial Address: 77DDA806F0, Index: 119
+Found value within range at address: 779D9BC40C, Value: 242020008, Initial Address: 77DDA807A0, Index: 120
+Found value within range at address: 779D9BAF6C, Value: 242013006, Initial Address: 77DDA80850, Index: 121
+Found value within range at address: 779D9BBAAC, Value: 242015019, Initial Address: 77DDA80900, Index: 122
+Found value within range at address: 779D9BB64C, Value: 242016001, Initial Address: 77DDA809B0, Index: 123
+Found value within range at address: 779D9BC2CC, Value: 242020500, Initial Address: 77DDA80A60, Index: 124
+Found value within range at address: 779D9BD26C, Value: 242020604, Initial Address: 77DDA80B10, Index: 125
+Found value within range at address: 779D9BC45C, Value: 242019004, Initial Address: 77DDA80C70, Index: 126
+Found value within range at address: 779D9BC54C, Value: 242019001, Initial Address: 77DDA80D20, Index: 127
+Found value within range at address: 779D9BCEFC, Value: 242030019, Initial Address: 77DDA80DD0, Index: 128
+Found value within range at address: 779D9BC6DC, Value: 242020003, Initial Address: 77DDA80E80, Index: 129
+Found value within range at address: 779D9BC9FC, Value: 242020007, Initial Address: 77DDA80F30, Index: 130
+Found value within range at address: 779D9BBC8C, Value: 242019005, Initial Address: 77DDA80FE0, Index: 131
+Found value within range at address: 779D9BC22C, Value: 242020101, Initial Address: 77DDA81090, Index: 132
+Found value within range at address: 779D9BAC4C, Value: 242015001, Initial Address: 77DDA81140, Index: 133
+Found value within range at address: 779D9BC68C, Value: 242016005, Initial Address: 77DDA812A0, Index: 134
+Found value within range at address: 779D9BCB8C, Value: 242017001, Initial Address: 77DDA81350, Index: 135
+Found value within range at address: 779D9BD6CC, Value: 242030039, Initial Address: 77DDA81400, Index: 136
+Found value within range at address: 779D9BCCCC, Value: 242020705, Initial Address: 77DDA814B0, Index: 137
+Found value within range at address: 779D9BD67C, Value: 242020603, Initial Address: 77DDA81560, Index: 138
+Found value within range at address: 779D9BD58C, Value: 242030041, Initial Address: 77DDA81610, Index: 139
+Found value within range at address: 779D9BB69C, Value: 242014011, Initial Address: 77DDA816C0, Index: 140
+Found value within range at address: 779D9BB55C, Value: 242015018, Initial Address: 77DDA81770, Index: 141
+Found value within range at address: 779D9BBBEC, Value: 242020202, Initial Address: 77DDA81820, Index: 142
+Found value within range at address: 779D9BED4C, Value: 242030214, Initial Address: 77DDA818D0, Index: 143
+Found value within range at address: 779D9BD21C, Value: 242030020, Initial Address: 77DDA81980, Index: 144
+Found value within range at address: 779D9BC3BC, Value: 242020104, Initial Address: 77DDA81A30, Index: 145
+Found value within range at address: 779D9BD99C, Value: 242030022, Initial Address: 77DDA81AE0, Index: 146
+Found value within range at address: 779D9BD94C, Value: 242030004, Initial Address: 77DDA81B90, Index: 147
+Found value within range at address: 779D9BCBDC, Value: 242030038, Initial Address: 77DDA81C40, Index: 148
+Found value within range at address: 779D9BCFEC, Value: 242030017, Initial Address: 77DDA81CF0, Index: 149
+Found value within range at address: 779D9BF79C, Value: 242030204, Initial Address: 77DDA81DA0, Index: 150
+Found value within range at address: 779D9BCDBC, Value: 242030018, Initial Address: 77DDA81E50, Index: 151
+Found value within range at address: 779D9C136C, Value: 242030714, Initial Address: 77DDA81F00, Index: 152
+Found value within range at address: 779D9BC8BC, Value: 242020402, Initial Address: 77DDA81FB0, Index: 153
+Found value within range at address: 779D9BD85C, Value: 242030002, Initial Address: 77DDA82060, Index: 154
+Found value within range at address: 779D9BDA8C, Value: 242030040, Initial Address: 77DDA82110, Index: 155
+Found value within range at address: 779D9BC59C, Value: 242020302, Initial Address: 77DDA821C0, Index: 156
+Found value within range at address: 779D9BDBCC, Value: 242030003, Initial Address: 77DDA82320, Index: 157
+Found value within range at address: 779D9BEFCC, Value: 242030307, Initial Address: 77DDA823D0, Index: 158
+Found value within range at address: 779D9BABFC, Value: 242013007, Initial Address: 77DDA82480, Index: 159
+Found value within range at address: 779D9BACEC, Value: 242015013, Initial Address: 77DDA82530, Index: 160
+Found value within range at address: 779D9BBD7C, Value: 242020503, Initial Address: 77DDA825E0, Index: 161
+Found value within range at address: 779D9BD7BC, Value: 242030021, Initial Address: 77DDA82690, Index: 162
+Found value within range at address: 779D9BD17C, Value: 242030000, Initial Address: 77DDA82740, Index: 163
+Found value within range at address: 779D9BC18C, Value: 242020401, Initial Address: 77DDA828A0, Index: 164
+Found value within range at address: 779D9BE25C, Value: 242030047, Initial Address: 77DDA82950, Index: 165
+Found value within range at address: 779D9BE39C, Value: 242030046, Initial Address: 77DDA82A00, Index: 166
+Found value within range at address: 779D9BD71C, Value: 242020704, Initial Address: 77DDA82AB0, Index: 167
+Found value within range at address: 779D9BA38C, Value: 242010011, Initial Address: 77DDA82B60, Index: 168
+Found value within range at address: 779D9BBB9C, Value: 242020010, Initial Address: 77DDA82C10, Index: 169
+Found value within range at address: 779D9BD9EC, Value: 242020602, Initial Address: 77DDA82CC0, Index: 170
+Found value within range at address: 779D9C1BDC, Value: 242030611, Initial Address: 77DDA82D70, Index: 171
+Found value within range at address: 779D9BD53C, Value: 242030016, Initial Address: 77DDA82E20, Index: 172
+Found value within range at address: 779D9BC4FC, Value: 242020301, Initial Address: 77DDA82ED0, Index: 173
+Found value within range at address: 779D9BBFFC, Value: 242020012, Initial Address: 77DDA82F80, Index: 174
+Found value within range at address: 779D9BC7CC, Value: 242020600, Initial Address: 77DDA83030, Index: 175
+Found value within range at address: 779D9BC81C, Value: 242016006, Initial Address: 77DDA830E0, Index: 176
+Found value within range at address: 779D9BC63C, Value: 242020300, Initial Address: 77DDA83190, Index: 177
+Found value within range at address: 779D9BCF4C, Value: 242020703, Initial Address: 77DDA83240, Index: 178
+Found value within range at address: 779D9BBE6C, Value: 242020200, Initial Address: 77DDA832F0, Index: 179
+Found value within range at address: 779D9BD62C, Value: 242030033, Initial Address: 77DDA833A0, Index: 180
+Found value within range at address: 779D9BC36C, Value: 242020100, Initial Address: 77DDA83450, Index: 181
+Found value within range at address: 779D9BDADC, Value: 242030025, Initial Address: 77DDA83500, Index: 182
+Found value within range at address: 779D9BC4AC, Value: 242016008, Initial Address: 77DDA83660, Index: 183
+Found value within range at address: 779D9BD3AC, Value: 242030012, Initial Address: 77DDA83710, Index: 184
+Found value within range at address: 779D9BC13C, Value: 242020009, Initial Address: 77DDA837C0, Index: 185
+Found value within range at address: 779D9BE07C, Value: 242030048, Initial Address: 77DDA83870, Index: 186
+Found value within range at address: 779D9BCEAC, Value: 242030029, Initial Address: 77DDA83920, Index: 187
+Found value within range at address: 779D9BCE5C, Value: 242030028, Initial Address: 77DDA839D0, Index: 188
+Found value within range at address: 779D9BD5DC, Value: 242030010, Initial Address: 77DDA83B30, Index: 189
+Found value within range at address: 779D9BD30C, Value: 242030026, Initial Address: 77DDA83BE0, Index: 190
+Found value within range at address: 779D9BD49C, Value: 242030013, Initial Address: 77DDA83C90, Index: 191
+Found value within range at address: 779D9BD12C, Value: 242030024, Initial Address: 77DDA83D40, Index: 192
+Found value within range at address: 779D9BDFDC, Value: 242030101, Initial Address: 77DDA83DF0, Index: 193
+Found value within range at address: 779D9BDE9C, Value: 242030043, Initial Address: 77DDA83EA0, Index: 194
+Found value within range at address: 779D9BF97C, Value: 242030217, Initial Address: 77DDA83F50, Index: 195
+Found value within range at address: 779D9BBEBC, Value: 242020501, Initial Address: 77DDA84000, Index: 196
+Found value within range at address: 779D9BC9AC, Value: 242020502, Initial Address: 77DDA840B0, Index: 197
+Found value within range at address: 779D9BDD5C, Value: 242030052, Initial Address: 77DDA84160, Index: 198
+Found value within range at address: 779D9BEACC, Value: 242030125, Initial Address: 77DDA84210, Index: 199
+Found value within range at address: 779D9BDC1C, Value: 242030051, Initial Address: 77DDA842C0, Index: 200
+Found value within range at address: 779D9BE70C, Value: 242030053, Initial Address: 77DDA84370, Index: 201
+Found value within range at address: 779D9BCC7C, Value: 242030015, Initial Address: 77DDA84420, Index: 202
+Found value within range at address: 779D9BAA1C, Value: 242010019, Initial Address: 77DDA844D0, Index: 203
+Found value within range at address: 779D9BE5CC, Value: 242030044, Initial Address: 77DDA84580, Index: 204
+Found value within range at address: 779D9BE52C, Value: 242030122, Initial Address: 77DDA84630, Index: 205
+Found value within range at address: 779D9BD1CC, Value: 242030031, Initial Address: 77DDA846E0, Index: 206
+Found value within range at address: 779D9BE8EC, Value: 242030045, Initial Address: 77DDA84790, Index: 207
+Found value within range at address: 779D9C07DC, Value: 242030521, Initial Address: 77DDA84840, Index: 208
+Found value within range at address: 779D9BE2AC, Value: 242030124, Initial Address: 77DDA848F0, Index: 209
+Found value within range at address: 779D9BDA3C, Value: 242030030, Initial Address: 77DDA849A0, Index: 210
+Found value within range at address: 779D9BDDFC, Value: 242030107, Initial Address: 77DDA84A50, Index: 211
+Found value within range at address: 779D9BEBBC, Value: 242030120, Initial Address: 77DDA84B00, Index: 212
+Found value within range at address: 779D9BEB1C, Value: 242030136, Initial Address: 77DDA84BB0, Index: 213
+Found value within range at address: 779D9BEB6C, Value: 242030106, Initial Address: 77DDA84C60, Index: 214
+Found value within range at address: 779D9BD80C, Value: 242030023, Initial Address: 77DDA84D10, Index: 215
+Found value within range at address: 779D9C091C, Value: 242030403, Initial Address: 77DDA84DC0, Index: 216
+Found value within range at address: 779D9BCD1C, Value: 242030035, Initial Address: 77DDA84E70, Index: 217
+Found value within range at address: 779D9BD0DC, Value: 242030009, Initial Address: 77DDA84F20, Index: 218
+Found value within range at address: 779D9BF0BC, Value: 242030315, Initial Address: 77DDA84FD0, Index: 219
+Found value within range at address: 779D9BE1BC, Value: 242030104, Initial Address: 77DDA85080, Index: 220
+Found value within range at address: 779D9BDCBC, Value: 242030118, Initial Address: 77DDA85130, Index: 221
+Found value within range at address: 779D9BD8AC, Value: 242030014, Initial Address: 77DDA851E0, Index: 222
+Found value within range at address: 779D9BE93C, Value: 242030103, Initial Address: 77DDA85290, Index: 223
+Found value within range at address: 779D9BDF8C, Value: 242030127, Initial Address: 77DDA853F0, Index: 224
+Found value within range at address: 779D9BE16C, Value: 242030116, Initial Address: 77DDA854A0, Index: 225
+Found value within range at address: 779D9BCAEC, Value: 242020303, Initial Address: 77DDA85550, Index: 226
+Found value within range at address: 779D9BF7EC, Value: 242030211, Initial Address: 77DDA85600, Index: 227
+Found value within range at address: 779D9BFC4C, Value: 242030210, Initial Address: 77DDA856B0, Index: 228
+Found value within range at address: 779D9BEA2C, Value: 242030050, Initial Address: 77DDA85760, Index: 229
+Found value within range at address: 779D9BE98C, Value: 242030117, Initial Address: 77DDA85810, Index: 230
+Found value within range at address: 779D9BE2FC, Value: 242030109, Initial Address: 77DDA85970, Index: 231
+Found value within range at address: 779D9BE0CC, Value: 242030130, Initial Address: 77DDA85A20, Index: 232
+Found value within range at address: 779D9BE9DC, Value: 242030201, Initial Address: 77DDA85AD0, Index: 233
+Found value within range at address: 779D9BFE2C, Value: 242030425, Initial Address: 77DDA85B80, Index: 234
+Found value within range at address: 779D9BDF3C, Value: 242030112, Initial Address: 77DDA85C30, Index: 235
+Found value within range at address: 779D9BE57C, Value: 242030202, Initial Address: 77DDA85CE0, Index: 236
+Found value within range at address: 779D9BDE4C, Value: 242030121, Initial Address: 77DDA85D90, Index: 237
+Found value within range at address: 779D9BF83C, Value: 242030209, Initial Address: 77DDA85E40, Index: 238
+Found value within range at address: 779D9BF24C, Value: 242030206, Initial Address: 77DDA85FA0, Index: 239
+Found value within range at address: 779D9BF1AC, Value: 242030308, Initial Address: 77DDA86050, Index: 240
+Found value within range at address: 779D9BD76C, Value: 242030032, Initial Address: 77DDA86100, Index: 241
+Found value within range at address: 779D9BF9CC, Value: 242030220, Initial Address: 77DDA861B0, Index: 242
+Found value within range at address: 779D9BFB5C, Value: 242030205, Initial Address: 77DDA86260, Index: 243
+Found value within range at address: 779D9BE6BC, Value: 242030049, Initial Address: 77DDA86310, Index: 244
+Found value within range at address: 779D9BF15C, Value: 242030225, Initial Address: 77DDA863C0, Index: 245
+Found value within range at address: 779D9BF4CC, Value: 242030207, Initial Address: 77DDA86470, Index: 246
+Found value within range at address: 779D9BE66C, Value: 242030111, Initial Address: 77DDA865D0, Index: 247
+Found value within range at address: 779D9BF88C, Value: 242030300, Initial Address: 77DDA86680, Index: 248
+Found value within range at address: 779D9BEC0C, Value: 242030128, Initial Address: 77DDA86730, Index: 249
+Found value within range at address: 779D9BE34C, Value: 242030100, Initial Address: 77DDA867E0, Index: 250
+Found value within range at address: 779D9BE43C, Value: 242030113, Initial Address: 77DDA86890, Index: 251
+Found value within range at address: 779D9BC27C, Value: 242020403, Initial Address: 77DDA86940, Index: 252
+Found value within range at address: 779D9BD8FC, Value: 242030037, Initial Address: 77DDA869F0, Index: 253
+Found value within range at address: 779D9BE7FC, Value: 242030123, Initial Address: 77DDA86AA0, Index: 254
+Found value within range at address: 779D9C03CC, Value: 242030418, Initial Address: 77DDA86B50, Index: 255
+Found value within range at address: 779D9BE7AC, Value: 242030126, Initial Address: 77DDA86C00, Index: 256
+Found value within range at address: 779D9BE20C, Value: 242030129, Initial Address: 77DDA86CB0, Index: 257
+Found value within range at address: 779D9BCD6C, Value: 242030007, Initial Address: 77DDA86D60, Index: 258
+Found value within range at address: 779D9BF1FC, Value: 242030216, Initial Address: 77DDA86E10, Index: 259
+Found value within range at address: 779D9BDB2C, Value: 242030034, Initial Address: 77DDA86EC0, Index: 260
+Found value within range at address: 779D9C014C, Value: 242030325, Initial Address: 77DDA86F70, Index: 261
+Found value within range at address: 779D9BE89C, Value: 242030114, Initial Address: 77DDA87020, Index: 262
+Found value within range at address: 779D9BBFAC, Value: 242020304, Initial Address: 77DDA870D0, Index: 263
+Found value within range at address: 779D9BE4DC, Value: 242030132, Initial Address: 77DDA87180, Index: 264
+Found value within range at address: 779D9BFBAC, Value: 242030218, Initial Address: 77DDA87230, Index: 265
+Found value within range at address: 779D9BE84C, Value: 242030133, Initial Address: 77DDA872E0, Index: 266
+Found value within range at address: 779D9BAE7C, Value: 242012013, Initial Address: 77DDA87440, Index: 267
+Found value within range at address: 779D9BF47C, Value: 242030221, Initial Address: 77DDA874F0, Index: 268
+Found value within range at address: 779D9BF60C, Value: 242030222, Initial Address: 77DDA875A0, Index: 269
+Found value within range at address: 779D9BFF6C, Value: 242030413, Initial Address: 77DDA87650, Index: 270
+Found value within range at address: 779D9BFA6C, Value: 242030318, Initial Address: 77DDA877B0, Index: 271
+Found value within range at address: 779D9BDEEC, Value: 242030108, Initial Address: 77DDA87860, Index: 272
+Found value within range at address: 779D9BECFC, Value: 242030320, Initial Address: 77DDA87910, Index: 273
+Found value within range at address: 779D9BDB7C, Value: 242030006, Initial Address: 77DDA879C0, Index: 274
+Found value within range at address: 779D9BEC5C, Value: 242030302, Initial Address: 77DDA87A70, Index: 275
+Found value within range at address: 779D9BED9C, Value: 242030317, Initial Address: 77DDA87B20, Index: 276
+Found value within range at address: 779D9BEF2C, Value: 242030224, Initial Address: 77DDA87BD0, Index: 277
+Found value within range at address: 779D9BF92C, Value: 242030230, Initial Address: 77DDA87C80, Index: 278
+Found value within range at address: 779D9C0AFC, Value: 242030513, Initial Address: 77DDA87D30, Index: 279
+Found value within range at address: 779D9BF56C, Value: 242030312, Initial Address: 77DDA87DE0, Index: 280
+Found value within range at address: 779D9BF2EC, Value: 242030324, Initial Address: 77DDA87E90, Index: 281
+Found value within range at address: 779D9BFC9C, Value: 242030407, Initial Address: 77DDA87F40, Index: 282
+Found value within range at address: 779D9BEE3C, Value: 242030232, Initial Address: 77DDA87FF0, Index: 283
+Found value within range at address: 779D9BE75C, Value: 242030115, Initial Address: 77DDA880A0, Index: 284
+Found value within range at address: 779D9C073C, Value: 242030401, Initial Address: 77DDA88150, Index: 285
+Found value within range at address: 779D9BF10C, Value: 242030223, Initial Address: 77DDA88200, Index: 286
+Found value within range at address: 779D9BE02C, Value: 242030131, Initial Address: 77DDA882B0, Index: 287
+Found value within range at address: 779D9BF33C, Value: 242030311, Initial Address: 77DDA88360, Index: 288
+Found value within range at address: 779D9BF42C, Value: 242030310, Initial Address: 77DDA88410, Index: 289
+Found value within range at address: 779D9BFABC, Value: 242030313, Initial Address: 77DDA88570, Index: 290
+Found value within range at address: 779D9C005C, Value: 242030405, Initial Address: 77DDA88620, Index: 291
+Found value within range at address: 779D9BEE8C, Value: 242030228, Initial Address: 77DDA886D0, Index: 292
+Found value within range at address: 779D9BECAC, Value: 242030319, Initial Address: 77DDA88780, Index: 293
+Found value within range at address: 779D9C032C, Value: 242030327, Initial Address: 77DDA88830, Index: 294
+Found value within range at address: 779D9C08CC, Value: 242030422, Initial Address: 77DDA888E0, Index: 295
+Found value within range at address: 779D9BBF5C, Value: 242020201, Initial Address: 77DDA88990, Index: 296
+Found value within range at address: 779D9BF01C, Value: 242030321, Initial Address: 77DDA88A40, Index: 297
+Found value within range at address: 779D9C041C, Value: 242030408, Initial Address: 77DDA88AF0, Index: 298
+Found value within range at address: 779D9BFB0C, Value: 242030301, Initial Address: 77DDA88BA0, Index: 299
+Found value within range at address: 779D9BF74C, Value: 242030304, Initial Address: 77DDA88C50, Index: 300
+Found value within range at address: 779D9BEEDC, Value: 242030215, Initial Address: 77DDA88D00, Index: 301
+Found value within range at address: 779D9BEDEC, Value: 242030316, Initial Address: 77DDA88DB0, Index: 302
+Found value within range at address: 779D9C028C, Value: 242030409, Initial Address: 77DDA88E60, Index: 303
+Found value within range at address: 779D9C0BEC, Value: 242030412, Initial Address: 77DDA88F10, Index: 304
+Found value within range at address: 779D9BF8DC, Value: 242030231, Initial Address: 77DDA88FC0, Index: 305
+Found value within range at address: 779D9BDC6C, Value: 242030135, Initial Address: 77DDA89120, Index: 306
+Found value within range at address: 779D9BFE7C, Value: 242030326, Initial Address: 77DDA891D0, Index: 307
+Found value within range at address: 779D9BD2BC, Value: 242030008, Initial Address: 77DDA89280, Index: 308
+Found value within range at address: 779D9BF6AC, Value: 242030323, Initial Address: 77DDA89330, Index: 309
+Found value within range at address: 779D9C087C, Value: 242030500, Initial Address: 77DDA893E0, Index: 310
+Found value within range at address: 779D9BEF7C, Value: 242030208, Initial Address: 77DDA89490, Index: 311
+Found value within range at address: 779D9BF5BC, Value: 242030305, Initial Address: 77DDA89540, Index: 312
+Found value within range at address: 779D9C00FC, Value: 242030400, Initial Address: 77DDA895F0, Index: 313
+Found value within range at address: 779D9BFBFC, Value: 242030306, Initial Address: 77DDA896A0, Index: 314
+Found value within range at address: 779D9C082C, Value: 242030424, Initial Address: 77DDA89750, Index: 315
+Found value within range at address: 779D9C14AC, Value: 242030524, Initial Address: 77DDA89800, Index: 316
+Found value within range at address: 779D9BDDAC, Value: 242030203, Initial Address: 77DDA898B0, Index: 317
+Found value within range at address: 779D9C00AC, Value: 242030421, Initial Address: 77DDA89960, Index: 318
+Found value within range at address: 779D9C01EC, Value: 242030423, Initial Address: 77DDA89AC0, Index: 319
+Found value within range at address: 779D9BC90C, Value: 242016007, Initial Address: 77DDA89B70, Index: 320
+Found value within range at address: 779D9BFECC, Value: 242030406, Initial Address: 77DDA89C20, Index: 321
+Found value within range at address: 779D9C0A0C, Value: 242030508, Initial Address: 77DDA89CD0, Index: 322
+Found value within range at address: 779D9BFA1C, Value: 242030226, Initial Address: 77DDA89D80, Index: 323
+Found value within range at address: 779D9C04BC, Value: 242030510, Initial Address: 77DDA89E30, Index: 324
+Found value within range at address: 779D9C019C, Value: 242030505, Initial Address: 77DDA89EE0, Index: 325
+Found value within range at address: 779D9C096C, Value: 242030402, Initial Address: 77DDA89F90, Index: 326
+Found value within range at address: 779D9C140C, Value: 242030527, Initial Address: 77DDA8A040, Index: 327
+Found value within range at address: 779D9C0AAC, Value: 242030416, Initial Address: 77DDA8A0F0, Index: 328
+Found value within range at address: 779D9C1C7C, Value: 242030606, Initial Address: 77DDA8A1A0, Index: 329
+Found value within range at address: 779D9C109C, Value: 242030615, Initial Address: 77DDA8A250, Index: 330
+Found value within range at address: 779D9C050C, Value: 242030411, Initial Address: 77DDA8A300, Index: 331
+Found value within range at address: 779D9C037C, Value: 242030404, Initial Address: 77DDA8A460, Index: 332
+Found value within range at address: 779D9C163C, Value: 242030526, Initial Address: 77DDA8A510, Index: 333
+Found value within range at address: 779D9C0C8C, Value: 242030519, Initial Address: 77DDA8A5C0, Index: 334
+Found value within range at address: 779D9C0E6C, Value: 242030522, Initial Address: 77DDA8A670, Index: 335
+Found value within range at address: 779D9BF38C, Value: 242030303, Initial Address: 77DDA8A720, Index: 336
+Found value within range at address: 779D9C05AC, Value: 242030516, Initial Address: 77DDA8A7D0, Index: 337
+Found value within range at address: 779D9C118C, Value: 242030525, Initial Address: 77DDA8A930, Index: 338
+Found value within range at address: 779D9C023C, Value: 242030419, Initial Address: 77DDA8A9E0, Index: 339
+Found value within range at address: 779D9C145C, Value: 242030614, Initial Address: 77DDA8AA90, Index: 340
+Found value within range at address: 779D9C069C, Value: 242030426, Initial Address: 77DDA8AB40, Index: 341
+Found value within range at address: 779D9C15EC, Value: 242030617, Initial Address: 77DDA8ABF0, Index: 342
+Found value within range at address: 779D9C09BC, Value: 242030503, Initial Address: 77DDA8ACA0, Index: 343
+Found value within range at address: 779D9C000C, Value: 242030518, Initial Address: 77DDA8AD50, Index: 344
+Found value within range at address: 779D9BFDDC, Value: 242030511, Initial Address: 77DDA8AE00, Index: 345
+Found value within range at address: 779D9C046C, Value: 242030504, Initial Address: 77DDA8AEB0, Index: 346
+Found value within range at address: 779D9C18BC, Value: 242030601, Initial Address: 77DDA8AF60, Index: 347
+Found value within range at address: 779D9C1A4C, Value: 242030604, Initial Address: 77DDA8B010, Index: 348
+Found value within range at address: 779D9C0CDC, Value: 242030708, Initial Address: 77DDA8B0C0, Index: 349
+Found value within range at address: 779D9C055C, Value: 242030512, Initial Address: 77DDA8B170, Index: 350
+Found value within range at address: 779D9C0EBC, Value: 242030602, Initial Address: 77DDA8B220, Index: 351
+Found value within range at address: 779D9C0A5C, Value: 242030414, Initial Address: 77DDA8B2D0, Index: 352
+Found value within range at address: 779D9BFF1C, Value: 242030506, Initial Address: 77DDA8B380, Index: 353
+Found value within range at address: 779D9C0B9C, Value: 242030501, Initial Address: 77DDA8B430, Index: 354
+Found value within range at address: 779D9BC95C, Value: 242020400, Initial Address: 77DDA8B4E0, Index: 355
+Found value within range at address: 779D9C078C, Value: 242030420, Initial Address: 77DDA8B590, Index: 356
+Found value within range at address: 779D9C267C, Value: 242030720, Initial Address: 77DDA8B640, Index: 357
+Found value within range at address: 779D9C12CC, Value: 242030528, Initial Address: 77DDA8B6F0, Index: 358
+Found value within range at address: 779D9C0E1C, Value: 242030705, Initial Address: 77DDA8B900, Index: 359
+Found value within range at address: 779D9C113C, Value: 242030702, Initial Address: 77DDA8B9B0, Index: 360
+Found value within range at address: 779D9C02DC, Value: 242030520, Initial Address: 77DDA8BA60, Index: 361
+Found value within range at address: 779D9C2B2C, Value: 242031501, Initial Address: 77DDA8BB10, Index: 362
+Found value within range at address: 779D9C177C, Value: 242030709, Initial Address: 77DDA8BC70, Index: 363
+Found value within range at address: 779D9C0FFC, Value: 242030613, Initial Address: 77DDA8BDD0, Index: 364
+Found value within range at address: 779D9C159C, Value: 242030607, Initial Address: 77DDA8BE80, Index: 365
+Found value within range at address: 779D9BFD8C, Value: 242030502, Initial Address: 77DDA8BF30, Index: 366
+Found value within range at address: 779D9C122C, Value: 242030701, Initial Address: 77DDA8BFE0, Index: 367
+Found value within range at address: 779D9C0DCC, Value: 242030707, Initial Address: 77DDA8C090, Index: 368
+Found value within range at address: 779D9C10EC, Value: 242030700, Initial Address: 77DDA8C140, Index: 369
+Found value within range at address: 779D9C1CCC, Value: 242030704, Initial Address: 77DDA8C1F0, Index: 370
+Found value within range at address: 779D9C186C, Value: 242030600, Initial Address: 77DDA8C2A0, Index: 371
+Found value within range at address: 779D9C0FAC, Value: 242030712, Initial Address: 77DDA8C350, Index: 372
+Found value within range at address: 779D9C172C, Value: 242030703, Initial Address: 77DDA8C400, Index: 373
+Found value within range at address: 779D9C181C, Value: 242030605, Initial Address: 77DDA8C610, Index: 374
+Found value within range at address: 779D9C0F5C, Value: 242030713, Initial Address: 77DDA8C770, Index: 375
+Found value within range at address: 779D9C26CC, Value: 242030721, Initial Address: 77DDA8C8D0, Index: 376
+Found value within range at address: 779D9BFD3C, Value: 242030417, Initial Address: 77DDA8C980, Index: 377
+Found value within range at address: 779D9C131C, Value: 242030621, Initial Address: 77DDA8CA30, Index: 378
+Found value within range at address: 779D9C0F0C, Value: 242030618, Initial Address: 77DDA8CB90, Index: 379
+Found value within range at address: 779D9C11DC, Value: 242030710, Initial Address: 77DDA8CDA0, Index: 380
+Found value within range at address: 779D9C1B3C, Value: 242030619, Initial Address: 77DDA8CE50, Index: 381
+Found value within range at address: 779D9C127C, Value: 242030718, Initial Address: 77DDA8D060, Index: 382
+Found value within range at address: 779D9BF3DC, Value: 242030314, Initial Address: 77DDA8D110, Index: 383
+Found value within range at address: 779D9C0C3C, Value: 242030509, Initial Address: 77DDA8D1C0, Index: 384
+Found value within range at address: 779D9C16DC, Value: 242030603, Initial Address: 77DDA8D270, Index: 385
+Found value within range at address: 779D9C06EC, Value: 242030515, Initial Address: 77DDA8D320, Index: 386
+Found value within range at address: 779D9C104C, Value: 242030623, Initial Address: 77DDA8D3D0, Index: 387
+Found value within range at address: 779D9C168C, Value: 242030622, Initial Address: 77DDA8D480, Index: 388
+Found value within range at address: 779D9C19FC, Value: 242030716, Initial Address: 77DDA8D530, Index: 389
+Found value within range at address: 779D9C195C, Value: 242030715, Initial Address: 77DDA8D5E0, Index: 390
+Found value within range at address: 779D9C14FC, Value: 242030620, Initial Address: 77DDA8D690, Index: 391
+Found value within range at address: 779D9BE48C, Value: 242030119, Initial Address: 77DDA8D740, Index: 392
+Found value within range at address: 779D9C1AEC, Value: 242030608, Initial Address: 77DDA8D7F0, Index: 393
+Found value within range at address: 779D9C1A9C, Value: 242030529, Initial Address: 77DDA8D8A0, Index: 394
+Found value within range at address: 779D9C1C2C, Value: 242030523, Initial Address: 77DDA8DA00, Index: 395
+Found value within range at address: 779D9C064C, Value: 242030415, Initial Address: 77DDA8DAB0, Index: 396
+Found value within range at address: 779D9C19AC, Value: 242030711, Initial Address: 77DDA8DB60, Index: 397
+Found value within range at address: 779D9C13BC, Value: 242030706, Initial Address: 77DDA8DC10, Index: 398
+Found value within range at address: 779D9C154C, Value: 242030609, Initial Address: 77DDA8DCC0, Index: 399
+Found value within range at address: 779D9C1B8C, Value: 242030616, Initial Address: 77DDA8DD70, Index: 400
+Found value within range at address: 779D9C17CC, Value: 242030719, Initial Address: 77DDA8DE20, Index: 401
+Found value within range at address: 779D9C249C, Value: 242031403, Initial Address: 77DDA8DED0, Index: 402
+Found value within range at address: 779D9C1D6C, Value: 242031402, Initial Address: 77DDA8E0E0, Index: 403
+Found value within range at address: 779D9BFFBC, Value: 242030507, Initial Address: 77DDA8E870, Index: 404
+Found value within range at address: 779D9C05FC, Value: 242030514, Initial Address: 77DDA8F370, Index: 405
+Found value within range at address: 779D9C280C, Value: 242031401, Initial Address: 77DDA8F6E0, Index: 406
+Found value within range at address: 779D9BFCEC, Value: 242030517, Initial Address: 77DDA8F790, Index: 407
+Found value within range at address: 779D9BD4EC, Value: 242020701, Initial Address: 77DDA8F9A0, Index: 408
+Found value within range at address: 779D9C1FEC, Value: 242031404, Initial Address: 77DDA8FE70, Index: 409
+Found value within range at address: 779D9BF29C, Value: 242030213, Initial Address: 77DDA90760, Index: 410
+Found value within range at address: 779D9C190C, Value: 242030717, Initial Address: 77DDA90FA0, Index: 411
+Found value within range at address: 779D9BCF9C, Value: 242030036, Initial Address: 77DDA91EC0, Index: 412
+Found value within range at address: 779D9BDD0C, Value: 242030110, Initial Address: 77DDA93150, Index: 413
+Found value within range at address: 779D9BE3EC, Value: 242030105, Initial Address: 77DDA9F490, Index: 414
+Found value within range at address: 779D9BD3FC, Value: 242030005, Initial Address: 77DDAA43A0, Index: 415
+Word: Aima-Arravones Tome            ||             Index 1 at address 77DDA38340 Value: 118
+Word: Eurydice Tome            ||             Index 2 at address 77DDA6FC30 Value: 100
+Word: Bladesaint Starchart            ||             Index 3 at address 77DDA715A0 Value: 100
+Word: Daikokuten Opus            ||             Index 4 at address 77DDA72360 Value: 109
+Word: Oraculum Starchart            ||             Index 5 at address 77DDA76AE0 Value: 100
+Word: Wolfskin Starchart            ||             Index 6 at address 77DDA77C10 Value: 100
+Word: Drago Mirage Starchart            ||             Index 7 at address 77DDA782F0 Value: 2
+Word: Wu-Shu Tome            ||             Index 8 at address 77DDA78500 Value: 102
+Word: Shashthi Starchart            ||             Index 9 at address 77DDA785B0 Value: 0
+Word: Murasame Starchart            ||             Index 10 at address 77DDA790B0 Value: 102
+Word: Taiyi Zhenren Starchart            ||             Index 11 at address 77DDA79DC0 Value: 100
+Word: Arachne Starchart            ||             Index 12 at address 77DDA79FD0 Value: 0
+Word: Bête Théâtrale Starchart            ||             Index 13 at address 77DDA7A760 Value: 0
+Word: Murmur Script            ||             Index 14 at address 77DDA7A970 Value: 860834198
+Word: Aqua Ruler Starchart            ||             Index 15 at address 77DDA7AAD0 Value: 101
+Word: Dragon Exile Starchart            ||             Index 16 at address 77DDA7AB80 Value: 100
+Word: Oracle Starchart            ||             Index 17 at address 77DDA7AC30 Value: 100
+Word: Maverick Treatise            ||             Index 18 at address 77DDA7ACE0 Value: 108
+Word: Daikokuten Starchart            ||             Index 19 at address 77DDA7AEF0 Value: 0
+Word: Chronoandreios Starchart            ||             Index 20 at address 77DDA7AFA0 Value: 0
+Word: Judgment Starchart            ||             Index 21 at address 77DDA7B100 Value: 255
+Word: Steropes Starchart            ||             Index 22 at address 77DDA7B3C0 Value: 0
+Word: Sakuya-bime Starchart            ||             Index 23 at address 77DDA7B470 Value: 0
+Word: Proserpina Starchart            ||             Index 24 at address 77DDA7B520 Value: 0
+Word: Carmilla Starchart            ||             Index 25 at address 77DDA7B5D0 Value: 2
+Word: Kagutsuchi Tome            ||             Index 26 at address 77DDA7B730 Value: 100
+Word: Eris Starchart            ||             Index 27 at address 77DDA7B890 Value: 97
+Word: Prayer Script            ||             Index 28 at address 77DDA7B940 Value: 670499746
+Word: Lapin Starchart            ||             Index 29 at address 77DDA7B9F0 Value: 52
+Word: The Renewed Starchart            ||             Index 30 at address 77DDA7BC00 Value: 100
+Word: Sacrament Starchart            ||             Index 31 at address 77DDA7BCB0 Value: 97
+Word: Narukami Starchart            ||             Index 32 at address 77DDA7BE10 Value: 100
+Word: Takuhatachiji Starchart            ||             Index 33 at address 77DDA7C0D0 Value: 97
+Word: Yin-Yang Cat Starchart            ||             Index 34 at address 77DDA7C2E0 Value: 0
+Word: Raven Tengu Starchart            ||             Index 35 at address 77DDA7C390 Value: 100
+Word: Hermes Starchart            ||             Index 36 at address 77DDA7C4F0 Value: 200
+Word: Starry-Eyed Girl Starchart            ||             Index 37 at address 77DDA7C5A0 Value: 0
+Word: Nirvana Starchart            ||             Index 38 at address 77DDA7C650 Value: 100
+Word: Xeno-Legion Starchart            ||             Index 39 at address 77DDA7C860 Value: 100
+Word: Högni Starchart            ||             Index 40 at address 77DDA7C910 Value: 98
+Word: Detective Starchart            ||             Index 41 at address 77DDA7CA70 Value: 96
+Word: Prophet Starchart            ||             Index 42 at address 77DDA7CB20 Value: 0
+Word: Patriarch Tome            ||             Index 43 at address 77DDA7CC80 Value: 113
+Word: Hihayahi Starchart            ||             Index 44 at address 77DDA7CDE0 Value: 0
+Word: Dionysus Starchart            ||             Index 45 at address 77DDA7CF40 Value: 0
+Word: A.Murakumo Starchart            ||             Index 46 at address 77DDA7CFF0 Value: 97
+Word: Brionac Starchart            ||             Index 47 at address 77DDA7D0A0 Value: 2
+Word: Nightmare Starchart            ||             Index 48 at address 77DDA7D150 Value: 0
+Word: Indra Starchart            ||             Index 49 at address 77DDA7D200 Value: 2
+Word: Agent Starchart            ||             Index 50 at address 77DDA7D2B0 Value: 2
+Word: Grand General Starchart            ||             Index 51 at address 77DDA7D360 Value: 0
+Word: Naivete Starchart            ||             Index 52 at address 77DDA7D410 Value: 0
+Word: Drago Mirage Tome            ||             Index 53 at address 77DDA7D570 Value: 99
+Word: Holy Sentinel Starchart            ||             Index 54 at address 77DDA7D620 Value: 100
+Word: Summer Starchart            ||             Index 55 at address 77DDA7D6D0 Value: 100
+Word: Alchemist Tome            ||             Index 56 at address 77DDA7D780 Value: 118
+Word: Kagutsuchi Starchart            ||             Index 57 at address 77DDA7D8E0 Value: 102
+Word: Allcosmos Starchart            ||             Index 58 at address 77DDA7DA40 Value: 421099404
+Word: Sovereign Starchart            ||             Index 59 at address 77DDA7DAF0 Value: 0
+Word: Judgment Tome            ||             Index 60 at address 77DDA7DBA0 Value: 118
+Word: Armiger Starchart            ||             Index 61 at address 77DDA7DC50 Value: 2
+Word: Abyssal Devotee Starchart            ||             Index 62 at address 77DDA7DD00 Value: 255
+Word: Hierophant Starchart            ||             Index 63 at address 77DDA7DDB0 Value: 100
+Word: Camena Starchart            ||             Index 64 at address 77DDA7DE60 Value: 100
+Word: Ame-no-Totsuka Starchart            ||             Index 65 at address 77DDA7DF10 Value: 0
+Word: Fragarach Starchart            ||             Index 66 at address 77DDA7DFC0 Value: 0
+Word: Amaranth Starchart            ||             Index 67 at address 77DDA7E070 Value: 0
+Word: Epoch Maker Starchart            ||             Index 68 at address 77DDA7E120 Value: 100
+Word: Dragon Bearer Starchart            ||             Index 69 at address 77DDA7E1D0 Value: 100
+Word: Magister Starchart            ||             Index 70 at address 77DDA7E280 Value: 152
+Word: Étoile Starchart            ||             Index 71 at address 77DDA7E330 Value: 0
+Word: Admiral Starchart            ||             Index 72 at address 77DDA7E3E0 Value: 102
+Word: Voleur Starchart            ||             Index 73 at address 77DDA7E490 Value: 0
+Word: Izanagi Starchart            ||             Index 74 at address 77DDA7E540 Value: 63
+Word: Oberon Starchart            ||             Index 75 at address 77DDA7E5F0 Value: 100
+Word: Inspector Starchart            ||             Index 76 at address 77DDA7E6A0 Value: 2
+Word: Rune Knight Tome            ||             Index 77 at address 77DDA7E750 Value: 105
+Word: Futsunomitama Starchart            ||             Index 78 at address 77DDA7E800 Value: 100
+Word: Dragon Reaper Starchart            ||             Index 79 at address 77DDA7E8B0 Value: 100
+Word: Raven Tengu Tome            ||             Index 80 at address 77DDA7EA10 Value: 109
+Word: Mal'akh Starchart            ||             Index 81 at address 77DDA7EAC0 Value: 56
+Word: Vanagandr Starchart            ||             Index 82 at address 77DDA7EB70 Value: 97
+Word: Paladin Starchart            ||             Index 83 at address 77DDA7EC20 Value: 255
+Word: Ame-no-Uzume Starchart            ||             Index 84 at address 77DDA7ECD0 Value: 50
+Word: Chant Script             ||             Index 85 at address 77DDA7ED80 Value: 2104
+Word: Dragon Ruler Starchart            ||             Index 86 at address 77DDA7EE30 Value: 102
+Word: Hecatoncheires Codex            ||             Index 87 at address 77DDA7EEE0 Value: 101
+Word: Wenefica Starchart            ||             Index 88 at address 77DDA7EF90 Value: 100
+Word: Mercenary Tome            ||             Index 89 at address 77DDA7F0F0 Value: 102
+Word: Indra Tome            ||             Index 90 at address 77DDA7F1A0 Value: 10
+Word: Blazing Hero Starchart            ||             Index 91 at address 77DDA7F250 Value: 100
+Word: Jiutian Xuannu Starchart            ||             Index 92 at address 77DDA7F300 Value: 100
+Word: Medium Tome            ||             Index 93 at address 77DDA7F3B0 Value: 100
+Word: Storied Fighter Starchart            ||             Index 94 at address 77DDA7F460 Value: 201
+Word: Wizard Tome            ||             Index 95 at address 77DDA7F510 Value: 104
+Word: Okuninushi Starchart            ||             Index 96 at address 77DDA7F5C0 Value: 0
+Word: Rebel Starchart            ||             Index 97 at address 77DDA7F670 Value: 100
+Word: Libitina Treatise            ||             Index 98 at address 77DDA7F720 Value: 108
+Word: Dragon Bearer Psalms            ||             Index 99 at address 77DDA7F7D0 Value: 110
+Word: Sword Master Tome            ||             Index 100 at address 77DDA7F930 Value: 101
+Word: Warlock Tome            ||             Index 101 at address 77DDA7F9E0 Value: 109
+Word: Felis Lord Starchart            ||             Index 102 at address 77DDA7FA90 Value: 100
+Word: Yuda Opus            ||             Index 103 at address 77DDA7FB40 Value: 105
+Word: Muse Starchart            ||             Index 104 at address 77DDA7FBF0 Value: 100
+Word: Arc Knight Starchart            ||             Index 105 at address 77DDA7FD50 Value: 100
+Word: Druid Tome            ||             Index 106 at address 77DDA7FE00 Value: 114
+Word: Geomancer Starchart            ||             Index 107 at address 77DDA7FEB0 Value: 2
+Word: Yaobikuni Starchart            ||             Index 108 at address 77DDA7FF60 Value: 0
+Word: Negotiator Starchart            ||             Index 109 at address 77DDA80010 Value: 102
+Word: Sukunahikona Starchart            ||             Index 110 at address 77DDA800C0 Value: 100
+Word: Archaeologist Starchart            ||             Index 111 at address 77DDA80170 Value: 0
+Word: Briar Rose Starchart            ||             Index 112 at address 77DDA80220 Value: 100
+Word: Master Fencer Tome            ||             Index 113 at address 77DDA802D0 Value: 105
+Word: Dragoon Starchart            ||             Index 114 at address 77DDA80380 Value: 100
+Word: Ninetails Fox Starchart            ||             Index 115 at address 77DDA80430 Value: 2
+Word: Aqua Ruler Tome            ||             Index 116 at address 77DDA804E0 Value: 160
+Word: Diviner Tome            ||             Index 117 at address 77DDA80590 Value: 114
+Word: Eurydice Starchart            ||             Index 118 at address 77DDA80640 Value: 100
+Word: Atlas Starchart            ||             Index 119 at address 77DDA806F0 Value: 0
+Word: Era Blaster Tome            ||             Index 120 at address 77DDA807A0 Value: 104
+Word: Sweet Lady Starchart            ||             Index 121 at address 77DDA80850 Value: 0
+Word: Hathor Starchart            ||             Index 122 at address 77DDA80900 Value: 0
+Word: Enforcer Starchart            ||             Index 123 at address 77DDA809B0 Value: 97
+Word: Sniper Tome            ||             Index 124 at address 77DDA80A60 Value: 109
+Word: Maestro Tome            ||             Index 125 at address 77DDA80B10 Value: 100
+Word: Faraway Fantasy Starchart            ||             Index 126 at address 77DDA80C70 Value: 0
+Word: Ring-Guided Starchart            ||             Index 127 at address 77DDA80D20 Value: 100
+Word: Fortuna Treatise            ||             Index 128 at address 77DDA80DD0 Value: 102
+Word: Mystic Tome            ||             Index 129 at address 77DDA80E80 Value: 110
+Word: Mighty Maiden Tome            ||             Index 130 at address 77DDA80F30 Value: 115
+Word: Goddess of Dest. Starchart            ||             Index 131 at address 77DDA80FE0 Value: 0
+Word: Dark Knight Tome            ||             Index 132 at address 77DDA81090 Value: 101
+Word: Ullr Starchart            ||             Index 133 at address 77DDA81140 Value: 100
+Word: Anomaly Debris Starchart            ||             Index 134 at address 77DDA812A0 Value: 0
+Word: Prthivi Starchart            ||             Index 135 at address 77DDA81350 Value: 98
+Word: Hermes Tome            ||             Index 136 at address 77DDA81400 Value: 128
+Word: Apostle Tome            ||             Index 137 at address 77DDA814B0 Value: 100
+Word: Monk Tome            ||             Index 138 at address 77DDA81560 Value: 104
+Word: Högni Treatise            ||             Index 139 at address 77DDA81610 Value: 109
+Word: Arcturus Starchart            ||             Index 140 at address 77DDA816C0 Value: 0
+Word: Takeminakata Starchart            ||             Index 141 at address 77DDA81770 Value: 0
+Word: Adept Fencer Tome            ||             Index 142 at address 77DDA81820 Value: 100
+Word: String Puller Tome            ||             Index 143 at address 77DDA818D0 Value: 99
+Word: Seele Gnade Treatise            ||             Index 144 at address 77DDA81980 Value: 106
+Word: Elven Knight Tome            ||             Index 145 at address 77DDA81A30 Value: 105
+Word: Gjallarhorn Treatise            ||             Index 146 at address 77DDA81AE0 Value: 100
+Word: Oracle Tome            ||             Index 147 at address 77DDA81B90 Value: 116
+Word: Venus Treatise            ||             Index 148 at address 77DDA81C40 Value: 102
+Word: Titania Treatise            ||             Index 149 at address 77DDA81CF0 Value: 100
+Word: Murasame Tome            ||             Index 150 at address 77DDA81DA0 Value: 104
+Word: Remittetur Treatise            ||             Index 151 at address 77DDA81E50 Value: 105
+Word: Rose Unseen Treatise            ||             Index 152 at address 77DDA81F00 Value: 106
+Word: Phalanx Tome            ||             Index 153 at address 77DDA81FB0 Value: 101
+Word: Hierophant Tome            ||             Index 154 at address 77DDA82060 Value: 100
+Word: Taiyi Zhenren Tome            ||             Index 155 at address 77DDA82110 Value: 182
+Word: Berserker Tome            ||             Index 156 at address 77DDA821C0 Value: 107
+Word: Flame Lord Tome            ||             Index 157 at address 77DDA82320 Value: 109
+Word: Covert Agent Treatise            ||             Index 158 at address 77DDA823D0 Value: 101
+Word: Unut Starchart            ||             Index 159 at address 77DDA82480 Value: 0
+Word: Nekomata Av. Starchart            ||             Index 160 at address 77DDA82530 Value: 100
+Word: Troubadour Tome            ||             Index 161 at address 77DDA825E0 Value: 101
+Word: Libette Tome            ||             Index 162 at address 77DDA82690 Value: 159
+Word: Geomancer Tome            ||             Index 163 at address 77DDA82740 Value: 115
+Word: Forerunner Tome            ||             Index 164 at address 77DDA828A0 Value: 107
+Word: Prophet Treatise            ||             Index 165 at address 77DDA82950 Value: 95
+Word: Okuninushi Treatise            ||             Index 166 at address 77DDA82A00 Value: 52
+Word: Orator Tome            ||             Index 167 at address 77DDA82AB0 Value: 100
+Word: Reviver Starchart            ||             Index 168 at address 77DDA82B60 Value: 0
+Word: Channeler Tome            ||             Index 169 at address 77DDA82C10 Value: 111
+Word: Striker Tome            ||             Index 170 at address 77DDA82CC0 Value: 100
+Word: Felis Circulus Treatise            ||             Index 171 at address 77DDA82D70 Value: 100
+Word: Cybele Treatise            ||             Index 172 at address 77DDA82E20 Value: 111
+Word: Amazon Tome            ||             Index 173 at address 77DDA82ED0 Value: 104
+Word: Undertaker Tome            ||             Index 174 at address 77DDA82F80 Value: 100
+Word: Assassin's Fist Tome            ||             Index 175 at address 77DDA83030 Value: 103
+Word: Last Haven Starchart            ||             Index 176 at address 77DDA830E0 Value: 0
+Word: Warrior Tome            ||             Index 177 at address 77DDA83190 Value: 102
+Word: Avenger Tome            ||             Index 178 at address 77DDA83240 Value: 100
+Word: Asura Tome            ||             Index 179 at address 77DDA832F0 Value: 100
+Word: Carmilla Tome            ||             Index 180 at address 77DDA833A0 Value: 126
+Word: Holy Warrior Tome            ||             Index 181 at address 77DDA83450 Value: 100
+Word: Cthulhu Codex            ||             Index 182 at address 77DDA83500 Value: 103
+Word: Bastet Starchart            ||             Index 183 at address 77DDA83660 Value: 0
+Word: High Priestess Treatise            ||             Index 184 at address 77DDA83710 Value: 100
+Word: Elementalist Tome            ||             Index 185 at address 77DDA837C0 Value: 103
+Word: Arachne Tome            ||             Index 186 at address 77DDA83870 Value: 2
+Word: Omoikane Opus            ||             Index 187 at address 77DDA83920 Value: 103
+Word: Libero Tome            ||             Index 188 at address 77DDA839D0 Value: 100
+Word: Xeno-Legion Psalm            ||             Index 189 at address 77DDA83B30 Value: 109
+Word: Skadi Tome            ||             Index 190 at address 77DDA83BE0 Value: 107
+Word: Soul Bringer Tome            ||             Index 191 at address 77DDA83C90 Value: 99
+Word: Sayorihime Treatise            ||             Index 192 at address 77DDA83D40 Value: 101
+Word: Arc Knight Tome            ||             Index 193 at address 77DDA83DF0 Value: 100
+Word: Nirvana Tome            ||             Index 194 at address 77DDA83EA0 Value: 116
+Word: Slayer Tome            ||             Index 195 at address 77DDA83F50 Value: 157
+Word: Bard Tome            ||             Index 196 at address 77DDA84000 Value: 111
+Word: Marksman Tome            ||             Index 197 at address 77DDA840B0 Value: 100
+Word: Yin-Yang Cat Opus            ||             Index 198 at address 77DDA84160 Value: 97
+Word: Dicé Opus            ||             Index 199 at address 77DDA84210 Value: 100
+Word: Shashthi Treatise            ||             Index 200 at address 77DDA842C0 Value: 2
+Word: Nightmare Opus            ||             Index 201 at address 77DDA84370 Value: 0
+Word: Flare Witch Psalm            ||             Index 202 at address 77DDA84420 Value: 100
+Word: Alphecca Starchart            ||             Index 203 at address 77DDA844D0 Value: 0
+Word: Reviver Treatise            ||             Index 204 at address 77DDA84580 Value: 97
+Word: Nemesis Tome            ||             Index 205 at address 77DDA84630 Value: 99
+Word: Völva Treatise            ||             Index 206 at address 77DDA846E0 Value: 108
+Word: Amaranth Tome            ||             Index 207 at address 77DDA84790 Value: 50
+Word: Ullr Tome            ||             Index 208 at address 77DDA84840 Value: 106
+Word: Fraulein Opus            ||             Index 209 at address 77DDA848F0 Value: 107
+Word: Miracle Worker Treatise            ||             Index 210 at address 77DDA849A0 Value: 104
+Word: Brunhild Treatise            ||             Index 211 at address 77DDA84A50 Value: 103
+Word: Kelkale Codex            ||             Index 212 at address 77DDA84B00 Value: 101
+Word: Fragarach Codex            ||             Index 213 at address 77DDA84BB0 Value: 2
+Word: Sky Sprite Treatise            ||             Index 214 at address 77DDA84C60 Value: 99
+Word: Exalted Maiden Psalm            ||             Index 215 at address 77DDA84D10 Value: 110
+Word: Magister Tome            ||             Index 216 at address 77DDA84DC0 Value: 100
+Word: Medea Treatise            ||             Index 217 at address 77DDA84E70 Value: 109
+Word: Divinator Tome            ||             Index 218 at address 77DDA84F20 Value: 114
+Word: Walkure Tome            ||             Index 219 at address 77DDA84FD0 Value: 104
+Word: White Knight Tome            ||             Index 220 at address 77DDA85080 Value: 99
+Word: Justitia Codex            ||             Index 221 at address 77DDA85130 Value: 101
+Word: Aqua Goddess Treatise            ||             Index 222 at address 77DDA851E0 Value: 101
+Word: Princess Psalm            ||             Index 223 at address 77DDA85290 Value: 75
+Word: Sacrament Codex            ||             Index 224 at address 77DDA853F0 Value: 99
+Word: Empress Crowe Record            ||             Index 225 at address 77DDA854A0 Value: 100
+Word: Vanguard Tome            ||             Index 226 at address 77DDA85550 Value: 100
+Word: Orco-Figlia Treatise            ||             Index 227 at address 77DDA85600 Value: 104
+Word: Yasomagatsuhi Treatise            ||             Index 228 at address 77DDA856B0 Value: 101
+Word: Dionysus Treatise            ||             Index 229 at address 77DDA85760 Value: 350
+Word: Abyss Liberator Treatise            ||             Index 230 at address 77DDA85810 Value: 99
+Word: Divine Paladin Treatise            ||             Index 231 at address 77DDA85970 Value: 99
+Word: Eris Treatise            ||             Index 232 at address 77DDA85A20 Value: 103
+Word: Sun Goddess Tome            ||             Index 233 at address 77DDA85AD0 Value: 105
+Word: Arcturus Tome            ||             Index 234 at address 77DDA85B80 Value: 7
+Word: Abyssal Devotee Tome            ||             Index 235 at address 77DDA85C30 Value: 112
+Word: Admiral Tome            ||             Index 236 at address 77DDA85CE0 Value: 121
+Word: Avesta Treatise            ||             Index 237 at address 77DDA85D90 Value: 105
+Word: Mikahayahi Treatise            ||             Index 238 at address 77DDA85E40 Value: 103
+Word: Sunrise Treatise            ||             Index 239 at address 77DDA85FA0 Value: 102
+Word: Demon Reaper Tome            ||             Index 240 at address 77DDA86050 Value: 100
+Word: Angelic Record            ||             Index 241 at address 77DDA86100 Value: 99
+Word: Nekogami Treatise            ||             Index 242 at address 77DDA861B0 Value: 108
+Word: Juggernaut Tome            ||             Index 243 at address 77DDA86260 Value: 100
+Word: Alphecca Tome            ||             Index 244 at address 77DDA86310 Value: 111
+Word: Takuhatachiji Opus            ||             Index 245 at address 77DDA863C0 Value: 99
+Word: Brave Storm Psalm            ||             Index 246 at address 77DDA86470 Value: 137
+Word: Beauty Police Treatise            ||             Index 247 at address 77DDA865D0 Value: 102
+Word: Gladiator Tome            ||             Index 248 at address 77DDA86680 Value: 100
+Word: Oraculum Tome            ||             Index 249 at address 77DDA86730 Value: 110
+Word: Paladin Tome            ||             Index 250 at address 77DDA867E0 Value: 99
+Word: Minerva Treatise            ||             Index 251 at address 77DDA86890 Value: 198
+Word: Chevalier Tome            ||             Index 252 at address 77DDA86940 Value: 100
+Word: Jinni Opus            ||             Index 253 at address 77DDA869F0 Value: 109
+Word: Blazing Sword Record            ||             Index 254 at address 77DDA86AA0 Value: 99
+Word: Aristocrat Treatise            ||             Index 255 at address 77DDA86B50 Value: 102
+Word: Mailed Sheep Tome            ||             Index 256 at address 77DDA86C00 Value: 87
+Word: Bladesaint Tome            ||             Index 257 at address 77DDA86CB0 Value: 118
+Word: Cursed Bride Treatise            ||             Index 258 at address 77DDA86D60 Value: 108
+Word: Susanoo Treatise            ||             Index 259 at address 77DDA86E10 Value: 104
+Word: Dáinsleif Tome            ||             Index 260 at address 77DDA86EC0 Value: 115
+Word: Sweet Lady Treatise            ||             Index 261 at address 77DDA86F70 Value: 95
+Word: Lord of Spirits Record            ||             Index 262 at address 77DDA87020 Value: 100
+Word: Battler Tome            ||             Index 263 at address 77DDA870D0 Value: 102
+Word: Camena Treatise            ||             Index 264 at address 77DDA87180 Value: 109
+Word: Ometeotl Treatise            ||             Index 265 at address 77DDA87230 Value: 103
+Word: Detective Tome            ||             Index 266 at address 77DDA872E0 Value: 65
+Word: Slayer Starchart            ||             Index 267 at address 77DDA87440 Value: 102
+Word: Jorurihime Treatise            ||             Index 268 at address 77DDA874F0 Value: 110
+Word: Holy Sword Record            ||             Index 269 at address 77DDA875A0 Value: 99
+Word: Draco Nodus Treatise            ||             Index 270 at address 77DDA87650 Value: 101
+Word: Lumberjack Psalm            ||             Index 271 at address 77DDA877B0 Value: 70
+Word: Crimson Knight Tome            ||             Index 272 at address 77DDA87860 Value: 1
+Word: Sigrdrifa Treatise            ||             Index 273 at address 77DDA87910 Value: 107
+Word: Hypnotist Treatise            ||             Index 274 at address 77DDA879C0 Value: 100
+Word: Inspector Tome            ||             Index 275 at address 77DDA87A70 Value: 112
+Word: Thanatos Opus            ||             Index 276 at address 77DDA87B20 Value: 103
+Word: Narukami Tome            ||             Index 277 at address 77DDA87BD0 Value: 121
+Word: Futsunomitama Codex            ||             Index 278 at address 77DDA87C80 Value: 85
+Word: Pluma Diana Treatise            ||             Index 279 at address 77DDA87D30 Value: 102
+Word: Soul Keeper Treatise            ||             Index 280 at address 77DDA87DE0 Value: 110
+Word: Wolfskin Treatise            ||             Index 281 at address 77DDA87E90 Value: 101
+Word: Hastantiqua Treatise            ||             Index 282 at address 77DDA87F40 Value: 103
+Word: Étoile Treatise            ||             Index 283 at address 77DDA87FF0 Value: 95
+Word: Eternal Swordsman Record            ||             Index 284 at address 77DDA880A0 Value: 100
+Word: Agent Tome            ||             Index 285 at address 77DDA88150 Value: 112
+Word: Fenrir Tome            ||             Index 286 at address 77DDA88200 Value: 159
+Word: Bête Théâtrale Opus            ||             Index 287 at address 77DDA882B0 Value: 58
+Word: Transporter Treatise            ||             Index 288 at address 77DDA88360 Value: 106
+Word: Golden Flower Cat Tome            ||             Index 289 at address 77DDA88410 Value: 108
+Word: Chernobog Opus            ||             Index 290 at address 77DDA88570 Value: 103
+Word: Crimson Ray Treatise            ||             Index 291 at address 77DDA88620 Value: 102
+Word: Vanagandr Treatise            ||             Index 292 at address 77DDA886D0 Value: 100
+Word: Erinys Codex            ||             Index 293 at address 77DDA88780 Value: 103
+Word: Atlas Tome            ||             Index 294 at address 77DDA88830 Value: 100
+Word: Oberon Treatise            ||             Index 295 at address 77DDA888E0 Value: 101
+Word: Rakshasa Tome            ||             Index 296 at address 77DDA88990 Value: 102
+Word: Sukunahikona Tome            ||             Index 297 at address 77DDA88A40 Value: 120
+Word: Kingpin Tome            ||             Index 298 at address 77DDA88AF0 Value: 100
+Word: Octofighter Tome            ||             Index 299 at address 77DDA88BA0 Value: 120
+Word: Tentamare Treatise            ||             Index 300 at address 77DDA88C50 Value: 105
+Word: Legendary Swordsman Record            ||             Index 301 at address 77DDA88D00 Value: 100
+Word: Fireside Cat Treatise            ||             Index 302 at address 77DDA88DB0 Value: 100
+Word: Migl Aspida Treatise            ||             Index 303 at address 77DDA88E60 Value: 111
+Word: Lazuli Medea Tome            ||             Index 304 at address 77DDA88F10 Value: 116
+Word: Hihayahi Tome            ||             Index 305 at address 77DDA88FC0 Value: 0
+Word: Grand General Tome            ||             Index 306 at address 77DDA89120 Value: 0
+Word: Unut Codex            ||             Index 307 at address 77DDA891D0 Value: 95
+Word: Protector Tome            ||             Index 308 at address 77DDA89280 Value: 126
+Word: Dragon Reaper Tome            ||             Index 309 at address 77DDA89330 Value: 115
+Word: Minstrel Tome            ||             Index 310 at address 77DDA893E0 Value: 119
+Word: Watatsumi Tome            ||             Index 311 at address 77DDA89490 Value: 100
+Word: Ameretat Tome            ||             Index 312 at address 77DDA89540 Value: 100
+Word: Dragoon Tome            ||             Index 313 at address 77DDA895F0 Value: 119
+Word: Lila Blitz Tome            ||             Index 314 at address 77DDA896A0 Value: 100
+Word: Sakuya-bime Treatise            ||             Index 315 at address 77DDA89750 Value: 52
+Word: Nekomata Avatar Codex            ||             Index 316 at address 77DDA89800 Value: 112
+Word: Starlight Treatise            ||             Index 317 at address 77DDA898B0 Value: 103
+Word: Ukanomitama Opus            ||             Index 318 at address 77DDA89960 Value: 102
+Word: Holy Sentinel Codex            ||             Index 319 at address 77DDA89AC0 Value: 104
+Word: Titan Starchart            ||             Index 320 at address 77DDA89B70 Value: 100
+Word: Dragon Ruler Tome            ||             Index 321 at address 77DDA89C20 Value: 118
+Word: Isaiah Tome            ||             Index 322 at address 77DDA89CD0 Value: 121
+Word: Ame-no-Murakumo Codex            ||             Index 323 at address 77DDA89D80 Value: 102
+Word: Silken Wisp Treatise            ||             Index 324 at address 77DDA89E30 Value: 101
+Word: Magna Rex Treatise            ||             Index 325 at address 77DDA89EE0 Value: 103
+Word: Butterfly Warrior Treatise            ||             Index 326 at address 77DDA89F90 Value: 103
+Word: Naivete Treatise            ||             Index 327 at address 77DDA8A040 Value: 361
+Word: Harmonia Treatise            ||             Index 328 at address 77DDA8A0F0 Value: 100
+Word: Lovely Chef Tome            ||             Index 329 at address 77DDA8A1A0 Value: 122
+Word: Phantom Thief Treatise            ||             Index 330 at address 77DDA8A250 Value: 99
+Word: Areadbhar Treatise            ||             Index 331 at address 77DDA8A300 Value: 107
+Word: Brionac Tome            ||             Index 332 at address 77DDA8A460 Value: 163
+Word: Voleur Opus            ||             Index 333 at address 77DDA8A510 Value: 25
+Word: Devotroid Treatise            ||             Index 334 at address 77DDA8A5C0 Value: 100
+Word: Wenefica Tome            ||             Index 335 at address 77DDA8A670 Value: 107
+Word: Grim Reaper Tome            ||             Index 336 at address 77DDA8A720 Value: 99
+Word: Okaminokami Treatise            ||             Index 337 at address 77DDA8A7D0 Value: 103
+Word: Ame-no-Uzume Opus            ||             Index 338 at address 77DDA8A930 Value: 48
+Word: Miyabinokami Opus            ||             Index 339 at address 77DDA8A9E0 Value: 106
+Word: Arcana Codex            ||             Index 340 at address 77DDA8AA90 Value: 107
+Word: Proserpina Treatise            ||             Index 341 at address 77DDA8AB40 Value: 2
+Word: Enforcer Opus            ||             Index 342 at address 77DDA8ABF0 Value: 107
+Word: Blanc Meneur Treatise            ||             Index 343 at address 77DDA8ACA0 Value: 102
+Word: Erato Treatise            ||             Index 344 at address 77DDA8AD50 Value: 107
+Word: Shinatsuhime Codex            ||             Index 345 at address 77DDA8AE00 Value: 105
+Word: Ninetails Fox Tome            ||             Index 346 at address 77DDA8AEB0 Value: 108
+Word: Empress Tome            ||             Index 347 at address 77DDA8AF60 Value: 165
+Word: Stormbreaker Tome            ||             Index 348 at address 77DDA8B010 Value: 99
+Word: Sanctus Tome            ||             Index 349 at address 77DDA8B0C0 Value: 100
+Word: Sirenaria Tome            ||             Index 350 at address 77DDA8B170 Value: 107
+Word: Galeforce Tome            ||             Index 351 at address 77DDA8B220 Value: 99
+Word: Hrungnir Tome            ||             Index 352 at address 77DDA8B2D0 Value: 119
+Word: Dual Persona Tome            ||             Index 353 at address 77DDA8B380 Value: 120
+Word: Armiger Tome            ||             Index 354 at address 77DDA8B430 Value: 163
+Word: Griffin Lance Tome            ||             Index 355 at address 77DDA8B4E0 Value: 101
+Word: Ymir Treatise            ||             Index 356 at address 77DDA8B590 Value: 211
+Word: Yaobikuni Tome            ||             Index 357 at address 77DDA8B640 Value: 79
+Word: Takeminakata Treatise            ||             Index 358 at address 77DDA8B6F0 Value: 97
+Word: Djinn Tome            ||             Index 359 at address 77DDA8B900 Value: 100
+Word: Kommandeur Tome            ||             Index 360 at address 77DDA8B9B0 Value: 174
+Word: Polyhymniā Treatise            ||             Index 361 at address 77DDA8BA60 Value: 101
+Word: ???            ||             Index 362 at address 77DDA8BB10 Value: 0
+Word: Tea Maiden Treatise            ||             Index 363 at address 77DDA8BC70 Value: 110
+Word: Red Scorpio Opus            ||             Index 364 at address 77DDA8BDD0 Value: 101
+Word: Proud Beast Treatise            ||             Index 365 at address 77DDA8BE80 Value: 105
+Word: Melodist Psalm            ||             Index 366 at address 77DDA8BF30 Value: 75
+Word: Mal'akh Tome            ||             Index 367 at address 77DDA8BFE0 Value: 109
+Word: Curse Seeker Treatise            ||             Index 368 at address 77DDA8C090 Value: 104
+Word: Negotiator Tome            ||             Index 369 at address 77DDA8C140 Value: 100
+Word: Punishment Treatise            ||             Index 370 at address 77DDA8C1F0 Value: 104
+Word: Titan Tome            ||             Index 371 at address 77DDA8C2A0 Value: 105
+Word: Lucifer Codex            ||             Index 372 at address 77DDA8C350 Value: 99
+Word: Gratinel Psalm            ||             Index 373 at address 77DDA8C400 Value: 129
+Word: Shadow Lord Tome            ||             Index 374 at address 77DDA8C610 Value: 107
+Word: Juno Treatise            ||             Index 375 at address 77DDA8C770 Value: 103
+Word: Archaeologist Treatise            ||             Index 376 at address 77DDA8C8D0 Value: 103
+Word: Athena Codex            ||             Index 377 at address 77DDA8C980 Value: 101
+Word: Anomaly Debris Tome            ||             Index 378 at address 77DDA8CA30 Value: 55
+Word: Jiutian Xuannu Treatise            ||             Index 379 at address 77DDA8CB90 Value: 106
+Word: Blacksmith Psalm            ||             Index 380 at address 77DDA8CDA0 Value: 70
+Word: Blazing Hero Treatise            ||             Index 381 at address 77DDA8CE50 Value: 100
+Word: Muse Opus            ||             Index 382 at address 77DDA8D060 Value: 98
+Word: Bûcheron Treatise            ||             Index 383 at address 77DDA8D110 Value: 103
+Word: Utsutahime Tome            ||             Index 384 at address 77DDA8D1C0 Value: 102
+Word: Brawler Psalm            ||             Index 385 at address 77DDA8D270 Value: 110
+Word: Citrinitas Tome            ||             Index 386 at address 77DDA8D320 Value: 126
+Word: Bastet Tome            ||             Index 387 at address 77DDA8D3D0 Value: 0
+Word: Last Haven Treatise            ||             Index 388 at address 77DDA8D480 Value: 85
+Word: Dream Digger Tome            ||             Index 389 at address 77DDA8D530 Value: 124
+Word: Ereshkigal Codex            ||             Index 390 at address 77DDA8D5E0 Value: 103
+Word: Felis Lord Opus            ||             Index 391 at address 77DDA8D690 Value: 102
+Word: Flare Knight Treatise            ||             Index 392 at address 77DDA8D740 Value: 103
+Word: Shining Shadow Treatise            ||             Index 393 at address 77DDA8D7F0 Value: 103
+Word: Hathor Treatise            ||             Index 394 at address 77DDA8D8A0 Value: 2
+Word: Epoch Maker Treatise            ||             Index 395 at address 77DDA8DA00 Value: 103
+Word: Persephone Opus            ||             Index 396 at address 77DDA8DAB0 Value: 100
+Word: Enma Tome            ||             Index 397 at address 77DDA8DB60 Value: 122
+Word: Boyne Lord Tome            ||             Index 398 at address 77DDA8DC10 Value: 99
+Word: Gray Hound Tome            ||             Index 399 at address 77DDA8DCC0 Value: 99
+Word: Lovebird Treatise            ||             Index 400 at address 77DDA8DD70 Value: 104
+Word: Briar Rose Opus            ||             Index 401 at address 77DDA8DE20 Value: 102
+Word: Ring-Guided Tome            ||             Index 402 at address 77DDA8DED0 Value: 100
+Word: Goddess of Destiny Tome            ||             Index 403 at address 77DDA8E0E0 Value: 100
+Word: Mellow Diva Treatise            ||             Index 404 at address 77DDA8E870 Value: 101
+Word: Resif Opus            ||             Index 405 at address 77DDA8F370 Value: 99
+Word: Areth's Diamond Tome            ||             Index 406 at address 77DDA8F6E0 Value: 100
+Word: Thorny Woman Record            ||             Index 407 at address 77DDA8F790 Value: 99
+Word: Bishop Tome            ||             Index 408 at address 77DDA8F9A0 Value: 102
+Word: Summer Tome            ||             Index 409 at address 77DDA8FE70 Value: 100
+Word: Sarashinahime Treatise            ||             Index 410 at address 77DDA90760 Value: 106
+Word: Prthivi Treatise            ||             Index 411 at address 77DDA90FA0 Value: 104
+Word: Orpheus Opus            ||             Index 412 at address 77DDA91EC0 Value: 104
+Word: Grimoire Tome            ||             Index 413 at address 77DDA93150 Value: 100
+Word: Sovereign Psalm            ||             Index 414 at address 77DDA9F490 Value: 124
+Word: Lapin Tome            ||             Index 415 at address 77DDAA43A0 Value: 106
