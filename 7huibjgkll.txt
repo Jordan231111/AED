@@ -7365,6 +7365,8 @@ Ancient Fang::221016140
 Ancient Hammer Shard::221008143
 Ancient Ivy::221012091
 Ancient Pit::221004050
+Ancient Tentatooth Piece::221016199
+Ancient Tentatooth::221016200
 Angry Hound Tail::221014064
 Animal Brush::221005059
 Anti-Gravity Device::221015016
@@ -7390,6 +7392,7 @@ Artificial Heart::221014020
 Artisan Ore::221007131
 Ash Crystal: Ember::221009157
 Ash::221017001
+Astra Malignexus::221008279
 Auto Circuit::221004133
 Auto Core::221004190
 Ax's Dragon Bone::221016180
@@ -7778,6 +7781,7 @@ Dire Fish Peace Pearl::221009166
 Dirty White Wood::221017068
 Disappearing Stone::221007023
 Display Panel::221004115
+Disproof of Despair::221004255
 Distant Ache of Solitude::221009132
 Distant Future Peace::221009167
 Distorted Hoof::221016120
@@ -7856,6 +7860,7 @@ Exorcism Ore::221007129
 Exoskeleton::221004053
 Extermination Chip::221004040
 Eye Infrared Sensor::221004090
+Eyes to the Past::221009170
 Factor Antenna::221005089
 Faded Armor::221008078
 Fading Dream of Revelry::221009131
@@ -8093,6 +8098,7 @@ Hollow Stone Core::221004147
 Home and Now Pyroxene::221009145
 Home and Yet Pyroxene::221009146
 Home and Yore Pyroxene::221009144
+Honed Fang Scale::221016198
 Horizon Cloud Beyond::221009149
 Horizon Cloud Origin::221009147
 Horizon Cloud Twilight::221009148
@@ -8401,6 +8407,8 @@ Oregano Seed::221012010
 Oregano::221012009
 Orgamek Heartwood::221012113
 Orgamek Vine::221012112
+Origin Glow Red Nucleus::221004258
+Origin Red Nucleus::221004257
 Oval Arm::221004052
 Pale Golden Paper Lantern::221017067
 Pale Honey::221011081
@@ -8477,6 +8485,7 @@ Radiant Crystal::221008247
 Raging Hammer Piece::221008141
 Raging Hammer Shard::221008142
 Rainbow Coral::221008199
+Rainbow Spiderstone::221004256
 Rainbow Talon::221016171
 Raptor Bone::221016024
 Raptor Claw::221016021
@@ -8494,6 +8503,7 @@ Red Cell::221013009
 Red Coral::221009020
 Red Core::221013020
 Red Crest::221014006
+Red Eye::221009168
 Red Feather::221015009
 Red Flotation Device::221015020
 Red Flying Device::221015019
@@ -8504,6 +8514,7 @@ Red Ironsand::221013002
 Red Jelly::221011005
 Red Lens::221004002
 Red Liquid::221011006
+Red Luminous Eye::221009169
 Red Metal Crystal::221009081
 Red Nail::221016073
 Red Nut::221012020
@@ -8631,6 +8642,7 @@ Shadowy Dark Orb::221009049
 Sharp Beak::221016114
 Sharp Claw::221016012
 Sharp Dinosaur Claw::221016062
+Sharp Fang Scale::221016197
 Sharp Fire Beast Fang::221016060
 Sharp Fire Scale::221014056
 Sharp Fish Peace Pearl::221009163
@@ -8691,6 +8703,7 @@ Simple Outer Parts::221004201
 Singing Sand::221013026
 Sinister Crystal Core::221004224
 Sinister Luminous Body::221009025
+Sinister Stinger::221014132
 Sinister Suction Cup::221014083
 Skilled Fish Peace Pearl::221009161
 Skin-like Rock::221007038
@@ -8800,6 +8813,7 @@ Strange Melted Metal::221008270
 Strange Mucus::221011062
 Strange Mushroom::221012018
 Strange Stone Slab::221007085
+Strange Tissue::221014133
 Straw Rope::221005061
 Stretched Patagium::221014080
 Strong Arm::221008055
@@ -8888,6 +8902,7 @@ Tornado Crystal Horn::221009072
 Toto Eye::221004103
 Toxic Claw::221016165
 Toxic Nozzle::221004176
+Toxic Stinger::221014131
 Tragic Lost Soul::221009128
 Transforming Gear::221008276
 Transforming Sheet Metal::221008275
@@ -8961,6 +8976,7 @@ Warped Heart::221009026
 Warped Leather::221014129
 Warped Screw::221004084
 Warped Stone::221007050
+Warped Tissue::221014134
 Warped Wisdom::221009046
 Warrior's Ax::221008041
 Water Crystal::221009003
@@ -12365,16 +12381,22 @@ Wooden Wall-plate::900090012
 
 
 Abyssal Coffin::2080000119
+Alpha Terra Tectofund::2080000282
 Ancient Blue Rug::2080000618
 Ancient Red Rug::2080000610
 Ancient Steel::2080000555
 Ancient Talisman::2080000120
 Ancient White Rug::2080000624
 Ancient Yellow Rug::2080000620
+Ark Cornerstone::2080000627
+Astra Ore Cornerstone::2080000628
 Astra Polymer::2080000125
 Astra Repair Material::2080000556
 Astra Steel::2080000557
 Astra Weir::2080000122
+Astrolabos Base::2080000150
+Astrolabos Celestial Orb::2080000151
+Astrolabos of the Start::2080000149
 Astwuh Ladder::2080000106
 Astwuh Lumber::2080000209
 Astwuh Pillar::2080000504
@@ -12398,6 +12420,7 @@ Blue Bed::2080000515
 Blue Dye::2080000207
 Blue Energy Cube::2080000102
 Bottle Pillar::2080000617
+Bouquet for the Beginning::2080000153
 Bridge Materials::2080000105
 Broken Abyssal Relic::2080000116
 Broken Alabaster Asterorb::2080000231
@@ -12424,6 +12447,7 @@ Café Parasol::2080000602
 Café Shelf::2080000601
 Café Table::2080000603
 Chaos Dye::2080000234
+Chelika's Universe::2080000152
 Colt Duramen::2080000237
 Colt Hardwood::2080000236
 Colt Resin::2080000239
@@ -12435,11 +12459,19 @@ Crystal Relecrystal::2080000249
 Crystal Relerite::2080000256
 Crystalflower Decoration::2080000625
 Crystalline Pillar::2080000623
+Curtain Auto Device::2080000148
+Curtain Barrier Gadget::2080000147
+Curtain Power Gadget::2080000146
+Curtain of Troials::2080000145
 DX Marbled Glassware::2080000522
 DX Sootglass Glassware::2080000590
 Deluxe Astwuh Pillar::2080000507
 Deluxe Astwuh Walling::2080000508
 Deluxe Thatch Roof::2080000509
+Dense Atomic Glass::2080000280
+Densified Astwuh Resin::2080000273
+Densified Colt Resin::2080000271
+Densified Pawm Resin::2080000272
 Dragondola::2080000123
 Dried Flowers (Fancy)::2080000593
 Dried Flowers (Grace)::2080000574
@@ -12451,6 +12483,9 @@ Electric Lamppost::2080000619
 Elecuum::2080000051
 Elecuum::2080000052
 Energy Bottle::2080000103
+Energy Machine Base::2080000143
+Energy Machine::2080000144
+Fine Remulite Cornerstone::2080000630
 Fire Relecrystal::2080000243
 Fire Relerite::2080000250
 Flame Trap::2080000139
@@ -12464,6 +12499,11 @@ Furniture Resin::2080000513
 Geolas Bloom Incense::2080000104
 Glittering White Dye::2080000563
 Glittering Yellow Dye::2080000562
+Godly Age Fake Flower::2080000632
+Godly Age Fake Grass::2080000633
+Godly Age Fake Tree::2080000631
+Gold Earth/Wind Paint::2080000268
+Gold Fire/Water Paint::2080000265
 Golden Flooring::2080000608
 Golden Walling::2080000607
 Gondola Pole::2080000572
@@ -12471,6 +12511,7 @@ Gondola Rope::2080000571
 Gondola::2080000573
 Green Dye::2080000208
 Green Energy Cube::2080000101
+Green Pot::2080000142
 Green Rug::2080000516
 Guardian Deity Material::2080000523
 Guardian of the Treasury::2080000135
@@ -12478,6 +12519,7 @@ Guardian's Body::2080000137
 Guardian's Core::2080000136
 Hard Astwuh Lumber::2080000210
 Hard Pawm Lumber::2080000538
+Impact Absorption Device::2080000277
 Large Aupa Plushie::2080000585
 Large Broken Relic::2080000114
 Large Crystalline Mirror::2080000626
@@ -12485,8 +12527,10 @@ Large Electrified Stone::2080000622
 Large Floating Sconce::2080000611
 Light Relecrystal::2080000257
 Light Relerite::2080000259
+Light vs. Shadow::2080000279
 Lovely Fireworks::2080000587
 Luxurious Bed::2080000589
+Marbled Base::2080000283
 Marbled Glass Tread::2080000597
 Marbled Glass::2080000219
 Marbled Glassware::2080000521
@@ -12524,8 +12568,14 @@ Pickaxe Lv. 8::2080000030
 Pickaxe Lv. 9::2080000035
 Pink Pot::2080000141
 Preserved Pigment::2080000112
+Prim. Earth/Wind Crystal::2080000270
+Prim. Fire/Water Crystal::2080000267
+Primordial Light Crystal::2080000261
+Primordial Shadow Crystal::2080000262
 Pristine Marbled Glass::2080000220
 Pristine Sootglass::2080000547
+Pure Light Crystal::2080000263
+Pure Shadow Crystal::2080000264
 Quality Dye Base::2080000560
 Quality Dye::2080000559
 Quality Furniture Cloth::2080000561
@@ -12541,6 +12591,7 @@ Reinforcing Agent::2080000134
 Remulia Ingot::2080000551
 Remulia Rainbow Steel::2080000558
 Remulia Steel::2080000552
+Remulite Cornerstone::2080000629
 Repair Kit Lv. 10::2080000040
 Repair Kit Lv. 1::2080000010
 Repair Kit Lv. 2::2080000011
@@ -12566,6 +12617,8 @@ Shade Relerite::2080000255
 Shadow Relecrystal::2080000258
 Shadow Relerite::2080000260
 Shimmering Ingot::2080000553
+Shining Earth/Wind Paint::2080000269
+Shining Fire/Water Paint::2080000266
 Shining Perch::2080000126
 Sickle Lv. 10::2080000032
 Sickle Lv. 1::2080000001
@@ -12594,9 +12647,14 @@ Special Astwuh Resin::2080000223
 Special Iron Plate::2080000222
 Special Marbled Gravel::2080000221
 Special Pawm Resin::2080000541
+Staunch Crystal Power::2080000278
+Staunch Thunder Power::2080000274
+Staunch Wind Power::2080000276
 Strong Cloth::2080000533
 Strong String::2080000532
+Sturdy Insulator::2080000275
 Sturdy String::2080000204
+Terra Projection::2080000281
 Thatch Roof::2080000506
 Thick Rope::2080000202
 Thick Strong Rope::2080000530
