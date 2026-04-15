@@ -5,7 +5,6 @@ Prefixes (first 4 digits):
 2110 -- badges and a bunch of other weapons
 2170 -- badges and a bunch of other weapons
 2180 -- Timetwisted Maze Charms
-2210 -- most material items found in the world/mob drop material items
 2310 -- random ahh Ultra Salmon, neo meat, Super Crunch
 2320 -- Item names: Rolly-rolly (Index 1 at address 79835EC120 Value: 0), Catnip (Index 2 at address 7983DE9760 Value: 0), Squeaky EX (Index 3 at address 7983DEC6A0 Value: 0)
 2350 -- random opus ticket, treatisies ticket, or codexes ticket (i think unavilable in current state of the game)
@@ -13,7 +12,7 @@ Prefixes (first 4 digits):
 2430 -- will corrupt world if have more than 1 or any modifications to any item here (restore mp and hp item food)
 2470 -- MISC stuff like Grasta upgrade Ore, Gadaro Soil, Poison Res.+20 Seed, Darkness Res. Fertilizer, Funeral Cavern Soil, Sleep Res. Fertilizer, Stone Res. Fertilizer, Poison Res. Fertilizer, Confusion Res. Fertilizer, Talgana Mountain Soil, Last Stand Ore
 2790 -- Account corruption if modify Alchemist items
-2819 -- unknown category
+2819 -- Another prefix for badges
 2820 -- unknown category
 2880 -- unknown category
 2881 -- unknown category
@@ -189,12 +188,11 @@ Prefixes (first 4 digits):
 2075 -- unknown category
 2076 -- Asterorb
 2078 -- https://anothereden.wiki/w/An_Ode_to_Origin:_Act_1_-_The_Beastfolk,_%22Antimony%22#Material_Locations-0
-2080 -- An Ode to Origin storyline
 
 Loaded 17246 unique-pointer values.
-Loaded 13053 manifest values.
+Loaded 13111 manifest values.
 
-Missing in manifest: 4193
+Missing in manifest: 4135
 177000161
 177000162
 177000163
@@ -311,22 +309,6 @@ Missing in manifest: 4193
 218001065
 218001080
 218001081
-221004255
-221004256
-221004257
-221004258
-221008279
-221009168
-221009169
-221009170
-221014131
-221014132
-221014133
-221014134
-221016197
-221016198
-221016199
-221016200
 231000001
 231000002
 231000003
@@ -4346,48 +4328,6 @@ Missing in manifest: 4193
 2078000432
 2078000433
 2078000434
-2080000142
-2080000143
-2080000144
-2080000145
-2080000146
-2080000147
-2080000148
-2080000149
-2080000150
-2080000151
-2080000152
-2080000153
-2080000261
-2080000262
-2080000263
-2080000264
-2080000265
-2080000266
-2080000267
-2080000268
-2080000269
-2080000270
-2080000271
-2080000272
-2080000273
-2080000274
-2080000275
-2080000276
-2080000277
-2080000278
-2080000279
-2080000280
-2080000281
-2080000282
-2080000283
-2080000627
-2080000628
-2080000629
-2080000630
-2080000631
-2080000632
-2080000633
 
 Critical error: manifest-only entries: 0
 (none)

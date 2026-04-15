@@ -130,6 +130,8 @@ Chernobog Opus::242030313
 Chevalier Tome::242020403
 Chronoandreios Starchart::242011009
 Citrinitas Tome::242030515
+Claidheamh Sol. Starchart::242011018
+Claidheamh Soluis Codex::242030138
 Covert Agent Treatise::242030307
 Crimson Knight Tome::242030108
 Crimson Ray Treatise::242030405
@@ -317,6 +319,8 @@ Ninetails Fox Starchart::242015020
 Ninetails Fox Tome::242030504
 Nirvana Starchart::242010009
 Nirvana Tome::242030043
+Oathmaiden Starchart::242011017
+Oathmaiden Tome::242030137
 Oberon Starchart::242014002
 Oberon Treatise::242030422
 Octofighter Tome::242030301
