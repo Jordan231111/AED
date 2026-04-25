@@ -215,6 +215,7 @@ Golden Flower Cat Tome::242030310
 Grand General Starchart::242011015
 Grand General Tome::242030135
 Gratinel Psalm::242030703
+Gratinel Starchart::242017008
 Gray Hound Tome::242030609
 Griffin Lance Tome::242020400
 Grim Reaper Tome::242030303
@@ -281,6 +282,8 @@ Magna Rex Treatise::242030505
 Mailed Sheep Tome::242030126
 Mal'akh Starchart::242017005
 Mal'akh Tome::242030701
+Marishiten Starchart::242014013
+Marishiten Treatise::242030427
 Marksman Tome::242020502
 Master Fencer Tome::242020203
 Maverick Treatise::242030612
@@ -701,6 +704,7 @@ Almighty Pow. (Beast)::288004215
 Almighty Pow. (Cat lover)::288004209
 Almighty Pow. (D.Kill.)::288004238
 Almighty Pow. (Eastern)::288004210
+Almighty Pow. (Estrangement)::288004251
 Almighty Pow. (Fut. Rev.)::288004250
 Almighty Pow. (Glasses)::288004211
 Almighty Pow. (IDA Sch.)::288004213
@@ -766,6 +770,7 @@ Amber Pendant::217030071
 Ame-no-Totsuka Proof::288300274
 Ame-no-Uzume Proof::288300268
 Ameretat Proof::288300053
+Amethyst Replica::2142000092
 Amethyst::2142000054
 AnabelESShield::211090490
 AnabelESSword::211090480
@@ -985,6 +990,9 @@ Azure Flutter::211029128
 Azure Flutter::211029129
 Azure Flutter::211029130
 Azure Flutter::211029131
+Azurelight Bracelet::217021221
+Azurelight Sword::211011111
+Azurelight Sword::211011112
 Badge: Earth Res. +6%::281737206
 Badge: Fire Res. +6%::281737106
 Badge: INT +10::281200010
@@ -1079,6 +1087,7 @@ Black Blaze::211029070
 Black Blaze::211029071
 Black Blaze::211029072
 Black Hole::298000116
+Black Hood Replica::2142000074
 Black Hood::2142000035
 Black Necklace II::217030132
 Black Necklace III::217030133
@@ -1184,9 +1193,11 @@ Bracelet of Despair III::217024041
 Bracelet of Despair::217020321
 Bracelet of Focus::217020351
 Bracelet of Might::217020381
+Bracer Replica::2142000087
 Bracer::2142000049
 Brass Pocket Watch::217040561
 Brave Storm Proof::288300040
+Brave Suit Replica::2142000084
 Brave Suit::2142000046
 Brawler Proof::288300035
 Briar Rose Proof::288300253
@@ -1194,6 +1205,7 @@ Brionac Proof::288300056
 Broad Ax Ⅱ::211030082
 Broad Ax::211030081
 Broken Origin Lance::211090500
+Bronze Vest Replica::2142000066
 Bronze Vest::2142000024
 Brown Leaf Necklace::217030251
 Brunhild Proof::288300060
@@ -1229,6 +1241,7 @@ Calm Player's Flute::211050850
 Calm Player's Flute::211050851
 Calm Player's Flute::211050852
 Camena Proof::288300263
+Carabini Mail Replica::2142000077
 Carabini Mail::2142000039
 Carmilla Proof::288300190
 Cat God's Khakkhara::211090110
@@ -1451,8 +1464,10 @@ Cherry Blossom Moon::211040302
 Cherry Blossom Shade::211020281
 Cherry Blossom Shade::211020282
 Chronoandreios Proof::288300273
+Chronosphere::211011131
 Cinnabar Saber::211020201
 Citrinitas Proof::288300167
+Claidheamh Soluis Proof::288300303
 Claro de Luna::211055001
 Claro de Luna::211055002
 Claro de Luna::211055003
@@ -1504,6 +1519,7 @@ Conviction II::211030112
 Conviction III::211030113
 Conviction::211030111
 Coral Gloves::211060121
+Coral Ring Replica::2142000064
 Coral Ring::2142000022
 Coral Ring::217040121
 Cornered Badge::281780103
@@ -1923,6 +1939,7 @@ Devotroid Proof::288300200
 Dexterity's Demands::211010421
 Dexterity's Demands::211010422
 Diamond Necklace::217030891
+Diamond Replica::2142000095
 Diamond::2142000059
 Dicé Proof::288300194
 Diminish::298000135
@@ -2154,6 +2171,7 @@ E. Carmilla Proof::288304192
 E. Chernobog Proof::288304145
 E. Chronoandreios Proof::288304271
 E. Citrinitas Proof::288304169
+E. Claidheamh Soluis Proof::288304306
 E. Cleansing Fire Proof::288304241
 E. Covert Agent Proof::288304072
 E. Crimson Knight Proof::288304075
@@ -2271,6 +2289,7 @@ E. Magister Proof::288304025
 E. Magna Rex Proof::288304063
 E. Mailed Sheep Proof::288304204
 E. Mal'akh Proof::288304016
+E. Marishiten Proof::288304307
 E. Maverick Proof::288304130
 E. Medea Proof::288304206
 E. Mediator Proof::288304141
@@ -2294,8 +2313,10 @@ E. Negotiator Proof::288304015
 E. Nekogami Proof::288304157
 E. Nekomata Avatar Proof::288304262
 E. Nemesis Proof::288304181
+E. Nightmare Proof::288304303
 E. Ninetails Fox Proof::288304043
 E. Nirvana Proof::288304256
+E. Oathmaiden Proof::288304305
 E. Oberon Proof::288304228
 E. Octofighter Proof::288304014
 E. Okaminokami Proof::288304172
@@ -2355,6 +2376,7 @@ E. Soul Bringer Proof::288304059
 E. Soul Keeper Proof::288304136
 E. Sovereign Proof::288304021
 E. Starlight Proof::288304027
+E. Starry-Eyed Girl Proof::288304304
 E. Steropes Proof::288304212
 E. Stormbreaker Proof::288304038
 E. String Puller Proof::288304091
@@ -2523,6 +2545,7 @@ Eclipse Spear::211040871
 Eclipse Staff::211000901
 Eclipse Sword::211011001
 Edax Badge::281900120
+Egoist's Armlet Replica::2142000073
 Egoist's Armlet::2142000032
 Electro Bolt::298000110
 Elegant Icicle Bow::211050345
@@ -2679,6 +2702,7 @@ Enh. Norm. Att. (Swo.)::288007002
 Enh. if Max HP (Ax)::288006004
 Enh. if Max HP (Beast)::288006027
 Enh. if Max HP (Bow)::288006006
+Enh. if Max HP (Clergy)::288006032
 Enh. if Max HP (Crystal)::288006025
 Enh. if Max HP (Earth)::288006022
 Enh. if Max HP (Eastern)::288006026
@@ -2815,6 +2839,7 @@ Feather Bangle::217021031
 Feather Bangle::217021041
 Feather Bangle::217021051
 Feather Boots::2142000037
+Feather Hat Replica::2142000061
 Feather Hat::2142000019
 Feather Necklace::217031031
 Feather Necklace::217031041
@@ -2955,8 +2980,10 @@ Futsunomitama Proof::288300272
 Gaia Gear::2142000033
 Galaxy Badge::281900126
 Galeforce Proof::288300026
+Garnet Replica::2142000093
 Garnet::2142000055
 Genius::298000133
+Genji Armor Replica::2142000068
 Genji Armor::2142000026
 Genji Gloves::2142000058
 Geomancer Proof::288300001
@@ -2969,6 +2996,7 @@ Gladius III::211010093
 Gladius::211010091
 Glass Armlet::2142000008
 Glass Badge::281900096
+Glass Buckle Replica::2142000063
 Glass Buckle::2142000021
 Gleaming Bracelet::217020801
 Gleaming Necklace::217030731
@@ -3047,6 +3075,7 @@ Grati Aegis::211000201
 Grati Aegis::211000202
 Gratinel Proof::288300047
 Gray Hound Proof::288300085
+Green Beret Replica::2142000085
 Green Beret::2142000047
 Greenleaf's Armlet::217021061
 Greenleaf's Armlet::217021071
@@ -3347,6 +3376,7 @@ Historic Ax::211030581
 Historic Ax::211030582
 Historic Sword::211010741
 Holy Legends::211011101
+Holy Miter Replica::2142000069
 Holy Miter::2142000027
 Holy Necklace II::217030112
 Holy Necklace III::217030113
@@ -3496,6 +3526,9 @@ Indra Proof::288300089
 Infernal Power of Pain::288009201
 Infernal Rebel's Power::288001212
 Inferno::298000111
+Inherited Bracelet::217021211
+Inherited Necklace::217031231
+Inherited Ring::217041361
 Innocence::211025001
 Innocence::211025002
 Innocence::211025003
@@ -3528,6 +3561,7 @@ Iron Bangle::217020011
 Iron Bow::211050011
 Iron Choker::217030011
 Iron Hammer::211070011
+Iron Helm Replica::2142000062
 Iron Helm::2142000020
 Iron Spear::211040011
 Iron Staff::211000011
@@ -3563,6 +3597,7 @@ Juno Proof::288300166
 Justitia Proof::288300140
 K Vanquisher Badge::281900106
 Kagutsuchi Proof::288300004
+Kaiser Helm Replica::2142000082
 Kaiser Helm::2142000044
 Katana [Default]::211020000
 Katana of Cursed Time::211020511
@@ -3679,6 +3714,7 @@ Lance Ⅱ::211040082
 Lance's Prayer (Lan.)::288202005
 Lance::211040081
 Lapin Proof::288300020
+Lapis Lazuli Replica::2142000094
 Lapis Lazuli::2142000056
 Large Falcon Katana::211020361
 Last Haven Proof::288300277
@@ -3739,6 +3775,7 @@ Limit Breaker::211079048
 Limit Breaker::211079049
 Limit Breaker::211079050
 Limit Breaker::211079051
+Linen Cuirass Replica::2142000079
 Linen Cuirass::2142000041
 Little Glitter::211010191
 Lolipopper::211050221
@@ -3905,8 +3942,10 @@ Machine Bow::211050101
 Mad Star Power (West)::288203002
 Mage Masher::211020941
 Mage Staff::211000931
+Magic Armlet Replica::2142000067
 Magic Armlet::2142000025
 Magic Badge::281710108
+Magic Power (Fut. Rev.)::288005110
 Magic Power Test::288020025
 Magic Rabbit's Staff::211005001
 Magic Rabbit's Staff::211005002
@@ -3979,6 +4018,7 @@ Magister Proof::288300025
 Magma Burst::298000104
 Magna Rex Proof::288300063
 Magnify::298000132
+Maiden Prayer Replica::2142000096
 Maiden Prayer::2142000060
 Mailed Sheep Proof::288300201
 Makel Keseph::211000471
@@ -4007,6 +4047,7 @@ Mana Rod::211000591
 Mana String::217030621
 Mana Wand::211000581
 Manaspring Badge::281900045
+Marishiten Proof::288300304
 Marked Badge::281900074
 Mars Hammer Ⅱ::211070142
 Mars Hammer::211070141
@@ -4240,6 +4281,7 @@ Mystery::211049071
 Mythril Vest::2142000030
 Myunfa's Kettle::211090140
 MyunfaACTeapot::211090420
+N-Kai Armlet Replica::2142000072
 N-Kai Armlet::2142000031
 Naivete Proof::288300290
 Narukami Proof::288300213
@@ -4251,6 +4293,7 @@ Negotiator Proof::288300015
 Nekogami Proof::288300156
 Nekomata Avatar Proof::288300264
 Nemesis Proof::288300179
+Nightmare Proof::288300300
 Nightwing Saber::211010231
 Nightwing Saber::211010232
 Nimble::298000125
@@ -4283,6 +4326,7 @@ OOPRing::217040741
 OOPRod::211000621
 OOPSpear::211040631
 OOPSword::211010771
+Oathmaiden Proof::288300302
 Oberon Proof::288300224
 Obligation::211019061
 Obligation::211019062
@@ -4334,6 +4378,7 @@ Okaminokami Proof::288300170
 Okuninushi Proof::288300270
 Ometeotl Proof::288300125
 Omoikane Proof::288300164
+Opal Replica::2142000089
 Opal::2142000051
 Opening Day Badge::281900100
 Oracle Proof::288300013
@@ -4470,6 +4515,7 @@ Pearl of Inner Peace::288105080
 Pendant: Poison (High)::217048051
 Pendant: SPD+ (L)::217048041
 Pendant: Stun (High)::217048061
+Peridot Replica::2142000091
 Peridot::2142000053
 Persephone Proof::288300147
 Petro's Sword::211090510
@@ -4604,6 +4650,7 @@ Pow. of Agony (Swo.)::288009112
 Pow. of Deadly Blow (Ax)::288005103
 Pow. of Deadly Blow (Bow)::288005105
 Pow. of Deadly Blow (Fist)::288005106
+Pow. of Deadly Blow (Fut. Rev.)::288005109
 Pow. of Deadly Blow (Ha.)::288005107
 Pow. of Deadly Blow (Kata.)::288005102
 Pow. of Deadly Blow (Lan.)::288005104
@@ -4633,6 +4680,7 @@ Pow. of Venom (Kata.)::288009013
 Pow. of Venom (Lan.)::288009015
 Pow. of Venom (Staff)::288009011
 Pow. of Venom (Swo.)::288009012
+Power Belt Replica::2142000075
 Power Belt::2142000036
 Power Choker::217030611
 Power Gloves Ⅱ::211060082
@@ -4796,11 +4844,20 @@ Power of Offense (M)::288015012
 Power of Offense (P)::288015010
 Power of Offense (S)::288015001
 Power of Offense (Sl)::288015009
+Power of Offense (Sl/M)::288015016
 Power of Offense (Stars)::288015004
 Power of Offense (T)::288015003
 Power of Offense (Wa)::288015006
 Power of Offense (Wi)::288015007
 Power of Pain::288009109
+Power of Peace (Ax)::288101331
+Power of Peace (Bow)::288101351
+Power of Peace (Fists)::288101361
+Power of Peace (Hammer)::288101371
+Power of Peace (Katana)::288101321
+Power of Peace (Lance)::288101341
+Power of Peace (Staff)::288101301
+Power of Peace (Sword)::288101311
 Power of Poison::288009009
 Power of Prism::288013011
 Power of Quake (Ax)::288002204
@@ -4953,6 +5010,7 @@ Proto Vesta::211060751
 Proud Beast Proof::288300055
 Prthivi Proof::288300226
 Psychic Idol Badge::281900105
+Pumice Piece Replica::2142000070
 Pumice Piece::2142000028
 Punch Out II::275221516
 Punch Out::275211516
@@ -5004,6 +5062,7 @@ Recovery Shield α::211990411
 Recovery Shield α::211990651
 Recovery Shield β::211990421
 Recovery Shield β::211990661
+Red Hat Replica::2142000080
 Red Hat::2142000042
 Red Masamori::211029101
 Red Masamori::211029102
@@ -5028,6 +5087,7 @@ Redbound Lance::211040591
 Redbound Staff::211000571
 Redbound Sword::211010721
 Reedlight Bangle::217020671
+Reflect Ring Replica::2142000081
 Reflect Ring::2142000043
 Refuse the Apex Order Badge::281900137
 Regenerator Γ::211990951
@@ -5064,6 +5124,7 @@ Reve Eternal::211009011
 Reve Eternal::211009012
 Reviver Proof::288300266
 Revolutionary Badge::281900136
+Ribbon Replica::2142000083
 Ribbon::2142000045
 Rill Ax::211030181
 Rill Ax::211030182
@@ -5094,6 +5155,7 @@ Rising Shot::211050201
 Roaring Bracelet::217020791
 Roaring Necklace::217030721
 Roaring Ring::217040831
+Robe of Lords Replica::2142000086
 Robe of Lords::2142000048
 Robustness II::275321525
 Robustness III::275331527
@@ -5142,6 +5204,7 @@ Rune Ring::217040101
 Rune Staff II::211000072
 Rune Staff III::211000073
 Rune Staff::211000071
+Running Shoes Replica::2142000076
 Running Shoes::2142000038
 Rusty Sword::211017001
 SPD Badge::281300011
@@ -5383,6 +5446,7 @@ Serpent Tail::211069028
 Serpent Tail::211069029
 Serpent Tail::211069030
 Serpent Tail::211069031
+Severing Sword::211011121
 Shade Attack Badge::281900143
 Shade Attack Badge::281900150
 Shade Blunt (Fists) Test::288020015
@@ -5456,6 +5520,7 @@ Sigrdrifa Proof::288300209
 Silence Bracelet::217020301
 Silence Necklace::217030271
 Silence Ring::217040301
+Silk Robe Replica::2142000065
 Silk Robe::2142000023
 Silk Shirt::2142000004
 Silken Wisp Proof::288300098
@@ -5614,9 +5679,11 @@ Sound Body (Fists)::288106020
 Sound Body (Fut. Rev.)::288106032
 Sound Body (Ha.)::288106021
 Sound Body (IDA School)::288106015
+Sound Body (KMS)::288106034
 Sound Body (Kata.)::288106013
 Sound Body (Lan.)::288106019
 Sound Body (Lost Laboratory)::288106016
+Sound Body (Royalty)::288106033
 Sound Body (Staff)::288106011
 Sound Body (Swo.)::288106017
 Sound Body (Synth Human)::288106026
@@ -5823,6 +5890,8 @@ Starmade Staff::211000561
 Starmade Sword::211010711
 Starmaiden Badge::281900102
 Starmaiden's Ring::217040961
+Starry Shine Badge::281900155
+Starry-Eyed Girl Proof::288300301
 Stat Debuff Res. (Phantom Thieves)::288200109
 Stat Debuff Resistance (Ax)::288200089
 Stat Debuff Resistance (Ax)::288200090
@@ -5879,6 +5948,8 @@ Steel Ring II::217040042
 Steel Ring III::217040043
 Steel Ring::217040041
 Steely Resolve Badge::281900090
+Stella Parva::211000971
+Stella Parva::211000972
 Steropes Proof::288300208
 Stinger::211060211
 Stone Resistance Badge::281747605
@@ -5964,6 +6035,7 @@ Supreme Power of Mind::288005021
 Supreme Power of Mind::288005022
 Supreme Power::288004227
 Surging Gales Badge::281900089
+Survival Vest Replica::2142000071
 Survival Vest::2142000029
 Susanoo Proof::288300111
 Swallow's Ambition::211069101
@@ -6094,6 +6166,7 @@ T. Carmilla Proof::288301194
 T. Chernobog Proof::288301147
 T. Chronoandreios Proof::288301273
 T. Citrinitas Proof::288301171
+T. Claidheamh Soluis Proof::288301308
 T. Cleansing Fire Proof::288301243
 T. Covert Agent Proof::288301072
 T. Crims. Knight Proof::288301077
@@ -6211,6 +6284,7 @@ T. Magister Proof::288301025
 T. Magna Rex Proof::288301063
 T. Mailed Sheep Proof::288301206
 T. Mal'akh Proof::288301016
+T. Marishiten Proof::288301309
 T. Maverick Proof::288301132
 T. Medea Proof::288301208
 T. Mediator Proof::288301143
@@ -6234,8 +6308,10 @@ T. Negotiator Proof::288301015
 T. Nekogami Proof::288301159
 T. Nekomata Avatar Proof::288301264
 T. Nemesis Proof::288301183
+T. Nightmare Proof::288301305
 T. Ninetails Fox Proof::288301043
 T. Nirvana Proof::288301258
+T. Oathmaiden Proof::288301307
 T. Oberon Proof::288301230
 T. Octofighter Proof::288301014
 T. Okaminokami Proof::288301174
@@ -6292,6 +6368,7 @@ T. Soul Bringer Proof::288301059
 T. Soul Keeper Proof::288301138
 T. Sovereign Proof::288301021
 T. Starlight Proof::288301027
+T. Starry-Eyed Girl Proof::288301306
 T. Steropes Proof::288301214
 T. Stormbreaker Proof::288301038
 T. String Puller Proof::288301093
@@ -6377,9 +6454,13 @@ Tempered Necklace::217030231
 Tempered Ring::217040261
 Tenkiri Maru::211020311
 Tentamare Proof::288300052
+Terapower Badge::281900158
 Terapower Hammer::211070261
 Terrenergy Badge::281900058
 Test Stack Amount::288210010
+TestUse Critical Badge::281900154
+TestUseMagicAbsorbBadge::281900157
+TestUsePhysicalAbsorbBadge::281900156
 Testament Badge::281900019
 Thanatos Proof::288300199
 The Fiery Lion::211079001
@@ -6440,6 +6521,7 @@ Time-Restored Necklace::217030511
 Time-Restored Ring::217040571
 Time-Restored Staff::211000491
 Time-Restored Sword::211010641
+Tin Armor Replica::2142000088
 Tin Armor::2142000050
 Titan Proof::288300006
 Titania Proof::288300081
@@ -6449,6 +6531,7 @@ Tofer Keseph::211060461
 Tomahawk II::211030052
 Tomahawk III::211030053
 Tomahawk::211030051
+Topaz Replica::2142000090
 Topaz::2142000052
 Tornado::298000113
 Toto's Luckypuncher::211060221
@@ -6625,6 +6708,7 @@ Variabler Γ::211990991
 Variabler Ω::211991001
 Variabler α::211990971
 Variabler β::211990981
+Venetia Shield Replica::2142000078
 Venetia Shield::2142000040
 Vengeful Healer Γ::211990311
 Vengeful Healer Ω::211990321

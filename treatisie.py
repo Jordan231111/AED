@@ -48,17 +48,17 @@ def process_file(input_filepath, output_filepath):
 def open_file(filepath):
     try:
         if sys.platform.startswith('darwin'):  # macOS
-            subprocess.run(['open', '-a', 'Cursor', filepath], check=True)
+            subprocess.run(['open', '-a', 'Windsurf', filepath], check=True)
         elif sys.platform.startswith('win'):   # Windows
-            subprocess.run(['cursor', filepath], check=True)
+            subprocess.run(['windsurf', filepath], check=True)
         elif sys.platform.startswith('linux'): # Linux
-            subprocess.run(['cursor', filepath], check=True)
+            subprocess.run(['windsurf', filepath], check=True)
         else:
-            print("Unsupported OS for opening with Cursor.")
+            print("Unsupported OS for opening with Windsurf.")
     except subprocess.CalledProcessError as e:
-        print(f"Failed to open {filepath} with Cursor: {e}")
+        print(f"Failed to open {filepath} with Windsurf: {e}")
     except FileNotFoundError:
-        print("Cursor command not found. Please ensure it is installed and in your PATH.")
+        print("Windsurf command not found. Please ensure it is installed and in your PATH.")
 
 if __name__ == '__main__':
     input_filepath = "/Users/jordan/Documents/AED/shopmanipulator.txt"
@@ -67,5 +67,5 @@ if __name__ == '__main__':
     process_file(input_filepath, output_filepath)
     print(f"Words and values extracted and saved to {output_filepath}")
     
-    # Automatically open the output file with Cursor
+    # Automatically open the output file with Windsurf
     open_file(output_filepath)
