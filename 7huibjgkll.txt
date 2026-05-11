@@ -51,6 +51,8 @@ Abyssal Devotee Tome::242030112
 Adept Fencer Tome::242020202
 Admiral Starchart::242012018
 Admiral Tome::242030202
+Aether Starchart::242010028
+Aether Treatise::242030054
 Agent Starchart::242014010
 Agent Tome::242030401
 Aima-Arravones Tome::242030410
@@ -110,6 +112,7 @@ Blazing Hero Treatise::242030619
 Blazing Sword Record::242030123
 Boyne Lord Tome::242030706
 Brave Storm Psalm::242030207
+Brave Storm Starchart::242012025
 Brawler Psalm::242030603
 Briar Rose Opus::242030719
 Briar Rose Starchart::242017004
