@@ -207,6 +207,7 @@ Fragarach Starchart::242011016
 Fraulein Opus::242030124
 Futsunomitama Codex::242030230
 Futsunomitama Starchart::242012020
+Galeforce Starchart::242016010
 Galeforce Tome::242030602
 Geomancer Starchart::242010012
 Geomancer Tome::242030000
@@ -303,6 +304,8 @@ Minstrel Tome::242030500
 Miracle Worker Treatise::242030030
 Miyabinokami Opus::242030419
 Monk Tome::242020603
+Morrígu Starchart::242011019
+Morrígu Treatise::242030139
 Murasame Starchart::242012001
 Murasame Tome::242030204
 Murmur Script::242000001
