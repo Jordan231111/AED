@@ -671,6 +671,7 @@ Aegis Defender::211049052
 Aero Blaster::298000106
 Aether Bangle::217020911
 Aether Necklace::217030841
+Aether Proof::288300305
 Aether Ring::217040941
 Agent Proof::288300018
 Agnivarna Proof::288300171
@@ -2129,6 +2130,7 @@ E. Abyss Liberator Proof::288304118
 E. Abyssal Devotee Proof::288304085
 E. Acacia Dragoon Proof::288304299
 E. Admiral Proof::288304011
+E. Aether Proof::288304308
 E. Agent Proof::288304018
 E. Agnivarna Proof::288304173
 E. Aima-Arravones Proof::288304103
@@ -2310,6 +2312,7 @@ E. Miracle Worker Proof::288304170
 E. Miyabinokami Proof::288304179
 E. Monarch Proof::288304144
 E. Moon Princess Proof::288304143
+E. Morrígu Proof::288304309
 E. Murasame Proof::288304029
 E. Muse Proof::288304233
 E. Myosotis Proof::288304161
@@ -2730,6 +2733,7 @@ Enhance Sp. Att. (Cat lover)::288302002
 Enhance Sp. Att. (Miglance Pal.)::288302003
 Enhance Sp. Att. (Protagonist)::288302001
 Enhanced Combo Rate Badge::281900013
+Enku Jizai Badge::281900159
 Enma Proof::288300139
 Epoch Maker Proof::288300219
 Epochtech Ax::211030601
@@ -4247,6 +4251,7 @@ Moonshade Sword::211012391
 Moonshade Sword::211012401
 Morning Star Ⅱ::211070082
 Morning Star::211070081
+Morrígu Proof::288300306
 Mujima Ax::211030491
 Mujima Bangle::217020571
 Mujima Bow::211050491
@@ -4598,6 +4603,17 @@ Poison Bow: Poison (Low)::211058021
 Poison Curse Badge::281900132
 Poison Curse II::275221502
 Poison Curse::275211502
+Poison Lily::211065101
+Poison Lily::211065102
+Poison Lily::211065103
+Poison Lily::211065104
+Poison Lily::211065105
+Poison Lily::211065106
+Poison Lily::211065107
+Poison Lily::211065108
+Poison Lily::211065109
+Poison Lily::211065110
+Poison Lily::211065111
 Poison Lily::211069041
 Poison Lily::211069042
 Poison Lily::211069043
@@ -6124,6 +6140,7 @@ T. Abyss Liberator Proof::288301120
 T. Abyssal Devot. Proof::288301087
 T. Acacia Dragoon Proof::288301301
 T. Admiral Proof::288301011
+T. Aether Proof::288301310
 T. Agent Proof::288301018
 T. Agnivarna Proof::288301175
 T. Aima-Arravones Proof::288301105
@@ -6305,6 +6322,7 @@ T. Miracle Worker Proof::288301172
 T. Miyabinokami Proof::288301181
 T. Monarch Proof::288301146
 T. Moon Princess Proof::288301145
+T. Morrígu Proof::288301311
 T. Murasame Proof::288301029
 T. Muse Proof::288301235
 T. Myosotis Proof::288301163
@@ -6805,6 +6823,7 @@ Vow of Invincibility III::275331541
 Vow of Invincibility::275311539
 Vow of Invincibility::288106010
 Völva Proof::288300183
+WP Strike <Guiding Light>::288010402
 Walking Stick::211008001
 Walkure Proof::288300161
 War Machine Wave::288303010
