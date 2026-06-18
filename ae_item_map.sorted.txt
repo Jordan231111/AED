@@ -1,4 +1,4 @@
-# === Tickets & Prayer Pieces (177) -- 420 items ===
+# === Tickets & Prayer Pieces (177) -- 424 items ===
 10 Allies Bundle (Campaign)::177900137
 1日1回ひとたびの出逢い::177000185
 1日1回ひとたびの出逢い::177000193
@@ -55,6 +55,7 @@ Encounter Mariel::177900159
 Encounter Melina::177900105
 Encounter Melissa::177900094
 Encounter Mighty::177900115
+Encounter Mistrare::177900223
 Encounter Myrus::177900144
 Encounter Piece::177900216
 Encounter Renri::177900153
@@ -181,6 +182,7 @@ Star Trail Ticket - Noble Blossom AS::177900214
 Star Trail Ticket - Noble Specturr::177900201
 Star Trail Ticket - Supurr Cat Day::177900203
 Star Trail Ticket - Violet Lancer AS::177900204
+Star Trail Ticket - Xianhua AS::177900222
 Stellar Shine Ticket::177900202
 Stellar Shine Ticket::177900213
 Stellar Shine Ticket::177900220
@@ -278,6 +280,7 @@ Woodcutter's Fragment::177900002
 ホオズキと出逢う::177000178
 マイティと出逢う::177000093
 マリエルと出逢う::177000137
+ミストレアと出逢う::177000201
 ミュルスと出逢う::177000122
 メリッサと出逢う::177000072
 メリナと出逢う::177000083
@@ -361,6 +364,7 @@ Woodcutter's Fragment::177900002
 星跡チケット・ねこの日すぺしゃる::177000180
 星跡チケット・エレノア::177000188
 星跡チケット・クチナワAS::177000195
+星跡チケット・シェンファAS::177000200
 星跡チケット・ハヴォック::177000198
 星跡チケット・フラムラピスES::177000189
 星跡チケット・メルピピアAS::177000196
@@ -573,7 +577,7 @@ Solid Fuel::209000001
 Super Alloy Arm::209000108
 Super Alloy Drill::209000103
 
-# === Weapons (211) -- 2799 items ===
+# === Weapons (211) -- 2821 items ===
 ???::211079081
 Absorber α::211990011
 Absorber β::211990021
@@ -2908,6 +2912,28 @@ Spirit Bow II::211050092
 Spirit Bow III::211050093
 Spirit Stone Staff::211000141
 Spirit Stone Staff Ⅱ::211000142
+Spun History::211055201
+Spun History::211055202
+Spun History::211055203
+Spun History::211055204
+Spun History::211055205
+Spun History::211055206
+Spun History::211055207
+Spun History::211055208
+Spun History::211055209
+Spun History::211055210
+Spun History::211055211
+Spun History::211059081
+Spun History::211059082
+Spun History::211059083
+Spun History::211059084
+Spun History::211059085
+Spun History::211059086
+Spun History::211059087
+Spun History::211059088
+Spun History::211059089
+Spun History::211059090
+Spun History::211059091
 Stable Ax::211032251
 Stable Ax::211032261
 Stable Ax::211032271
@@ -6957,7 +6983,7 @@ Young Red Laika Trio::241900568
 Yummy Small Fish::241000106
 Zomas Driver::241900556
 
-# === Class Records (242) -- 432 items ===
+# === Class Records (242) -- 436 items ===
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -7029,6 +7055,7 @@ Boyne Lord Tome::242030706
 Brave Storm Psalm::242030207
 Brave Storm Starchart::242012025
 Brawler Psalm::242030603
+Brawler Starchart::242016011
 Briar Rose Opus::242030719
 Briar Rose Starchart::242017004
 Brionac Starchart::242014009
@@ -7158,6 +7185,8 @@ Holy Warrior Tome::242020100
 Hoplon Delta Starchart::242016009
 Hoplon Delta Tome::242030624
 Hrungnir Tome::242030414
+Hunyuan Laojun Starchart::242010029
+Hunyuan Laojun Treatise::242030055
 Hypnotist Treatise::242030006
 Högni Starchart::242010004
 Högni Treatise::242030041
@@ -7165,6 +7194,7 @@ Indra Starchart::242012024
 Indra Tome::242030212
 Inspector Starchart::242013005
 Inspector Tome::242030302
+Isaiah Starchart::242015022
 Isaiah Tome::242030508
 Izanagi Starchart::242012017
 Jinni Opus::242030037
@@ -8233,7 +8263,7 @@ WARNING_ACCOUNT_CORRUPTION_Waterhold Jewel::279002114
 WARNING_ACCOUNT_CORRUPTION_Wave Jellyfish Fur::279002112
 WARNING_ACCOUNT_CORRUPTION_Wind Crystal::279002013
 
-# === Stat Badges (281) -- 705 items ===
+# === Stat Badges (281) -- 706 items ===
 [Default]::281000001
 Acute Drill Badge::281900121
 All Attack Badge::281900005
@@ -8399,6 +8429,7 @@ Galaxy Badge::281900126
 Giant's Badge::281900007
 Glass Badge::281900096
 Grand Sage Badge::281900014
+Gust Fists Badge::281900160
 Heat Blast Badge::281900067
 Heat Cutter Badge::281900066
 Heavy Duty Badge::281724105
@@ -8940,7 +8971,7 @@ Winged One Badge::281900076
 Wisdom Badge::281900095
 Wyrmkiller Badge::281900072
 
-# === Proofs / Power-of-X (288) -- 1825 items ===
+# === Proofs / Power-of-X (288) -- 1829 items ===
 A.Murakumo Proof::288300255
 Abyss Liberator Proof::288300116
 Abyssal Devotee Proof::288300087
@@ -9233,6 +9264,7 @@ E. Holy Sentinel Proof::288304232
 E. Holy Sword Proof::288304187
 E. Hoplon Delta Proof::288304310
 E. Hrungnir Proof::288304125
+E. Hunyuan Laojun Proof::288304312
 E. Hypnotist Proof::288304023
 E. Högni Proof::288304235
 E. Ice Doll Proof::288304244
@@ -9621,6 +9653,7 @@ HP Restore (Swo.)::288100112
 HP Restore (Swo.)::288100113
 HP Restore (Swo.)::288100114
 Hrungnir Proof::288300123
+Hunyuan Laojun Proof::288300309
 Hypnotist Proof::288300023
 Högni Proof::288300240
 Ice Doll Proof::288300249
@@ -9795,6 +9828,7 @@ Orco-Figlia Proof::288300070
 Orihime Proof::288300165
 Orpheus Proof::288300205
 Ourania Proof::288300150
+P. of Deadly Blow (Cooking)::288005111
 Paladin Proof::288300009
 Pearl of Inner Peace::288105080
 Persephone Proof::288300147
@@ -10454,6 +10488,7 @@ T. Holy Sentinel Proof::288301234
 T. Holy Sword Proof::288301189
 T. Hoplon Delta Proof::288301312
 T. Hrungnir Proof::288301127
+T. Hunyuan Laojun Proof::288301314
 T. Hypnotist Proof::288301023
 T. Högni Proof::288301237
 T. Ice Doll Proof::288301246
@@ -10926,7 +10961,7 @@ Toy Duck::450000040
 Wood Piece::450000027
 Wreath::450000034
 
-# === Hats & Headgear (452) -- 278 items ===
+# === Hats & Headgear (452) -- 281 items ===
 3 Colored Balloons::452060005
 Adameowtium Stache::452040009
 Akane-style Gorget::452050052
@@ -11013,6 +11048,7 @@ Frilly Hat::452010011
 Frog Hood::452010020
 Fruit Mood::452010006
 Galliard-style Cape::452060055
+Genius Coat::452060085
 Gentleman's Dignity::452010054
 Gentleman's Hat::452020006
 Glowing Katanya::452040030
@@ -11196,6 +11232,7 @@ Twilight Kitty Can Opener::452060071
 Two-tone Bear Hood::452010069
 Varuo Plushy::452060032
 Very Ordinary Logging Ax::452040017
+Victory Prayer Ribbon::452010074
 Violet Haori::452060070
 Wanderer's Haori::452060066
 Warm Overcoat::452060037
@@ -11203,6 +11240,7 @@ White Mustache::452040004
 Wind Spirit's Blessing::452010070
 Winged Kitty::452060041
 Witch's Envoy::452010001
+Xianhua-style Tie::452050081
 Yuna-style Red Obi::452060046
 Zilva-style Jabot::452050057
 

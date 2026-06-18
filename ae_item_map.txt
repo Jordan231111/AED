@@ -197,6 +197,8 @@ Star Dreams Piece::177000032
 フェルミナと出逢う::177000197
 星跡チケット・ハヴォック::177000198
 星の導きチケット::177000199
+星跡チケット・シェンファAS::177000200
+ミストレアと出逢う::177000201
 Princess' Prayer Fragment::177900001
 Woodcutter's Fragment::177900002
 Destiny Token::177900003
@@ -418,6 +420,8 @@ Star Trail Ticket - Melpiphia AS::177900218
 Encounter Felmina::177900219
 Stellar Shine Ticket::177900220
 Star Trail Ticket - Havoc::177900221
+Star Trail Ticket - Xianhua AS::177900222
+Encounter Mistrare::177900223
 Git::205000001
 Fish Medal::205000002
 Cat Medal::205000003
@@ -2535,6 +2539,17 @@ Blaze Feathers::211055108
 Blaze Feathers::211055109
 Blaze Feathers::211055110
 Blaze Feathers::211055111
+Spun History::211055201
+Spun History::211055202
+Spun History::211055203
+Spun History::211055204
+Spun History::211055205
+Spun History::211055206
+Spun History::211055207
+Spun History::211055208
+Spun History::211055209
+Spun History::211055210
+Spun History::211055211
 Sling::211058001
 Speed Bow: SPD+ (S)::211058011
 Poison Bow: Poison (Low)::211058021
@@ -2587,6 +2602,17 @@ Blaze Feathers::211059068
 Blaze Feathers::211059069
 Blaze Feathers::211059070
 Blaze Feathers::211059071
+Spun History::211059081
+Spun History::211059082
+Spun History::211059083
+Spun History::211059084
+Spun History::211059085
+Spun History::211059086
+Spun History::211059087
+Spun History::211059088
+Spun History::211059089
+Spun History::211059090
+Spun History::211059091
 Fists [Default]::211060000
 Clubber Gloves::211060011
 Leather Gloves::211060021
@@ -6965,6 +6991,7 @@ Yin-Yang Cat Starchart::242010025
 Starry-Eyed Girl Starchart::242010026
 Nightmare Starchart::242010027
 Aether Starchart::242010028
+Hunyuan Laojun Starchart::242010029
 Dragon Bearer Starchart::242011001
 Oraculum Starchart::242011002
 Sacrament Starchart::242011003
@@ -7032,6 +7059,7 @@ Takeminakata Starchart::242015018
 Hathor Starchart::242015019
 Ninetails Fox Starchart::242015020
 Special Ops Starchart::242015021
+Isaiah Starchart::242015022
 Enforcer Starchart::242016001
 Jiutian Xuannu Starchart::242016002
 Blazing Hero Starchart::242016003
@@ -7042,6 +7070,7 @@ Titan Starchart::242016007
 Bastet Starchart::242016008
 Hoplon Delta Starchart::242016009
 Galeforce Starchart::242016010
+Brawler Starchart::242016011
 Prthivi Starchart::242017001
 Muse Starchart::242017002
 Negotiator Starchart::242017003
@@ -7155,6 +7184,7 @@ Shashthi Treatise::242030051
 Yin-Yang Cat Opus::242030052
 Nightmare Opus::242030053
 Aether Treatise::242030054
+Hunyuan Laojun Treatise::242030055
 Paladin Tome::242030100
 Arc Knight Tome::242030101
 Dragon Bearer Psalms::242030102
@@ -8900,6 +8930,7 @@ TestUsePhysicalAbsorbBadge::281900156
 TestUseMagicAbsorbBadge::281900157
 Terapower Badge::281900158
 Enku Jizai Badge::281900159
+Gust Fists Badge::281900160
 Power of Emptiness::288000001
 Power of Emptiness::288000002
 Power of Emptiness::288000003
@@ -9118,6 +9149,7 @@ Pow. of Deadly Blow (Ha.)::288005107
 Pow. of Deadly Blow (Staff)::288005108
 Pow. of Deadly Blow (Fut. Rev.)::288005109
 Magic Power (Fut. Rev.)::288005110
+P. of Deadly Blow (Cooking)::288005111
 Enh. if Max HP (Staff)::288006001
 Enh. if Max HP (Swo.)::288006002
 Enh. if Max HP (Kata.)::288006003
@@ -10086,6 +10118,7 @@ Aether Proof::288300305
 Morrígu Proof::288300306
 Hoplon Delta Proof::288300307
 Special Ops Proof::288300308
+Hunyuan Laojun Proof::288300309
 T. Geomancer Proof::288301001
 T. Aqua Ruler Proof::288301002
 T. Minstrel Proof::288301003
@@ -10396,6 +10429,7 @@ T. Aether Proof::288301310
 T. Morrígu Proof::288301311
 T. Hoplon Delta Proof::288301312
 T. Special Ops Proof::288301313
+T. Hunyuan Laojun Proof::288301314
 Enhance Sp. Att. (Protagonist)::288302001
 Enhance Sp. Att. (Cat lover)::288302002
 Enhance Sp. Att. (Miglance Pal.)::288302003
@@ -10724,6 +10758,7 @@ E. Aether Proof::288304308
 E. Morrígu Proof::288304309
 E. Hoplon Delta Proof::288304310
 E. Special Ops Proof::288304311
+E. Hunyuan Laojun Proof::288304312
 Fated Star Proof::288309999
 High Purity Quartz::295000001
 Beautiful Horn::295000002
@@ -10949,6 +10984,7 @@ Wind Spirit's Blessing::452010070
 Little Bird's Hat::452010071
 Tinyan Energy::452010072
 Kuchinawa-style Mask::452010073
+Victory Prayer Ribbon::452010074
 Magician's Hat::452020001
 King's Crown::452020002
 Artist's Hat::452020003
@@ -11072,6 +11108,7 @@ Diva's Ribbon::452050077
 Information Broker's Ribbon::452050078
 Priestess' Charm::452050079
 Peddler's Medicine Box::452050080
+Xianhua-style Tie::452050081
 Red Wrapping Cloth::452060001
 Green Wrapping Cloth::452060002
 Mini Backpack::452060003
@@ -11154,6 +11191,7 @@ Laika Stuffed Animal::452060081
 Flammelapis-style Cape::452060082
 Moogle Plushy::452060083
 Dirt Snake Buddy::452060084
+Genius Coat::452060085
 Deck 1::464000001
 Deck 2::464000002
 Deck 3::464000003
