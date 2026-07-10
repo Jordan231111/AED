@@ -1,7 +1,8 @@
-# === Tickets & Prayer Pieces (177) -- 424 items ===
+# === Tickets & Prayer Pieces (177) -- 430 items ===
 10 Allies Bundle (Campaign)::177900137
 1日1回ひとたびの出逢い::177000185
 1日1回ひとたびの出逢い::177000193
+1日1回ひとたびの出逢い::177000205
 3rd Anniversary Drop::177900053
 5-Star Guar. Ticket::177900107
 5-Star Lone Encounter (Campaign)::177900136
@@ -27,6 +28,7 @@ Clughorn Star Trail Drop::177900177
 Daikokuten Star Trail Drop::177900156
 Daily Lone Encounter::177900207
 Daily Lone Encounter::177900215
+Daily Lone Encounter::177900226
 Day 3000 Star Trail Drop::177900155
 Destiny Token::177900003
 Destiny Token::177900012
@@ -58,6 +60,7 @@ Encounter Mighty::177900115
 Encounter Mistrare::177900223
 Encounter Myrus::177900144
 Encounter Piece::177900216
+Encounter Piece::177900227
 Encounter Renri::177900153
 Encounter Rosetta::177900172
 Encounter Shanie::177900113
@@ -178,6 +181,7 @@ Star Trail Ticket - Havoc::177900221
 Star Trail Ticket - Kuchinawa AS::177900217
 Star Trail Ticket - Lovinia AS::177900199
 Star Trail Ticket - Melpiphia AS::177900218
+Star Trail Ticket - Moonlight Flower AS::177900228
 Star Trail Ticket - Noble Blossom AS::177900214
 Star Trail Ticket - Noble Specturr::177900201
 Star Trail Ticket - Supurr Cat Day::177900203
@@ -293,6 +297,7 @@ Woodcutter's Fragment::177900002
 冒険の導きチケット::177000084
 冥のしずくのかけら::177000050
 出逢いのかけら::177000194
+出逢いのかけら::177000206
 十の出逢い（CP）::177000115
 天のしずくのかけら::177000049
 天の導きのしずく::177000031
@@ -370,6 +375,7 @@ Woodcutter's Fragment::177900002
 星跡チケット・メルピピアAS::177000196
 星跡チケット・ラビナAS::177000177
 星跡チケット・昏蝕の夢魔::177000184
+星跡チケット・月華の令嬢AS::177000204
 星跡チケット・紫装の槍使いAS::177000182
 星跡チケット・花咲の姫君AS::177000192
 星跡チケット・高踏の妖猫::177000179
@@ -424,7 +430,7 @@ Woodcutter's Fragment::177900002
 第3部後編CPチケット::177000079
 運命のしずく::177000026
 
-# === Currencies & Medals (205) -- 126 items ===
+# === Currencies & Medals (205) -- 127 items ===
 Active Magic Elements::205000031
 Allcosmos Fragment::205000079
 Aqua Darkbone::205000066
@@ -496,6 +502,7 @@ Ill-Omen Fur::205000097
 Immaculate Fragments::205000054
 Jade Fragments::205000050
 Jewel::205000118
+Jewel::205000129
 Kamasu Points::205000009
 Kamasu Points: Harpoon Fishing::205000034
 KOF Medal::205000103
@@ -6983,7 +6990,7 @@ Young Red Laika Trio::241900568
 Yummy Small Fish::241000106
 Zomas Driver::241900556
 
-# === Class Records (242) -- 436 items ===
+# === Class Records (242) -- 438 items ===
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -7292,6 +7299,8 @@ Oraculum Tome::242030128
 Orator Tome::242020704
 Orco-Figlia Treatise::242030211
 Orpheus Opus::242030036
+P. White Rose Starchart::242011020
+P. White Rose Treatise::242030140
 Paladin Starchart::242011013
 Paladin Tome::242030100
 Patriarch Tome::242020700
@@ -8263,7 +8272,7 @@ WARNING_ACCOUNT_CORRUPTION_Waterhold Jewel::279002114
 WARNING_ACCOUNT_CORRUPTION_Wave Jellyfish Fur::279002112
 WARNING_ACCOUNT_CORRUPTION_Wind Crystal::279002013
 
-# === Stat Badges (281) -- 706 items ===
+# === Stat Badges (281) -- 708 items ===
 [Default]::281000001
 Acute Drill Badge::281900121
 All Attack Badge::281900005
@@ -8317,6 +8326,7 @@ Dark Dragon Badge::281900087
 Darkness Resistance Badge::281749006
 Darkness Resistance Badge::281749010
 Defensive Posture Badge::281900111
+Despair Badge::281900162
 Determination Badge::281900086
 Divine Cure Badge::281900127
 Dragon Exile Badge::281900088
@@ -8525,6 +8535,7 @@ INT/SPR Badge::281240640
 Inventor King Badge::281900097
 Invite Badge::281900117
 K Vanquisher Badge::281900106
+Knight's Vow Badge::281900161
 Last Stand Badge::281900049
 LCK Badge::281400015
 LCK Badge::281400020
@@ -8971,7 +8982,7 @@ Winged One Badge::281900076
 Wisdom Badge::281900095
 Wyrmkiller Badge::281900072
 
-# === Proofs / Power-of-X (288) -- 1829 items ===
+# === Proofs / Power-of-X (288) -- 1832 items ===
 A.Murakumo Proof::288300255
 Abyss Liberator Proof::288300116
 Abyssal Devotee Proof::288300087
@@ -9357,6 +9368,7 @@ E. Power of Offense (C)::288015014
 E. Power of Offense (S)::288015013
 E. Power of Offense (T)::288015015
 E. Princess Proof::288304024
+E. Princess White Rose Proof::288304313
 E. Prophet Proof::288304279
 E. Proserpina Proof::288304301
 E. Protector Proof::288304036
@@ -10198,6 +10210,7 @@ Power of Wind::288003006
 Power of Wind::288003007
 Power of Wind::288003008
 Princess Proof::288300024
+Princess White Rose Proof::288300310
 Proof of Vanquisher::288300192
 Prophet Proof::288300281
 Proserpina Proof::288300298
@@ -10577,6 +10590,7 @@ T. Phantom Thief Proof::288301195
 T. Pluma Diana Proof::288301148
 T. Polyhymniā Proof::288301212
 T. Princess Proof::288301024
+T. Princess White Rose Proof::288301315
 T. Prophet Proof::288301281
 T. Proserpina Proof::288301303
 T. Protector Proof::288301036
@@ -14769,16 +14783,21 @@ Thorny Embrace II::2138000154
 Thorny Embrace II::2138000155
 Thorny Embrace II::2138000156
 
-# === Equipment Replicas (2142) -- 96 items ===
+# === Equipment Replicas (2142) -- 120 items ===
 Amethyst::2142000054
 Amethyst Replica::2142000092
 Aquamarine::2142000018
+Aquamarine Replica::2142000113
 Bandana::2142000001
+Bandana Replica::2142000097
 Battle Boots::2142000011
+Battle Boots Replica::2142000106
 Black Belt::2142000003
+Black Belt Replica::2142000099
 Black Hood::2142000035
 Black Hood Replica::2142000074
 Black Robe::2142000017
+Black Robe Replica::2142000112
 Bracer::2142000049
 Bracer Replica::2142000087
 Brave Suit::2142000046
@@ -14788,25 +14807,33 @@ Bronze Vest Replica::2142000066
 Carabini Mail::2142000039
 Carabini Mail Replica::2142000077
 Chain Mail::2142000012
+Chain Mail Replica::2142000107
 Coral Ring::2142000022
 Coral Ring Replica::2142000064
 Defense Gloves::2142000014
+Defense Gloves Replica::2142000109
 Diamond::2142000059
 Diamond Replica::2142000095
 Egoist's Armlet::2142000032
 Egoist's Armlet Replica::2142000073
 Emerald::2142000016
+Emerald Replica::2142000111
 Fairy Earrings::2142000006
+Fairy Earrings Replica::2142000102
 Feather Boots::2142000037
+Feather Boots Replica::2142000117
 Feather Hat::2142000019
 Feather Hat Replica::2142000061
 Gaia Gear::2142000033
+Gaia Gear Replica::2142000115
 Garnet::2142000055
 Garnet Replica::2142000093
 Genji Armor::2142000026
 Genji Armor Replica::2142000068
 Genji Gloves::2142000058
+Genji Gloves Replica::2142000119
 Glass Armlet::2142000008
+Glass Armlet Replica::2142000103
 Glass Buckle::2142000021
 Glass Buckle Replica::2142000063
 Green Beret::2142000047
@@ -14816,24 +14843,31 @@ Holy Miter Replica::2142000069
 Iron Helm::2142000020
 Iron Helm Replica::2142000062
 Judo Uniform::2142000013
+Judo Uniform Replica::2142000108
 Kaiser Helm::2142000044
 Kaiser Helm Replica::2142000082
 Lapis Lazuli::2142000056
 Lapis Lazuli Replica::2142000094
 Leather Wrist::2142000007
+Leather Wrist Replica::2142000120
 Light Robe::2142000034
+Light Robe Replica::2142000116
 Linen Cuirass::2142000041
 Linen Cuirass Replica::2142000079
 Magic Armlet::2142000025
 Magic Armlet Replica::2142000067
 Magician Robe::2142000005
+Magician Robe Replica::2142000101
 Magician Shoes::2142000015
+Magician Shoes Replica::2142000110
 Maiden Prayer::2142000060
 Maiden Prayer Replica::2142000096
 Mythril Vest::2142000030
+Mythril Vest Replica::2142000114
 N-Kai Armlet::2142000031
 N-Kai Armlet Replica::2142000072
 Ninja Gear::2142000009
+Ninja Gear Replica::2142000104
 Opal::2142000051
 Opal Replica::2142000089
 Peridot::2142000053
@@ -14841,6 +14875,7 @@ Peridot Replica::2142000091
 Power Belt::2142000036
 Power Belt Replica::2142000075
 Power Vest::2142000002
+Power Vest Replica::2142000098
 Pumice Piece::2142000028
 Pumice Piece Replica::2142000070
 Red Hat::2142000042
@@ -14854,9 +14889,11 @@ Robe of Lords Replica::2142000086
 Running Shoes::2142000038
 Running Shoes Replica::2142000076
 Sapphire::2142000057
+Sapphire Replica::2142000118
 Silk Robe::2142000023
 Silk Robe Replica::2142000065
 Silk Shirt::2142000004
+Silk Shirt Replica::2142000100
 Survival Vest::2142000029
 Survival Vest Replica::2142000071
 Tin Armor::2142000050
@@ -14864,5 +14901,6 @@ Tin Armor Replica::2142000088
 Topaz::2142000052
 Topaz Replica::2142000090
 Twist Headband::2142000010
+Twist Headband Replica::2142000105
 Venetia Shield::2142000040
 Venetia Shield Replica::2142000078

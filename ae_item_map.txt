@@ -199,6 +199,9 @@ Star Dreams Piece::177000032
 星の導きチケット::177000199
 星跡チケット・シェンファAS::177000200
 ミストレアと出逢う::177000201
+星跡チケット・月華の令嬢AS::177000204
+1日1回ひとたびの出逢い::177000205
+出逢いのかけら::177000206
 Princess' Prayer Fragment::177900001
 Woodcutter's Fragment::177900002
 Destiny Token::177900003
@@ -422,6 +425,9 @@ Stellar Shine Ticket::177900220
 Star Trail Ticket - Havoc::177900221
 Star Trail Ticket - Xianhua AS::177900222
 Encounter Mistrare::177900223
+Daily Lone Encounter::177900226
+Encounter Piece::177900227
+Star Trail Ticket - Moonlight Flower AS::177900228
 Git::205000001
 Fish Medal::205000002
 Cat Medal::205000003
@@ -548,6 +554,7 @@ Avowed Memory::205000123
 Avowed Memory::205000124
 Despair Relived::205000125
 Despair Relived::205000126
+Jewel::205000129
 Solid Fuel::209000001
 Atmo Pump::209000101
 Hi-Pressure Atmo Pump::209000102
@@ -7011,6 +7018,7 @@ Fragarach Starchart::242011016
 Oathmaiden Starchart::242011017
 Claidheamh Sol. Starchart::242011018
 Morrígu Starchart::242011019
+P. White Rose Starchart::242011020
 Murasame Starchart::242012001
 Narukami Starchart::242012011
 Takuhatachiji Starchart::242012012
@@ -7225,6 +7233,7 @@ Fragarach Codex::242030136
 Oathmaiden Tome::242030137
 Claidheamh Soluis Codex::242030138
 Morrígu Treatise::242030139
+P. White Rose Treatise::242030140
 Kagutsuchi Tome::242030200
 Sun Goddess Tome::242030201
 Admiral Tome::242030202
@@ -8931,6 +8940,8 @@ TestUseMagicAbsorbBadge::281900157
 Terapower Badge::281900158
 Enku Jizai Badge::281900159
 Gust Fists Badge::281900160
+Knight's Vow Badge::281900161
+Despair Badge::281900162
 Power of Emptiness::288000001
 Power of Emptiness::288000002
 Power of Emptiness::288000003
@@ -10119,6 +10130,7 @@ Morrígu Proof::288300306
 Hoplon Delta Proof::288300307
 Special Ops Proof::288300308
 Hunyuan Laojun Proof::288300309
+Princess White Rose Proof::288300310
 T. Geomancer Proof::288301001
 T. Aqua Ruler Proof::288301002
 T. Minstrel Proof::288301003
@@ -10430,6 +10442,7 @@ T. Morrígu Proof::288301311
 T. Hoplon Delta Proof::288301312
 T. Special Ops Proof::288301313
 T. Hunyuan Laojun Proof::288301314
+T. Princess White Rose Proof::288301315
 Enhance Sp. Att. (Protagonist)::288302001
 Enhance Sp. Att. (Cat lover)::288302002
 Enhance Sp. Att. (Miglance Pal.)::288302003
@@ -10759,6 +10772,7 @@ E. Morrígu Proof::288304309
 E. Hoplon Delta Proof::288304310
 E. Special Ops Proof::288304311
 E. Hunyuan Laojun Proof::288304312
+E. Princess White Rose Proof::288304313
 Fated Star Proof::288309999
 High Purity Quartz::295000001
 Beautiful Horn::295000002
@@ -14751,3 +14765,27 @@ Garnet Replica::2142000093
 Lapis Lazuli Replica::2142000094
 Diamond Replica::2142000095
 Maiden Prayer Replica::2142000096
+Bandana Replica::2142000097
+Power Vest Replica::2142000098
+Black Belt Replica::2142000099
+Silk Shirt Replica::2142000100
+Magician Robe Replica::2142000101
+Fairy Earrings Replica::2142000102
+Glass Armlet Replica::2142000103
+Ninja Gear Replica::2142000104
+Twist Headband Replica::2142000105
+Battle Boots Replica::2142000106
+Chain Mail Replica::2142000107
+Judo Uniform Replica::2142000108
+Defense Gloves Replica::2142000109
+Magician Shoes Replica::2142000110
+Emerald Replica::2142000111
+Black Robe Replica::2142000112
+Aquamarine Replica::2142000113
+Mythril Vest Replica::2142000114
+Gaia Gear Replica::2142000115
+Light Robe Replica::2142000116
+Feather Boots Replica::2142000117
+Sapphire Replica::2142000118
+Genji Gloves Replica::2142000119
+Leather Wrist Replica::2142000120
