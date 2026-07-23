@@ -2,8 +2,7 @@
 """Pull the Another Eden item map off the device and write a sorted, categorized copy.
 
 Run it from anywhere -- it does everything in one shot:
-  1. `adb kill-server`, then `adb connect 127.0.0.1:16384` (falls back to :16385) -- the two
-     ports the emulator always uses.
+  1. `adb kill-server`, then `adb connect 127.0.0.1:5555` -- the emulator's ADB port.
   2. `adb root` and pull the module's dump:
         /data/data/games.wfs.anothereden/files/ae_item_map.txt
      This is the file the "Dump item map" button in the overlay writes, so tap it in-game
@@ -22,6 +21,7 @@ No RVAs, no patching here: this only reads a file the in-process dumper already 
 from __future__ import annotations
 
 import argparse
+import base64
 import re
 import shutil
 import subprocess
@@ -31,7 +31,7 @@ from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PACKAGE = "games.wfs.anothereden"
-PORTS = ("127.0.0.1:16384", "127.0.0.1:16385")  # the two the emulator always uses
+PORTS = ("127.0.0.1:5555",)  # the emulator's ADB port
 RAW_OUT = "ae_item_map.txt"
 SORTED_OUT = "ae_item_map.sorted.txt"
 HAND_FILE = "7huibjgkll.txt"
@@ -138,20 +138,20 @@ def connect(adb_bin) -> str:
             serial = line.split("\t", 1)[0]
             print(f"adb: using attached device {serial}")
             return serial
-    sys.exit("Could not connect to 127.0.0.1:16384/16385 or any device. Is the emulator running?")
+    sys.exit("Could not connect to 127.0.0.1:5555 or any device. Is the emulator running?")
 
 
 def pull_dump(adb_bin, serial, device_file, dest: Path) -> None:
     adb(adb_bin, "root", serial=serial)            # /data/data needs root; no-op if already root
     adb(adb_bin, "wait-for-device", serial=serial)
     out = adb(adb_bin, "pull", device_file, str(dest), serial=serial)
-    if dest.exists() and dest.stat().st_size > 0:
+    if out.returncode == 0 and dest.exists() and dest.stat().st_size > 0:
         print(f"pulled {device_file} -> {dest.name} ({dest.stat().st_size} bytes)")
         return
-    # fallback: su cat (binary-safe) for non-rootable adb
-    res = adb(adb_bin, "exec-out", f"su -c 'cat {device_file}'", serial=serial, text=False)
+    # fallback: su + base64 (binary-safe) for non-rootable adb
+    res = adb(adb_bin, "exec-out", f"su -c 'base64 {device_file}'", serial=serial, text=False)
     if res.returncode == 0 and res.stdout:
-        dest.write_bytes(res.stdout)
+        dest.write_bytes(base64.b64decode(res.stdout))
         print(f"pulled via su -> {dest.name} ({dest.stat().st_size} bytes)")
         return
     sys.exit(f"Failed to pull {device_file}. Tap 'Dump item map' in the overlay first, and make "
