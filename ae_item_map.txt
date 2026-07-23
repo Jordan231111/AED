@@ -202,6 +202,8 @@ Star Dreams Piece::177000032
 星跡チケット・月華の令嬢AS::177000204
 1日1回ひとたびの出逢い::177000205
 出逢いのかけら::177000206
+星跡チケット・エリナAS::177000207
+デューイと出逢う::177000208
 Princess' Prayer Fragment::177900001
 Woodcutter's Fragment::177900002
 Destiny Token::177900003
@@ -428,6 +430,8 @@ Encounter Mistrare::177900223
 Daily Lone Encounter::177900226
 Encounter Piece::177900227
 Star Trail Ticket - Moonlight Flower AS::177900228
+Star Trail Ticket - Erina AS::177900229
+Encounter Dewey::177900230
 Git::205000001
 Fish Medal::205000002
 Cat Medal::205000003
@@ -2845,6 +2849,17 @@ Poison Lily::211065108
 Poison Lily::211065109
 Poison Lily::211065110
 Poison Lily::211065111
+Vapor Gloves::211065201
+Vapor Gloves::211065202
+Vapor Gloves::211065203
+Vapor Gloves::211065204
+Vapor Gloves::211065205
+Vapor Gloves::211065206
+Vapor Gloves::211065207
+Vapor Gloves::211065208
+Vapor Gloves::211065209
+Vapor Gloves::211065210
+Vapor Gloves::211065211
 Stalwart Fists::211069001
 Stalwart Fists::211069002
 Stalwart Fists::211069003
@@ -6999,6 +7014,7 @@ Starry-Eyed Girl Starchart::242010026
 Nightmare Starchart::242010027
 Aether Starchart::242010028
 Hunyuan Laojun Starchart::242010029
+Rad. Chrysanth Starchart::242010030
 Dragon Bearer Starchart::242011001
 Oraculum Starchart::242011002
 Sacrament Starchart::242011003
@@ -7079,6 +7095,7 @@ Bastet Starchart::242016008
 Hoplon Delta Starchart::242016009
 Galeforce Starchart::242016010
 Brawler Starchart::242016011
+Stormbreaker Starchart::242016012
 Prthivi Starchart::242017001
 Muse Starchart::242017002
 Negotiator Starchart::242017003
@@ -7193,6 +7210,7 @@ Yin-Yang Cat Opus::242030052
 Nightmare Opus::242030053
 Aether Treatise::242030054
 Hunyuan Laojun Treatise::242030055
+Rad. Chrysanth Treatise::242030056
 Paladin Tome::242030100
 Arc Knight Tome::242030101
 Dragon Bearer Psalms::242030102
@@ -10131,6 +10149,7 @@ Hoplon Delta Proof::288300307
 Special Ops Proof::288300308
 Hunyuan Laojun Proof::288300309
 Princess White Rose Proof::288300310
+Radiant Chrysanth Proof::288300311
 T. Geomancer Proof::288301001
 T. Aqua Ruler Proof::288301002
 T. Minstrel Proof::288301003
@@ -10443,6 +10462,7 @@ T. Hoplon Delta Proof::288301312
 T. Special Ops Proof::288301313
 T. Hunyuan Laojun Proof::288301314
 T. Princess White Rose Proof::288301315
+T. Radiant Chrysanth Proof::288301316
 Enhance Sp. Att. (Protagonist)::288302001
 Enhance Sp. Att. (Cat lover)::288302002
 Enhance Sp. Att. (Miglance Pal.)::288302003
@@ -10773,6 +10793,7 @@ E. Hoplon Delta Proof::288304310
 E. Special Ops Proof::288304311
 E. Hunyuan Laojun Proof::288304312
 E. Princess White Rose Proof::288304313
+E. Radiant Chrysanth Proof::288304314
 Fated Star Proof::288309999
 High Purity Quartz::295000001
 Beautiful Horn::295000002
@@ -10999,6 +11020,7 @@ Little Bird's Hat::452010071
 Tinyan Energy::452010072
 Kuchinawa-style Mask::452010073
 Victory Prayer Ribbon::452010074
+Erina-style Beret::452010075
 Magician's Hat::452020001
 King's Crown::452020002
 Artist's Hat::452020003
@@ -11123,6 +11145,7 @@ Information Broker's Ribbon::452050078
 Priestess' Charm::452050079
 Peddler's Medicine Box::452050080
 Xianhua-style Tie::452050081
+Bond of Sisterhood::452050082
 Red Wrapping Cloth::452060001
 Green Wrapping Cloth::452060002
 Mini Backpack::452060003
@@ -11206,6 +11229,7 @@ Flammelapis-style Cape::452060082
 Moogle Plushy::452060083
 Dirt Snake Buddy::452060084
 Genius Coat::452060085
+Overtly Expensive Cape::452060086
 Deck 1::464000001
 Deck 2::464000002
 Deck 3::464000003

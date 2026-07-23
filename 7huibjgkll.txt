@@ -1,4 +1,4 @@
-# === Tickets & Prayer Pieces (177) -- 430 items ===
+# === Tickets & Prayer Pieces (177) -- 434 items ===
 10 Allies Bundle (Campaign)::177900137
 1日1回ひとたびの出逢い::177000185
 1日1回ひとたびの出逢い::177000193
@@ -45,6 +45,7 @@ Encounter Anabel::177900170
 Encounter Bertrand::177900100
 Encounter Cetie::177900151
 Encounter Claude::177900185
+Encounter Dewey::177900230
 Encounter Eva::177900125
 Encounter Ewan::177900104
 Encounter Felmina::177900219
@@ -176,6 +177,7 @@ Star Dreams Piece::177900163
 Star Dreams Piece::177900191
 Star Trail Ticket - Dark Devourer::177900206
 Star Trail Ticket - Eleanor::177900210
+Star Trail Ticket - Erina AS::177900229
 Star Trail Ticket - Flammelapis ES::177900211
 Star Trail Ticket - Havoc::177900221
 Star Trail Ticket - Kuchinawa AS::177900217
@@ -277,6 +279,7 @@ Woodcutter's Fragment::177900002
 チルリルと出逢う::177000158
 ツキハと出逢う::177000064
 ティラミスと出逢う::177000073
+デューイと出逢う::177000208
 トゥーヴァと出逢う::177000108
 ヒスメナと出逢う::177000127
 フェルミナと出逢う::177000197
@@ -367,6 +370,7 @@ Woodcutter's Fragment::177900002
 星跡のしずく・猫又権現::177000097
 星跡のしずく・蒼色の忠臣::177000146
 星跡チケット・ねこの日すぺしゃる::177000180
+星跡チケット・エリナAS::177000207
 星跡チケット・エレノア::177000188
 星跡チケット・クチナワAS::177000195
 星跡チケット・シェンファAS::177000200
@@ -584,7 +588,7 @@ Solid Fuel::209000001
 Super Alloy Arm::209000108
 Super Alloy Drill::209000103
 
-# === Weapons (211) -- 2821 items ===
+# === Weapons (211) -- 2832 items ===
 ???::211079081
 Absorber α::211990011
 Absorber β::211990021
@@ -3273,6 +3277,17 @@ ULTIMANIA Hammer::211070254
 ULTIMANIA Hammer::211070255
 ULTIMANIA Hammer::211070256
 ULTIMANIA Hammer::211070257
+Vapor Gloves::211065201
+Vapor Gloves::211065202
+Vapor Gloves::211065203
+Vapor Gloves::211065204
+Vapor Gloves::211065205
+Vapor Gloves::211065206
+Vapor Gloves::211065207
+Vapor Gloves::211065208
+Vapor Gloves::211065209
+Vapor Gloves::211065210
+Vapor Gloves::211065211
 Vapor Gloves::211069061
 Vapor Gloves::211069062
 Vapor Gloves::211069063
@@ -6990,7 +7005,7 @@ Young Red Laika Trio::241900568
 Yummy Small Fish::241000106
 Zomas Driver::241900556
 
-# === Class Records (242) -- 438 items ===
+# === Class Records (242) -- 441 items ===
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -7320,6 +7335,8 @@ Proud Beast Treatise::242030607
 Prthivi Starchart::242017001
 Prthivi Treatise::242030717
 Punishment Treatise::242030704
+Rad. Chrysanth Starchart::242010030
+Rad. Chrysanth Treatise::242030056
 Rakshasa Tome::242020201
 Raven Tengu Starchart::242010007
 Raven Tengu Tome::242030042
@@ -7364,6 +7381,7 @@ Starlight Treatise::242030203
 Starry-Eyed Girl Starchart::242010026
 Steropes Starchart::242010022
 Storied Fighter Starchart::242019002
+Stormbreaker Starchart::242016012
 Stormbreaker Tome::242030604
 Striker Tome::242020602
 String Puller Tome::242030214
@@ -8982,7 +9000,7 @@ Winged One Badge::281900076
 Wisdom Badge::281900095
 Wyrmkiller Badge::281900072
 
-# === Proofs / Power-of-X (288) -- 1832 items ===
+# === Proofs / Power-of-X (288) -- 1835 items ===
 A.Murakumo Proof::288300255
 Abyss Liberator Proof::288300116
 Abyssal Devotee Proof::288300087
@@ -9375,6 +9393,7 @@ E. Protector Proof::288304036
 E. Proud Beast Proof::288304055
 E. Prthivi Proof::288304230
 E. Punishment Proof::288304049
+E. Radiant Chrysanth Proof::288304314
 E. Radical Dreamer Proof::288304142
 E. Raven Tengu Proof::288304255
 E. Rebel Proof::288304231
@@ -10218,6 +10237,7 @@ Protector Proof::288300036
 Proud Beast Proof::288300055
 Prthivi Proof::288300226
 Punishment Proof::288300049
+Radiant Chrysanth Proof::288300311
 Raven Tengu Proof::288300260
 Rebel Proof::288300227
 Red Scorpio Proof::288300142
@@ -10597,6 +10617,7 @@ T. Protector Proof::288301036
 T. Proud Beast Proof::288301055
 T. Prthivi Proof::288301232
 T. Punishment Proof::288301049
+T. Radiant Chrysanth Proof::288301316
 T. Radical Dreamer Proof::288301144
 T. Raven Tengu Proof::288301257
 T. Rebel Proof::288301233
@@ -10975,7 +10996,7 @@ Toy Duck::450000040
 Wood Piece::450000027
 Wreath::450000034
 
-# === Hats & Headgear (452) -- 281 items ===
+# === Hats & Headgear (452) -- 284 items ===
 3 Colored Balloons::452060005
 Adameowtium Stache::452040009
 Akane-style Gorget::452050052
@@ -11004,6 +11025,7 @@ Black Mustache::452040005
 Blooming Gorget::452050068
 Blue Collar::452050010
 Blue Ribbon Bell::452050007
+Bond of Sisterhood::452050082
 Bran Stuffed Animal::452060048
 Broker's Mantle::452060050
 Bull Hat::452010002
@@ -11041,6 +11063,7 @@ Dunarith-style Scarf::452050047
 Eastern Cat Bell::452050046
 Eastern Earclip::452010042
 Elseal-style De Gaulle::452010058
+Erina-style Beret::452010075
 Eva-style Collar::452050062
 Ewan-style Stole::452050048
 Ewella-style Accessory::452050053
@@ -11157,6 +11180,7 @@ Nyit Cap::452010019
 Officer For A Day::452010052
 Origin Meownce::452040024
 Otoha-Style Hairpin::452010030
+Overtly Expensive Cape::452060086
 Painter's Brush::452040001
 Parasol Cape::452060035
 Parisa-style Ribbon::452010045
