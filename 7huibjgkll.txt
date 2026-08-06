@@ -1,10 +1,12 @@
-# === Tickets & Prayer Pieces (177) -- 434 items ===
+# === Tickets & Prayer Pieces (177) -- 442 items ===
+10 Allies Bundle (Alterfit)::177900231
 10 Allies Bundle (Campaign)::177900137
 1日1回ひとたびの出逢い::177000185
 1日1回ひとたびの出逢い::177000193
 1日1回ひとたびの出逢い::177000205
 3rd Anniversary Drop::177900053
 5-Star Guar. Ticket::177900107
+5-Star Guaranteed 10 Allies Bundle (Alterfit)::177900232
 5-Star Lone Encounter (Campaign)::177900136
 5-Star Lone Encounter (Campaign)::177900181
 5-Star Lone Encounter (Campaign)::177900209
@@ -141,6 +143,7 @@ Silver Ticket::177000001
 Sky Lesson's Token::177000008
 Sky Lesson's Token::177900010
 Star Dream Ticket::177900212
+Star Dream Ticket::177900233
 Star Dreams Piece::177000004
 Star Dreams Piece::177000007
 Star Dreams Piece::177000009
@@ -187,6 +190,7 @@ Star Trail Ticket - Moonlight Flower AS::177900228
 Star Trail Ticket - Noble Blossom AS::177900214
 Star Trail Ticket - Noble Specturr::177900201
 Star Trail Ticket - Supurr Cat Day::177900203
+Star Trail Ticket - Theodorus::177900234
 Star Trail Ticket - Violet Lancer AS::177900204
 Star Trail Ticket - Xianhua AS::177900222
 Stellar Shine Ticket::177900202
@@ -264,6 +268,7 @@ Woodcutter's Fragment::177900002
 ★5確定ひとたびの出逢い（CP）::177000160
 ★5確定ひとたびの出逢い（CP）::177000187
 ★5確定出逢いチケット::177000085
+★5確定十の出逢い（異装）::177000210
 ひとたびの出逢い（CP）::177000156
 ひとたびの出逢い（CP）::177000186
 ひとたびの出逢い（大地）::177000144
@@ -302,6 +307,7 @@ Woodcutter's Fragment::177900002
 出逢いのかけら::177000194
 出逢いのかけら::177000206
 十の出逢い（CP）::177000115
+十の出逢い（異装）::177000209
 天のしずくのかけら::177000049
 天の導きのしずく::177000031
 戦陣の響きのしずく::177000045
@@ -321,6 +327,7 @@ Woodcutter's Fragment::177900002
 星の夢のかけら::177000141
 星の夢のかけら::177000169
 星の夢チケット::177000190
+星の夢チケット::177000211
 星の導きのしずく::177000077
 星の導きのしずく::177000090
 星の導きのしずく::177000104
@@ -374,6 +381,7 @@ Woodcutter's Fragment::177900002
 星跡チケット・エレノア::177000188
 星跡チケット・クチナワAS::177000195
 星跡チケット・シェンファAS::177000200
+星跡チケット・テオドロス::177000212
 星跡チケット・ハヴォック::177000198
 星跡チケット・フラムラピスES::177000189
 星跡チケット・メルピピアAS::177000196
@@ -434,7 +442,7 @@ Woodcutter's Fragment::177900002
 第3部後編CPチケット::177000079
 運命のしずく::177000026
 
-# === Currencies & Medals (205) -- 127 items ===
+# === Currencies & Medals (205) -- 129 items ===
 Active Magic Elements::205000031
 Allcosmos Fragment::205000079
 Aqua Darkbone::205000066
@@ -497,6 +505,8 @@ Flooded Bone::205000070
 Gabble::205000108
 Gil::205000117
 Git::205000001
+Glorious Memory::205000127
+Glorious Memory::205000128
 Growth Star::205000042
 Gust Darkgem::205000067
 Honor Point::205000005
@@ -588,7 +598,7 @@ Solid Fuel::209000001
 Super Alloy Arm::209000108
 Super Alloy Drill::209000103
 
-# === Weapons (211) -- 2832 items ===
+# === Weapons (211) -- 2837 items ===
 ???::211079081
 Absorber α::211990011
 Absorber β::211990021
@@ -793,8 +803,12 @@ Azure Flutter::211029128
 Azure Flutter::211029129
 Azure Flutter::211029130
 Azure Flutter::211029131
+Azurelight Ax::211030891
+Azurelight Ax::211030892
 Azurelight Fists::211060871
 Azurelight Fists::211060872
+Azurelight Hammer::211070981
+Azurelight Hammer::211070982
 Azurelight Sword::211011111
 Azurelight Sword::211011112
 Balanced Blade::211010481
@@ -1072,6 +1086,7 @@ Cernos Blanc::211009209
 Cernos Blanc::211009210
 Cernos Blanc::211009211
 Cerrine's Whip::211090150
+Ch2Severing Sword::211011141
 Chanit Keseph::211040501
 Chaotic Dark Blossom::211049081
 Chaotic Dark Blossom::211049082
@@ -4057,7 +4072,7 @@ Unlock Charm::218001020
 Vitality Charm::218001080
 Waning Charm::218001062
 
-# === Crafting Parts (Lenses/Devices) (221) -- 1739 items ===
+# === Crafting Parts (Lenses/Devices) (221) -- 1747 items ===
 ????::221004128
 ????::221004129
 ????::221004135
@@ -4081,6 +4096,7 @@ Alloy Medal::221008172
 Alloy Steel Powder::221013027
 Alpina::221012036
 Aluminum Bolt::221004021
+Ample Meat::221014136
 Ancient Armor Bit::221007101
 Ancient Big Bone::221016143
 Ancient Bone::221016142
@@ -4126,7 +4142,9 @@ Ax's Dragon Bone::221016180
 Azure Carapace::221016103
 Azure Hellflower::221012109
 Azure White Crystal::221009070
+Azurelight Ore (Ax)::221008288
 Azurelight Ore (Fists)::221008286
+Azurelight Ore (Hammer)::221008287
 Azurelight Ore (Sword)::221008282
 Bad Container::221009043
 Basil::221012001
@@ -4222,6 +4240,7 @@ Blood-Soaked Ax::221008033
 Bloodsoaked Nails::221016135
 Bloodstained Mane::221017045
 Bloody Blade::221008155
+Bloody Dragon Hide::221014137
 Bloody Iris::221004198
 Bloody Kimono::221005103
 Bloody Mad Mask::221016137
@@ -4274,6 +4293,7 @@ Broken Circuit::221004122
 Broken Claw::221016176
 Broken Club::221017035
 Broken Electromagnet::221004014
+Broken Fang::221016203
 Broken Floorboard::221017063
 Broken Gear::221004044
 Broken Handle::221007056
@@ -4291,6 +4311,7 @@ Brotherly Bond::221009029
 Brotherly Love::221009031
 Brown Spider Stone::221009038
 Bruised Gator Pear::221012140
+Bulky Bone::221016202
 Bulky Pelt::221014065
 Bulky Spike::221008278
 Buoyant Screw::221004184
@@ -4390,6 +4411,7 @@ Crystal Carapace::221009090
 Crystal Chain::221005100
 Crystal Horn::221009080
 Crystal Mass::221008248
+Crystal of Remorse::221009171
 Crystal Oil::221011073
 Crystal Pearl::221004225
 Crystal Shell::221008092
@@ -5764,6 +5786,7 @@ White Wood::221017048
 Wide-Range Feeler::221005097
 Wild Beast Tail::221005002
 Wild Crystalbloom::221012129
+Willpower Extract::221011109
 Wilted Crystal Flower::221012146
 Wind Crystal::221009004
 Wind Scale::221008221
@@ -5828,7 +5851,7 @@ Random Codex Ticket::235000002
 Random Opus Ticket::235000003
 Random Treatise Ticket::235000001
 
-# === Crafting & Drop Materials (241) -- 1175 items ===
+# === Crafting & Drop Materials (241) -- 1179 items ===
 "Fruit Tree" Data Chip::241900105
 "House" Data Chip::241900102
 "Road" Data Chip::241900103
@@ -5922,6 +5945,7 @@ Bomb Shopping List::241900202
 Bouncer Fee Estimate::241900187
 Bow Hieroglyph::241900791
 Bow Mold::241900811
+Brawny Points::241900849
 Brigan Bracelet::241900547
 Broken Device::241900800
 Broken OOPArt::241900460
@@ -6512,10 +6536,13 @@ Letter from Marlowe::241500003
 Letter of Authorization::241000095
 Letter of Introduction::241000092
 Level 2 Key: Despair::241900829
+Level 2 Key: Glory::241900844
 Level 2 Key: Knight's Vow::241900824
 Level 3 Key: Despair::241900830
+Level 3 Key: Glory::241900845
 Level 3 Key: Knight's Vow::241900825
 Level 4 Key: Despair::241900831
+Level 4 Key: Glory::241900846
 Level 4 Key: Knight's Vow::241900826
 Liam's Pocket Watch::241900213
 Limited-edition Gift::241900746
@@ -7005,7 +7032,7 @@ Young Red Laika Trio::241900568
 Yummy Small Fish::241000106
 Zomas Driver::241900556
 
-# === Class Records (242) -- 441 items ===
+# === Class Records (242) -- 443 items ===
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -7318,6 +7345,8 @@ P. White Rose Starchart::242011020
 P. White Rose Treatise::242030140
 Paladin Starchart::242011013
 Paladin Tome::242030100
+Paradoxonikès Starchart::242016014
+Paradoxonikès Tome::242030626
 Patriarch Tome::242020700
 Persephone Opus::242030415
 Phalanx Tome::242020402
@@ -7448,7 +7477,7 @@ Yuda Opus::242030219
 Étoile Starchart::242012023
 Étoile Treatise::242030232
 
-# === Promised Fruit (ACCOUNT-CORRUPTION RISK) (243) -- 131 items ===
+# === Promised Fruit (ACCOUNT-CORRUPTION RISK) (243) -- 132 items ===
 WARNING_ACCOUNT_CORRUPTION_A Taste of Time::243000087
 WARNING_ACCOUNT_CORRUPTION_Aigre Saint-Jacques::243000042
 WARNING_ACCOUNT_CORRUPTION_Angel Snow Mochi::243000046
@@ -7482,6 +7511,7 @@ WARNING_ACCOUNT_CORRUPTION_Dorge La Bola::243000018
 WARNING_ACCOUNT_CORRUPTION_Dried Puffer Shark::243000030
 WARNING_ACCOUNT_CORRUPTION_Dusty Delight::243000096
 WARNING_ACCOUNT_CORRUPTION_Edible Disk::243000076
+WARNING_ACCOUNT_CORRUPTION_Egg Tankard::243000133
 WARNING_ACCOUNT_CORRUPTION_Electric Carp Cuts::243000048
 WARNING_ACCOUNT_CORRUPTION_Embersnow Hotpot::243000122
 WARNING_ACCOUNT_CORRUPTION_Emerald Bisque::243000081
@@ -8290,7 +8320,7 @@ WARNING_ACCOUNT_CORRUPTION_Waterhold Jewel::279002114
 WARNING_ACCOUNT_CORRUPTION_Wave Jellyfish Fur::279002112
 WARNING_ACCOUNT_CORRUPTION_Wind Crystal::279002013
 
-# === Stat Badges (281) -- 708 items ===
+# === Stat Badges (281) -- 713 items ===
 [Default]::281000001
 Acute Drill Badge::281900121
 All Attack Badge::281900005
@@ -8324,6 +8354,11 @@ Bullseye Badge::281900017
 Butchery Badge::281900059
 Chaotic Badge::281900116
 Charm Badge::281900021
+Coach Ruvi Badge Level 1::281900163
+Coach Ruvi Badge Level 2::281900164
+Coach Ruvi Badge Level 3::281900165
+Coach Ruvi Badge Level 4::281900166
+Coach Ruvi Badge Level 5::281900167
 Confusion Res. Badge::281747805
 Confusion Res. Badge::281747810
 Confusion Res. Badge::281747815
@@ -9000,7 +9035,7 @@ Winged One Badge::281900076
 Wisdom Badge::281900095
 Wyrmkiller Badge::281900072
 
-# === Proofs / Power-of-X (288) -- 1835 items ===
+# === Proofs / Power-of-X (288) -- 1839 items ===
 A.Murakumo Proof::288300255
 Abyss Liberator Proof::288300116
 Abyssal Devotee Proof::288300087
@@ -9377,6 +9412,7 @@ E. Orihime Proof::288304167
 E. Orpheus Proof::288304208
 E. Ourania Proof::288304151
 E. Paladin Proof::288304009
+E. Paradoxonikès Proof::288304315
 E. Persephone Proof::288304148
 E. Phantom Thief Proof::288304193
 E. Pluma Diana Proof::288304146
@@ -9861,6 +9897,7 @@ Orpheus Proof::288300205
 Ourania Proof::288300150
 P. of Deadly Blow (Cooking)::288005111
 Paladin Proof::288300009
+Paradoxonikès Proof::288300312
 Pearl of Inner Peace::288105080
 Persephone Proof::288300147
 Phantom Thief Proof::288300191
@@ -10093,6 +10130,7 @@ Power of Mind (Kata.)::288005003
 Power of Mind (Lan.)::288005005
 Power of Mind (Lost Lab)::288005013
 Power of Mind (Straw D.)::288005010
+Power of Mind (Sweet to.)::288005028
 Power of Mind (Swo.)::288005002
 Power of Mind (West)::288005011
 Power of MP Regen::288104081
@@ -10605,6 +10643,7 @@ T. Orihime Proof::288301169
 T. Orpheus Proof::288301210
 T. Ourania Proof::288301153
 T. Paladin Proof::288301009
+T. Paradoxonikès Proof::288301317
 T. Persephone Proof::288301150
 T. Phantom Thief Proof::288301195
 T. Pluma Diana Proof::288301148
@@ -11478,7 +11517,7 @@ Green Key::564000001
 Red Key::564000003
 White Key::564000101
 
-# === Mission Items & Misc (565) -- 1153 items ===
+# === Mission Items & Misc (565) -- 1156 items ===
 1C Key::565000046
 1E Key::565000047
 1G Key::565000048
@@ -11659,6 +11698,9 @@ Battlecore S::565000438
 Binding Power::565000037
 Bird Book::565000238
 Bottle::565000296
+Brawny Points::565004671
+Brawny Points::565004672
+Brawny Points::565004673
 Broomseed::565000445
 Bug Repellent::565000675
 Bug Repellent::565000679

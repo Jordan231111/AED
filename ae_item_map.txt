@@ -204,6 +204,10 @@ Star Dreams Piece::177000032
 出逢いのかけら::177000206
 星跡チケット・エリナAS::177000207
 デューイと出逢う::177000208
+十の出逢い（異装）::177000209
+★5確定十の出逢い（異装）::177000210
+星の夢チケット::177000211
+星跡チケット・テオドロス::177000212
 Princess' Prayer Fragment::177900001
 Woodcutter's Fragment::177900002
 Destiny Token::177900003
@@ -432,6 +436,10 @@ Encounter Piece::177900227
 Star Trail Ticket - Moonlight Flower AS::177900228
 Star Trail Ticket - Erina AS::177900229
 Encounter Dewey::177900230
+10 Allies Bundle (Alterfit)::177900231
+5-Star Guaranteed 10 Allies Bundle (Alterfit)::177900232
+Star Dream Ticket::177900233
+Star Trail Ticket - Theodorus::177900234
 Git::205000001
 Fish Medal::205000002
 Cat Medal::205000003
@@ -558,6 +566,8 @@ Avowed Memory::205000123
 Avowed Memory::205000124
 Despair Relived::205000125
 Despair Relived::205000126
+Glorious Memory::205000127
+Glorious Memory::205000128
 Jewel::205000129
 Solid Fuel::209000001
 Atmo Pump::209000101
@@ -1225,6 +1235,7 @@ Azurelight Sword::211011111
 Azurelight Sword::211011112
 Severing Sword::211011121
 Chronosphere::211011131
+Ch2Severing Sword::211011141
 Swift Sword::211012001
 Swift Sword::211012011
 Swift Sword::211012031
@@ -1884,6 +1895,8 @@ Heavenly Ax VII::211030887
 Heavenly Ax VIII::211030888
 Heavenly Ax IX::211030889
 Heavenly Ax X::211030890
+Azurelight Ax::211030891
+Azurelight Ax::211030892
 Swift Ax::211032001
 Swift Ax::211032011
 Swift Ax::211032031
@@ -3116,6 +3129,8 @@ Heavenly Hammer VII::211070977
 Heavenly Hammer VIII::211070978
 Heavenly Hammer IX::211070979
 Heavenly Hammer X::211070980
+Azurelight Hammer::211070981
+Azurelight Hammer::211070982
 Swift Hammer::211072001
 Swift Hammer::211072011
 Swift Hammer::211072031
@@ -4836,6 +4851,8 @@ Veles Bolt::221008283
 Veles Shaft::221008284
 Archaic Gear::221008285
 Azurelight Ore (Fists)::221008286
+Azurelight Ore (Hammer)::221008287
+Azurelight Ore (Ax)::221008288
 Scarlet Eyeball::221009001
 Fire Crystal::221009002
 Water Crystal::221009003
@@ -5006,6 +5023,7 @@ Distant Future Peace::221009167
 Red Eye::221009168
 Red Luminous Eye::221009169
 Eyes to the Past::221009170
+Crystal of Remorse::221009171
 Transparent Drop::221011001
 Blue Jelly::221011002
 Blue Liquid::221011003
@@ -5112,6 +5130,7 @@ Mysterious Dewdrop::221011105
 Swallowed Water::221011106
 Corrupted Void Water::221011107
 Turbid Reagent::221011108
+Willpower Extract::221011109
 Basil::221012001
 Basil Seed::221012002
 Salvia::221012003
@@ -5453,6 +5472,8 @@ Sinister Stinger::221014132
 Strange Tissue::221014133
 Warped Tissue::221014134
 Beast Soldier Callus::221014135
+Ample Meat::221014136
+Bloody Dragon Hide::221014137
 Bee Wing::221015001
 Luxuriant Down::221015002
 Dragon Wing::221015003
@@ -5711,6 +5732,8 @@ Honed Fang Scale::221016198
 Ancient Tentatooth Piece::221016199
 Ancient Tentatooth::221016200
 Beast Soldier Claw::221016201
+Bulky Bone::221016202
+Broken Fang::221016203
 Ash::221017001
 Classic Plate::221017002
 Walnut Branch::221017003
@@ -6980,6 +7003,10 @@ Decryption Key a::241900838
 Decryption Key b::241900839
 Decryption Key c::241900840
 Decryption Key d::241900841
+Level 2 Key: Glory::241900844
+Level 3 Key: Glory::241900845
+Level 4 Key: Glory::241900846
+Brawny Points::241900849
 Legendary Hero Badge::241999999
 Murmur Script::242000001
 Prayer Script::242000002
@@ -7096,6 +7123,7 @@ Hoplon Delta Starchart::242016009
 Galeforce Starchart::242016010
 Brawler Starchart::242016011
 Stormbreaker Starchart::242016012
+Paradoxonikès Starchart::242016014
 Prthivi Starchart::242017001
 Muse Starchart::242017002
 Negotiator Starchart::242017003
@@ -7395,6 +7423,7 @@ Anomaly Debris Tome::242030621
 Last Haven Treatise::242030622
 Bastet Tome::242030623
 Hoplon Delta Tome::242030624
+Paradoxonikès Tome::242030626
 Negotiator Tome::242030700
 Mal'akh Tome::242030701
 Kommandeur Tome::242030702
@@ -7553,6 +7582,7 @@ Premium Aura Bowl::243000129
 Golden Aish::243000130
 Order-Made Pasty::243000131
 TFB Military Rations::243000132
+Egg Tankard::243000133
 Guiding Light (Staff)::245000001
 Guiding Light (Sword)::245000002
 Guiding Light (Katana)::245000003
@@ -8960,6 +8990,11 @@ Enku Jizai Badge::281900159
 Gust Fists Badge::281900160
 Knight's Vow Badge::281900161
 Despair Badge::281900162
+Coach Ruvi Badge Level 1::281900163
+Coach Ruvi Badge Level 2::281900164
+Coach Ruvi Badge Level 3::281900165
+Coach Ruvi Badge Level 4::281900166
+Coach Ruvi Badge Level 5::281900167
 Power of Emptiness::288000001
 Power of Emptiness::288000002
 Power of Emptiness::288000003
@@ -9168,6 +9203,7 @@ Supreme PoSM::288005024
 Supreme PoSM::288005025
 Supreme PoSM::288005026
 Supreme PoSM::288005027
+Power of Mind (Sweet to.)::288005028
 Pow. of Deadly Blow (Swo.)::288005101
 Pow. of Deadly Blow (Kata.)::288005102
 Pow. of Deadly Blow (Ax)::288005103
@@ -10150,6 +10186,7 @@ Special Ops Proof::288300308
 Hunyuan Laojun Proof::288300309
 Princess White Rose Proof::288300310
 Radiant Chrysanth Proof::288300311
+Paradoxonikès Proof::288300312
 T. Geomancer Proof::288301001
 T. Aqua Ruler Proof::288301002
 T. Minstrel Proof::288301003
@@ -10463,6 +10500,7 @@ T. Special Ops Proof::288301313
 T. Hunyuan Laojun Proof::288301314
 T. Princess White Rose Proof::288301315
 T. Radiant Chrysanth Proof::288301316
+T. Paradoxonikès Proof::288301317
 Enhance Sp. Att. (Protagonist)::288302001
 Enhance Sp. Att. (Cat lover)::288302002
 Enhance Sp. Att. (Miglance Pal.)::288302003
@@ -10794,6 +10832,7 @@ E. Special Ops Proof::288304311
 E. Hunyuan Laojun Proof::288304312
 E. Princess White Rose Proof::288304313
 E. Radiant Chrysanth Proof::288304314
+E. Paradoxonikès Proof::288304315
 Fated Star Proof::288309999
 High Purity Quartz::295000001
 Beautiful Horn::295000002
@@ -12573,6 +12612,9 @@ Communications Log List::565004641
 Communications Log List::565004642
 Pause Rovella Exploration::565004651
 Resume Rovella Exploration::565004661
+Brawny Points::565004671
+Brawny Points::565004672
+Brawny Points::565004673
 Communications Log α-2-01::764000001
 Communications Log α-3-01::764000002
 Communications Log α-3-02::764000003
