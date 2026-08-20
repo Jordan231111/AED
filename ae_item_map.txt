@@ -208,6 +208,7 @@ Star Dreams Piece::177000032
 ★5確定十の出逢い（異装）::177000210
 星の夢チケット::177000211
 星跡チケット・テオドロス::177000212
+星跡チケット・煌々の画人::177000228
 Princess' Prayer Fragment::177900001
 Woodcutter's Fragment::177900002
 Destiny Token::177900003
@@ -440,6 +441,7 @@ Encounter Dewey::177900230
 5-Star Guaranteed 10 Allies Bundle (Alterfit)::177900232
 Star Dream Ticket::177900233
 Star Trail Ticket - Theodorus::177900234
+Star Trail Ticket - Twinkling Illustrator::177900250
 Git::205000001
 Fish Medal::205000002
 Cat Medal::205000003
@@ -877,6 +879,17 @@ Rose argentée::211005408
 Rose argentée::211005409
 Rose argentée::211005410
 Rose argentée::211005411
+Horn of Vaschtal::211005501
+Horn of Vaschtal::211005502
+Horn of Vaschtal::211005503
+Horn of Vaschtal::211005504
+Horn of Vaschtal::211005505
+Horn of Vaschtal::211005506
+Horn of Vaschtal::211005507
+Horn of Vaschtal::211005508
+Horn of Vaschtal::211005509
+Horn of Vaschtal::211005510
+Horn of Vaschtal::211005511
 Walking Stick::211008001
 Mind Wand: INT+ (S)::211008011
 Heal Wand: Restore+ (S)::211008021
@@ -7042,6 +7055,7 @@ Nightmare Starchart::242010027
 Aether Starchart::242010028
 Hunyuan Laojun Starchart::242010029
 Rad. Chrysanth Starchart::242010030
+Flame Lord Starchart::242010031
 Dragon Bearer Starchart::242011001
 Oraculum Starchart::242011002
 Sacrament Starchart::242011003
@@ -7098,6 +7112,7 @@ Agent Starchart::242014010
 Arcturus Starchart::242014011
 Proserpina Starchart::242014012
 Marishiten Starchart::242014013
+Fantasist Starchart::242014014
 Ullr Starchart::242015001
 Wenefica Starchart::242015011
 Epoch Maker Starchart::242015012
@@ -7367,6 +7382,7 @@ Sakuya-bime Treatise::242030424
 Arcturus Tome::242030425
 Proserpina Treatise::242030426
 Marishiten Treatise::242030427
+Fantasist Opus::242030428
 Minstrel Tome::242030500
 Armiger Tome::242030501
 Melodist Psalm::242030502
@@ -10187,6 +10203,7 @@ Hunyuan Laojun Proof::288300309
 Princess White Rose Proof::288300310
 Radiant Chrysanth Proof::288300311
 Paradoxonikès Proof::288300312
+Fantasist Proof::288300314
 T. Geomancer Proof::288301001
 T. Aqua Ruler Proof::288301002
 T. Minstrel Proof::288301003
@@ -10501,6 +10518,7 @@ T. Hunyuan Laojun Proof::288301314
 T. Princess White Rose Proof::288301315
 T. Radiant Chrysanth Proof::288301316
 T. Paradoxonikès Proof::288301317
+T. Fantasist Proof::288301319
 Enhance Sp. Att. (Protagonist)::288302001
 Enhance Sp. Att. (Cat lover)::288302002
 Enhance Sp. Att. (Miglance Pal.)::288302003
@@ -10833,6 +10851,7 @@ E. Hunyuan Laojun Proof::288304312
 E. Princess White Rose Proof::288304313
 E. Radiant Chrysanth Proof::288304314
 E. Paradoxonikès Proof::288304315
+E. Fantasist Proof::288304317
 Fated Star Proof::288309999
 High Purity Quartz::295000001
 Beautiful Horn::295000002
@@ -11060,6 +11079,7 @@ Tinyan Energy::452010072
 Kuchinawa-style Mask::452010073
 Victory Prayer Ribbon::452010074
 Erina-style Beret::452010075
+Shannon-style Papakha::452010076
 Magician's Hat::452020001
 King's Crown::452020002
 Artist's Hat::452020003
@@ -11185,6 +11205,7 @@ Priestess' Charm::452050079
 Peddler's Medicine Box::452050080
 Xianhua-style Tie::452050081
 Bond of Sisterhood::452050082
+Fluffy Neck Warmer::452050083
 Red Wrapping Cloth::452060001
 Green Wrapping Cloth::452060002
 Mini Backpack::452060003
@@ -11269,6 +11290,7 @@ Moogle Plushy::452060083
 Dirt Snake Buddy::452060084
 Genius Coat::452060085
 Overtly Expensive Cape::452060086
+Nilva Special::452060087
 Deck 1::464000001
 Deck 2::464000002
 Deck 3::464000003
