@@ -199,6 +199,8 @@ Star Dreams Piece::177000032
 星の導きチケット::177000199
 星跡チケット・シェンファAS::177000200
 ミストレアと出逢う::177000201
+ラミュと出逢う::177000202
+★5確定十の出逢い（BEGINS）::177000203
 星跡チケット・月華の令嬢AS::177000204
 1日1回ひとたびの出逢い::177000205
 出逢いのかけら::177000206
@@ -209,6 +211,10 @@ Star Dreams Piece::177000032
 星の夢チケット::177000211
 星跡チケット・テオドロス::177000212
 星跡チケット・煌々の画人::177000228
+星跡チケット・ヨルナ::177000229
+ひとたびの出逢い::177000230
+1日1回ひとたびの出逢い::177000231
+はじめてのチケット::177000232
 Princess' Prayer Fragment::177900001
 Woodcutter's Fragment::177900002
 Destiny Token::177900003
@@ -432,6 +438,8 @@ Stellar Shine Ticket::177900220
 Star Trail Ticket - Havoc::177900221
 Star Trail Ticket - Xianhua AS::177900222
 Encounter Mistrare::177900223
+Encounter Ramiu::177900224
+5-Star Guaranteed 10 Allies Bundle (Begins)::177900225
 Daily Lone Encounter::177900226
 Encounter Piece::177900227
 Star Trail Ticket - Moonlight Flower AS::177900228
@@ -442,6 +450,10 @@ Encounter Dewey::177900230
 Star Dream Ticket::177900233
 Star Trail Ticket - Theodorus::177900234
 Star Trail Ticket - Twinkling Illustrator::177900250
+Star Trail Ticket - Jorna::177900251
+A Lone Encounter::177900252
+Daily Lone Encounter::177900253
+First Ticket::177900254
 Git::205000001
 Fish Medal::205000002
 Cat Medal::205000003
@@ -7099,6 +7111,7 @@ Inspector Starchart::242013005
 Sweet Lady Starchart::242013006
 Unut Starchart::242013007
 Atlas Starchart::242013008
+Budding Dawn Starchart::242013009
 Dragoon Starchart::242014001
 Oberon Starchart::242014002
 Rebel Starchart::242014003
@@ -7138,6 +7151,7 @@ Hoplon Delta Starchart::242016009
 Galeforce Starchart::242016010
 Brawler Starchart::242016011
 Stormbreaker Starchart::242016012
+Sand Spirit Starchart::242016013
 Paradoxonikès Starchart::242016014
 Prthivi Starchart::242017001
 Muse Starchart::242017002
@@ -7354,6 +7368,7 @@ Wolfskin Treatise::242030324
 Sweet Lady Treatise::242030325
 Unut Codex::242030326
 Atlas Tome::242030327
+Budding Dawn Tome::242030328
 Dragoon Tome::242030400
 Agent Tome::242030401
 Butterfly Warrior Treatise::242030402
@@ -10203,7 +10218,9 @@ Hunyuan Laojun Proof::288300309
 Princess White Rose Proof::288300310
 Radiant Chrysanth Proof::288300311
 Paradoxonikès Proof::288300312
+Sand Spirit Proof::288300313
 Fantasist Proof::288300314
+Budding Dawn Proof::288300315
 T. Geomancer Proof::288301001
 T. Aqua Ruler Proof::288301002
 T. Minstrel Proof::288301003
@@ -10518,7 +10535,9 @@ T. Hunyuan Laojun Proof::288301314
 T. Princess White Rose Proof::288301315
 T. Radiant Chrysanth Proof::288301316
 T. Paradoxonikès Proof::288301317
+T. Sand Spirit Proof::288301318
 T. Fantasist Proof::288301319
+T. Budding Dawn Proof::288301320
 Enhance Sp. Att. (Protagonist)::288302001
 Enhance Sp. Att. (Cat lover)::288302002
 Enhance Sp. Att. (Miglance Pal.)::288302003
@@ -10851,7 +10870,9 @@ E. Hunyuan Laojun Proof::288304312
 E. Princess White Rose Proof::288304313
 E. Radiant Chrysanth Proof::288304314
 E. Paradoxonikès Proof::288304315
+E. Sand Spirit Proof::288304316
 E. Fantasist Proof::288304317
+E. Budding Dawn Proof::288304318
 Fated Star Proof::288309999
 High Purity Quartz::295000001
 Beautiful Horn::295000002
