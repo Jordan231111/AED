@@ -210,11 +210,31 @@ Star Dreams Piece::177000032
 ★5確定十の出逢い（異装）::177000210
 星の夢チケット::177000211
 星跡チケット・テオドロス::177000212
+アナベルと出逢う::177000213
+シオンと出逢う::177000214
+セティーと出逢う::177000215
+マリエルと出逢う::177000216
+メリナと出逢う::177000217
+シェイネと出逢う::177000218
+シュゼットと出逢う::177000219
+ベルトランと出逢う::177000220
+ミュルスと出逢う::177000221
+ユナと出逢う::177000222
+レンリと出逢う::177000223
+チルリルと出逢う::177000224
+ティラミスと出逢う::177000225
+エルシールと出逢う::177000226
+ベネディトと出逢う::177000227
 星跡チケット・煌々の画人::177000228
 星跡チケット・ヨルナ::177000229
 ひとたびの出逢い::177000230
 1日1回ひとたびの出逢い::177000231
 はじめてのチケット::177000232
+星跡チケット・ジルファニーAS::177000233
+イウェラと出逢う::177000234
+十の出逢い::177000235
+★5確定十の出逢い::177000236
+★5確定ひとたびの出逢い::177000237
 Princess' Prayer Fragment::177900001
 Woodcutter's Fragment::177900002
 Destiny Token::177900003
@@ -449,11 +469,31 @@ Encounter Dewey::177900230
 5-Star Guaranteed 10 Allies Bundle (Alterfit)::177900232
 Star Dream Ticket::177900233
 Star Trail Ticket - Theodorus::177900234
+Encounter Anabel::177900235
+Encounter Shion::177900236
+Encounter Cetie::177900237
+Encounter Mariel::177900238
+Encounter Melina::177900239
+Encounter Shanie::177900240
+Encounter Suzette::177900241
+Encounter Bertrand::177900242
+Encounter Myrus::177900243
+Encounter Yuna::177900244
+Encounter Renri::177900245
+Encounter Thillelille::177900246
+Encounter Tiramisu::177900247
+Encounter Elseal::177900248
+Encounter Benedict::177900249
 Star Trail Ticket - Twinkling Illustrator::177900250
 Star Trail Ticket - Jorna::177900251
 A Lone Encounter::177900252
 Daily Lone Encounter::177900253
 First Ticket::177900254
+Star Trail Ticket - Jillfunny AS::177900255
+Encounter Ewella::177900256
+10 Allies Bundle::177900257
+5-Star Guaranteed 10 Allies Bundle::177900258
+5-Star Lone Encounter::177900259
 Git::205000001
 Fish Medal::205000002
 Cat Medal::205000003
@@ -2271,6 +2311,17 @@ Crimson Bolt::211045108
 Crimson Bolt::211045109
 Crimson Bolt::211045110
 Crimson Bolt::211045111
+Amor Vinculum::211045201
+Amor Vinculum::211045202
+Amor Vinculum::211045203
+Amor Vinculum::211045204
+Amor Vinculum::211045205
+Amor Vinculum::211045206
+Amor Vinculum::211045207
+Amor Vinculum::211045208
+Amor Vinculum::211045209
+Amor Vinculum::211045210
+Amor Vinculum::211045211
 Dark Heavenly Tears::211049001
 Dark Heavenly Tears::211049002
 Dark Heavenly Tears::211049003
@@ -2350,6 +2401,17 @@ Heavenpiercer::211049128
 Heavenpiercer::211049129
 Heavenpiercer::211049130
 Heavenpiercer::211049131
+Amor Vinculum::211049141
+Amor Vinculum::211049142
+Amor Vinculum::211049143
+Amor Vinculum::211049144
+Amor Vinculum::211049145
+Amor Vinculum::211049146
+Amor Vinculum::211049147
+Amor Vinculum::211049148
+Amor Vinculum::211049149
+Amor Vinculum::211049150
+Amor Vinculum::211049151
 Bow [Default]::211050000
 Iron Bow::211050011
 Short Bow::211050021
@@ -7031,6 +7093,8 @@ Decryption Key d::241900841
 Level 2 Key: Glory::241900844
 Level 3 Key: Glory::241900845
 Level 4 Key: Glory::241900846
+Monument Fragment::241900847
+Liquid Key::241900848
 Brawny Points::241900849
 Legendary Hero Badge::241999999
 Murmur Script::242000001
@@ -7088,6 +7152,7 @@ Oathmaiden Starchart::242011017
 Claidheamh Sol. Starchart::242011018
 Morrígu Starchart::242011019
 P. White Rose Starchart::242011020
+Ruborensis Starchart::242011021
 Murasame Starchart::242012001
 Narukami Starchart::242012011
 Takuhatachiji Starchart::242012012
@@ -7126,6 +7191,7 @@ Arcturus Starchart::242014011
 Proserpina Starchart::242014012
 Marishiten Starchart::242014013
 Fantasist Starchart::242014014
+Lazuli Medea Starchart::242014015
 Ullr Starchart::242015001
 Wenefica Starchart::242015011
 Epoch Maker Starchart::242015012
@@ -7153,6 +7219,7 @@ Brawler Starchart::242016011
 Stormbreaker Starchart::242016012
 Sand Spirit Starchart::242016013
 Paradoxonikès Starchart::242016014
+Eureka Starchart::242016015
 Prthivi Starchart::242017001
 Muse Starchart::242017002
 Negotiator Starchart::242017003
@@ -7309,6 +7376,7 @@ Oathmaiden Tome::242030137
 Claidheamh Soluis Codex::242030138
 Morrígu Treatise::242030139
 P. White Rose Treatise::242030140
+Ruborensis Treatise::242030141
 Kagutsuchi Tome::242030200
 Sun Goddess Tome::242030201
 Admiral Tome::242030202
@@ -10221,6 +10289,7 @@ Paradoxonikès Proof::288300312
 Sand Spirit Proof::288300313
 Fantasist Proof::288300314
 Budding Dawn Proof::288300315
+Ruborensis Proof::288300316
 T. Geomancer Proof::288301001
 T. Aqua Ruler Proof::288301002
 T. Minstrel Proof::288301003
@@ -10538,6 +10607,7 @@ T. Paradoxonikès Proof::288301317
 T. Sand Spirit Proof::288301318
 T. Fantasist Proof::288301319
 T. Budding Dawn Proof::288301320
+T. Ruborensis Proof::288301321
 Enhance Sp. Att. (Protagonist)::288302001
 Enhance Sp. Att. (Cat lover)::288302002
 Enhance Sp. Att. (Miglance Pal.)::288302003
@@ -10873,6 +10943,7 @@ E. Paradoxonikès Proof::288304315
 E. Sand Spirit Proof::288304316
 E. Fantasist Proof::288304317
 E. Budding Dawn Proof::288304318
+E. Ruborensis Proof::288304319
 Fated Star Proof::288309999
 High Purity Quartz::295000001
 Beautiful Horn::295000002
@@ -11113,6 +11184,7 @@ Minchy Plushy::452020009
 Miglance Crown Meowls::452020010
 Hunter's Cap::452020011
 Festival Gift::452020012
+Fluffy Pyggie::452020013
 Painter's Brush::452040001
 Pink Pacifier::452040002
 Green Pacifier::452040003
@@ -11227,6 +11299,7 @@ Peddler's Medicine Box::452050080
 Xianhua-style Tie::452050081
 Bond of Sisterhood::452050082
 Fluffy Neck Warmer::452050083
+Jillfunny-style Collar::452050084
 Red Wrapping Cloth::452060001
 Green Wrapping Cloth::452060002
 Mini Backpack::452060003
@@ -11312,6 +11385,7 @@ Dirt Snake Buddy::452060084
 Genius Coat::452060085
 Overtly Expensive Cape::452060086
 Nilva Special::452060087
+Rok Shawl::452060088
 Deck 1::464000001
 Deck 2::464000002
 Deck 3::464000003
@@ -13594,6 +13668,17 @@ Distorted Amulet::2008000429
 Distorted Amulet::2008000430
 Distorted Amulet::2008000431
 Plasma Quartz::2008000432
+Work Set::2008000433
+Work Set::2008000434
+Work Set::2008000435
+Work Set::2008000436
+Work Set::2008000437
+Work Set::2008000438
+Work Set::2008000439
+Work Set::2008000440
+Work Set::2008000441
+Work Set::2008000442
+Work Set::2008000443
 Reclaim Talegem::2061000001
 Type Attack +50%::2061001001
 Critical Rate +150%::2061001002

@@ -1,4 +1,5 @@
-# === Tickets & Prayer Pieces (177) -- 456 items ===
+# === Tickets & Prayer Pieces (177) -- 496 items ===
+10 Allies Bundle::177900257
 10 Allies Bundle (Alterfit)::177900231
 10 Allies Bundle (Campaign)::177900137
 1日1回ひとたびの出逢い::177000185
@@ -7,8 +8,10 @@
 1日1回ひとたびの出逢い::177000231
 3rd Anniversary Drop::177900053
 5-Star Guar. Ticket::177900107
+5-Star Guaranteed 10 Allies Bundle::177900258
 5-Star Guaranteed 10 Allies Bundle (Alterfit)::177900232
 5-Star Guaranteed 10 Allies Bundle (Begins)::177900225
+5-Star Lone Encounter::177900259
 5-Star Lone Encounter (Campaign)::177900136
 5-Star Lone Encounter (Campaign)::177900181
 5-Star Lone Encounter (Campaign)::177900209
@@ -48,12 +51,18 @@ Destiny Token::177900075
 Destiny Token (Moon)::177900005
 Dionysus Star Trail Drop::177900171
 Encounter Anabel::177900170
+Encounter Anabel::177900235
+Encounter Benedict::177900249
 Encounter Bertrand::177900100
+Encounter Bertrand::177900242
 Encounter Cetie::177900151
+Encounter Cetie::177900237
 Encounter Claude::177900185
 Encounter Dewey::177900230
+Encounter Elseal::177900248
 Encounter Eva::177900125
 Encounter Ewan::177900104
+Encounter Ewella::177900256
 Encounter Felmina::177900219
 Encounter Hismena::177900149
 Encounter Hozuki::177900200
@@ -61,25 +70,35 @@ Encounter Iphi::177900195
 Encounter Isuka::177900134
 Encounter Lokido::177900162
 Encounter Mariel::177900159
+Encounter Mariel::177900238
 Encounter Melina::177900105
+Encounter Melina::177900239
 Encounter Melissa::177900094
 Encounter Mighty::177900115
 Encounter Mistrare::177900223
 Encounter Myrus::177900144
+Encounter Myrus::177900243
 Encounter Piece::177900216
 Encounter Piece::177900227
 Encounter Ramiu::177900224
 Encounter Renri::177900153
+Encounter Renri::177900245
 Encounter Rosetta::177900172
 Encounter Shanie::177900113
+Encounter Shanie::177900240
 Encounter Shion::177900108
+Encounter Shion::177900236
 Encounter Suzette::177900089
+Encounter Suzette::177900241
 Encounter Thillelille::177900180
+Encounter Thillelille::177900246
 Encounter Tiramisu::177900095
+Encounter Tiramisu::177900247
 Encounter Toova::177900130
 Encounter Tsukiha::177900090
 Encounter Victor::177900205
 Encounter Yuna::177900117
+Encounter Yuna::177900244
 First Ticket::177000002
 First Ticket::177900254
 Fragarach Star Trail Drop::177900189
@@ -189,6 +208,7 @@ Star Trail Ticket - Eleanor::177900210
 Star Trail Ticket - Erina AS::177900229
 Star Trail Ticket - Flammelapis ES::177900211
 Star Trail Ticket - Havoc::177900221
+Star Trail Ticket - Jillfunny AS::177900255
 Star Trail Ticket - Jorna::177900251
 Star Trail Ticket - Kuchinawa AS::177900217
 Star Trail Ticket - Lovinia AS::177900199
@@ -272,10 +292,12 @@ Whisper of Time Token::177900121
 Whisper of Time Token::177900187
 Woodcutter's Fragment::177900002
 Étoile Star Trail Drop::177900160
+★5確定ひとたびの出逢い::177000237
 ★5確定ひとたびの出逢い（CP）::177000114
 ★5確定ひとたびの出逢い（CP）::177000160
 ★5確定ひとたびの出逢い（CP）::177000187
 ★5確定出逢いチケット::177000085
+★5確定十の出逢い::177000236
 ★5確定十の出逢い（BEGINS）::177000203
 ★5確定十の出逢い（異装）::177000210
 はじめてのチケット::177000232
@@ -284,33 +306,49 @@ Woodcutter's Fragment::177900002
 ひとたびの出逢い（CP）::177000186
 ひとたびの出逢い（大地）::177000144
 アナベルと出逢う::177000148
+アナベルと出逢う::177000213
+イウェラと出逢う::177000234
 イスカと出逢う::177000112
 エニと出逢う::177000173
+エルシールと出逢う::177000226
 エヴァと出逢う::177000103
 クロードと出逢う::177000163
 シェイネと出逢う::177000091
+シェイネと出逢う::177000218
 シオンと出逢う::177000086
+シオンと出逢う::177000214
 シュゼットと出逢う::177000063
+シュゼットと出逢う::177000219
 セティーと出逢う::177000129
+セティーと出逢う::177000215
 チルリルと出逢う::177000158
+チルリルと出逢う::177000224
 ツキハと出逢う::177000064
 ティラミスと出逢う::177000073
+ティラミスと出逢う::177000225
 デューイと出逢う::177000208
 トゥーヴァと出逢う::177000108
 ヒスメナと出逢う::177000127
 フェルミナと出逢う::177000197
+ベネディトと出逢う::177000227
 ベルトランと出逢う::177000078
+ベルトランと出逢う::177000220
 ホオズキと出逢う::177000178
 マイティと出逢う::177000093
 マリエルと出逢う::177000137
+マリエルと出逢う::177000216
 ミストレアと出逢う::177000201
 ミュルスと出逢う::177000122
+ミュルスと出逢う::177000221
 メリッサと出逢う::177000072
 メリナと出逢う::177000083
+メリナと出逢う::177000217
 ユナと出逢う::177000096
+ユナと出逢う::177000222
 ユーインと出逢う::177000082
 ラミュと出逢う::177000202
 レンリと出逢う::177000131
+レンリと出逢う::177000223
 ロキドと出逢う::177000140
 ロゼッタと出逢う::177000150
 ヴィクトと出逢う::177000183
@@ -318,6 +356,7 @@ Woodcutter's Fragment::177900002
 冥のしずくのかけら::177000050
 出逢いのかけら::177000194
 出逢いのかけら::177000206
+十の出逢い::177000235
 十の出逢い（CP）::177000115
 十の出逢い（異装）::177000209
 天のしずくのかけら::177000049
@@ -393,6 +432,7 @@ Woodcutter's Fragment::177900002
 星跡チケット・エレノア::177000188
 星跡チケット・クチナワAS::177000195
 星跡チケット・シェンファAS::177000200
+星跡チケット・ジルファニーAS::177000233
 星跡チケット・テオドロス::177000212
 星跡チケット・ハヴォック::177000198
 星跡チケット・フラムラピスES::177000189
@@ -612,7 +652,7 @@ Solid Fuel::209000001
 Super Alloy Arm::209000108
 Super Alloy Drill::209000103
 
-# === Weapons (211) -- 2848 items ===
+# === Weapons (211) -- 2870 items ===
 ???::211079081
 Absorber α::211990011
 Absorber β::211990021
@@ -713,6 +753,28 @@ Amaterasu Sosoku::211029148
 Amaterasu Sosoku::211029149
 Amaterasu Sosoku::211029150
 Amaterasu Sosoku::211029151
+Amor Vinculum::211045201
+Amor Vinculum::211045202
+Amor Vinculum::211045203
+Amor Vinculum::211045204
+Amor Vinculum::211045205
+Amor Vinculum::211045206
+Amor Vinculum::211045207
+Amor Vinculum::211045208
+Amor Vinculum::211045209
+Amor Vinculum::211045210
+Amor Vinculum::211045211
+Amor Vinculum::211049141
+Amor Vinculum::211049142
+Amor Vinculum::211049143
+Amor Vinculum::211049144
+Amor Vinculum::211049145
+Amor Vinculum::211049146
+Amor Vinculum::211049147
+Amor Vinculum::211049148
+Amor Vinculum::211049149
+Amor Vinculum::211049150
+Amor Vinculum::211049151
 AnabelESShield::211090490
 AnabelESSword::211090480
 Anello-filo::211039041
@@ -5876,7 +5938,7 @@ Random Codex Ticket::235000002
 Random Opus Ticket::235000003
 Random Treatise Ticket::235000001
 
-# === Crafting & Drop Materials (241) -- 1179 items ===
+# === Crafting & Drop Materials (241) -- 1181 items ===
 "Fruit Tree" Data Chip::241900105
 "House" Data Chip::241900102
 "Road" Data Chip::241900103
@@ -6572,6 +6634,7 @@ Level 4 Key: Knight's Vow::241900826
 Liam's Pocket Watch::241900213
 Limited-edition Gift::241900746
 Lipstick::241000222
+Liquid Key::241900848
 Lizzy's Decorative Scales::241000009
 Log Section::241900370
 Loire's Log #1::241900155
@@ -6634,6 +6697,7 @@ Monster Bone::241000117
 Monster Feed (Fish)::241900373
 Monster Feed (Meat)::241900371
 Monster Feed (Small Meat)::241900372
+Monument Fragment::241900847
 Moonlight Block::241100010
 Moonlight Block::241100030
 Moonlight Mushroom::241000267
@@ -7057,7 +7121,7 @@ Young Red Laika Trio::241900568
 Yummy Small Fish::241000106
 Zomas Driver::241900556
 
-# === Class Records (242) -- 449 items ===
+# === Class Records (242) -- 453 items ===
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -7206,6 +7270,7 @@ Erinys Codex::242030319
 Eris Starchart::242011005
 Eris Treatise::242030130
 Eternal Swordsman Record::242030115
+Eureka Starchart::242016015
 Eurydice Starchart::242013002
 Eurydice Tome::242030322
 Exalted Maiden Psalm::242030023
@@ -7294,6 +7359,7 @@ Lapin Starchart::242010015
 Lapin Tome::242030005
 Last Haven Starchart::242016006
 Last Haven Treatise::242030622
+Lazuli Medea Starchart::242014015
 Lazuli Medea Tome::242030412
 Legendary Swordsman Record::242030215
 Libero Tome::242030028
@@ -7408,6 +7474,8 @@ Reviver Treatise::242030044
 Ring-Guided Starchart::242019001
 Ring-Guided Tome::242031403
 Rose Unseen Treatise::242030714
+Ruborensis Starchart::242011021
+Ruborensis Treatise::242030141
 Rune Knight Tome::242020103
 Sacrament Codex::242030127
 Sacrament Starchart::242011003
@@ -9066,7 +9134,7 @@ Winged One Badge::281900076
 Wisdom Badge::281900095
 Wyrmkiller Badge::281900072
 
-# === Proofs / Power-of-X (288) -- 1848 items ===
+# === Proofs / Power-of-X (288) -- 1851 items ===
 A.Murakumo Proof::288300255
 Abyss Liberator Proof::288300116
 Abyssal Devotee Proof::288300087
@@ -9473,6 +9541,7 @@ E. Resif Proof::288304149
 E. Reviver Proof::288304264
 E. Rose Unseen Proof::288304177
 E. Royal Knight Proof::288304292
+E. Ruborensis Proof::288304319
 E. Sacrament Proof::288304225
 E. Sakuya-bime Proof::288304267
 E. Sanctus Proof::288304121
@@ -10323,6 +10392,7 @@ Resonant Power (Shadow)::288016001
 Reviver Proof::288300266
 Roiling Rebel's Power::288004249
 Rose Unseen Proof::288300175
+Ruborensis Proof::288300316
 Sacrament Proof::288300221
 Sakuya-bime Proof::288300269
 Sanctus Proof::288300119
@@ -10705,6 +10775,7 @@ T. Resif Proof::288301151
 T. Reviver Proof::288301266
 T. Rose Unseen Proof::288301179
 T. Royal Knight Proof::288301294
+T. Ruborensis Proof::288301321
 T. Sacrament Proof::288301227
 T. Sakuya-bime Proof::288301269
 T. Sanctus Proof::288301123
@@ -11075,7 +11146,7 @@ Toy Duck::450000040
 Wood Piece::450000027
 Wreath::450000034
 
-# === Hats & Headgear (452) -- 287 items ===
+# === Hats & Headgear (452) -- 290 items ===
 3 Colored Balloons::452060005
 Adameowtium Stache::452040009
 Akane-style Gorget::452050052
@@ -11159,6 +11230,7 @@ Flower of Purity::452040033
 Flower Wreath::452010008
 Fluffy Fur Helm::452010034
 Fluffy Neck Warmer::452050083
+Fluffy Pyggie::452020013
 Fresh Leaf Scarf::452050016
 Frilled Hairband::452010047
 Frilly Hat::452010011
@@ -11195,6 +11267,7 @@ Iphi-style Collar::452050076
 Ishar-made Necklace::452050027
 Isuka Hair Ornament::452010026
 Itto-Mew Haori::452060051
+Jillfunny-style Collar::452050084
 Justice Scarf::452050060
 Kettle Spirit Necklace::452050075
 King's Crown::452020002
@@ -11298,6 +11371,7 @@ Riica-type Ribbon::452050022
 Riica-type Twin Tail::452010017
 Ro Kitty Haori::452060039
 Rock Collar::452050012
+Rok Shawl::452060088
 Rose Cravat::452050035
 Round Thing::452060038
 Royal Knights' Cape::452060024
@@ -13256,7 +13330,7 @@ Sugary Quartz::961013004
 Volcanic Pepper::961012006
 Wild Pork::961014007
 
-# === Weapons (Fists) (2008) -- 432 items ===
+# === Weapons (Fists) (2008) -- 443 items ===
 Armored Claw::2008000122
 Armored Claw::2008000123
 Armored Claw::2008000124
@@ -13689,6 +13763,17 @@ Wisdom Orb::2008000306
 Wisdom Orb::2008000307
 Wisdom Orb::2008000308
 Wisdom Orb::2008000309
+Work Set::2008000433
+Work Set::2008000434
+Work Set::2008000435
+Work Set::2008000436
+Work Set::2008000437
+Work Set::2008000438
+Work Set::2008000439
+Work Set::2008000440
+Work Set::2008000441
+Work Set::2008000442
+Work Set::2008000443
 
 # === Talegems (Badge Effects) (2061) -- 172 items ===
 Absorb Inflicted Dmg.::2061001020
