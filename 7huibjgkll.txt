@@ -1,4 +1,4 @@
-# === Tickets & Prayer Pieces (177) -- 496 items ===
+# === Tickets & Prayer Pieces (177) -- 510 items ===
 10 Allies Bundle::177900257
 10 Allies Bundle (Alterfit)::177900231
 10 Allies Bundle (Campaign)::177900137
@@ -6,6 +6,7 @@
 1日1回ひとたびの出逢い::177000193
 1日1回ひとたびの出逢い::177000205
 1日1回ひとたびの出逢い::177000231
+1日1回ひとたびの出逢い::177000243
 3rd Anniversary Drop::177900053
 5-Star Guar. Ticket::177900107
 5-Star Guaranteed 10 Allies Bundle::177900258
@@ -38,6 +39,7 @@ Daily Lone Encounter::177900207
 Daily Lone Encounter::177900215
 Daily Lone Encounter::177900226
 Daily Lone Encounter::177900253
+Daily Lone Encounter::177900265
 Day 3000 Star Trail Drop::177900155
 Destiny Token::177900003
 Destiny Token::177900012
@@ -80,6 +82,8 @@ Encounter Myrus::177900144
 Encounter Myrus::177900243
 Encounter Piece::177900216
 Encounter Piece::177900227
+Encounter Piece::177900266
+Encounter Radica::177900260
 Encounter Ramiu::177900224
 Encounter Renri::177900153
 Encounter Renri::177900245
@@ -97,6 +101,8 @@ Encounter Tiramisu::177900247
 Encounter Toova::177900130
 Encounter Tsukiha::177900090
 Encounter Victor::177900205
+Encounter Wenefica::177900262
+Encounter Yipha (Aoife)::177900261
 Encounter Yuna::177900117
 Encounter Yuna::177900244
 First Ticket::177000002
@@ -204,6 +210,7 @@ Star Dreams Piece::177900141
 Star Dreams Piece::177900163
 Star Dreams Piece::177900191
 Star Trail Ticket - Dark Devourer::177900206
+Star Trail Ticket - Darunis AS::177900264
 Star Trail Ticket - Eleanor::177900210
 Star Trail Ticket - Erina AS::177900229
 Star Trail Ticket - Flammelapis ES::177900211
@@ -224,6 +231,7 @@ Star Trail Ticket - Xianhua AS::177900222
 Stellar Shine Ticket::177900202
 Stellar Shine Ticket::177900213
 Stellar Shine Ticket::177900220
+Stellar Shine Ticket::177900263
 Sweet Lady Star Trail Drop::177900152
 Takeminakata Star Trail Drop::177900192
 Time Wish Spirit::177000005
@@ -309,6 +317,8 @@ Woodcutter's Fragment::177900002
 アナベルと出逢う::177000213
 イウェラと出逢う::177000234
 イスカと出逢う::177000112
+イーファと出逢う::177000239
+ウェネーフィカと出逢う::177000240
 エニと出逢う::177000173
 エルシールと出逢う::177000226
 エヴァと出逢う::177000103
@@ -346,6 +356,7 @@ Woodcutter's Fragment::177900002
 ユナと出逢う::177000096
 ユナと出逢う::177000222
 ユーインと出逢う::177000082
+ラディカと出逢う::177000238
 ラミュと出逢う::177000202
 レンリと出逢う::177000131
 レンリと出逢う::177000223
@@ -356,6 +367,7 @@ Woodcutter's Fragment::177900002
 冥のしずくのかけら::177000050
 出逢いのかけら::177000194
 出逢いのかけら::177000206
+出逢いのかけら::177000244
 十の出逢い::177000235
 十の出逢い（CP）::177000115
 十の出逢い（異装）::177000209
@@ -391,6 +403,7 @@ Woodcutter's Fragment::177900002
 星の導きチケット::177000181
 星の導きチケット::177000191
 星の導きチケット::177000199
+星の導きチケット::177000241
 星跡のしずく・3000Days::177000133
 星跡のしずく・8.5th::177000151
 星跡のしずく・8th CD::177000116
@@ -433,6 +446,7 @@ Woodcutter's Fragment::177900002
 星跡チケット・クチナワAS::177000195
 星跡チケット・シェンファAS::177000200
 星跡チケット・ジルファニーAS::177000233
+星跡チケット・ダルニスAS::177000242
 星跡チケット・テオドロス::177000212
 星跡チケット・ハヴォック::177000198
 星跡チケット・フラムラピスES::177000189
@@ -652,7 +666,7 @@ Solid Fuel::209000001
 Super Alloy Arm::209000108
 Super Alloy Drill::209000103
 
-# === Weapons (211) -- 2870 items ===
+# === Weapons (211) -- 2881 items ===
 ???::211079081
 Absorber α::211990011
 Absorber β::211990021
@@ -2520,6 +2534,17 @@ OOPSpear::211040631
 OOPSword::211010771
 Oracle's Fury::211070201
 Oracle's Fury::211070202
+Orgonite Wand::211005601
+Orgonite Wand::211005602
+Orgonite Wand::211005603
+Orgonite Wand::211005604
+Orgonite Wand::211005605
+Orgonite Wand::211005606
+Orgonite Wand::211005607
+Orgonite Wand::211005608
+Orgonite Wand::211005609
+Orgonite Wand::211005610
+Orgonite Wand::211005611
 Orgonite Wand::211009181
 Orgonite Wand::211009182
 Orgonite Wand::211009183
@@ -7121,7 +7146,7 @@ Young Red Laika Trio::241900568
 Yummy Small Fish::241000106
 Zomas Driver::241900556
 
-# === Class Records (242) -- 453 items ===
+# === Class Records (242) -- 456 items ===
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -7234,6 +7259,7 @@ Devotroid Treatise::242030519
 Dicé Opus::242030125
 Dionysus Starchart::242010020
 Dionysus Treatise::242030050
+Divinator Starchart::242010033
 Divinator Tome::242030009
 Divine Paladin Treatise::242030109
 Diviner Tome::242020005
@@ -7460,6 +7486,8 @@ Proud Beast Treatise::242030607
 Prthivi Starchart::242017001
 Prthivi Treatise::242030717
 Punishment Treatise::242030704
+Pátroklos Starchart::242015023
+Pátroklos Treatise::242030531
 Rad. Chrysanth Starchart::242010030
 Rad. Chrysanth Treatise::242030056
 Rakshasa Tome::242020201
@@ -9134,7 +9162,7 @@ Winged One Badge::281900076
 Wisdom Badge::281900095
 Wyrmkiller Badge::281900072
 
-# === Proofs / Power-of-X (288) -- 1851 items ===
+# === Proofs / Power-of-X (288) -- 1854 items ===
 A.Murakumo Proof::288300255
 Abyss Liberator Proof::288300116
 Abyssal Devotee Proof::288300087
@@ -9531,6 +9559,7 @@ E. Protector Proof::288304036
 E. Proud Beast Proof::288304055
 E. Prthivi Proof::288304230
 E. Punishment Proof::288304049
+E. Pátroklos Proof::288304320
 E. Radiant Chrysanth Proof::288304314
 E. Radical Dreamer Proof::288304142
 E. Raven Tengu Proof::288304255
@@ -10380,6 +10409,7 @@ Protector Proof::288300036
 Proud Beast Proof::288300055
 Prthivi Proof::288300226
 Punishment Proof::288300049
+Pátroklos Proof::288300317
 Radiant Chrysanth Proof::288300311
 Raven Tengu Proof::288300260
 Rebel Proof::288300227
@@ -10765,6 +10795,7 @@ T. Protector Proof::288301036
 T. Proud Beast Proof::288301055
 T. Prthivi Proof::288301232
 T. Punishment Proof::288301049
+T. Pátroklos Proof::288301322
 T. Radiant Chrysanth Proof::288301316
 T. Radical Dreamer Proof::288301144
 T. Raven Tengu Proof::288301257

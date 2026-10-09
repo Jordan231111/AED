@@ -235,6 +235,13 @@ Star Dreams Piece::177000032
 十の出逢い::177000235
 ★5確定十の出逢い::177000236
 ★5確定ひとたびの出逢い::177000237
+ラディカと出逢う::177000238
+イーファと出逢う::177000239
+ウェネーフィカと出逢う::177000240
+星の導きチケット::177000241
+星跡チケット・ダルニスAS::177000242
+1日1回ひとたびの出逢い::177000243
+出逢いのかけら::177000244
 Princess' Prayer Fragment::177900001
 Woodcutter's Fragment::177900002
 Destiny Token::177900003
@@ -494,6 +501,13 @@ Encounter Ewella::177900256
 10 Allies Bundle::177900257
 5-Star Guaranteed 10 Allies Bundle::177900258
 5-Star Lone Encounter::177900259
+Encounter Radica::177900260
+Encounter Yipha (Aoife)::177900261
+Encounter Wenefica::177900262
+Stellar Shine Ticket::177900263
+Star Trail Ticket - Darunis AS::177900264
+Daily Lone Encounter::177900265
+Encounter Piece::177900266
 Git::205000001
 Fish Medal::205000002
 Cat Medal::205000003
@@ -942,6 +956,17 @@ Horn of Vaschtal::211005508
 Horn of Vaschtal::211005509
 Horn of Vaschtal::211005510
 Horn of Vaschtal::211005511
+Orgonite Wand::211005601
+Orgonite Wand::211005602
+Orgonite Wand::211005603
+Orgonite Wand::211005604
+Orgonite Wand::211005605
+Orgonite Wand::211005606
+Orgonite Wand::211005607
+Orgonite Wand::211005608
+Orgonite Wand::211005609
+Orgonite Wand::211005610
+Orgonite Wand::211005611
 Walking Stick::211008001
 Mind Wand: INT+ (S)::211008011
 Heal Wand: Restore+ (S)::211008021
@@ -7132,6 +7157,7 @@ Aether Starchart::242010028
 Hunyuan Laojun Starchart::242010029
 Rad. Chrysanth Starchart::242010030
 Flame Lord Starchart::242010031
+Divinator Starchart::242010033
 Dragon Bearer Starchart::242011001
 Oraculum Starchart::242011002
 Sacrament Starchart::242011003
@@ -7205,6 +7231,7 @@ Hathor Starchart::242015019
 Ninetails Fox Starchart::242015020
 Special Ops Starchart::242015021
 Isaiah Starchart::242015022
+Pátroklos Starchart::242015023
 Enforcer Starchart::242016001
 Jiutian Xuannu Starchart::242016002
 Blazing Hero Starchart::242016003
@@ -7497,6 +7524,7 @@ Naivete Treatise::242030527
 Takeminakata Treatise::242030528
 Hathor Treatise::242030529
 Special Ops Tome::242030530
+Pátroklos Treatise::242030531
 Titan Tome::242030600
 Empress Tome::242030601
 Galeforce Tome::242030602
@@ -10290,6 +10318,7 @@ Sand Spirit Proof::288300313
 Fantasist Proof::288300314
 Budding Dawn Proof::288300315
 Ruborensis Proof::288300316
+Pátroklos Proof::288300317
 T. Geomancer Proof::288301001
 T. Aqua Ruler Proof::288301002
 T. Minstrel Proof::288301003
@@ -10608,6 +10637,7 @@ T. Sand Spirit Proof::288301318
 T. Fantasist Proof::288301319
 T. Budding Dawn Proof::288301320
 T. Ruborensis Proof::288301321
+T. Pátroklos Proof::288301322
 Enhance Sp. Att. (Protagonist)::288302001
 Enhance Sp. Att. (Cat lover)::288302002
 Enhance Sp. Att. (Miglance Pal.)::288302003
@@ -10944,6 +10974,7 @@ E. Sand Spirit Proof::288304316
 E. Fantasist Proof::288304317
 E. Budding Dawn Proof::288304318
 E. Ruborensis Proof::288304319
+E. Pátroklos Proof::288304320
 Fated Star Proof::288309999
 High Purity Quartz::295000001
 Beautiful Horn::295000002
