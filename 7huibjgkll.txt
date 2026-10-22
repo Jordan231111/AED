@@ -1,4 +1,4 @@
-# === Tickets & Prayer Pieces (177) -- 510 items ===
+# === Tickets & Prayer Pieces (177) -- 514 items ===
 10 Allies Bundle::177900257
 10 Allies Bundle (Alterfit)::177900231
 10 Allies Bundle (Campaign)::177900137
@@ -70,6 +70,7 @@ Encounter Hismena::177900149
 Encounter Hozuki::177900200
 Encounter Iphi::177900195
 Encounter Isuka::177900134
+Encounter Laclair::177900268
 Encounter Lokido::177900162
 Encounter Mariel::177900159
 Encounter Mariel::177900238
@@ -224,6 +225,7 @@ Star Trail Ticket - Moonlight Flower AS::177900228
 Star Trail Ticket - Noble Blossom AS::177900214
 Star Trail Ticket - Noble Specturr::177900201
 Star Trail Ticket - Supurr Cat Day::177900203
+Star Trail Ticket - Suzuné::177900267
 Star Trail Ticket - Theodorus::177900234
 Star Trail Ticket - Twinkling Illustrator::177900250
 Star Trail Ticket - Violet Lancer AS::177900204
@@ -356,6 +358,7 @@ Woodcutter's Fragment::177900002
 ユナと出逢う::177000096
 ユナと出逢う::177000222
 ユーインと出逢う::177000082
+ラクレアと出逢う::177000246
 ラディカと出逢う::177000238
 ラミュと出逢う::177000202
 レンリと出逢う::177000131
@@ -446,6 +449,7 @@ Woodcutter's Fragment::177900002
 星跡チケット・クチナワAS::177000195
 星跡チケット・シェンファAS::177000200
 星跡チケット・ジルファニーAS::177000233
+星跡チケット・スズネー::177000245
 星跡チケット・ダルニスAS::177000242
 星跡チケット・テオドロス::177000212
 星跡チケット・ハヴォック::177000198
@@ -510,7 +514,7 @@ Woodcutter's Fragment::177900002
 第3部後編CPチケット::177000079
 運命のしずく::177000026
 
-# === Currencies & Medals (205) -- 129 items ===
+# === Currencies & Medals (205) -- 131 items ===
 Active Magic Elements::205000031
 Allcosmos Fragment::205000079
 Aqua Darkbone::205000066
@@ -527,6 +531,8 @@ BK-Bucks::205000114
 Black Pearls::205000013
 Blazing Scale::205000069
 Blended Wisdom::205000105
+Bloody Memory::205000131
+Bloody Memory::205000132
 Blue Scale::205000080
 Bravery Manifest::205000110
 Cat Medal::205000003
@@ -666,7 +672,7 @@ Solid Fuel::209000001
 Super Alloy Arm::209000108
 Super Alloy Drill::209000103
 
-# === Weapons (211) -- 2881 items ===
+# === Weapons (211) -- 2895 items ===
 ???::211079081
 Absorber α::211990011
 Absorber β::211990021
@@ -899,6 +905,8 @@ Azurelight Fists::211060871
 Azurelight Fists::211060872
 Azurelight Hammer::211070981
 Azurelight Hammer::211070982
+Azurelight Staff::211000981
+Azurelight Staff::211000982
 Azurelight Sword::211011111
 Azurelight Sword::211011112
 Balanced Blade::211010481
@@ -998,6 +1006,7 @@ Blaze Feathers::211059069
 Blaze Feathers::211059070
 Blaze Feathers::211059071
 Bleed Ax::211030151
+Blessing Render::211090640
 Block Jammer α::211990051
 Block Jammer β::211990061
 Block Jammer Γ::211990071
@@ -1584,6 +1593,17 @@ Dragon Bone Sword::211010312
 Dragon Gloves::211060091
 Dragon Gloves II::211060092
 Dragon Gloves III::211060093
+Dragon Slayer's Bow::211055301
+Dragon Slayer's Bow::211055302
+Dragon Slayer's Bow::211055303
+Dragon Slayer's Bow::211055304
+Dragon Slayer's Bow::211055305
+Dragon Slayer's Bow::211055306
+Dragon Slayer's Bow::211055307
+Dragon Slayer's Bow::211055308
+Dragon Slayer's Bow::211055309
+Dragon Slayer's Bow::211055310
+Dragon Slayer's Bow::211055311
 Dragon Slayer's Bow::211059001
 Dragon Slayer's Bow::211059002
 Dragon Slayer's Bow::211059003
@@ -3549,7 +3569,7 @@ Zephyranthos::211009170
 Zephyranthos::211009171
 イヅナ演出用扇::211090550
 
-# === Accessories (217) -- 575 items ===
+# === Accessories (217) -- 576 items ===
 Active Bracelet::217020291
 Active Necklace::217030261
 Active Ring::217040291
@@ -3575,6 +3595,7 @@ Asterism Bracelet::217020771
 Atonement Bracelet::217020221
 Azurelight Bracelet::217021221
 Azurelight Necklace::217031241
+Azurelight Ring::217041371
 Band::217028001
 Band: HP+ (S)::217028021
 Band: PWR+ (S)::217028011
@@ -4184,7 +4205,7 @@ Unlock Charm::218001020
 Vitality Charm::218001080
 Waning Charm::218001062
 
-# === Crafting Parts (Lenses/Devices) (221) -- 1747 items ===
+# === Crafting Parts (Lenses/Devices) (221) -- 1754 items ===
 ????::221004128
 ????::221004129
 ????::221004135
@@ -4257,6 +4278,7 @@ Azure White Crystal::221009070
 Azurelight Ore (Ax)::221008288
 Azurelight Ore (Fists)::221008286
 Azurelight Ore (Hammer)::221008287
+Azurelight Ore (Staff)::221008289
 Azurelight Ore (Sword)::221008282
 Bad Container::221009043
 Basil::221012001
@@ -4808,6 +4830,7 @@ Full Metal Plate::221017042
 Full Metal Shaft::221017040
 Full Moon Core::221009098
 Future Ore::221007106
+Garb of the Young Dead::221014138
 Garden Gear::221004085
 Garnet::221009023
 Gator Pear::221012055
@@ -5090,6 +5113,7 @@ Legacy Leg Mark 0::221004030
 Legacy Leg Mark II::221004013
 Legendary Sword Remnant::221008237
 Ley Bone::221016121
+Lifeless Bone::221016204
 Light Cable::221005005
 Light Purple Fruit::221012095
 Light Shoot::221012051
@@ -5509,6 +5533,7 @@ Shadowed Claw::221016173
 Shadowed Sliver::221008189
 Shadowed Sword::221008190
 Shadowy Dark Orb::221009049
+Shapeless Eye::221004261
 Sharp Beak::221016114
 Sharp Claw::221016012
 Sharp Dinosaur Claw::221016062
@@ -5773,6 +5798,7 @@ Toto Eye::221004103
 Toxic Claw::221016165
 Toxic Nozzle::221004176
 Toxic Stinger::221014131
+Traditional Flowery Garb::221014139
 Tragic Lost Soul::221009128
 Transforming Gear::221008276
 Transforming Sheet Metal::221008275
@@ -5804,8 +5830,10 @@ Ultra-Precision Toy Screw::221004158
 Ultramarine Ore::221008110
 Ultrasonic Emitter::221014060
 Ultraviolet Ball::221009088
+Umbilical Root::221014140
 Unbending Rod::221008103
 Unblooming Dew::221012105
+Unborn Impurity::221011110
 Unbreakable Carapace::221016163
 Unbreakable Rod::221008091
 Unclean Serpent Eye::221004194
@@ -5963,7 +5991,7 @@ Random Codex Ticket::235000002
 Random Opus Ticket::235000003
 Random Treatise Ticket::235000001
 
-# === Crafting & Drop Materials (241) -- 1181 items ===
+# === Crafting & Drop Materials (241) -- 1193 items ===
 "Fruit Tree" Data Chip::241900105
 "House" Data Chip::241900102
 "Road" Data Chip::241900103
@@ -6647,12 +6675,15 @@ Letter from Marlowe::241500002
 Letter from Marlowe::241500003
 Letter of Authorization::241000095
 Letter of Introduction::241000092
+Level 2 Key: Blood::241900853
 Level 2 Key: Despair::241900829
 Level 2 Key: Glory::241900844
 Level 2 Key: Knight's Vow::241900824
+Level 3 Key: Blood::241900854
 Level 3 Key: Despair::241900830
 Level 3 Key: Glory::241900845
 Level 3 Key: Knight's Vow::241900825
+Level 4 Key: Blood::241900855
 Level 4 Key: Despair::241900831
 Level 4 Key: Glory::241900846
 Level 4 Key: Knight's Vow::241900826
@@ -6740,6 +6771,9 @@ Mystery Meat::241000202
 Mystic Ancient Cat Gem::241900251
 Nana Crorn::241000195
 Nanaba Herb::241000014
+Nanaka Kanemeki's Secret 1::241900850
+Nanaka Kanemeki's Secret 2::241900851
+Nanaka Kanemeki's Secret 3::241900852
 Neutralizer::241000298
 Nice-shaped Rock::241000234
 Odd Moss::241000169
@@ -7007,10 +7041,16 @@ T. Time Crystal::241900459
 T. Time Ore::241900458
 T. Time Stone::241900457
 Taboo Pellet Synthesis::241900714
+Tahei Kanemeki's Secret 1::241900856
+Tahei Kanemeki's Secret 2::241900857
+Tahei Kanemeki's Secret 3::241900862
 Technobubble::241900359
 Telescope::241000216
 Tempered Core::241000209
 Tesla Core::241900151
+Tetsumichi Kanemeki's Secret 1::241900858
+Tetsumichi Kanemeki's Secret 2::241900859
+Tetsumichi Kanemeki's Secret 3::241900860
 The Exorcism Scripture::241900291
 The Exorcism Scripture::241900297
 The Flower Girl Vol. 13::241900003
@@ -7146,7 +7186,7 @@ Young Red Laika Trio::241900568
 Yummy Small Fish::241000106
 Zomas Driver::241900556
 
-# === Class Records (242) -- 456 items ===
+# === Class Records (242) -- 459 items ===
 ???::242031501
 A.Murakumo Starchart::242012014
 Abyss Liberator Treatise::242030117
@@ -7418,6 +7458,7 @@ Mighty Maiden Tome::242020007
 Migl Aspida Treatise::242030409
 Mikahayahi Treatise::242030209
 Minerva Treatise::242030113
+Minstrel Starchart::242015024
 Minstrel Tome::242030500
 Miracle Worker Treatise::242030030
 Miyabinokami Opus::242030419
@@ -7515,6 +7556,8 @@ Sarashinahime Treatise::242030213
 Sayorihime Treatise::242030024
 Seele Gnade Treatise::242030020
 Shadow Lord Tome::242030605
+Shadowcaster Starchart::242010032
+Shadowcaster Tome::242030057
 Shashthi Starchart::242010023
 Shashthi Treatise::242030051
 Shinatsuhime Codex::242030511
@@ -7604,7 +7647,7 @@ Yuda Opus::242030219
 Étoile Starchart::242012023
 Étoile Treatise::242030232
 
-# === Promised Fruit (ACCOUNT-CORRUPTION RISK) (243) -- 132 items ===
+# === Promised Fruit (ACCOUNT-CORRUPTION RISK) (243) -- 134 items ===
 WARNING_ACCOUNT_CORRUPTION_A Taste of Time::243000087
 WARNING_ACCOUNT_CORRUPTION_Aigre Saint-Jacques::243000042
 WARNING_ACCOUNT_CORRUPTION_Angel Snow Mochi::243000046
@@ -7665,12 +7708,14 @@ WARNING_ACCOUNT_CORRUPTION_Handmade Meat Pie::243000123
 WARNING_ACCOUNT_CORRUPTION_Imperial Bean Soup::243000006
 WARNING_ACCOUNT_CORRUPTION_Imperial Meat Soup::243000034
 WARNING_ACCOUNT_CORRUPTION_Inanari Sushi::243000117
+WARNING_ACCOUNT_CORRUPTION_Ino's Special Bento::243000134
 WARNING_ACCOUNT_CORRUPTION_Isle Delights Platter::243000104
 WARNING_ACCOUNT_CORRUPTION_Jelly Ampoule::243000091
 WARNING_ACCOUNT_CORRUPTION_Junk Burger::243000098
 WARNING_ACCOUNT_CORRUPTION_Kagetsu Dumplings::243000116
 WARNING_ACCOUNT_CORRUPTION_Kasumi Lunch Box::243000021
 WARNING_ACCOUNT_CORRUPTION_KM Scone::243000085
+WARNING_ACCOUNT_CORRUPTION_Kurano's Special Bento::243000135
 WARNING_ACCOUNT_CORRUPTION_Last Melody::243000040
 WARNING_ACCOUNT_CORRUPTION_Lauly Bread and Salad::243000011
 WARNING_ACCOUNT_CORRUPTION_Leaf Yamajishi Grill::243000078
@@ -9162,7 +9207,7 @@ Winged One Badge::281900076
 Wisdom Badge::281900095
 Wyrmkiller Badge::281900072
 
-# === Proofs / Power-of-X (288) -- 1854 items ===
+# === Proofs / Power-of-X (288) -- 1859 items ===
 A.Murakumo Proof::288300255
 Abyss Liberator Proof::288300116
 Abyssal Devotee Proof::288300087
@@ -9581,6 +9626,7 @@ E. Scholarking Proof::288304219
 E. Seele Gnade Proof::288304112
 E. Serene Player Proof::288304258
 E. Shadow Lord Proof::288304048
+E. Shadowcaster Proof::288304321
 E. Shashthi Proof::288304294
 E. Shinatsuhime Proof::288304124
 E. Shining Shadow Proof::288304067
@@ -9689,6 +9735,7 @@ Enh. if Max HP (Ha.)::288006008
 Enh. if Max HP (Kata.)::288006003
 Enh. if Max HP (Lan.)::288006005
 Enh. if Max HP (Lost Laboratory)::288006010
+Enh. if Max HP (Mask)::288006033
 Enh. if Max HP (Shade)::288006024
 Enh. if Max HP (Staff)::288006001
 Enh. if Max HP (Swo.)::288006002
@@ -9913,6 +9960,7 @@ Miracle Worker Proof::288300168
 Miyabinokami Proof::288300177
 Moment Song Power::288209001
 Moment Song Power (F)::288209002
+Moment Song Power (Staff)::288209003
 Monarch Proof::288300143
 Moonlit Guidance::288303005
 Morrígu Proof::288300306
@@ -10450,6 +10498,7 @@ Shade Slash (Ax) Test::288020012
 Shade Slash (Kata.) Test::288020011
 Shade Slash (Swo.) Test::288020010
 Shadow Lord Proof::288300048
+Shadowcaster Proof::288300318
 Shashthi Proof::288300292
 Shinatsuhime Proof::288300122
 Shining Shadow Proof::288300067
@@ -10817,6 +10866,7 @@ T. Scholarking Proof::288301221
 T. Seele Gnade Proof::288301114
 T. Serene Player Proof::288301260
 T. Shadow Lord Proof::288301048
+T. Shadowcaster Proof::288301323
 T. Shashthi Proof::288301296
 T. Shinatsuhime Proof::288301126
 T. Shining Shadow Proof::288301067
@@ -11177,7 +11227,7 @@ Toy Duck::450000040
 Wood Piece::450000027
 Wreath::450000034
 
-# === Hats & Headgear (452) -- 290 items ===
+# === Hats & Headgear (452) -- 293 items ===
 3 Colored Balloons::452060005
 Adameowtium Stache::452040009
 Akane-style Gorget::452050052
@@ -11195,6 +11245,7 @@ Artist's Hat::452020003
 Ashtear-Style Badge::452050042
 Azami-style Marugappa::452060042
 Bag Baddy Bag::452010064
+Baruoki Guard Hat::452010077
 Battle Cat Helm::452010004
 Belled Collar::452050033
 Benedict-style Bandana::452010043
@@ -11234,6 +11285,7 @@ Dango Meowntain::452060072
 Dark Princess Hat::452010021
 Dark-green Glasses::452040010
 Darkitty's Mantle::452060034
+Darunis-style Cape::452060089
 Detective Haus' Hat::452020004
 Dirt Snake Buddy::452060084
 Diva's Ribbon::452050077
@@ -11289,6 +11341,7 @@ Honey Spoon::452040006
 Horned Hood::452010025
 Hunter Cape::452060022
 Hunter's Cap::452020011
+Hunter's Collar::452050085
 Hunter's Scarf::452050074
 Ichimonji Cat::452040011
 Ilulu-style Cape::452060025
@@ -11603,34 +11656,64 @@ Syrup::464001091
 Whip Cream::464001084
 Whip Cream::464001092
 
-# === Key Items (Story/Prisma) (492) -- 50 items ===
+# === Key Items (Story/Prisma) (492) -- 95 items ===
+A Tale of Great Sin::492001314
 Beautiful Bouquet::492000012
+Bent Hairpin::492001209
 Blue Mushroom::492000018
 Blue Powder::492000019
 Blue/Green Powder Mix::492000046
 Broken Net::492000038
 Bucket::492000023
+Burnt Letter (1)::492001207
+Burnt Letter (2)::492001208
 Busted Hammer::492000027
 Coin::492000037
+Debt Records: Tahei::492001107
 Desire Dust::492000050
 Earth Prisma Crystal::492000005
 Earth Prismazooka::492000036
 Empty Envelope::492000048
 Envelope::492000031
 Failed Powder Mix::492000047
+Fifth Orb::492000205
 Fire Prisma Crystal::492000003
 Fire Prismazooka::492000033
+First Orb::492000201
 Fish Attractant::492000049
+Fixed Letter::492001210
 Flint::492000013
+Fourth Orb::492000204
 Full Bucket::492000024
+Full Moon Mosaic::492001311
+Gold Key::492001301
+Golden Bauble::492001206
+Golden Hairpin::492001211
+Golden Snake Statue::492001110
 Green Mushroom::492000020
 Green Powder::492000021
+Hidden Record::492001106
+Hidden Room::492001316
+Ino's Testimony::492001105
+Key (Full Moon)::492001215
+Key (New Moon)::492001306
+Key (Waning Crescent)::492001217
+Key (Waning Moon)::492001216
+Key (Waxing Crescent)::492001213
+Key (Waxing Moon)::492001214
+Keyhole Imprint: Nanaka::492001220
+Keyhole Imprint: Sadarō::492001212
+Kinuyo Knife::492001302
+Kinuyo's Testimony::492001204
 Lantern::492000040
 Lively Fish::492000026
+Matchbox::492001219
 Miasma Orb::492000001
 Miasma Orb (With Pedestal)::492000039
 Mortar::492000032
+Nanaka's Testimony::492001205
 Net::492000025
+New Moon Mosaic::492001317
 Pesticide::492000022
 Prismazooka::492000008
 Rag::492000030
@@ -11639,11 +11722,26 @@ Red Mushroom::492000014
 Red Powder::492000015
 Red/Blue Powder Mix::492000044
 Red/Green Powder Mix::492000045
+Relationship Details::492001108
+Relationship Details::492001218
+Sadarō's Testimony::492001203
+Second Orb::492000202
+Sixth Orb::492000206
 Small Key::492000007
+Snake's Eye Stone::492001315
+Stolen Golden Snake Statue::492001109
 Stone Weight::492000028
 Sword of the Hero::492000002
+Tahei's Testimony::492001104
+Tattered Hand Towel::492001111
+Tetsumichi's Path::492001308
+Third Orb::492000203
+Waning Crescent Mosaic::492001313
+Waning Moon Mosaic::492001312
 Water Prisma Crystal::492000004
 Water Prismazooka::492000034
+Waxing Crescent Mosaic::492001309
+Waxing Moon Mosaic::492001310
 White Flower::492000010
 White Mushroom::492000016
 White Powder::492000017
@@ -11665,7 +11763,7 @@ Green Key::564000001
 Red Key::564000003
 White Key::564000101
 
-# === Mission Items & Misc (565) -- 1156 items ===
+# === Mission Items & Misc (565) -- 1168 items ===
 1C Key::565000046
 1E Key::565000047
 1G Key::565000048
@@ -12052,6 +12150,8 @@ Hunter License::565000271
 ID Card::565000063
 Industrial Cutter::565000061
 Inspect::565000712
+Inspect::565004711
+Inspect::565004712
 Investigators::565000691
 InviteInfoConfirmItem::565000379
 InviteInfoConfirmItem::565000380
@@ -12100,6 +12200,8 @@ Make it night Item::565000356
 Make it night Item::565000358
 Make it night Item::565000360
 Make it night Item::565000362
+Manor Floor Plan::565004715
+Manor Floor Plan::565004716
 Master Key::565000343
 MAX MODE Extend (L)::565000465
 MAX MODE Extend (M)::565000564
@@ -12518,12 +12620,16 @@ RoboGimmick2::565000322
 RoboGimmick3::565000323
 Rope::565000279
 Rusted Parts::565000263
+Ruvi's Notebook::565004721
+Ruvi's Notebook::565004722
 Sea Wall-painting::565000036
 Sea-drift::565000084
 Second Sight Orb::565000143
 Security Pass A::565001203
 Security Pass B::565001202
 Security Pass C::565001201
+Shadowatch::565004701
+Shadowatch::565004702
 Sharp Scythe::565000674
 Sharp Scythe::565000678
 Shiny Seed::565000284
@@ -12689,6 +12795,8 @@ Small Bomb::565000062
 Small Seed::565000283
 Smashy Hammer::565000015
 Smoke Ball::565000139
+Snake's Eye Stone::565004731
+Snake's Eye Stone::565004732
 Snow-white Ice Stone::565000025
 Soul Jewel::565000087
 Souvenir Pass::565000135
@@ -12726,6 +12834,8 @@ T. Dragontear Weapon - Ranged::565000378
 T. Dragontear Weapon - Smashing::565000366
 T. Dragontear Weapon - Smashing::565000374
 T. Toto's Sabre::565000109
+Talk to Ruvi::565004725
+Talk to Ruvi::565004726
 Tall Bottle::565000248
 Teapot::565000247
 Teleportant Core::565000018

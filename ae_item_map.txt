@@ -242,6 +242,8 @@ Star Dreams Piece::177000032
 星跡チケット・ダルニスAS::177000242
 1日1回ひとたびの出逢い::177000243
 出逢いのかけら::177000244
+星跡チケット・スズネー::177000245
+ラクレアと出逢う::177000246
 Princess' Prayer Fragment::177900001
 Woodcutter's Fragment::177900002
 Destiny Token::177900003
@@ -508,6 +510,8 @@ Stellar Shine Ticket::177900263
 Star Trail Ticket - Darunis AS::177900264
 Daily Lone Encounter::177900265
 Encounter Piece::177900266
+Star Trail Ticket - Suzuné::177900267
+Encounter Laclair::177900268
 Git::205000001
 Fish Medal::205000002
 Cat Medal::205000003
@@ -637,6 +641,8 @@ Despair Relived::205000126
 Glorious Memory::205000127
 Glorious Memory::205000128
 Jewel::205000129
+Bloody Memory::205000131
+Bloody Memory::205000132
 Solid Fuel::209000001
 Atmo Pump::209000101
 Hi-Pressure Atmo Pump::209000102
@@ -844,6 +850,8 @@ Healing Rod::211000951
 Whale Whisker::211000961
 Stella Parva::211000971
 Stella Parva::211000972
+Azurelight Staff::211000981
+Azurelight Staff::211000982
 Swift Staff::211002001
 Swift Staff::211002011
 Swift Staff::211002021
@@ -2686,6 +2694,17 @@ Spun History::211055208
 Spun History::211055209
 Spun History::211055210
 Spun History::211055211
+Dragon Slayer's Bow::211055301
+Dragon Slayer's Bow::211055302
+Dragon Slayer's Bow::211055303
+Dragon Slayer's Bow::211055304
+Dragon Slayer's Bow::211055305
+Dragon Slayer's Bow::211055306
+Dragon Slayer's Bow::211055307
+Dragon Slayer's Bow::211055308
+Dragon Slayer's Bow::211055309
+Dragon Slayer's Bow::211055310
+Dragon Slayer's Bow::211055311
 Sling::211058001
 Speed Bow: SPD+ (S)::211058011
 Poison Bow: Poison (Low)::211058021
@@ -3395,6 +3414,7 @@ Senya's Broken Katana::211090580
 Sword of the Hero::211090600
 Thillelille NS Duel Blade::211090610
 Iphi's Gun::211090620
+Blessing Render::211090640
 Absorber α::211990011
 Absorber β::211990021
 Absorber Γ::211990031
@@ -4093,6 +4113,7 @@ Paradoxical Ring::217041331
 Pious Ring::217041341
 Vengeful Ring::217041351
 Inherited Ring::217041361
+Azurelight Ring::217041371
 Catqueen's Ring::217047001
 Catqueen's Ring::217047002
 Catqueen's Ring::217047003
@@ -4432,6 +4453,7 @@ Origin Red Nucleus::221004257
 Origin Glow Red Nucleus::221004258
 Beast Soldier Eye::221004259
 Aberrant Nucleus::221004260
+Shapeless Eye::221004261
 Old Cloth::221005001
 Wild Beast Tail::221005002
 Unusual Antenna::221005003
@@ -4965,6 +4987,7 @@ Archaic Gear::221008285
 Azurelight Ore (Fists)::221008286
 Azurelight Ore (Hammer)::221008287
 Azurelight Ore (Ax)::221008288
+Azurelight Ore (Staff)::221008289
 Scarlet Eyeball::221009001
 Fire Crystal::221009002
 Water Crystal::221009003
@@ -5243,6 +5266,7 @@ Swallowed Water::221011106
 Corrupted Void Water::221011107
 Turbid Reagent::221011108
 Willpower Extract::221011109
+Unborn Impurity::221011110
 Basil::221012001
 Basil Seed::221012002
 Salvia::221012003
@@ -5586,6 +5610,9 @@ Warped Tissue::221014134
 Beast Soldier Callus::221014135
 Ample Meat::221014136
 Bloody Dragon Hide::221014137
+Garb of the Young Dead::221014138
+Traditional Flowery Garb::221014139
+Umbilical Root::221014140
 Bee Wing::221015001
 Luxuriant Down::221015002
 Dragon Wing::221015003
@@ -5846,6 +5873,7 @@ Ancient Tentatooth::221016200
 Beast Soldier Claw::221016201
 Bulky Bone::221016202
 Broken Fang::221016203
+Lifeless Bone::221016204
 Ash::221017001
 Classic Plate::221017002
 Walnut Branch::221017003
@@ -7121,6 +7149,18 @@ Level 4 Key: Glory::241900846
 Monument Fragment::241900847
 Liquid Key::241900848
 Brawny Points::241900849
+Nanaka Kanemeki's Secret 1::241900850
+Nanaka Kanemeki's Secret 2::241900851
+Nanaka Kanemeki's Secret 3::241900852
+Level 2 Key: Blood::241900853
+Level 3 Key: Blood::241900854
+Level 4 Key: Blood::241900855
+Tahei Kanemeki's Secret 1::241900856
+Tahei Kanemeki's Secret 2::241900857
+Tetsumichi Kanemeki's Secret 1::241900858
+Tetsumichi Kanemeki's Secret 2::241900859
+Tetsumichi Kanemeki's Secret 3::241900860
+Tahei Kanemeki's Secret 3::241900862
 Legendary Hero Badge::241999999
 Murmur Script::242000001
 Prayer Script::242000002
@@ -7157,6 +7197,7 @@ Aether Starchart::242010028
 Hunyuan Laojun Starchart::242010029
 Rad. Chrysanth Starchart::242010030
 Flame Lord Starchart::242010031
+Shadowcaster Starchart::242010032
 Divinator Starchart::242010033
 Dragon Bearer Starchart::242011001
 Oraculum Starchart::242011002
@@ -7232,6 +7273,7 @@ Ninetails Fox Starchart::242015020
 Special Ops Starchart::242015021
 Isaiah Starchart::242015022
 Pátroklos Starchart::242015023
+Minstrel Starchart::242015024
 Enforcer Starchart::242016001
 Jiutian Xuannu Starchart::242016002
 Blazing Hero Starchart::242016003
@@ -7362,6 +7404,7 @@ Nightmare Opus::242030053
 Aether Treatise::242030054
 Hunyuan Laojun Treatise::242030055
 Rad. Chrysanth Treatise::242030056
+Shadowcaster Tome::242030057
 Paladin Tome::242030100
 Arc Knight Tome::242030101
 Dragon Bearer Psalms::242030102
@@ -7710,6 +7753,8 @@ Golden Aish::243000130
 Order-Made Pasty::243000131
 TFB Military Rations::243000132
 Egg Tankard::243000133
+Ino's Special Bento::243000134
+Kurano's Special Bento::243000135
 Guiding Light (Staff)::245000001
 Guiding Light (Sword)::245000002
 Guiding Light (Katana)::245000003
@@ -9374,6 +9419,7 @@ Power of All or Nothing::288006029
 Power of All or Nothing::288006030
 Power of All or Nothing::288006031
 Enh. if Max HP (Clergy)::288006032
+Enh. if Max HP (Mask)::288006033
 Enh. Norm. Att. (Staff)::288007001
 Enh. Norm. Att. (Swo.)::288007002
 Enh. Norm. Att. (Kata.)::288007003
@@ -10017,6 +10063,7 @@ Power of Learning::288207002
 Destructive Power::288208001
 Moment Song Power::288209001
 Moment Song Power (F)::288209002
+Moment Song Power (Staff)::288209003
 Test Stack Amount::288210010
 Geomancer Proof::288300001
 Aqua Ruler Proof::288300002
@@ -10319,6 +10366,7 @@ Fantasist Proof::288300314
 Budding Dawn Proof::288300315
 Ruborensis Proof::288300316
 Pátroklos Proof::288300317
+Shadowcaster Proof::288300318
 T. Geomancer Proof::288301001
 T. Aqua Ruler Proof::288301002
 T. Minstrel Proof::288301003
@@ -10638,6 +10686,7 @@ T. Fantasist Proof::288301319
 T. Budding Dawn Proof::288301320
 T. Ruborensis Proof::288301321
 T. Pátroklos Proof::288301322
+T. Shadowcaster Proof::288301323
 Enhance Sp. Att. (Protagonist)::288302001
 Enhance Sp. Att. (Cat lover)::288302002
 Enhance Sp. Att. (Miglance Pal.)::288302003
@@ -10975,6 +11024,7 @@ E. Fantasist Proof::288304317
 E. Budding Dawn Proof::288304318
 E. Ruborensis Proof::288304319
 E. Pátroklos Proof::288304320
+E. Shadowcaster Proof::288304321
 Fated Star Proof::288309999
 High Purity Quartz::295000001
 Beautiful Horn::295000002
@@ -11203,6 +11253,7 @@ Kuchinawa-style Mask::452010073
 Victory Prayer Ribbon::452010074
 Erina-style Beret::452010075
 Shannon-style Papakha::452010076
+Baruoki Guard Hat::452010077
 Magician's Hat::452020001
 King's Crown::452020002
 Artist's Hat::452020003
@@ -11331,6 +11382,7 @@ Xianhua-style Tie::452050081
 Bond of Sisterhood::452050082
 Fluffy Neck Warmer::452050083
 Jillfunny-style Collar::452050084
+Hunter's Collar::452050085
 Red Wrapping Cloth::452060001
 Green Wrapping Cloth::452060002
 Mini Backpack::452060003
@@ -11417,6 +11469,7 @@ Genius Coat::452060085
 Overtly Expensive Cape::452060086
 Nilva Special::452060087
 Rok Shawl::452060088
+Darunis-style Cape::452060089
 Deck 1::464000001
 Deck 2::464000002
 Deck 3::464000003
@@ -11599,6 +11652,51 @@ Failed Powder Mix::492000047
 Empty Envelope::492000048
 Fish Attractant::492000049
 Desire Dust::492000050
+First Orb::492000201
+Second Orb::492000202
+Third Orb::492000203
+Fourth Orb::492000204
+Fifth Orb::492000205
+Sixth Orb::492000206
+Tahei's Testimony::492001104
+Ino's Testimony::492001105
+Hidden Record::492001106
+Debt Records: Tahei::492001107
+Relationship Details::492001108
+Stolen Golden Snake Statue::492001109
+Golden Snake Statue::492001110
+Tattered Hand Towel::492001111
+Sadarō's Testimony::492001203
+Kinuyo's Testimony::492001204
+Nanaka's Testimony::492001205
+Golden Bauble::492001206
+Burnt Letter (1)::492001207
+Burnt Letter (2)::492001208
+Bent Hairpin::492001209
+Fixed Letter::492001210
+Golden Hairpin::492001211
+Keyhole Imprint: Sadarō::492001212
+Key (Waxing Crescent)::492001213
+Key (Waxing Moon)::492001214
+Key (Full Moon)::492001215
+Key (Waning Moon)::492001216
+Key (Waning Crescent)::492001217
+Relationship Details::492001218
+Matchbox::492001219
+Keyhole Imprint: Nanaka::492001220
+Gold Key::492001301
+Kinuyo Knife::492001302
+Key (New Moon)::492001306
+Tetsumichi's Path::492001308
+Waxing Crescent Mosaic::492001309
+Waxing Moon Mosaic::492001310
+Full Moon Mosaic::492001311
+Waning Moon Mosaic::492001312
+Waning Crescent Mosaic::492001313
+A Tale of Great Sin::492001314
+Snake's Eye Stone::492001315
+Hidden Room::492001316
+New Moon Mosaic::492001317
 Green Key::564000001
 --::564000002
 Red Key::564000003
@@ -12763,6 +12861,18 @@ Resume Rovella Exploration::565004661
 Brawny Points::565004671
 Brawny Points::565004672
 Brawny Points::565004673
+Shadowatch::565004701
+Shadowatch::565004702
+Inspect::565004711
+Inspect::565004712
+Manor Floor Plan::565004715
+Manor Floor Plan::565004716
+Ruvi's Notebook::565004721
+Ruvi's Notebook::565004722
+Talk to Ruvi::565004725
+Talk to Ruvi::565004726
+Snake's Eye Stone::565004731
+Snake's Eye Stone::565004732
 Communications Log α-2-01::764000001
 Communications Log α-3-01::764000002
 Communications Log α-3-02::764000003
